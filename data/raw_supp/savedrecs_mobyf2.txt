@@ -1,0 +1,6043 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Noakes, J
+   Gillham, PF
+AF Noakes, John
+   Gillham, Patrick F.
+TI Police and protester innovation since seattle
+SO MOBILIZATION
+LA English
+DT Editorial Material
+C1 [Noakes, John] Arcadia Univ, Glenside, PA 19038 USA.
+   [Gillham, Patrick F.] Univ Idaho, Moscow, ID 83843 USA.
+RP Noakes, J (corresponding author), Arcadia Univ, Glenside, PA 19038 USA.
+EM noakesj@arcadia.edu; giltham@uidaho.edu
+NR 26
+TC 17
+Z9 17
+U1 0
+U2 2
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD DEC
+PY 2007
+VL 12
+IS 4
+BP 335
+EP 340
+PG 6
+WC Sociology
+SC Sociology
+GA 242XH
+UT WOS:000251759000001
+DA 2021-03-16
+ER
+
+PT J
+AU Gillham, PF
+   Noakes, JA
+AF Gillham, Patrick F.
+   Noakes, John A.
+TI "More than a march in a circle": Transgressive protests and the limits
+   of negotiated management
+SO MOBILIZATION
+LA English
+DT Review
+ID MOVEMENT ORGANIZATIONS; SOCIAL-MOVEMENT
+AB We examine how tactical innovations introduced by transgressive protesters during the Seattle cycle of protests contributed to the end of a long, relatively stable period of detente between police and protesters in the United States. Case studies of the demonstrations staged by the AFL-CIO and the Direct Action Network (DAN) during the 1999 WTO protests are used to reveal the divergent capacity of the negotiated management style of policing protest to control contained and transgressive protesters. We argue that the transgressive protesters' tactics, organizational structure, and decision-making processes all frustrated police attempts to control their demonstrations and contributed to DAN's ability to shut down the opening day of the WTO. We conclude by developing a framework for understanding how police responded in subsequent protests using what we describe as "strategic incapacitation" and by proposing research questions about the impact of this style of policing on subsequent protests in the U.S. and other Western democracies.
+C1 [Gillham, Patrick F.] Univ Idaho, Moscow, ID 83843 USA.
+   [Noakes, John A.] Arcadia Univ, Glenside, PA 19038 USA.
+RP Gillham, PF (corresponding author), Univ Idaho, Moscow, ID 83843 USA.
+EM gillham@uidaho.edu; noakesj@arcadia.edu
+NR 103
+TC 57
+Z9 58
+U1 0
+U2 7
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD DEC
+PY 2007
+VL 12
+IS 4
+BP 341
+EP 357
+PG 17
+WC Sociology
+SC Sociology
+GA 242XH
+UT WOS:000251759000002
+DA 2021-03-16
+ER
+
+PT J
+AU Hadden, J
+   Tarrow, S
+AF Hadden, Jennifer
+   Tarrow, Sidney
+TI Spillover or spillout? The global justice movement in the united states
+   after 9/11
+SO MOBILIZATION
+LA English
+DT Article
+ID PROTEST
+AB This article focuses on a seemingly paradoxical sequel to the 1999 Seattle WTO protests: the weakening of the global justice movement in the United States. while the movement has flourished in Europe, it seems largely to have stagnated in the American context. This outcome cannot be explained by either American exceptionalism or by a general decline in activism in the wake of the tragedies of 9/11 and the Iraq War. First comparing expressions of the American and European global justice movements and then turning to original data on social movement organizing in Seattle after 1999, we argue that the weakness of the American global justice movement can be tied to three key factors: (a) a more repressive atmosphere towards transnational protest; (b) a politically inspired linkage between global terrorism and transnational activism of all kinds; and (c) what we call "social movement spillout." We further argue that the strongest movement since September 11th-the antiwar movement-exemplifies a broader trend in the United States towards the "spillout" of transnational activism into domestic protest.
+C1 [Tarrow, Sidney] Cornell Univ, Dept Govt, Ithaca, NY 14853 USA.
+RP Tarrow, S (corresponding author), 202A White Hall, Ithaca, NY 14853 USA.
+EM jlh242@comell.edu; sgt2@comell.edu
+NR 53
+TC 36
+Z9 37
+U1 1
+U2 13
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD DEC
+PY 2007
+VL 12
+IS 4
+BP 359
+EP 376
+PG 18
+WC Sociology
+SC Sociology
+GA 242XH
+UT WOS:000251759000003
+DA 2021-03-16
+ER
+
+PT J
+AU Wood, LJ
+AF Wood, Lesley J.
+TI Breaking the wave: Repression, identity, and seattle tactics
+SO MOBILIZATION
+LA English
+DT Article
+ID DIFFUSION; PROTEST
+AB Using interviews with thirty-two direct action activists and field notes from the period, this article argues that repression limited the diffusion of the tactics used in the 1999 protests against the World Trade Organization (WTO) in Seattle to activists in New York City and Toronto. The tactics under review are affinity groups, blockading jail solidarity, black bloc, and giant puppets. I argue that repression highlighted the ways that poor activists and activists of color were different from the archetypical white, middle-class, Seattle protester. Repression made it less likely that these activists would identify with the Seattle protesters, and less likely to deliberate about the tactics. Thus, repression and identity questions made incorporation of these tactics less likely. I also argue that repression, by limiting the diffusion of these tactics, interrupted the cycle of protest associated with the Seattle demonstrations.
+C1 York Univ, Dept Sociol, Toronto, ON M3J 2R7, Canada.
+RP Wood, LJ (corresponding author), York Univ, Dept Sociol, 2067 Vari Hall, Toronto, ON M3J 2R7, Canada.
+EM ljwood@yorku.ca
+NR 43
+TC 34
+Z9 34
+U1 0
+U2 8
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD DEC
+PY 2007
+VL 12
+IS 4
+BP 377
+EP 388
+PG 12
+WC Sociology
+SC Sociology
+GA 242XH
+UT WOS:000251759000004
+DA 2021-03-16
+ER
+
+PT J
+AU Wahlstrom, M
+AF Wahlstrom, Mattias
+TI Forestalling violence: Police knowledge of interaction with political
+   activists
+SO MOBILIZATION
+LA English
+DT Article
+ID SOCIOLOGY
+AB This article explores the reflexive processes among police during a transitional period following a large and traumatic protest event in Sweden, the 2001 European Union summit in Goteborg. The discussion revolves around transformations of the Swedish approach to protest policing and the subsequent attempt to revise "police knowledge" in relation to protest policing. Police constructions of external reality are analyzed with reference to two organizing concepts: provocation and dialogue. Particular attention is paid to attempts by the police to increase their awareness of "counterpart perspectives," and the concomitant use Of stereotypes of protesters to maintain police officers' own reality constructions. Perceptions of negotiation with protesters are located in a tension between the poles: dialogue and control. Furthermore, it is argued that the policing philosophy of the Swedish police force has developed from a predominantly reactive approach into one most aptly described as "Proactive management" of protest.
+C1 Univ Gothenburg, Gothenburg, Sweden.
+RP Wahlstrom, M (corresponding author), Univ Gothenburg, Gothenburg, Sweden.
+EM mattias.wahlstrom@sociology.gu.se
+NR 56
+TC 15
+Z9 16
+U1 0
+U2 13
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD DEC
+PY 2007
+VL 12
+IS 4
+BP 389
+EP 402
+PG 14
+WC Sociology
+SC Sociology
+GA 242XH
+UT WOS:000251759000005
+DA 2021-03-16
+ER
+
+PT J
+AU Vitale, AS
+AF Vitale, Alex S.
+TI The command and control and miami models at the 2004 republican national
+   convention: New forms of policing protests
+SO MOBILIZATION
+LA English
+DT Article
+AB With the increase in large contentious demonstrations in the last decade has come a variety of new efforts to explain the tactics used by police. Based on an analysis of how the New York Police Department (NYPD) handled six demonstrations at the 2004 Republican National Convention (RNC), this article argues that the more repressive Miami model of policing has not become the universal norm in policing large protests. Each of the six protests was dealt with in a unique way, though a general pattern emerged in which the police used either the "Soft hat" command and control model or the "hard hat". Miami model. This suggests that local police forces make decisions about how to police demonstrations independent of influence by federal officials or national trends. It also emphasizes the importance of local political context in investigating the motivations of police action at protests.
+C1 CUNY Brooklyn Coll, Brooklyn, NY 11210 USA.
+RP Vitale, AS (corresponding author), CUNY Brooklyn Coll, Brooklyn, NY 11210 USA.
+NR 38
+TC 28
+Z9 28
+U1 0
+U2 5
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD DEC
+PY 2007
+VL 12
+IS 4
+BP 403
+EP 415
+PG 13
+WC Sociology
+SC Sociology
+GA 242XH
+UT WOS:000251759000006
+DA 2021-03-16
+ER
+
+PT J
+AU Waddington, D
+   King, M
+AF Waddington, David
+   King, Mike
+TI The impact of the local: Police public-order strategies during the G8
+   justice and home affairs ministerial meetings
+SO MOBILIZATION
+LA English
+DT Article
+ID PROTEST
+AB Much public order policing research attempts to, first, elucidate general trends of public order policing change and, secondly with respect to the policing of transnational summits in particular, focus on the deterministic effects of international and national priorities concerning the way they are policed. While the authors recognize the important contribution of such research towards an understanding of policing in this arena, in this article they put forward a crucial further dimension, namely the complementary need for a more nuanced understanding of the dynamic relationships involved in protest policing at the local level. To this end, this study not only draws from participant observation of a specific event, namely the policing of one round of G8 meetings between Justice and Home Affairs Ministers taking place in Sheffield, England, in June 2005, but also a wealth of interviews undertaken with city council officials, media representatives, police and protesters alike.
+C1 [Waddington, David] Sheffield Hallam Univ, Dept Commun Studies, Sheffield S1 1WB, S Yorkshire, England.
+   [King, Mike] Ctr Criminal Justice Policy & Research, Birmingham, W Midlands, England.
+RP Waddington, D (corresponding author), Sheffield Hallam Univ, Dept Commun Studies, Sheffield S1 1WB, S Yorkshire, England.
+NR 27
+TC 12
+Z9 12
+U1 0
+U2 4
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD DEC
+PY 2007
+VL 12
+IS 4
+BP 417
+EP 430
+PG 14
+WC Sociology
+SC Sociology
+GA 242XH
+UT WOS:000251759000007
+DA 2021-03-16
+ER
+
+PT J
+AU Earl, J
+AF Earl, Jennifer
+TI State repression and the domestic democratic peace
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Univ Calif Santa Barbara, Santa Barbara, CA 93106 USA.
+RP Earl, J (corresponding author), Univ Calif Santa Barbara, Santa Barbara, CA 93106 USA.
+RI Earl, Jennifer/AAC-9495-2020
+OI Earl, Jennifer/0000-0002-0904-1605
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD DEC
+PY 2007
+VL 12
+IS 4
+BP 431
+EP 432
+PG 2
+WC Sociology
+SC Sociology
+GA 242XH
+UT WOS:000251759000008
+DA 2021-03-16
+ER
+
+PT J
+AU Futrell, R
+AF Futrell, Robert
+TI Patriots, politics, and Oklahoma city bombing
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 [Futrell, Robert] Univ Nevada, Las Vegas, NV 89154 USA.
+RP Futrell, R (corresponding author), Univ Nevada, Las Vegas, NV 89154 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD DEC
+PY 2007
+VL 12
+IS 4
+BP 432
+EP 433
+PG 2
+WC Sociology
+SC Sociology
+GA 242XH
+UT WOS:000251759000009
+DA 2021-03-16
+ER
+
+PT J
+AU Nielsen, RK
+AF Nielsen, Rasmus Kleis
+TI The suppression of dissent: How the State and mass media squelch
+   USAmerican social movements
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Columbia Univ, New York, NY 10027 USA.
+RP Nielsen, RK (corresponding author), Columbia Univ, New York, NY 10027 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 1
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD DEC
+PY 2007
+VL 12
+IS 4
+BP 433
+EP 434
+PG 2
+WC Sociology
+SC Sociology
+GA 242XH
+UT WOS:000251759000010
+DA 2021-03-16
+ER
+
+PT J
+AU Parsa, M
+AF Parsa, Misagh
+TI Regimes and repertoires
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Dartmouth Coll, Hanover, NH 03755 USA.
+RP Parsa, M (corresponding author), Dartmouth Coll, Hanover, NH 03755 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD DEC
+PY 2007
+VL 12
+IS 4
+BP 434
+EP 436
+PG 3
+WC Sociology
+SC Sociology
+GA 242XH
+UT WOS:000251759000011
+DA 2021-03-16
+ER
+
+PT J
+AU Gelbman, SM
+AF Gelbman, Shamira M.
+TI Activism, public interests, and private politics
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Illinois State Univ, Normal, IL 61761 USA.
+RP Gelbman, SM (corresponding author), Illinois State Univ, Normal, IL 61761 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD DEC
+PY 2007
+VL 12
+IS 4
+BP 436
+EP 437
+PG 2
+WC Sociology
+SC Sociology
+GA 242XH
+UT WOS:000251759000012
+DA 2021-03-16
+ER
+
+PT J
+AU Wigfall-Williams, W
+AF Wigfall-Williams, Wanda
+TI The life and politics of an Irish revolutionary
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 George Mason Univ, Fairfax, VA 22030 USA.
+RP Wigfall-Williams, W (corresponding author), George Mason Univ, Fairfax, VA 22030 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD DEC
+PY 2007
+VL 12
+IS 4
+BP 437
+EP 438
+PG 2
+WC Sociology
+SC Sociology
+GA 242XH
+UT WOS:000251759000013
+DA 2021-03-16
+ER
+
+PT J
+AU Moghadam, V
+AF Moghadam, Val
+TI Unraveling the garment industry: transnational organizing and women's
+   work
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Purdue Univ, W Lafayette, IN 47907 USA.
+RP Moghadam, V (corresponding author), Purdue Univ, W Lafayette, IN 47907 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 1
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD DEC
+PY 2007
+VL 12
+IS 4
+BP 438
+EP 440
+PG 3
+WC Sociology
+SC Sociology
+GA 242XH
+UT WOS:000251759000014
+DA 2021-03-16
+ER
+
+PT J
+AU Pardo, M
+AF Pardo, Mary
+TI Latina activists across borders
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Calif State Univ Northridge, Northridge, CA 91330 USA.
+RP Pardo, M (corresponding author), Calif State Univ Northridge, Northridge, CA 91330 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD DEC
+PY 2007
+VL 12
+IS 4
+BP 440
+EP 441
+PG 2
+WC Sociology
+SC Sociology
+GA 242XH
+UT WOS:000251759000015
+DA 2021-03-16
+ER
+
+PT J
+AU Ortiz, DG
+AF Ortiz, David G.
+TI Confronting oppression with violence: Inequality, military
+   infrastructure and dissident repression
+SO MOBILIZATION
+LA English
+DT Article
+ID POPULAR COLLECTIVE ACTION; POLITICAL VIOLENCE; INCOME INEQUALITY;
+   NEWSPAPER DATA; HUMAN-RIGHTS; WEST-BANK; RESOURCE MOBILIZATION;
+   ECONOMIC-INEQUALITY; IRANIAN REVOLUTION; PERSONAL INTEGRITY
+AB This study examines the relationships between collective violence, economic inequality, and repression. Some researchers propose that collective violence results from economic deprivation, while others emphasize the role of repression in producing violence. This study uses polynomial equations to analyze these relationships on 52 countries. Results suggest that collective violence varies as a cubic non-monotonic "N" shaped function of repression, while economic inequality is not directly related to violence. A strong military infrastructure is also found to deter collective violence. The combination of results supports the argument that extremely repressive regimes with weak military infrastructures tend to encourage a backlash 4 violence.
+C1 Univ Notre Dame, Dept Sociol, Notre Dame, IN 46556 USA.
+RP Ortiz, DG (corresponding author), Univ Notre Dame, Dept Sociol, 810 Flanner Hall, Notre Dame, IN 46556 USA.
+EM dortiz@nd.edu
+RI Ortiz, David/B-2670-2009
+NR 124
+TC 18
+Z9 18
+U1 0
+U2 9
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD SEP
+PY 2007
+VL 12
+IS 3
+BP 219
+EP 238
+PG 20
+WC Sociology
+SC Sociology
+GA 223AZ
+UT WOS:000250343300001
+DA 2021-03-16
+ER
+
+PT J
+AU Cornwall, M
+   King, BG
+   Legerski, EM
+   Dahlin, EC
+   Schiffman, KS
+AF Cornwall, Marie
+   King, Brayden G.
+   Legerski, Elizabeth M.
+   Dahlin, Eric C.
+   Schiffman, Kenara S.
+TI Signals or mixed signals: Why opportunities for mobilization are not
+   opportunities for policy reform
+SO MOBILIZATION
+LA English
+DT Article
+ID EQUAL-RIGHTS-AMENDMENT; OLD-AGE POLICY; SOCIAL-MOVEMENTS; UNITED-STATES;
+   POLITICAL OPPORTUNITY; SUFFRAGE MOVEMENTS; TOWNSEND MOVEMENT; PROTEST;
+   ORGANIZATIONS; MEDIATION
+AB Drawing on political opportunity theory, the theory of legislative logic, and political mediation theory, we hypothesize differential effects of the political environment on the actions of challengers (suffragists) and state actors (legislators) in the women's suffrage movement. We use sequential logistic regression to assess the effects of explanatory variables on two intermediate stages of mobilization and policy change. In the case of challengers, we estimate the likelihood a state-level organization is present in any given legislative year. In the case of state actors, we estimate the likelihood a bill passes one legislative house given the presence of a state-level suffrage organization and that a bill has been introduced Mixed signals are apparent in that challengers and legislators respond to the same environmental factors differently. Challengers respond to perceived opportunities far change. Legislators seek to enhance their political careers and are responsive to the demands of challengers when they perceive challengers as politically powerful or when social and cultural change signals a demand for policy reform. Legislators, in the end, are much more conservative in their response to the political context.
+C1 Brigham Young Univ, Provo, UT 84602 USA.
+   Univ Kansas, Lawrence, KS 66045 USA.
+   Univ Minnesota, Minneapolis, MN 55455 USA.
+RP Cornwall, M (corresponding author), Brigham Young Univ, 2043 JFSB, Provo, UT 84602 USA.
+EM marie_comwall@byu.edu
+NR 61
+TC 13
+Z9 13
+U1 2
+U2 11
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD SEP
+PY 2007
+VL 12
+IS 3
+BP 239
+EP 254
+PG 16
+WC Sociology
+SC Sociology
+GA 223AZ
+UT WOS:000250343300002
+DA 2021-03-16
+ER
+
+PT J
+AU Brulle, R
+   Turner, LH
+   Carmichael, J
+   Jenkins, JC
+AF Brulle, Robert
+   Turner, Liesel Hall
+   Carmichael, Jason
+   Jenkins, J. Craig
+TI Measuring social movement organization populations: A comprehensive
+   census of US environmental movement organizations
+SO MOBILIZATION
+LA English
+DT Article
+ID LABOR UNIONS; ADVOCACY; DYNAMICS
+AB Population-level analyses of SMOs typically have relied on a single source for data, most commonly the Encyclopedia of Associations (EoA). However, the validity of this procedure has been drawn into question by recent organizational studies. To examine the impact of using different sources to estimate SMO populations, we compile a comprehensive population dataset a national and regional U.S. environmental movement organizations (or EMOs) over If a 100-year time period using 155 different sources. We use this data to evaluate the accuracy and selection biases in five major compilations of U.S. EMOs. The analysis shows that all single sources are selective, tapping specific sections of the environmental movement. Multiple sources are needed to capture a comprehensive population of EMOs. Researchers should be aware of the limitations of specific sources before drawing conclusions about population parameters.
+C1 Drexel Univ, Dept Culture & Commun, Philadelphia, PA 19104 USA.
+RP Brulle, R (corresponding author), Drexel Univ, Dept Culture & Commun, Philadelphia, PA 19104 USA.
+EM brullerj@drexel.edu
+NR 30
+TC 51
+Z9 51
+U1 0
+U2 11
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD SEP
+PY 2007
+VL 12
+IS 3
+BP 255
+EP 270
+PG 16
+WC Sociology
+SC Sociology
+GA 223AZ
+UT WOS:000250343300003
+DA 2021-03-16
+ER
+
+PT J
+AU Levitsky, SR
+AF Levitsky, Sandra R.
+TI Niche activism: Constructing a unified movement identity in a
+   heterogeneous organizational field
+SO MOBILIZATION
+LA English
+DT Article
+ID WOMENS; COMPETITION; INTERESTS; POLITICS; PROTEST
+AB This article draws on a study of interorganizational relations in the Chicago gay, lesbian, bisexual, and transgender movement to elaborate a theory for how activists integrate divergent organizational approaches to social reform into a coherent "movement identity." Departing from the resource mobilization and collective identity literatures, which tend to reduce organizational specialization either to a competition over resources or to ideological differences among movement participants, I argue that organizational interests and shared beliefs play interrelated, but nonreducible roles in the construction of movement identity. Activists understand social reform as requiring competencies in a wide range of cultural and political venues. Focusing on specific forms of movement activity, or niches, organizations develop proficiencies that activists share as part of a collective effort in which each organization is seen as playing a necessary, but insufficient part. Rather than undermining a unified movement identity, then, organizational specialization is seen here as producing it.
+C1 Univ Michigan, Dept Sociol, Ann Arbor, MI 48109 USA.
+RP Levitsky, SR (corresponding author), Univ Michigan, Dept Sociol, 4111 LSA Bldg,500 S State St, Ann Arbor, MI 48109 USA.
+EM slevitsk@umich.edu
+NR 68
+TC 33
+Z9 33
+U1 0
+U2 10
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD SEP
+PY 2007
+VL 12
+IS 3
+BP 271
+EP 286
+PG 16
+WC Sociology
+SC Sociology
+GA 223AZ
+UT WOS:000250343300004
+DA 2021-03-16
+ER
+
+PT J
+AU White, RW
+AF White, Robert W.
+TI "I'm not too sure what I told you the last time": Methological notes on
+   accounts from high-risk activists in the Irish Republican Movement
+SO MOBILIZATION
+LA English
+DT Article
+ID POLITICAL VIOLENCE
+AB Social movement research often draws on intensive interviews with activists to provide rich, detailed information on recruitment processes. Intensive interview data, however, are subject to misunderstandings between researchers and respondents, poor memories, the possibility that respondents will intentionally mislead in their presentation of self and other threats. Veterans or members of the Provisional IRA and Provisional Sinn Fein were interviewed twice, approximately a decade apart in time. The interviews suggest that accounts from activists are relatively consistent over time, but that this consistency varies with differences in the recruitment process. Activists recruited into Irish Republicanism through their family background have the most consistent accounts. Those recruited in response to a key event and who were recruited by one key individual also have consistent accounts. Those who follow a more generic path of recruitment that occurs over time offer the least consistent accounts. This variation has important implications for understanding involvement in social movements.
+C1 Indiana Univ Purdue Univ, Sch Lib Arts, Indianapolis, IN 46202 USA.
+RP White, RW (corresponding author), Indiana Univ Purdue Univ, Sch Lib Arts, 424 Univ Blvd, Indianapolis, IN 46202 USA.
+EM rwwhite@.iupui.edu
+NR 48
+TC 7
+Z9 8
+U1 0
+U2 6
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD SEP
+PY 2007
+VL 12
+IS 3
+BP 287
+EP 305
+PG 19
+WC Sociology
+SC Sociology
+GA 223AZ
+UT WOS:000250343300005
+DA 2021-03-16
+ER
+
+PT J
+AU Dufour, P
+   Giraud, I
+AF Dufour, Pascale
+   Giraud, Isabelle
+TI The continuity of transnational solidarities in the world march of
+   women, 2000 and 2005: A collective identity-building approach
+SO MOBILIZATION
+LA English
+DT Article
+ID MOVEMENT; POLITICS
+AB While the emergence of transnational social movements has been intensively studied, the continuity of sustained transnational mobilizations has received much less attention. Building on recent research in the field of transnational activism, we examine the case of the World March of Women (WMW), a mobilization of 6,000 associations, unions, and political parties in 163 countries that organized global mobilizations in 2000 and 2005. We argue that the process leading to the 2005 actions constitutes a "collective identity moment" for the WMW. Using semistructured qualitative interviews with leaders of the WMW and detailed case analyses, we demonstrate that this moment was manifested by three dimensions: a change of the activists' main global interlocutor; the use of the transnationalization process as an end in itsel - and not simply as a tool or a mobilization strategy;and the redirection of activists' energy into establishing collective unity as opposed to making direct external gains. This identity moment is the result of a dual process involving the articulation of past mobilizations with new perspectives and the continuing articulation of multiple activist identities.
+C1 Univ Montreal, Dept Polit Sci, Montreal, PQ H3C 3J7, Canada.
+   Univ Geneva, Gender Studies Dept, CH-1211 Geneva 4, Switzerland.
+RP Dufour, P (corresponding author), Univ Montreal, Dept Polit Sci, Montreal, PQ H3C 3J7, Canada.
+EM isabelle.giraud@ses.unige.ch
+NR 42
+TC 17
+Z9 17
+U1 0
+U2 4
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD SEP
+PY 2007
+VL 12
+IS 3
+BP 307
+EP 322
+PG 16
+WC Sociology
+SC Sociology
+GA 223AZ
+UT WOS:000250343300006
+DA 2021-03-16
+ER
+
+PT J
+AU Sherkat, DE
+AF Sherkat, Darren E.
+TI Bearing witness against sin: The evangelical birth of the American
+   social movement
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 So Illinois Univ, Carbondale, IL 62901 USA.
+RP Sherkat, DE (corresponding author), So Illinois Univ, Carbondale, IL 62901 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 1
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD SEP
+PY 2007
+VL 12
+IS 3
+BP 323
+EP 324
+PG 2
+WC Sociology
+SC Sociology
+GA 223AZ
+UT WOS:000250343300007
+DA 2021-03-16
+ER
+
+PT J
+AU King, BG
+AF King, Brayden G.
+TI From the ground up: Grassroots organizations making social change
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Brigham Young Univ, Provo, UT 84602 USA.
+RP King, BG (corresponding author), Brigham Young Univ, Provo, UT 84602 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD SEP
+PY 2007
+VL 12
+IS 3
+BP 324
+EP 325
+PG 2
+WC Sociology
+SC Sociology
+GA 223AZ
+UT WOS:000250343300008
+DA 2021-03-16
+ER
+
+PT J
+AU Barnes, N
+AF Barnes, Nielan
+TI Urban action networks: HIV/AIDS and community organizing in New York
+   city
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Calif State Univ Long Beach, Long Beach, CA 90840 USA.
+RP Barnes, N (corresponding author), Calif State Univ Long Beach, Long Beach, CA 90840 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 1
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD SEP
+PY 2007
+VL 12
+IS 3
+BP 325
+EP 327
+PG 3
+WC Sociology
+SC Sociology
+GA 223AZ
+UT WOS:000250343300009
+DA 2021-03-16
+ER
+
+PT J
+AU Steinman, E
+AF Steinman, Erich
+TI Native vote: American Indians, the Voting Rights Act, and the Right to
+   Vote
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Pitzer Coll, Claremont, CA 91711 USA.
+RP Steinman, E (corresponding author), Pitzer Coll, Claremont, CA 91711 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD SEP
+PY 2007
+VL 12
+IS 3
+BP 327
+EP 328
+PG 2
+WC Sociology
+SC Sociology
+GA 223AZ
+UT WOS:000250343300010
+DA 2021-03-16
+ER
+
+PT J
+AU Hertel, S
+AF Hertel, Shareen
+TI Unexpected power: Conflict and change among transnational activists
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Univ Calif Riverside, Riverside, CA 92521 USA.
+RP Hertel, S (corresponding author), Univ Calif Riverside, Riverside, CA 92521 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD SEP
+PY 2007
+VL 12
+IS 3
+BP 328
+EP 329
+PG 2
+WC Sociology
+SC Sociology
+GA 223AZ
+UT WOS:000250343300011
+DA 2021-03-16
+ER
+
+PT J
+AU Kaminski, E
+AF Kaminski, Elizabeth
+TI Electoral guerrilla theatre: Radical ridicule and social movements
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Cent Connecticut State Univ, New Britain, CT 06050 USA.
+RP Kaminski, E (corresponding author), Cent Connecticut State Univ, New Britain, CT 06050 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 1
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD SEP
+PY 2007
+VL 12
+IS 3
+BP 329
+EP 331
+PG 3
+WC Sociology
+SC Sociology
+GA 223AZ
+UT WOS:000250343300012
+DA 2021-03-16
+ER
+
+PT J
+AU Williams, RH
+AF Williams, Rhys H.
+TI Getting your way: Strategic dilemmas in the real world
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Univ Cincinnati, Cincinnati, OH 45221 USA.
+RP Williams, RH (corresponding author), Univ Cincinnati, Cincinnati, OH 45221 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD SEP
+PY 2007
+VL 12
+IS 3
+BP 331
+EP 333
+PG 3
+WC Sociology
+SC Sociology
+GA 223AZ
+UT WOS:000250343300013
+DA 2021-03-16
+ER
+
+PT J
+AU Bergesen, AJ
+AF Bergesen, Albert J.
+TI Introduction: Researching terrorism
+SO MOBILIZATION
+LA English
+DT Editorial Material
+C1 Univ Arizona, Dept Sociol, Tucson, AZ 85719 USA.
+RP Bergesen, AJ (corresponding author), Univ Arizona, Dept Sociol, Tucson, AZ 85719 USA.
+EM albert@email.arizona.edu
+NR 0
+TC 2
+Z9 2
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD JUN
+PY 2007
+VL 12
+IS 2
+BP 109
+EP 110
+PG 2
+WC Sociology
+SC Sociology
+GA 187TG
+UT WOS:000247870800001
+DA 2021-03-16
+ER
+
+PT J
+AU Bergesen, AJ
+AF Bergesen, Albert J.
+TI Three-step model of terrorist violence
+SO MOBILIZATION
+LA English
+DT Article
+AB Terrorist violence is a distinct type of violence. It has a different design architecture than personal (suicide), interpersonal (murder, theft, assault), or collective (mob, riot, crowd) violence. Employing three primitives, the social roles of perpetrator, victim, and target, which can be distributed across different sets of individuals, one-step, two-step, and three-step models are derived as structural descriptions of personal, interpersonal/collective, and terrorist violence. Why the unique design properties of terrorist violence poses a problem for the present theory of collective violence is also discussed.
+C1 Univ Arizona, Dept Sociol, Tucson, AZ 85719 USA.
+RP Bergesen, AJ (corresponding author), Univ Arizona, Dept Sociol, Tucson, AZ 85719 USA.
+EM albert@email.arizona.edu
+NR 24
+TC 10
+Z9 10
+U1 0
+U2 4
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD JUN
+PY 2007
+VL 12
+IS 2
+BP 111
+EP 118
+PG 8
+WC Sociology
+SC Sociology
+GA 187TG
+UT WOS:000247870800002
+DA 2021-03-16
+ER
+
+PT J
+AU Snow, DA
+   Byrd, SC
+AF Snow, David A.
+   Byrd, Scott C.
+TI Ideology, framing processes, and Islamic terrorist movements
+SO MOBILIZATION
+LA English
+DT Article; Proceedings Paper
+CT Conference on Islam and Social Movements
+CY 2000
+CL NYU, New York, NY
+HO NYU
+ID STRUGGLE
+AB We argue that the monolithic use and application of the concept of ideology to Islamic terrorist movements is of questionable analytic utility because it tends not only to ignore ideological variation and flexibility among these movements, but also glosses over the kind of discursive work required to articulate and elaborate the array of possible links between ideas, events, and action. Drawing on the framing perspective in the study of social movements, we examine the development and articulation of mobilizing ideas associated with Islamic militancy and terrorist movements, ranging from the Iranian revolution of the late 1970s to more recent movements, such as al Qaeda, originating within the Middle East and Central Asia. By focusing on framing processes as key discursive mechanisms, we attempt to advance our understanding of the diverse ideological work required to facilitate the mobilization of jihadi militants as well as provide the motivation to commit sensational acts of violence such as suicide bombings.
+C1 Univ Calif Irvine, Dept Sociol, Irvine, CA 92697 USA.
+RP Snow, DA (corresponding author), Univ Calif Irvine, Dept Sociol, Irvine, CA 92697 USA.
+EM dsnow@uci.edu
+RI Byrd, Scott/S-7479-2019
+NR 76
+TC 108
+Z9 110
+U1 1
+U2 35
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD JUN
+PY 2007
+VL 12
+IS 2
+BP 119
+EP 136
+PG 18
+WC Sociology
+SC Sociology
+GA 187TG
+UT WOS:000247870800003
+DA 2021-03-16
+ER
+
+PT J
+AU Wiest, D
+AF Wiest, Dawn
+TI A story of two transnationalisms: Global Salafi Jihad and transnational
+   human rights mobilization in the Middle East and North Africa
+SO MOBILIZATION
+LA English
+DT Review
+ID CIVIL-SOCIETY; SOCIAL-MOVEMENTS; TERRORISM; WORLD; ORGANIZATIONS;
+   GLOBALIZATION; REPRESSION; GEOGRAPHY; DEMOCRACY; DYNAMICS
+AB Into the 1990s, Arab countries witnessed a rise in the number of terrorist attacks perpetrated by Islamist militants against governments, foreign targets, and citizens. In response to terrorism, governments throughout the Middle East and North Africa suppressed the civil and political rights of all citizens. This clampdown on civil society transpired on the heels of political reforms in several countries and coincided with the increasing integration of these states into international treaty regimes, signaling a willingness to comply with world standards on human rights. Engaging the literatures on terrorism, world polity, and social movements, I first analyze the relationship between political regime type and movement mobilization. Next I examine the impact of transnational terrorism on human rights mobilization. I use network analysis to show that, contrary to expectations of world polity theory and the boomerang hypothesis, activists' ties to the transnational rights network thinned over the same time period (1980-2000) that these states became more integrated into international society through treaty ratification and memberships in intergovernmental organizations. The findings indicate that while the globalization of human rights has empowered human rights movements in non-democratic societies, state power continues to set limits on mobilizing capacities.
+C1 Univ Notre Dame, Dept Sociol, Notre Dame, IN 46556 USA.
+RP Wiest, D (corresponding author), Univ Notre Dame, Dept Sociol, Notre Dame, IN 46556 USA.
+EM dwiest@memphis.edu
+NR 111
+TC 8
+Z9 8
+U1 0
+U2 14
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD JUN
+PY 2007
+VL 12
+IS 2
+BP 137
+EP 160
+PG 24
+WC Sociology
+SC Sociology
+GA 187TG
+UT WOS:000247870800004
+DA 2021-03-16
+ER
+
+PT J
+AU Beck, CJ
+AF Beck, Colin J.
+TI On the radical cusp: Ecoterrorism in the United States, 1998-2005
+SO MOBILIZATION
+LA English
+DT Article
+ID COLLECTIVE ACTION; NEWSPAPER DATA; TERRORISM; VIOLENCE; GERMANY; PROTEST
+AB Political action on the cusp between social movements and militancy provides a robust test of universal theories of both collective action and terrorism. In particular, radical environmentalism and the new wave of ecoterrorism in the United States deserve social science consideration as one such radical cusp movement. Data on 84 ecoterrorist events in the United States, 1998-2005, from the Memorial Institute for the Prevention of Terrorism's Terrorism Incident Database are considered vis-a-vis previous theories to identify possible patterns. A methodology for research on clandestine organizations, the imputation of cells from incident data, is proposed. Analysis suggests that radicalism is a product of social movements and that it doses according to exogenous factors, in particular local political climates. Little support is found for theories of continued radicalization in militant movements, but some evidence indicates that a general life cycle of political violence exists.
+C1 Stanford Univ, Dept Sociol, Stanford, CA 94305 USA.
+RP Beck, CJ (corresponding author), Stanford Univ, Dept Sociol, 450 Serra Mall,120-160, Stanford, CA 94305 USA.
+NR 37
+TC 11
+Z9 11
+U1 0
+U2 16
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD JUN
+PY 2007
+VL 12
+IS 2
+BP 161
+EP 176
+PG 16
+WC Sociology
+SC Sociology
+GA 187TG
+UT WOS:000247870800005
+DA 2021-03-16
+ER
+
+PT J
+AU Reid, E
+   Chen, HC
+AF Reid, Edna
+   Chen, Hsinchen
+TI Internet-savvy US and Middle Eastern extremist groups
+SO MOBILIZATION
+LA English
+DT Article
+AB Using an interdisciplinary perspective, this study provides a hyperlink and content analysis of 44 U.S. domestic and 40 Middle Eastern extremist groups' websites to analyze their use of computer-mediated communication (CMC) to support collective identity and mobilization. The findings contrast Middle Eastern extremist groups' use of the Internet to develop virtual communities and support their virtual command/control operations with the U.S. domestic groups' focus on communication and ideological indoctrination. Finally, the results suggest that the usages of CMC are underpinned by the geographical reach of extremist groups' campaign as well as their strategic goals, ideologies, needs, and political legitimacy, driving the various groups to use CMC in a distinctive manner.
+C1 Clarion Univ Pennsylvania, Dept Lib Sci, Clarion, PA 16214 USA.
+RP Reid, E (corresponding author), Clarion Univ Pennsylvania, Dept Lib Sci, 840 Wood St, Clarion, PA 16214 USA.
+NR 48
+TC 14
+Z9 14
+U1 0
+U2 5
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD JUN
+PY 2007
+VL 12
+IS 2
+BP 177
+EP 192
+PG 16
+WC Sociology
+SC Sociology
+GA 187TG
+UT WOS:000247870800006
+DA 2021-03-16
+ER
+
+PT J
+AU Goodwin, J
+AF Goodwin, Jeff
+TI "The struggle made me a nonracialist": Why there was so little terrorism
+   in the antiapartheid struggle
+SO MOBILIZATION
+LA English
+DT Article
+ID SOUTH-AFRICA; RACE
+AB Most theories of terrorism would lead one to have expected high levels of antiwhite terrorism in apartheid South Africa. Yet the African National Congress, the country's most important and influential antiapartheid political organization, never sanctioned terrorism against the dominant white minority. I argue that the ANC eschewed terrorism because of its commitment to "nonracial internationalism. "From the ANC's perspective, to have carried out a campaign of indiscriminate or "categorical" terrorism against whites would have alienated actual and potential white allies both inside and outside the country. The ANC's ideological commitment to nonracialism had a specific social basis: It grew out of a long history of collaboration between the ANC and white leftists inside and outside the country, especially those in the South African Communist Party.
+C1 NYU, Dept Sociol, New York, NY 10003 USA.
+RP Goodwin, J (corresponding author), NYU, Dept Sociol, 550 1St Ave, New York, NY 10003 USA.
+EM jeff.goodwin@nyu.edu
+NR 32
+TC 11
+Z9 11
+U1 0
+U2 7
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD JUN
+PY 2007
+VL 12
+IS 2
+BP 193
+EP 203
+PG 11
+WC Sociology
+SC Sociology
+GA 187TG
+UT WOS:000247870800007
+DA 2021-03-16
+ER
+
+PT J
+AU Soule, SA
+AF Soule, Sarah A.
+TI When movements matter: The Townsend plan and the rise of social
+   security.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Cornell Univ, Ithaca, NY 14853 USA.
+RP Soule, SA (corresponding author), Cornell Univ, Ithaca, NY 14853 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD JUN
+PY 2007
+VL 12
+IS 2
+BP 205
+EP 206
+PG 2
+WC Sociology
+SC Sociology
+GA 187TG
+UT WOS:000247870800008
+DA 2021-03-16
+ER
+
+PT J
+AU Kutz-Flamenbaum, RY
+AF Kutz-Flamenbaum, Rachel Y.
+TI Different wavelengths: Studies of the contemporary women's movement.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 SUNY Stony Brook, Stony Brook, NY 11794 USA.
+RP Kutz-Flamenbaum, RY (corresponding author), SUNY Stony Brook, Stony Brook, NY 11794 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD JUN
+PY 2007
+VL 12
+IS 2
+BP 206
+EP 207
+PG 2
+WC Sociology
+SC Sociology
+GA 187TG
+UT WOS:000247870800009
+DA 2021-03-16
+ER
+
+PT J
+AU Irons, J
+AF Irons, Jenny
+TI The trouble between us: An uneasy history of white and black women in
+   the feminist movement.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Hamilton Coll, Clinton, NY 13323 USA.
+RP Irons, J (corresponding author), Hamilton Coll, Clinton, NY 13323 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD JUN
+PY 2007
+VL 12
+IS 2
+BP 207
+EP 209
+PG 3
+WC Sociology
+SC Sociology
+GA 187TG
+UT WOS:000247870800010
+DA 2021-03-16
+ER
+
+PT J
+AU Gould, DB
+AF Gould, Deborah B.
+TI Fighting for our lives: New York's AIDS community and the politics of
+   disease.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Univ Pittsburgh, Pittsburgh, PA 15260 USA.
+RP Gould, DB (corresponding author), Univ Pittsburgh, Pittsburgh, PA 15260 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD JUN
+PY 2007
+VL 12
+IS 2
+BP 209
+EP 210
+PG 2
+WC Sociology
+SC Sociology
+GA 187TG
+UT WOS:000247870800011
+DA 2021-03-16
+ER
+
+PT J
+AU Blackstone, A
+AF Blackstone, Amy
+TI Pink ribbons, Inc.: Breast cancer and the politics of philanthropy.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Univ Maine, Orono, ME 04469 USA.
+RP Blackstone, A (corresponding author), Univ Maine, Orono, ME 04469 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD JUN
+PY 2007
+VL 12
+IS 2
+BP 210
+EP 211
+PG 2
+WC Sociology
+SC Sociology
+GA 187TG
+UT WOS:000247870800012
+DA 2021-03-16
+ER
+
+PT J
+AU Walker, ET
+AF Walker, Edward T.
+TI Activism, Inc.: How the outsourcing of grassroots campaigns is
+   strangling progressive politics in America.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Penn State Univ, University Pk, PA 16802 USA.
+RP Walker, ET (corresponding author), Penn State Univ, University Pk, PA 16802 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 1
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD JUN
+PY 2007
+VL 12
+IS 2
+BP 211
+EP 213
+PG 3
+WC Sociology
+SC Sociology
+GA 187TG
+UT WOS:000247870800013
+DA 2021-03-16
+ER
+
+PT J
+AU Morris, A
+AF Morris, Aldon
+TI Countervailing forces in African-American civic activism, 1973-1994.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Northwestern Univ, Evanston, IL 60208 USA.
+RP Morris, A (corresponding author), Northwestern Univ, Evanston, IL 60208 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD JUN
+PY 2007
+VL 12
+IS 2
+BP 213
+EP 214
+PG 2
+WC Sociology
+SC Sociology
+GA 187TG
+UT WOS:000247870800014
+DA 2021-03-16
+ER
+
+PT J
+AU McCallum, JK
+AF McCallum, Jamie K.
+TI Exit-voice dynamics and the collapse of East Germany: The crisis of
+   Leninism and the revolution of 1989.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 CUNY, Grad Ctr, New York, NY 10036 USA.
+RP McCallum, JK (corresponding author), CUNY, Grad Ctr, New York, NY 10036 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD JUN
+PY 2007
+VL 12
+IS 2
+BP 214
+EP 215
+PG 2
+WC Sociology
+SC Sociology
+GA 187TG
+UT WOS:000247870800015
+DA 2021-03-16
+ER
+
+PT J
+AU Minkoff, D
+AF Minkoff, Debra
+TI The global dynamics of racial and ethnic mobilization.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Columbia Univ Barnard Coll, New York, NY 10027 USA.
+RP Minkoff, D (corresponding author), Columbia Univ Barnard Coll, New York, NY 10027 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD JUN
+PY 2007
+VL 12
+IS 2
+BP 215
+EP 217
+PG 3
+WC Sociology
+SC Sociology
+GA 187TG
+UT WOS:000247870800016
+DA 2021-03-16
+ER
+
+PT J
+AU della Porta, D
+   Caiani, M
+AF della Porta, Donatella
+   Caiani, Manuela
+TI Europeanization from below? Social movements and Europe
+SO MOBILIZATION
+LA English
+DT Article
+AB Although the process of European integration is proceeding speedily and social movements are often interacting transnationally, research on the Europeanization of social movement actors is far from developed Some scholars, focusing especially on public interest groups active at EU level, expect that civil society actors, due among other reasons to the flexibility of their organizational structures, will be able to adapt quickly to integration. Others, especially scholars looking at protest activities, are skeptical on three accounts: (1) will actors endowed with scarce material resources be able to build transnational organizations; (2) will they be able to stage supranational protest events; and (3) will the European Union be accountable to pressure from below. In this article, we focus on the degree and forms of social movement participation in the public discourse and collective action concerning Europe-that is, their capacity to take part in the debate and mobilization referring to European issues, targets, and actors. On the basis of a comparative dataset that includes content analyses of daily press and interview data from seven European countries, we argue that various forms of Europeanization of the public discourse and mobilization by social movements are indeed on the rise, with a growing presence not only of purely European actors but also of European targets and frames, as well as transnational movement networks. Changes across time emerge, with the development of (conflictual) forms of "Europeanization from below."
+C1 European Univ Inst, Dept Polit & Social Sci, Florence, Italy.
+RP della Porta, D (corresponding author), European Univ Inst, Dept Polit & Social Sci, Florence, Italy.
+NR 50
+TC 46
+Z9 46
+U1 1
+U2 24
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD MAR
+PY 2007
+VL 12
+IS 1
+BP 1
+EP 20
+PG 20
+WC Sociology
+SC Sociology
+GA 154ZK
+UT WOS:000245547100001
+DA 2021-03-16
+ER
+
+PT J
+AU Widener, P
+AF Widener, Patricia
+TI Benefits and burdens of transnational campaigns: A comparison of four
+   oil struggles in Ecuador
+SO MOBILIZATION
+LA English
+DT Article; Proceedings Paper
+CT 99th Annual Meeting of the American-Sociological-Association
+CY AUG 14-17, 2004
+CL San Francisco, CA
+SP Amer Sociol Assoc
+ID CANCER INCIDENCE; AMAZON BASIN; MOVEMENT; FIELDS
+AB Through an examination of four sites of contention in Ecuador, this study explores the impacts of transnational campaigns on domestic organizations and community groups while holding constant the focus of conflict, the construction of an oil pipeline. The international organizations verified local claims, enabled access to international venues such as conferences and investor meetings, and influenced the financing of future large-scale projects. Yet, the transnational campaigns unintentionally emphasized environmental conservation at the expense of local dignity-in-life claims, resonated only with select groups, and potentially undermined domestic networking building. The Northern campaigns emphasized World Bank standards that were arguably weak on environmental protection, especially when compared to the environmental justice demands arising in the oil hubs. Indeed, community participation, environmental health regulation, and economic redistribution may be better achieved through grassroots efforts that target the state, rather than through transnational engagement dependent on international bodies and concerns.
+C1 Florida Atlantic Univ, Davie, FL 33314 USA.
+RP Widener, P (corresponding author), Florida Atlantic Univ, 2912 Coll Ave,LA428, Davie, FL 33314 USA.
+EM pwidener@fau.edu
+NR 60
+TC 15
+Z9 15
+U1 0
+U2 12
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD MAR
+PY 2007
+VL 12
+IS 1
+BP 21
+EP 36
+PG 16
+WC Sociology
+SC Sociology
+GA 154ZK
+UT WOS:000245547100002
+DA 2021-03-16
+ER
+
+PT J
+AU Olesen, T
+AF Olesen, Thomas
+TI Contentious cartoons: Elite and media-driven mobilization
+SO MOBILIZATION
+LA English
+DT Article
+ID MOVEMENTS
+AB This article analyzes the so-called Muhammad cartoons conflict that started on September 30, 2005, when a Danish newspaper, Jyllands-Posten, published twelve satirical cartoons of the prophet Muhammad. I examine how the conflict moved from the national level of Denmark to become a full-blown instance of transnational contention. The guiding argument of the article is that institutional elites and media were the prime movers in the transnational escalation of the conflict. Institutional actors, mainly the Egyptian government and the Organization of Islamic Conferences, were active from the beginning as brokers. These actors spent months preparing the ground before the conflict escalated in late January and early February 2005. Their efforts were partly supported by certification from key international institutions. The evidence also suggests that transnational news channels in the Arab and Muslim world Al-Jazeera and Al-Arabiya, and to a lesser degree, national media, played a significant part as diffusers and brokers in the escalation.
+C1 Aarhus Univ, Dept Polit Sci, DK-8000 Aarhus C, Denmark.
+RP Olesen, T (corresponding author), Aarhus Univ, Dept Polit Sci, Bartholins Alle, DK-8000 Aarhus C, Denmark.
+EM tho@ps.au.dk
+NR 69
+TC 19
+Z9 19
+U1 0
+U2 5
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD MAR
+PY 2007
+VL 12
+IS 1
+BP 37
+EP 52
+PG 16
+WC Sociology
+SC Sociology
+GA 154ZK
+UT WOS:000245547100003
+DA 2021-03-16
+ER
+
+PT J
+AU Giugni, M
+AF Giugni, Marco
+TI Useless protest? A time-series analysis of the policy outcomes of
+   ecology, antinuclear, and peace movements in the United States,
+   1977-1995
+SO MOBILIZATION
+LA English
+DT Article
+ID CIVIL-RIGHTS-MOVEMENT; SOCIAL-MOVEMENTS; POLITICAL MEDIATION;
+   PUBLIC-OPINION; OPPORTUNITY STRUCTURES; IMPACT; WAR; ORGANIZATIONS;
+   STRATEGY; GAMSON
+AB I confront three models of the policy impact of social movements with data on the mobilization of ecology, antinuclear, and peace movements in the United States between 1975 and 1995 by means of time-series analysis: the direct-effect model, the indirect-effect model, and the joint-effect model. My analysis suggests that social movements have little, if any, impact on public policy and that, if they are to have an impact, it depends on the combination of overt protest activities, the type of issues they raise, and external resources such as public opinion and political alliances with institutional actors. Thus, it appears that, if they are to have a policy impact, movements need the joint occurence of mobilization, support from political allies, and public opinion favorable to the cause.
+C1 Univ Geneva, Dept Polit Sci, CH-1211 Geneva 4, Switzerland.
+RP Giugni, M (corresponding author), Univ Geneva, Dept Polit Sci, Uni Mail, CH-1211 Geneva 4, Switzerland.
+RI Giugni, Marco/AAA-1043-2020
+OI Giugni, Marco/0000-0001-7210-339X
+NR 90
+TC 62
+Z9 63
+U1 1
+U2 30
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD MAR
+PY 2007
+VL 12
+IS 1
+BP 53
+EP 77
+PG 25
+WC Sociology
+SC Sociology
+GA 154ZK
+UT WOS:000245547100004
+DA 2021-03-16
+ER
+
+PT J
+AU Vala, CT
+   O'Brien, KJ
+AF Vala, Carsten T.
+   O'Brien, Kevin J.
+TI Attraction without networks: Recruiting strangers to unregistered
+   Protestantism in China
+SO MOBILIZATION
+LA English
+DT Article
+ID SOCIAL NETWORKS; CONVERSION; CHRISTIANITY; MOVEMENTS; SPACES
+AB Social movements research points to the role of networks in recruiting intimates and public spaces in recruiting strangers. But for Chinese Protestants, creative outreach strategies can be a substitute for existing relationships and initiate recruitment. In China, public proselytizing is forbidden, religion is rarely mentioned in the media, and direct contact with potential converts is discouraged. To attract strangers, evangelists in China rely on door-to-door proselytizing in the countryside, cultural performances embedded with religious messages in the cities, and one-on-one conversations when the opportunity arises. By contacting targets in the ordinary flow of life and fashioning appeals using resonant language, Protestant recruiters have become adept at attracting non-networked individuals in "safe-enough" spaces that appear in the creases of a reforming Leninist regime. At a general level, the analysis suggests that networks sometimes play a smaller role in recruitment than is commonly thought, at least at first, and that social bonds may be as much a result of recruitment as a precondition for it.
+C1 Univ Calif Berkeley, Dept Polit Sci, Berkeley, CA 94720 USA.
+   Univ Calif Berkeley, Ctr Chinese Studies, Berkeley, CA 94720 USA.
+RP Vala, CT (corresponding author), Univ Calif Berkeley, Dept Polit Sci, 210 Barrows Hall, Berkeley, CA 94720 USA.
+EM carstenv@berkeley.edu
+RI Vala, Carsten/AAG-9501-2021
+OI O'Brien, Kevin/0000-0001-9696-4792
+NR 82
+TC 17
+Z9 17
+U1 4
+U2 21
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD MAR
+PY 2007
+VL 12
+IS 1
+BP 79
+EP 94
+PG 16
+WC Sociology
+SC Sociology
+GA 154ZK
+UT WOS:000245547100005
+DA 2021-03-16
+ER
+
+PT J
+AU Whittier, N
+AF Whittier, Nancy
+TI Emotions and social movements.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Smith Coll, Northampton, MA 01063 USA.
+RP Whittier, N (corresponding author), Smith Coll, Northampton, MA 01063 USA.
+NR 1
+TC 1
+Z9 1
+U1 0
+U2 5
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD MAR
+PY 2007
+VL 12
+IS 1
+BP 95
+EP 96
+PG 2
+WC Sociology
+SC Sociology
+GA 154ZK
+UT WOS:000245547100006
+DA 2021-03-16
+ER
+
+PT J
+AU Cherry, E
+AF Cherry, Elizabeth
+TI Confronting cruelty: Moral orthodoxy and the challenge of the animal
+   rights movement.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Univ Georgia, Athens, GA 30602 USA.
+RP Cherry, E (corresponding author), Univ Georgia, Athens, GA 30602 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 2
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD MAR
+PY 2007
+VL 12
+IS 1
+BP 96
+EP 97
+PG 2
+WC Sociology
+SC Sociology
+GA 154ZK
+UT WOS:000245547100007
+DA 2021-03-16
+ER
+
+PT J
+AU Straughn, JB
+AF Straughn, Jeremy Brooke
+TI The intellectuals and the flag.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Purdue Univ, W Lafayette, IN 47907 USA.
+RP Straughn, JB (corresponding author), Purdue Univ, W Lafayette, IN 47907 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 1
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD MAR
+PY 2007
+VL 12
+IS 1
+BP 97
+EP 99
+PG 3
+WC Sociology
+SC Sociology
+GA 154ZK
+UT WOS:000245547100008
+DA 2021-03-16
+ER
+
+PT J
+AU Rhomberg, C
+AF Rhomberg, Chris
+TI Reworking race: The making of Hawaii's interracial labor movement.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Yale Univ, New Haven, CT 06520 USA.
+RP Rhomberg, C (corresponding author), Yale Univ, New Haven, CT 06520 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 1
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD MAR
+PY 2007
+VL 12
+IS 1
+BP 99
+EP 100
+PG 2
+WC Sociology
+SC Sociology
+GA 154ZK
+UT WOS:000245547100009
+DA 2021-03-16
+ER
+
+PT J
+AU Yang, GB
+AF Yang, Guobin
+TI Rightful resistance in rural China.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Columbia Univ Barnard Coll, New York, NY 10027 USA.
+RP Yang, GB (corresponding author), Columbia Univ Barnard Coll, New York, NY 10027 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 5
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD MAR
+PY 2007
+VL 12
+IS 1
+BP 100
+EP 101
+PG 2
+WC Sociology
+SC Sociology
+GA 154ZK
+UT WOS:000245547100010
+DA 2021-03-16
+ER
+
+PT J
+AU Gokalp, D
+AF Gokalp, Deniz
+TI The Kurdish nationalist movement: Opportunity, mobilization and
+   identity.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Univ Texas, Austin, TX 78712 USA.
+RP Gokalp, D (corresponding author), Univ Texas, Austin, TX 78712 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 3
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD MAR
+PY 2007
+VL 12
+IS 1
+BP 101
+EP 103
+PG 3
+WC Sociology
+SC Sociology
+GA 154ZK
+UT WOS:000245547100011
+DA 2021-03-16
+ER
+
+PT J
+AU Bloemraad, I
+AF Bloemraad, Irene
+TI Contested citizenship: Immigration and cultural diversity in Europe.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Univ Calif Berkeley, Berkeley, CA 94720 USA.
+RP Bloemraad, I (corresponding author), Univ Calif Berkeley, Berkeley, CA 94720 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 2
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD MAR
+PY 2007
+VL 12
+IS 1
+BP 103
+EP 104
+PG 2
+WC Sociology
+SC Sociology
+GA 154ZK
+UT WOS:000245547100012
+DA 2021-03-16
+ER
+
+PT J
+AU Krook, ML
+AF Krook, Mona Lena
+TI Sovereignty, democracy, and global civil society: State-society
+   relations at UN world conferences.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Washington Univ, St Louis, MO 63130 USA.
+RP Krook, ML (corresponding author), Washington Univ, St Louis, MO 63130 USA.
+FU Divn Of Social and Economic SciencesNational Science Foundation (NSF)NSF
+   - Directorate for Social, Behavioral & Economic Sciences (SBE) [1341129]
+   Funding Source: National Science Foundation
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 2
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD MAR
+PY 2007
+VL 12
+IS 1
+BP 104
+EP 105
+PG 2
+WC Sociology
+SC Sociology
+GA 154ZK
+UT WOS:000245547100013
+DA 2021-03-16
+ER
+
+PT J
+AU Dale, JG
+AF Dale, John G.
+TI Taking power: On the origins of third world revolutions.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 George Mason Univ, Fairfax, VA 22030 USA.
+RP Dale, JG (corresponding author), George Mason Univ, Fairfax, VA 22030 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 1
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD MAR
+PY 2007
+VL 12
+IS 1
+BP 106
+EP 107
+PG 2
+WC Sociology
+SC Sociology
+GA 154ZK
+UT WOS:000245547100014
+DA 2021-03-16
+ER
+
+PT J
+AU Fine, GA
+AF Fine, Gary Alan
+TI Notorious support: The America First Committee and the personalization
+   of policy
+SO MOBILIZATION
+LA English
+DT Article
+ID BOUNDARIES; MOVEMENTS; IDENTITY; GENDER; QUEER; WAR
+AB In a political world characterized by social movement rivalry, advocates routinely use reputation work to discredit the motivations and character of their adversaries. Reputational entrepreneurs undercut organizational legitimacy by depicting members with disreputable or radical affiliations as representative of their opponents. These attacks on character must be countered, costing resources and limiting organizational reach. Through reputation work, advocates assert that groups they oppose have a large proportion of stigmatized supporters, are affiliated with prominent disreputable figures, and espouse policies favored by such figures. Such claims direct attention from the substance of the debate, directing attention to the moral stature of claimants. Those attacked must rely on counterstrategies to defend themselves. They deny that disreputables are representative, demonstrating their bona fides by exclusive practices, claim that opposing groups have the same problem, and suggest that stigmatized supporters are agents of their opponents. To study these reputational strategies, I examine struggles over the character of members of the America First Committee in the period immediately prior to World War II.
+C1 Northwestern Univ, Dept Sociol, Evanston, IL 60208 USA.
+RP Fine, GA (corresponding author), Northwestern Univ, Dept Sociol, Evanston, IL 60208 USA.
+NR 99
+TC 12
+Z9 12
+U1 0
+U2 5
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD DEC
+PY 2006
+VL 11
+IS 4
+BP 405
+EP 426
+PG 22
+WC Sociology
+SC Sociology
+GA 120TI
+UT WOS:000243108500001
+DA 2021-03-16
+ER
+
+PT J
+AU Nam, T
+AF Nam, Taehyun
+TI The broken promises of democracy: Protest-repression dynamics in Korea
+   1990-1991
+SO MOBILIZATION
+LA English
+DT Article; Proceedings Paper
+CT 61st Annual Meeting of the Midwest-Political-Science-Association
+CY APR 03-06, 2003
+CL CHICAGO, IL
+SP Midwest Polit Sci Assoc
+ID SOUTH-KOREA; CIVIL-SOCIETY; COERCION; STATES; DETERRENCE; ESCALATION;
+   REVOLUTION; POLITICS; REGIMES; REFORM
+AB Korean democratization began in 1988, but by the early 1990s had failed to bring tranquility to the streets or to replace protest with institutionalized political participation. Using data taken from daily Korean sources for 1990 and 1991, I analyze the intimate interaction between coercion and protest. I apply the Lotka-Volterra predator-prey model to test competing hypotheses explaining the interaction. Regarding national protests in general, the results demonstrate that protests and coercion are closely and dynamically related. Unexpectedly, results show that, overall, protests do not necessarily decrease with coercion but do when no coercion at all is applied. My analysis also uncovers variation in the dynamics of state coercion and protest according to types of dissident groups. Of the groups assessed, workers were particularly active in protest. Farmers were the least active, and the Korean regime responded with the least repressive approach toward them. These findings emphasize the importance of daily subnational data. They also show how dynamic analytical models can improve our understanding of the protest-repression relationship.
+C1 Salisbury Univ, Dept Polit Sci, Salisbury, MD 21801 USA.
+RP Nam, T (corresponding author), Salisbury Univ, Dept Polit Sci, 1101 Camden Ave, Salisbury, MD 21801 USA.
+EM txmam@salisbury.edu
+NR 61
+TC 4
+Z9 4
+U1 0
+U2 4
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD DEC
+PY 2006
+VL 11
+IS 4
+BP 427
+EP 442
+PG 16
+WC Sociology
+SC Sociology
+GA 120TI
+UT WOS:000243108500002
+DA 2021-03-16
+ER
+
+PT J
+AU Halebsky, S
+AF Halebsky, Stephen
+TI Explaining the outcomes of antisuperstore movements: A comparative
+   analysis of six communities
+SO MOBILIZATION
+LA English
+DT Article
+ID POLITICAL MEDIATION; PROTEST; IMPACT; POLICY; NIMBY; BACK
+AB This research investigates the outcomes of local social movements through a comparative analysis of superstore siting controversies. Data were generated by qualitative case studies of six attempts by local social movement organizations to prevent the siting of a Wal-Mart superstore in their communities. A comparison of the cases reveals that the SMOs were most likely to succeed when they produced evidence of widespread opposition, framed the issue broadly. received backing from the media, did not have to contend with a counter social movement organization, and benefited from blunders by Wal-Mart. It is suggested that these five factors can be generalized to help explain the outcomes of other local social movements. It is suggested further that the first three of these factors combine in a mutually reinforcing fashion to enable a small SMO to expand its influence and thereby increase its ability to prevail against a more powerful target.
+C1 SUNY Coll Cortland, Dept Sociol & Anthropol, Cortland, NY 13045 USA.
+RP Halebsky, S (corresponding author), SUNY Coll Cortland, Dept Sociol & Anthropol, Cortland, NY 13045 USA.
+EM halebskys@cortland.edu
+NR 62
+TC 6
+Z9 7
+U1 0
+U2 8
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD DEC
+PY 2006
+VL 11
+IS 4
+BP 443
+EP 460
+PG 18
+WC Sociology
+SC Sociology
+GA 120TI
+UT WOS:000243108500003
+DA 2021-03-16
+ER
+
+PT J
+AU de Volo, LB
+AF de Volo, Lorraine Bayard
+TI The dynamics of emotion and activism: Grief, gender, and collective
+   identity in revolutionary Nicaragua
+SO MOBILIZATION
+LA English
+DT Article
+ID SOCIAL-MOVEMENTS; WOMEN; MOTHERS
+AB This article argues for a multidirectional and gendered understanding of the causal relationship between emotion and collective identity. Based on interviews and participant observation with core members of a Nicaraguan mothers' organization, I identify four ways in which emotion and identity are causally linked: emotion-based identity, therapy, affective bonds, and change in collective identity leading to change in grieving style. These indicate a dynamic relationship between emotion and collective identity. Furthermore, to understand emotion-based collective identity and perceptions of the emotional benefits of participation, this relationship must be understood through gendered cultural expectations about emotion.
+C1 Univ Colorado, Boulder, CO 80309 USA.
+RP de Volo, LB (corresponding author), Univ Colorado, Boulder, CO 80309 USA.
+NR 40
+TC 23
+Z9 25
+U1 0
+U2 9
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD DEC
+PY 2006
+VL 11
+IS 4
+BP 461
+EP 474
+PG 14
+WC Sociology
+SC Sociology
+GA 120TI
+UT WOS:000243108500004
+DA 2021-03-16
+ER
+
+PT J
+AU Polletta, F
+AF Polletta, Francesca
+TI Mobilization forum: Awkward movements
+SO MOBILIZATION
+LA English
+DT Editorial Material
+C1 Columbia Univ, New York, NY 10027 USA.
+   Univ Calif Irvine, Irvine, CA 92717 USA.
+RP Polletta, F (corresponding author), Columbia Univ, New York, NY 10027 USA.
+EM polletta@uci.edu
+NR 41
+TC 19
+Z9 19
+U1 0
+U2 4
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD DEC
+PY 2006
+VL 11
+IS 4
+BP 475
+EP +
+PG 6
+WC Sociology
+SC Sociology
+GA 120TI
+UT WOS:000243108500005
+DA 2021-03-16
+ER
+
+PT J
+AU Blee, KM
+AF Blee, Kathleen M.
+TI Forum: Can we learn from racists?
+SO MOBILIZATION
+LA English
+DT Editorial Material
+C1 Univ Pittsburgh, Pittsburgh, PA 15260 USA.
+RP Blee, KM (corresponding author), Univ Pittsburgh, Pittsburgh, PA 15260 USA.
+EM kblee@pitt.edu
+NR 0
+TC 5
+Z9 5
+U1 0
+U2 1
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD DEC
+PY 2006
+VL 11
+IS 4
+BP 479
+EP 482
+PG 4
+WC Sociology
+SC Sociology
+GA 120TI
+UT WOS:000243108500006
+DA 2021-03-16
+ER
+
+PT J
+AU Seidman, G
+AF Seidman, Gay
+TI Sympathy can be awkward too
+SO MOBILIZATION
+LA English
+DT Editorial Material
+C1 Univ Wisconsin, Madison, WI USA.
+RP Seidman, G (corresponding author), Univ Wisconsin, Madison, WI USA.
+EM seidman@ssc.wisc.edu
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD DEC
+PY 2006
+VL 11
+IS 4
+BP 483
+EP 486
+PG 4
+WC Sociology
+SC Sociology
+GA 120TI
+UT WOS:000243108500007
+DA 2021-03-16
+ER
+
+PT J
+AU Robnett, B
+AF Robnett, Belinda
+TI Forum: Neither here nor there- African American women as subjects and
+   authors
+SO MOBILIZATION
+LA English
+DT Editorial Material
+C1 Univ Calif Irvine, Irvine, CA 92717 USA.
+RP Robnett, B (corresponding author), Univ Calif Irvine, Irvine, CA 92717 USA.
+EM brobnett@uci.edu
+NR 0
+TC 2
+Z9 2
+U1 0
+U2 1
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD DEC
+PY 2006
+VL 11
+IS 4
+BP 487
+EP 490
+PG 4
+WC Sociology
+SC Sociology
+GA 120TI
+UT WOS:000243108500008
+DA 2021-03-16
+ER
+
+PT J
+AU Irvine, JM
+AF Irvine, Janice M.
+TI Sex, lies, and research
+SO MOBILIZATION
+LA English
+DT Editorial Material
+C1 Univ Massachusetts, Amherst, MA 01003 USA.
+RP Irvine, JM (corresponding author), Univ Massachusetts, Amherst, MA 01003 USA.
+EM Irvine@soc.umass.edu
+NR 0
+TC 1
+Z9 1
+U1 0
+U2 1
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD DEC
+PY 2006
+VL 11
+IS 4
+BP 491
+EP 494
+PG 4
+WC Sociology
+SC Sociology
+GA 120TI
+UT WOS:000243108500009
+DA 2021-03-16
+ER
+
+PT J
+AU Snow, DA
+AF Snow, David A.
+TI Are there really awkward movements or only awkward research
+   relationships?
+SO MOBILIZATION
+LA English
+DT Editorial Material
+C1 Univ Calif Irvine, Irvine, CA 92717 USA.
+RP Snow, DA (corresponding author), Univ Calif Irvine, Irvine, CA 92717 USA.
+EM dsnow@uci.edu
+NR 0
+TC 5
+Z9 5
+U1 0
+U2 3
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD DEC
+PY 2006
+VL 11
+IS 4
+BP 495
+EP 498
+PG 4
+WC Sociology
+SC Sociology
+GA 120TI
+UT WOS:000243108500010
+DA 2021-03-16
+ER
+
+PT J
+AU Young, M
+AF Young, Michael
+TI Routing the opposition
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Univ Texas, Austin, TX 78712 USA.
+RP Young, M (corresponding author), Univ Texas, Austin, TX 78712 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD DEC
+PY 2006
+VL 11
+IS 4
+BP 501
+EP 502
+PG 2
+WC Sociology
+SC Sociology
+GA 120TI
+UT WOS:000243108500011
+DA 2021-03-16
+ER
+
+PT J
+AU Lewis, TL
+AF Lewis, Tammy L.
+TI Environmental protest in western Europe
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Muhlenberg Coll, Allentown, PA 18104 USA.
+RP Lewis, TL (corresponding author), Muhlenberg Coll, Allentown, PA 18104 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD DEC
+PY 2006
+VL 11
+IS 4
+BP 502
+EP 503
+PG 2
+WC Sociology
+SC Sociology
+GA 120TI
+UT WOS:000243108500012
+DA 2021-03-16
+ER
+
+PT J
+AU Elman, RA
+AF Elman, R. Amy
+TI The politics of sexual harassment: A comparative study of the United
+   States, the European Union, and Germany
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Kalamazoo Coll, Kalamazoo, MI 49007 USA.
+RP Elman, RA (corresponding author), Kalamazoo Coll, Kalamazoo, MI 49007 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 1
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD DEC
+PY 2006
+VL 11
+IS 4
+BP 503
+EP 505
+PG 3
+WC Sociology
+SC Sociology
+GA 120TI
+UT WOS:000243108500013
+DA 2021-03-16
+ER
+
+PT J
+AU Hogan, R
+AF Hogan, Richard
+TI Racial competition and class solidarity
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Purdue Univ, W Lafayette, IN 47907 USA.
+RP Hogan, R (corresponding author), Purdue Univ, W Lafayette, IN 47907 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD DEC
+PY 2006
+VL 11
+IS 4
+BP 505
+EP 506
+PG 2
+WC Sociology
+SC Sociology
+GA 120TI
+UT WOS:000243108500014
+DA 2021-03-16
+ER
+
+PT J
+AU Fellman, G
+AF Fellman, Gordon
+TI A peaceful superpower: The movement against war in Iraq
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Brandeis Univ, Waltham, MA 02254 USA.
+RP Fellman, G (corresponding author), Brandeis Univ, Waltham, MA 02254 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 1
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD DEC
+PY 2006
+VL 11
+IS 4
+BP 506
+EP 507
+PG 2
+WC Sociology
+SC Sociology
+GA 120TI
+UT WOS:000243108500015
+DA 2021-03-16
+ER
+
+PT J
+AU Davis, JE
+AF Davis, Joseph E.
+TI Contesting psychiatry.: Social movements in mental health
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Univ Virginia, Charlottesville, VA 22903 USA.
+RP Davis, JE (corresponding author), Univ Virginia, Charlottesville, VA 22903 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD DEC
+PY 2006
+VL 11
+IS 4
+BP 507
+EP 509
+PG 3
+WC Sociology
+SC Sociology
+GA 120TI
+UT WOS:000243108500016
+DA 2021-03-16
+ER
+
+PT J
+AU Mihr, A
+AF Mihr, Anja
+TI Keepers of the flame: Understanding Amnesty International
+SO MOBILIZATION
+LA English
+DT Book Review
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD DEC
+PY 2006
+VL 11
+IS 4
+BP 509
+EP 510
+PG 2
+WC Sociology
+SC Sociology
+GA 120TI
+UT WOS:000243108500017
+DA 2021-03-16
+ER
+
+PT J
+AU Breines, W
+AF Breines, Winifred
+TI Disobedient generation: Social theorists in the sixties
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Northeastern Univ, Boston, MA 02115 USA.
+RP Breines, W (corresponding author), Northeastern Univ, Boston, MA 02115 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD DEC
+PY 2006
+VL 11
+IS 4
+BP 510
+EP 511
+PG 2
+WC Sociology
+SC Sociology
+GA 120TI
+UT WOS:000243108500018
+DA 2021-03-16
+ER
+
+PT J
+AU Johnson, V
+AF Johnson, Victoria
+TI It was like a fever: Storytelling in protest and politics
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Univ Missouri, Columbia, MO 65211 USA.
+RP Johnson, V (corresponding author), Univ Missouri, Columbia, MO 65211 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD DEC
+PY 2006
+VL 11
+IS 4
+BP 511
+EP 512
+PG 2
+WC Sociology
+SC Sociology
+GA 120TI
+UT WOS:000243108500019
+DA 2021-03-16
+ER
+
+PT J
+AU Meyer, DS
+AF Meyer, David S.
+TI Claiming credit: Stories of movement influence as outcomes
+SO MOBILIZATION
+LA English
+DT Article
+ID SOCIAL-MOVEMENT; WAR; ORGANIZATIONS; COALITIONS; MEMORY; END
+AB Taking credit for achieving some desirable outcome is an essential element of politics, and the stakes of doing so are particularly high for social protest movements. Popular narratives of social change assign some movements a critical role for promoting change, but ignore the influence of others. Winning acceptance of a preferred narrative of influence is a neglected, but important, social movement outcome. I use disparate stories of movement success in claiming credit to underscore the analytical problem of why some challengers end up deriving credit, both in the short and long term, for their efforts, while others don't. Movement activists and their competitors offer narratives of past influence as a kind of claims-making activity to serve current political goals. In this way, the process of claiming credit is analogous to that of establishing a reputation. I examine contextual factors likely to affect why some social movements, and some social movement actors, may be better positioned or more interested, in promoting a narrative of their own influence than others. I argue that movement factions that place identifiable individuals in prominent positions in institutional politics are more likely to be able to promote their story of influence, but paradoxically this comes with a narrative that emphasizes the importance of mainstream politics. I conclude with a call for more research on the process and the outcomes of contests for credit.
+C1 Univ Calif Irvine, Ctr Study Democracy, Irvine, CA 92697 USA.
+RP Meyer, DS (corresponding author), Univ Calif Irvine, Ctr Study Democracy, Irvine, CA 92697 USA.
+EM dmeyer@uci.edu
+OI Meyer, David/0000-0001-8511-9307
+NR 86
+TC 52
+Z9 53
+U1 0
+U2 12
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD SEP
+PY 2006
+VL 11
+IS 3
+BP 201
+EP 218
+PG 18
+WC Sociology
+SC Sociology
+GA 097OM
+UT WOS:000241457600001
+DA 2021-03-16
+ER
+
+PT J
+AU Beyerlein, K
+   Hipp, JR
+AF Beyerlein, Kraig
+   Hipp, John R.
+TI A two-stage model for a two-stage process: How biographical availability
+   matters for social movement mobilization
+SO MOBILIZATION
+LA English
+DT Article; Proceedings Paper
+CT 99th Annual Meeting of the American-Sociological-Association
+CY AUG 14-17, 2004
+CL San Francisco, CA
+SP Amer Sociol Assoc
+ID DIFFERENTIAL PARTICIPATION; FREEDOM SUMMER; RECRUITMENT; NETWORKS;
+   ACTIVISM; INVOLVEMENT; SOLIDARITY; GENDER
+AB We model differential participation in protest as a two-stage mobilization process: willingness to engage in protest and conversion of willingness into participation. Treating mobilization as a two-stage process resolves an important puzzle in the literature on differential participation: the lack of constraining effects for biographical unavailability. Using a nationally representative sample of individuals in the United States, we find that while our measures of biographical unavailability have no effect on the second stage of the mobilization process (converting willingness to protest to actual behavior), they show robust negative effects on the first stage of the mobilization process, removing people from the pool of willing protest participants. We also find that gender moderates the relationship between some of our measures of biographical unavailability-particularly marital status-and-prolest willingness.
+C1 Univ Arizona, Tucson, AZ 85721 USA.
+   Univ Calif Irvine, Irvine, CA USA.
+RP Beyerlein, K (corresponding author), Univ Arizona, Tucson, AZ 85721 USA.
+EM kbeyerle@u.arizona.edu; john.hipp@uci.edu
+NR 34
+TC 55
+Z9 55
+U1 1
+U2 18
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD SEP
+PY 2006
+VL 11
+IS 3
+BP 219
+EP 240
+PG 22
+WC Sociology
+SC Sociology
+GA 097OM
+UT WOS:000241457600002
+DA 2021-03-16
+ER
+
+PT J
+AU Biggs, M
+AF Biggs, Michael
+TI Who joined the sit-ins and why: Southern black students in the early
+   1960s
+SO MOBILIZATION
+LA English
+DT Article
+ID SOCIAL-MOVEMENTS; PROTEST; RIGHTS; PARTICIPATION; NETWORKS; RATIONALITY;
+   INSPIRATION; IDENTITY; RELIGION; OPIATE
+AB The wave of sit-ins that swept the American South in 1960 has become a crucial episode in the literature on social movements. To investigate who joined the sit-ins and why, this article analyzes a sample survey of 255 students in Southern black colleges in 1962. The survey includes measures of integration into preexisting social networks and measures of beliefs and sentiments. Most surprisingly, students who attended church frequently were less likely to join the sit-ins, though the presence of activist ministers made protest more likely. Protesters were motivated by strong grievances, for they had an especially negative evaluation of race relations. Yet they were also motivated by optimism about the prospects of success, for they believed that there was no white majority for strict segregation. The analysis underscores the importance of beliefs and sentiments, which cannot easily be reduced to objective measures of social location.
+C1 Univ Oxford, Dept Sociol, Oxford OX1 3UQ, England.
+RP Biggs, M (corresponding author), Univ Oxford, Dept Sociol, Manor Rd, Oxford OX1 3UQ, England.
+EM michael.biggs@sociology.ox.ac.uk
+NR 70
+TC 25
+Z9 25
+U1 0
+U2 9
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD SEP
+PY 2006
+VL 11
+IS 3
+BP 241
+EP 256
+PG 16
+WC Sociology
+SC Sociology
+GA 097OM
+UT WOS:000241457600003
+DA 2021-03-16
+ER
+
+PT J
+AU Downey, DJ
+AF Downey, Dennis J.
+TI Elaborating consensus: Strategic orientations and rationales in wartme
+   intergroup relations
+SO MOBILIZATION
+LA English
+DT Article
+ID MOVEMENT
+AB This research addresses the field of intergroup relations during World War II and immediately thereafter as a case study of a noncontentious (or consensus-oriented) social movement. It examines patterns of strategic activities and strategic rationales, drawing from Lofland's (1989; 1993) research mapping the 1980s peace movement. Analyses utilize a unique data source describing programmatic activities for 353 independent organizations from a directory compiled by the American Council on Race Relations in 1949, as well as primary historical documents chronicling strategic rationales among leaders of intergroup relations. Findings indicate a pattern of strategic eclecticism, with some grouping of activities around loose strategic orientations in the areas of formal/institutional challenges, community services/organization, and public education. Rationales emphasized efforts to link more and less contentious strategies-both across the movement field and movement phases-suggesting a complementary rather than competitive dynamic. The research elaborates on our understanding of consensus-oriented strategies and underscores the need for increased attention to the variable roles of less contentious strategies in long-term movement development beyond the boundaries of mass mobilization.
+C1 Univ Utah, Salt Lake City, UT 84112 USA.
+RP Downey, DJ (corresponding author), Univ Utah, Salt Lake City, UT 84112 USA.
+EM dennis.downey@csbs.utah.edu
+NR 82
+TC 10
+Z9 10
+U1 0
+U2 2
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD SEP
+PY 2006
+VL 11
+IS 3
+BP 257
+EP 276
+PG 20
+WC Sociology
+SC Sociology
+GA 097OM
+UT WOS:000241457600004
+DA 2021-03-16
+ER
+
+PT J
+AU Lainer-Vos, D
+AF Lainer-Vos, Dan
+TI Social movemfents and citizensihp: Conscientious objection in France,
+   the United States, and Israel
+SO MOBILIZATION
+LA English
+DT Article
+AB This article examines the ways in which citizenship regimes shape social struggles. It traces the conscientious objection movements in France during the war in., Algeria,. in America during the Vietnamese War, and in Israel after the invasion of Lebanon to show how they employed different practices and formed different alliances despite having similar goals. These differences can be attributed, in part, to the different citizenship regimes in each country: republican in France; liberal in the U.S.; and ethnonational in Israel. Arguments and practices that seemed sensible in one locale seemed utterly inappropriate in another. Social movements' activists did not manipulate conceptions of citizenship strategically. Rather, citizenship regimes constitute subjectivities and thereby shape the sensibilities and preferences of activists and state actors. Citizenship regimes shape social dramas by structuring the repertoire of contention available in a particular struggle.
+C1 Columbia Univ, Dept Sociol, New York, NY 10027 USA.
+RP Lainer-Vos, D (corresponding author), Columbia Univ, Dept Sociol, New York, NY 10027 USA.
+NR 37
+TC 5
+Z9 5
+U1 0
+U2 7
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD SEP
+PY 2006
+VL 11
+IS 3
+BP 277
+EP 295
+PG 19
+WC Sociology
+SC Sociology
+GA 097OM
+UT WOS:000241457600005
+DA 2021-03-16
+ER
+
+PT J
+AU Beland, D
+   Marier, P
+AF Beland, Daniel
+   Marier, Patrik
+TI Protest avoidance: Labor mobilization and social policy reform in France
+SO MOBILIZATION
+LA English
+DT Article
+ID WELFARE; POLITICS
+AB Students of public policy and social mobilization alike should pay more attention to the political strategies of protest avoidance. Distinct from traditional blame-avoidance strategies, protest avoidance occurs when elected officials, facing direct and nearly inescapable blame, attempt to reduce the scope of social mobilization triggered by unpopular reforms. In recent decades, successive French governments have introduced major, unpopular reforms in the field of public pensions, and because of the concentration of state power in France, avoidance of blame was nearly inescapable. Focusing on the 2003 pension reform, we argue that by dividing the labor movement through strategic bargaining, and by launching controversial reforms during or immediately before the summer holiday season, French governments reduced the scope of labor mobilization and facilitated the enactment of these proposals. Beyond the field of social policy, the concept of protest avoidance could shed new light on an understudied phenomenon: the strategies political actors pursue to reduce the scope of social mobilization against them.
+C1 Concordia Univ, Dept Polit Sci, Montreal, PQ H3G 1M8, Canada.
+   Univ Calgary, Dept Sociol, Calgary, AB T2N 1N4, Canada.
+RP Marier, P (corresponding author), Concordia Univ, Dept Polit Sci, 1455 Blvd Maisonneuve Ouest, Montreal, PQ H3G 1M8, Canada.
+EM pmarier@alcor.concordia.ca
+RI Beland, Daniel/AAD-8642-2021
+OI Marier, Patrik/0000-0003-4551-6716
+NR 57
+TC 16
+Z9 16
+U1 0
+U2 6
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD SEP
+PY 2006
+VL 11
+IS 3
+BP 297
+EP 311
+PG 15
+WC Sociology
+SC Sociology
+GA 097OM
+UT WOS:000241457600006
+DA 2021-03-16
+ER
+
+PT J
+AU Noakes, JA
+AF Noakes, John A.
+TI Rhyming hope and history: Activists, academics, and social movement
+   scholarship.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Arcadia Univ, Arcadia, CA USA.
+RP Noakes, JA (corresponding author), Arcadia Univ, Arcadia, CA USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD SEP
+PY 2006
+VL 11
+IS 3
+BP 313
+EP 314
+PG 2
+WC Sociology
+SC Sociology
+GA 097OM
+UT WOS:000241457600007
+DA 2021-03-16
+ER
+
+PT J
+AU Roscigno, VJ
+AF Roscigno, Vincent J.
+TI "If the workers took a notion": The right to strike and American
+   political development.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Ohio State Univ, Columbus, OH 43210 USA.
+RP Roscigno, VJ (corresponding author), Ohio State Univ, Columbus, OH 43210 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD SEP
+PY 2006
+VL 11
+IS 3
+BP 314
+EP 315
+PG 2
+WC Sociology
+SC Sociology
+GA 097OM
+UT WOS:000241457600008
+DA 2021-03-16
+ER
+
+PT J
+AU McDonald, K
+AF McDonald, Kevin
+TI Activist wisdom: Practical knowledge and creative tension in social
+   movements.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Univ Melbourne, Parkville, Vic 3052, Australia.
+RP McDonald, K (corresponding author), Univ Melbourne, Parkville, Vic 3052, Australia.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD SEP
+PY 2006
+VL 11
+IS 3
+BP 315
+EP 317
+PG 3
+WC Sociology
+SC Sociology
+GA 097OM
+UT WOS:000241457600009
+DA 2021-03-16
+ER
+
+PT J
+AU Faber, DR
+   Karaoglu, LL
+AF Faber, Daniel R.
+   Karaoglu, Lora L.
+TI Power, justice, and the environment: A critical appraisal of the
+   environmental justice movement.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Northeastern Univ, Boston, MA 02115 USA.
+RP Faber, DR (corresponding author), Northeastern Univ, Boston, MA 02115 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD SEP
+PY 2006
+VL 11
+IS 3
+BP 317
+EP 318
+PG 2
+WC Sociology
+SC Sociology
+GA 097OM
+UT WOS:000241457600010
+DA 2021-03-16
+ER
+
+PT J
+AU Karides, M
+AF Karides, Marina
+TI From the revolution to the maquiladoras: Gender, labor, and
+   globalization in Nicaragua
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Florida Atlantic Univ, Boca Raton, FL 33431 USA.
+RP Karides, M (corresponding author), Florida Atlantic Univ, Boca Raton, FL 33431 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 1
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD SEP
+PY 2006
+VL 11
+IS 3
+BP 318
+EP 320
+PG 3
+WC Sociology
+SC Sociology
+GA 097OM
+UT WOS:000241457600011
+DA 2021-03-16
+ER
+
+PT J
+AU Osa, M
+AF Osa, Maryjane
+TI The defeat of solidarity: Anger and politics in postcommunist Europe.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Northwestern Univ, Evanston, IL 60208 USA.
+RP Osa, M (corresponding author), Northwestern Univ, Evanston, IL 60208 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD SEP
+PY 2006
+VL 11
+IS 3
+BP 320
+EP 321
+PG 2
+WC Sociology
+SC Sociology
+GA 097OM
+UT WOS:000241457600012
+DA 2021-03-16
+ER
+
+PT J
+AU Bilici, M
+AF Bilici, Mucahit
+TI Radical Islam rising: Muslim extremism in the west.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Univ Michigan, Ann Arbor, MI 48109 USA.
+RP Bilici, M (corresponding author), Univ Michigan, Ann Arbor, MI 48109 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 5
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD SEP
+PY 2006
+VL 11
+IS 3
+BP 321
+EP 322
+PG 2
+WC Sociology
+SC Sociology
+GA 097OM
+UT WOS:000241457600013
+DA 2021-03-16
+ER
+
+PT J
+AU Bernstein, M
+AF Bernstein, Mary
+TI Courts, liberalism, and rights: Gay law and politics in the United
+   States and Canada.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Univ Connecticut, Storrs, CT 06269 USA.
+RP Bernstein, M (corresponding author), Univ Connecticut, Storrs, CT 06269 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD SEP
+PY 2006
+VL 11
+IS 3
+BP 322
+EP 324
+PG 3
+WC Sociology
+SC Sociology
+GA 097OM
+UT WOS:000241457600014
+DA 2021-03-16
+ER
+
+PT J
+AU Earl, J
+AF Earl, Jennifer
+TI Introduction: Repression and the social control of protest
+SO MOBILIZATION
+LA English
+DT Editorial Material
+ID CONTENTION; CONFLICT; COERCION
+C1 Univ Calif Santa Barbara, Santa Barbara, CA 93106 USA.
+RP Earl, J (corresponding author), Univ Calif Santa Barbara, Santa Barbara, CA 93106 USA.
+EM jearl@soc.ucsb.edu
+RI Earl, Jennifer/AAC-9495-2020
+OI Earl, Jennifer/0000-0002-0904-1605
+NR 70
+TC 43
+Z9 44
+U1 1
+U2 18
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD JUN
+PY 2006
+VL 11
+IS 2
+BP 129
+EP 143
+PG 15
+WC Sociology
+SC Sociology
+GA 084BN
+UT WOS:000240506700001
+DA 2021-03-16
+ER
+
+PT J
+AU Earl, J
+   Soule, SA
+AF Earl, Jennifer
+   Soule, Sarah A.
+TI Seeing blue: A police-centered explanation of protest policing
+SO MOBILIZATION
+LA English
+DT Article
+ID REPRESSION; MOVEMENTS
+AB Existing explanations of repression and the policing of protest focus on the interests of political elites, with research indicating that a chief predictor of state repression is the level of threat protesters pose to elite interests. However, prior research has only paid sporadic attention to how the institutional and organizational characteristics of local law enforcement agencies shape the character of protest policing. This article addresses this significant theoretical gap by developing a police-centered, or "blue," approach to protest policing. Using data on the policing of public protest events in New York State between 1968 and 1973, this article finds support for the blue approach. Specifically, the situational threats posed by protesters to those agents who actually perform repression - local police - are critical predictors of police presence and action. Results also show some residual support for the role of elite threats in structuring repression.
+C1 Univ Calif Santa Barbara, Santa Barbara, CA 93106 USA.
+   Univ Arizona, Tucson, AZ 85721 USA.
+RP Earl, J (corresponding author), Univ Calif Santa Barbara, Santa Barbara, CA 93106 USA.
+EM jearl@soc.ucsb.edu
+RI Earl, Jennifer/AAC-9495-2020
+OI Earl, Jennifer/0000-0002-0904-1605
+NR 76
+TC 89
+Z9 89
+U1 0
+U2 31
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD JUN
+PY 2006
+VL 11
+IS 2
+BP 145
+EP 164
+PG 20
+WC Sociology
+SC Sociology
+GA 084BN
+UT WOS:000240506700002
+DA 2021-03-16
+ER
+
+PT J
+AU Irons, J
+AF Irons, Jenny
+TI Who rules the social control of protest? Variability in the
+   state-countermovement relationship
+SO MOBILIZATION
+LA English
+DT Article
+ID CIVIL-RIGHTS; WAR
+AB Drawing theoretical insight from political sociology's state-society literature and organizational theory's new institutionalism, I examine the case of the Mississippi State Sovereignty Commission and its relationship with the Citizens' Council to illustrate that the state-countermovement relationship can be highly variable - much more so than the existing literature often assumes. As different actors came to occupy positions of power within the state of Mississippi, they responded differently to relevant audiences and affected the degree to which the council could exercise leverage with the commission to control protest. The analysis focuses on how the state-countermovement ties of ideology and funding changed over time, even though membership overlap between the commission board and the council remained relatively constant. Three relational structures - frustrated, aligned, and stifled - are identified and discussed as influencing the degree to which the council could gain leverage in Mississippi's multilevel state structure where multiple audiences mattered.
+C1 Hamilton Coll, Clinton, NY 13323 USA.
+RP Irons, J (corresponding author), Hamilton Coll, Clinton, NY 13323 USA.
+EM jirons@hamilton.edu
+NR 48
+TC 13
+Z9 13
+U1 0
+U2 7
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD JUN
+PY 2006
+VL 11
+IS 2
+BP 165
+EP 180
+PG 16
+WC Sociology
+SC Sociology
+GA 084BN
+UT WOS:000240506700003
+DA 2021-03-16
+ER
+
+PT J
+AU Barkan, SE
+AF Barkan, Steven E.
+TI Criminal prosecution and the legal control of protest
+SO MOBILIZATION
+LA English
+DT Article
+ID POLITICAL TRIALS; REPRESSION
+AB Criminal prosecutions and trials are normal events in the life cycle of many protest efforts and often have important consequences for the struggle between social movements and their opponents. Even so, social movement and law and society scholars have neglected protest prosecutions and trials since some initial work twenty to thirty years ago. This article discusses the relevance of these legal events for issues in contemporary research and offers several hypotheses for future investigation. More generally, it argues that the study of the social control of social movements will benefit from addressing the criminal proceedings arising from political dissent.
+C1 Univ Maine, Orono, ME 04469 USA.
+RP Barkan, SE (corresponding author), Univ Maine, Orono, ME 04469 USA.
+EM Steven_Barkan@umit.maine.edu
+NR 90
+TC 30
+Z9 30
+U1 0
+U2 4
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD JUN
+PY 2006
+VL 11
+IS 2
+BP 181
+EP 194
+PG 14
+WC Sociology
+SC Sociology
+GA 084BN
+UT WOS:000240506700004
+DA 2021-03-16
+ER
+
+PT J
+AU Johnston, H
+AF Johnston, Hank
+TI "Let's get small": the dynamics of (small) contention in repressive
+   states
+SO MOBILIZATION
+LA English
+DT Article
+ID AUTHORITARIAN REGIMES; IRANIAN REVOLUTION; OPPOSITION; MOBILIZATION;
+   SUBCULTURES; MOVEMENT; CHURCH
+AB This report builds upon the dynamics of contention approach to political mobilization by tracing the development of a type of contentious episode common to repressive states, here identified as resistant contention. This form of claim making targets the state but is distinct from the fully public and trangressive challenges against the state that are the focus of the dynamics of contention approach. This report traces how episodes of resistant contention track through two key processes - actor constitution and scale shift - as well as many mechanisms that combine in more public contention. Examples from Eastern Europe, Latin America, the Soviet Caucasus, and Spain are reviewed to trace, first, patterns of contentious speech; namely, "small" claim making and grievance articulation under conditions of risk. I argue that contentious political talk is fundamental to the process of actor constitution in repressive states. Then I trace how contentious speech is patterned in the form of intellectual circles, cultural groups, dissident groups, and official groups and organizations, many of which function publicly but also privately and contentiously. These boundary-spanning groups are the loci of innovation and identity formation in resistant episodes. Scale shift dynamically occurs with the process of actor constitution, typically taking the form of hit-and-run protests, graffiti, clandestine placements, and event seizures. The final stage in resistant contention is the emergence of symbolic mobilizations, which are clearly public and transgressive.
+C1 San Diego State Univ, Dept Sociol, San Diego, CA 92182 USA.
+RP Johnston, H (corresponding author), San Diego State Univ, Dept Sociol, San Diego, CA 92182 USA.
+EM Hank.Johnston@sdsu.edu
+NR 54
+TC 35
+Z9 35
+U1 0
+U2 7
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD JUN
+PY 2006
+VL 11
+IS 2
+BP 195
+EP 212
+PG 18
+WC Sociology
+SC Sociology
+GA 084BN
+UT WOS:000240506700005
+DA 2021-03-16
+ER
+
+PT J
+AU Linden, A
+   Klandermans, B
+AF Linden, Annette
+   Klandermans, Bert
+TI Stigmatization and repression of extreme-right activism in the
+   Netherlands
+SO MOBILIZATION
+LA English
+DT Article
+AB This article discusses repression and stigmatization of movement activists. Building on recent discussions of repression and mobilization of social movements, a distinction is made between hard and soft repression. These forms of repression are further differentiated into state repression, confrontation with countermovements, and exclusion from the political and social environment. It is argued that all of these forms of repression work simultaneously. Furthermore, it is argued that a climate of soft repression facilitates hard repression. This reasoning is evidenced by material from in-depth interviews with thirty-six activists from the extreme-right movement in the Netherlands. Indeed, all forms of repression are experienced by the interviewees. The way they cope with repression depends on their pathway into activism. Disengagement from the movement appears to be unrelated to repression, but rather due to the daily hassles, interpersonal conflicts, and petty complaints as part of movement activism.
+C1 Vrije Univ Amsterdam, Dept Social Cultural Sci, Amsterdam, Netherlands.
+   Vrije Univ Amsterdam, Fac Social Sci, Amsterdam, Netherlands.
+RP Linden, A (corresponding author), Vrije Univ Amsterdam, Dept Social Cultural Sci, Amsterdam, Netherlands.
+EM annettelinden@yahoo.com
+RI klandermans, bert/F-2094-2013
+OI Klandermans, Bert/0000-0002-8477-5780
+NR 23
+TC 54
+Z9 54
+U1 0
+U2 14
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD JUN
+PY 2006
+VL 11
+IS 2
+BP 213
+EP 228
+PG 16
+WC Sociology
+SC Sociology
+GA 084BN
+UT WOS:000240506700006
+DA 2021-03-16
+ER
+
+PT J
+AU McCarthy, JD
+   McPhail, C
+AF McCarthy, John D.
+   McPhail, Clark
+TI Places of protest: The public forum in principle and practice
+SO MOBILIZATION
+LA English
+DT Article
+ID GATED COMMUNITIES; SPACE; AMERICA
+AB Protest events occur in historical time and geographical place. In the U. S., some places are now constitutionally privileged with respect to citizen access and free assembly and speech. These venues are known as the traditional commons or the public forum. It is our contention that in recent years ( 1) these spaces have been shrinking in number, ( 2) citizens have experienced increasing difficulty in gaining unrestricted access to them, and ( 3) such venues are no longer where most people typically congregate in large numbers. Nevertheless, as we will show, when citizens gather to express dissenting views toward the government at the turn of the twentieth century they overwhelmingly choose spaces in the public forum to do so.
+C1 Penn State Univ, Dept Sociol, University Pk, PA 16802 USA.
+   Univ Illinois, Urbana, IL 61801 USA.
+RP McCarthy, JD (corresponding author), Penn State Univ, Dept Sociol, University Pk, PA 16802 USA.
+NR 63
+TC 23
+Z9 23
+U1 0
+U2 13
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD JUN
+PY 2006
+VL 11
+IS 2
+BP 229
+EP 247
+PG 19
+WC Sociology
+SC Sociology
+GA 084BN
+UT WOS:000240506700007
+DA 2021-03-16
+ER
+
+PT J
+AU Hess, D
+   Martin, B
+AF Hess, David
+   Martin, Brian
+TI Repression, backfire, and the theory of transformative events
+SO MOBILIZATION
+LA English
+DT Article
+ID PROTEST; RIGHTS
+AB Repression sometimes can lead to greater movement mobilization: repressive events that are perceived as unjust have the potential to generate enormous public outrage against those seen as responsible. One result of repression - backfire - can contribute to the understanding of the conditions under which some repressive events may become transformative for social movements. Three case studies that highlight the processes involved in backfire are examined: the 1930 Salt March in India, in particular the beatings at Dharasana, that mobilized popular support for independence; the 1991 massacre in Dili, East Timor, which stimulated a massive expansion in international support for East Timorese independence; and the arrest of alternative cancer therapist John Richardson in 1972, which led to a huge growth in the U. S. movement for alternative therapies. The cases generate a preliminary understanding of the potential scope of backfire, the processes involved in backfire, and new hypotheses.
+C1 Rensselaer Polytech Inst, Troy, NY 12180 USA.
+   Univ Wollongong, Sch Social Sci Media & Commun, Wollongong, NSW 2522, Australia.
+RP Hess, D (corresponding author), Rensselaer Polytech Inst, Troy, NY 12180 USA.
+EM hessd@rpi.edu
+RI Hess, David/K-1780-2017; Martin, Brian/O-7336-2015
+OI Martin, Brian/0000-0002-6261-7677
+NR 80
+TC 148
+Z9 148
+U1 0
+U2 12
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD JUN
+PY 2006
+VL 11
+IS 2
+BP 249
+EP 267
+PG 19
+WC Sociology
+SC Sociology
+GA 084BN
+UT WOS:000240506700008
+DA 2021-03-16
+ER
+
+PT J
+AU Nepstad, SE
+   Bob, C
+AF Nepstad, Sharon Erickson
+   Bob, Clifford
+TI When do leaders matter? Hypotheses on leadership dynamics in social
+   movements
+SO MOBILIZATION
+LA English
+DT Article
+ID COMMITMENT
+AB Leaders are central to social movements, yet scholars have devoted relatively little attention to understanding the concept of leadership or its effects on movements. In this article, we explore leadership's influence on movement dynamics by examining Nigeria's Movement for the Survival of the Ogoni People (MOSOP), the Catholic Left-inspired Plowshares movement, the Zapatista uprising in Chiapas, Mexico, and the liberation movement in El Salvador. Building on Bourdieu, Putnam, and the existing literature on social movement leadership, we argue that these movements' leaders possessed "leadership capital" having cultural, social, and symbolic components. We then turn our attention to the conditions under which leadership capital affects three key processes in movement development: mobilization of aggrieved parties, activation of third-party supporters, and responses to repression. We conclude by calling for more comprehensive, systematic, and comparative investigation of factors influencing leadership in domestic and transnational movements.
+C1 Univ So Maine, Dept Sociol, Portland, ME 04104 USA.
+RP Nepstad, SE (corresponding author), Univ So Maine, Dept Sociol, 96 Falmouth St,POB 9300, Portland, ME 04104 USA.
+EM snepstad@usm.maine.edu; bob@duq.edu
+NR 80
+TC 68
+Z9 68
+U1 0
+U2 15
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD FEB
+PY 2006
+VL 11
+IS 1
+BP 1
+EP 22
+PG 22
+WC Sociology
+SC Sociology
+GA 067CB
+UT WOS:000239277500001
+DA 2021-03-16
+ER
+
+PT J
+AU McVeigh, R
+   Neblett, C
+   Shafiq, S
+AF McVeigh, Rory
+   Neblett, Carl
+   Shafiq, Sarah
+TI Explaining social movement outcomes: Multiorganizational fields and hate
+   crime reporting
+SO MOBILIZATION
+LA English
+DT Review
+ID POLITICAL MEDIATION; NONPROFIT ORGANIZATIONS; OPPORTUNITY STRUCTURES;
+   UNITED-STATES; GROUP-SIZE; MOBILIZATION; PROTEST; CONSEQUENCES;
+   INEQUALITY; CONFLICT
+AB Social movement organizations and nonprofit organizations can affect local communities in numerous ways, some of which are intended and some of which are unintended. Assessing the influence of these organizations is complicated because the effect that an organization has on a community depends in part on the attributes of the community in which it is embedded. This article draws attention to the importance of multiorganizational fields in determining social movement consequences through an analysis of hate crime enforcement and reporting in U. S. counties. Qualitative Comparative Analysis (QCA), in combination with more traditional statistical techniques, identifies fifteen configurations of variable attributes that almost always result in reported hate crimes. The analysis shows how measures of civil rights activism, political opportunities, grievances, and multiorganizational fields combine in local settings to produce hate crime reporting with near certainty. Results indicate that the resourcefulness, heterogeneity, and funding sources of the nonprofit sector play a key role in determining whether hate crimes are reported.
+C1 Univ Notre Dame, Notre Dame, IN 46556 USA.
+RP McVeigh, R (corresponding author), Univ Notre Dame, Notre Dame, IN 46556 USA.
+EM rmcveigh@nd.edu
+NR 106
+TC 22
+Z9 22
+U1 0
+U2 19
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD FEB
+PY 2006
+VL 11
+IS 1
+BP 23
+EP 49
+PG 27
+WC Sociology
+SC Sociology
+GA 067CB
+UT WOS:000239277500002
+DA 2021-03-16
+ER
+
+PT J
+AU Uggla, F
+AF Uggla, Fredrik
+TI Between globalism and pragmatism: ATTAC in France, Germany, and Sweden
+SO MOBILIZATION
+LA English
+DT Article
+AB This article tests two conflicting theoretical views on the extent to which economic and political globalization makes contentious groups and social movements more globally oriented in their strategies. It focuses on a critical case in the globalization of activism: the Attac group, which forms part of the movement for global justice. By analyzing the demands, actions, and targets present in the group's communiques in France, Germany and Sweden, the analysis yields mixed conclusions about the globalization of protest. Although the global orientation of Attac is evident in the demands contained in such statements, the group appears highly centered at the national level through its choice of targets and alliances. Furthermore, in France and Germany there is a clear trend towards a more national focus among the demands made by the group.
+C1 Uppsala Univ, Dept Govt, Uppsala, Sweden.
+RP Uggla, F (corresponding author), Uppsala Univ, Dept Govt, Uppsala, Sweden.
+EM Uggla@statsvet.uu.se
+NR 62
+TC 5
+Z9 5
+U1 0
+U2 4
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD FEB
+PY 2006
+VL 11
+IS 1
+BP 51
+EP 66
+PG 16
+WC Sociology
+SC Sociology
+GA 067CB
+UT WOS:000239277500003
+DA 2021-03-16
+ER
+
+PT J
+AU Alimi, EY
+AF Alimi, Eitan Y.
+TI Constructing political opportunity: 1987 - The Palestinian year of
+   discontent
+SO MOBILIZATION
+LA English
+DT Article
+ID MOVEMENT; MOBILIZATION; DISCOURSE; FRAMES
+AB This article challenges the portrayal of the 1987 Palestinian Intifada as a spontaneous, sudden outburst of contention. Drawing on content analysis data obtained from several Palestinian print news media sources (N=84), it is suggested that a Palestinian shared perception regarding ripe conditions to rebel was constructed throughout 1987. The findings indicate that throughout 1987 there was (a) a significant gradual increase in calls for action and (b) a convergence among newspapers representing various political factions of the Palestinian movement regarding a framing process of an opportunity to act contentiously. Such findings support recent calls in social movement literature to integrate perceptual with structural aspects.
+C1 Hebrew Univ Jerusalem, Dept Polit Sci, Jerusalem, Israel.
+RP Alimi, EY (corresponding author), Hebrew Univ Jerusalem, Dept Polit Sci, Jerusalem, Israel.
+EM alimien@012.net.il
+NR 55
+TC 14
+Z9 14
+U1 0
+U2 5
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD FEB
+PY 2006
+VL 11
+IS 1
+BP 67
+EP 80
+PG 14
+WC Sociology
+SC Sociology
+GA 067CB
+UT WOS:000239277500004
+DA 2021-03-16
+ER
+
+PT J
+AU Bosi, L
+AF Bosi, Lorenzo
+TI The dynamics of social movement development: Northern Ireland's civil
+   rights movement in the 1960s
+SO MOBILIZATION
+LA English
+DT Article
+ID COLLECTIVE ACTION; MOBILIZATION
+AB This article extends our understanding of social movement development through a qualitative longitudinal analysis of Northern Ireland's civil rights movement during the 1960s. It applies Diani's (1996) approach that links categories of master frames with political opportunity structures. The analysis chronicles how political context shaped the evolution of the moveSment's dominant message and traces how political opportunities imparted advantages to a reformist civil rights message that reflected a realignment master frame in early stages of Northern Irish mobilization. Later, changes in political context-police repression, lack of political responsiveness, and countermobilization-rendered reformist political realignments impossible and gave advantages to elements in the civil rights network that stressed the traditional ethnonational divisions and revanchist, antipartitionist messages. Specifically, this article asks how the inclusive and reformist mobilizing messages of the 1960s Northern Irish civil rights movement came about and then reverted to the exclusivist Nationalist message of the 1970s, and how the shifting political opportunities brought about these changes.
+C1 Queens Univ Belfast, Sch Polit & Int Studies, Belfast BT7 1NN, Antrim, North Ireland.
+RP Bosi, L (corresponding author), Queens Univ Belfast, Sch Polit & Int Studies, 21 Univ Sq, Belfast BT7 1NN, Antrim, North Ireland.
+EM l.bosi@qub.ac.uk
+NR 39
+TC 32
+Z9 32
+U1 1
+U2 16
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD FEB
+PY 2006
+VL 11
+IS 1
+BP 81
+EP 100
+PG 20
+WC Sociology
+SC Sociology
+GA 067CB
+UT WOS:000239277500005
+DA 2021-03-16
+ER
+
+PT J
+AU Sutton, PW
+   Vertigans, S
+AF Sutton, Philip W.
+   Vertigans, Stephen
+TI Islamic "new social movements"? Radical Islam, al-Qa'ida and social
+   movement theory
+SO MOBILIZATION
+LA English
+DT Article
+ID MIDDLE-CLASS; TERRORISM
+AB European new social movement (NSM) theory was developed to describe and explain the apparently unique character of the wave of collective action that began in the 1960s and continues to this day. Key characteristics of NSM theory are a post-industrial orientation, middle-class activist core, loose organizational form, use of symbolic direct actions, creation of new identities, and a "self-limiting radicalism." The theory's claims to movement innovation were later criticized by many as exaggerated and ahistorical. However, the filtering down of key NSM elements into social movement studies has led to changing definitions of what social movements actually are and opened up new opportunities for the integration of religious movements into the social movements mainstream. Using the case of radical Islam, and with particular reference to the terrorist social movement organization al-Qa'ida, this article argues that drawing on key features of NSM theory should lead to a better understanding of radical Islam as well as a more realistic explanation of its continuing development and transformation.
+C1 Robert Gordon Univ, Sch Appl Social Studies, Fac Hlth & Social Care, Aberdeen AB10 7QG, Scotland.
+RP Sutton, PW (corresponding author), Robert Gordon Univ, Sch Appl Social Studies, Fac Hlth & Social Care, Garthdee Rd, Aberdeen AB10 7QG, Scotland.
+EM p.sutton@rgu.ac.uk; s.vertigans@rgu.ac.uk
+OI Vertigans, Stephen/0000-0002-0330-7513
+NR 74
+TC 24
+Z9 24
+U1 0
+U2 13
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD FEB
+PY 2006
+VL 11
+IS 1
+BP 101
+EP 115
+PG 15
+WC Sociology
+SC Sociology
+GA 067CB
+UT WOS:000239277500006
+DA 2021-03-16
+ER
+
+PT J
+AU Meyer, DS
+   Corrigall-Brown, C
+AF Meyer, DS
+   Corrigall-Brown, C
+TI Coalitions and political context: US movements against wars in Iraq
+SO MOBILIZATION
+LA English
+DT Article
+ID ORGANIZATIONS; PROTEST; OPPORTUNITY; MEDIA
+AB Although social movements in the United States are staged by coalitions, the politics of movement coalitions and the internal and external factors that affect their formation, maintenance, and dissolution are understudied. Here, we use the 2002-2003 movement against the impending war in Iraq to refocus analytical attention and sharpen theory on social movement coalitions. We contend that external circumstances, or political opportunities, are critically important factors that affect the propensity of social movement organizations to cooperate in common cause. Further, we contend that cooperation among groups can best be seen as variable, rather than dichotomous, and argue that political context affects the extent of cooperation among cooperating groups. We examine the importance of political context through a comparison of the first and second Gulf Wars. The decision of social movement organizations to join a coalition is akin to the process whereby individuals join social movements, involving an assessment of costs, benefits, and identity. As the political context changes, the costs and benefits are assessed differently and, for this reason, actively engaged coalitions are difficult to sustain over a long period as circumstances change. By looking at the antiwar movement generally, and the Win Without War coalition in particular, we show that cooperation was born in the second Gulf War out of the political opportunities presented by the George W. Bush's administration. We conclude with a call for more research on social movements as coalitions.
+C1 Univ Calif Irvine, Ctr Study Democracy, Irvine, CA 92697 USA.
+RP Meyer, DS (corresponding author), Univ Calif Irvine, Ctr Study Democracy, Irvine, CA 92697 USA.
+EM dmeyer@uci.edu
+OI Meyer, David/0000-0001-8511-9307
+NR 64
+TC 82
+Z9 82
+U1 0
+U2 23
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD OCT
+PY 2005
+VL 10
+IS 3
+BP 327
+EP 344
+PG 18
+WC Sociology
+SC Sociology
+GA 991EY
+UT WOS:000233796300002
+DA 2021-03-16
+ER
+
+PT J
+AU Soule, SA
+   Earl, J
+AF Soule, SA
+   Earl, J
+TI A movement society evaluated: Collective protest in the United States,
+   1960-1986
+SO MOBILIZATION
+LA English
+DT Article
+ID PROFESSIONALIZATION; ORGANIZATIONS
+AB In an attempt to make sense of shifts in the social movement sector and its relationship to conventional politics over the past forty years, some have proposed that Western nations are increasingly becoming "movement societies." Accordingly, there are four key characteristics of the movement society: (1) over time expansion of protest; (2) over time diffusion of protest; (3) over time institutionalization of protest; and (4) over time institutionalization of state responses to protest Using newly available data on over 19,000 protest events occur-ring in the US. between 1960 and 1986, we evaluate these four claims. Our findings suggest that movement society scholars are correct in some respects: the size of protest events has grown over time, the percentage of events at which at least one social movement organization is present has increased over time, the number of distinct protest claims has increased over time, and violent forms of protest policing have decreased over time. However, our findings call into question other movement society claims: the number of protests has declined over time, fewer organizations were present at each protest event over time, fewer new groups initiated events over time, fewer new claims emerged over time, and there was more significant activity by groups on the right in the 1960s and 1970s than expected. We suggest potential explanations for some of the negative findings in an attempt to refine the movement society arguments.
+C1 Univ Arizona, Tucson, AZ 85721 USA.
+   Univ Calif Santa Barbara, Santa Barbara, CA 93106 USA.
+RP Soule, SA (corresponding author), Univ Arizona, Tucson, AZ 85721 USA.
+EM soule@u.arizona.edu
+RI Earl, Jennifer/AAC-9495-2020
+OI Earl, Jennifer/0000-0002-0904-1605
+NR 41
+TC 66
+Z9 67
+U1 0
+U2 21
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD OCT
+PY 2005
+VL 10
+IS 3
+BP 345
+EP 364
+PG 20
+WC Sociology
+SC Sociology
+GA 991EY
+UT WOS:000233796300003
+DA 2021-03-16
+ER
+
+PT J
+AU Vliegenthart, R
+   Oegema, D
+   Klandermans, B
+AF Vliegenthart, R
+   Oegema, D
+   Klandermans, B
+TI Media coverage and organizational support in the Dutch environmental
+   movement
+SO MOBILIZATION
+LA English
+DT Article; Proceedings Paper
+CT Workshop on Media and Polities at the Politicologenetmaal
+CY MAY 28-29, 2004
+CL Antwerpen, BELGIUM
+ID GERMAN; NEWS; MOBILIZATION; VIOLENCE; PROTEST; EVENTS
+AB Though social movement organizations (SMOs) depend heavily upon the media for their communication to the public, little is known about the relationships between media coverage and public support for SMOs. This research uses computer-assisted content analysis to assess the relationship between media coverage and membership figures for Dutch environmental organizations over the period 1991-2003. Our analysis provides evidence for direct influence of visibility of the organization and its main issue on membership support, while membership support does not influence visibility of an SMO and its issue. Furthermore, an SMO's media visibility is negatively affected by the visibility of other SMOs within the same sector. These results point to the necessity for SMOs to compete for attention in the public sphere and to the importance of using various strategies to compete for the limited space available in the media.
+C1 Vrije Univ Amsterdam, Dept Social Cultural Sci, Fac Social Sci, Amsterdam, Netherlands.
+RP Vliegenthart, R (corresponding author), Vrije Univ Amsterdam, Dept Social Cultural Sci, Fac Social Sci, Amsterdam, Netherlands.
+EM r.vliegenthart@fsw.vu.nl
+RI klandermans, bert/F-2094-2013
+OI Klandermans, Bert/0000-0002-8477-5780
+NR 51
+TC 45
+Z9 45
+U1 1
+U2 29
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD OCT
+PY 2005
+VL 10
+IS 3
+BP 365
+EP 381
+PG 17
+WC Sociology
+SC Sociology
+GA 991EY
+UT WOS:000233796300004
+DA 2021-03-16
+ER
+
+PT J
+AU Uba, K
+AF Uba, K
+TI Political protest and policy change: The direct impacts of Indian
+   anti-privatization mobilizations, 1990-2003
+SO MOBILIZATION
+LA English
+DT Article
+ID SOCIAL-MOVEMENTS; PUBLIC-POLICY; ORGANIZATIONS; MEDIATION; OUTCOMES; WAR
+AB This study explores the mechanisms of how social movements' activities influence public policy by focusing on the role of protest characteristics. By applying an event history analysis to the data on India's anti-privatization movement activity between 1990-2003, 1 demonstrate that favorable policy outcomes are more likely in cases where the movement uses large or economically disruptive protests. Although privatization policy is primarily dependent on the financial situation of the enterprise, protests against privatization had significant direct impact on policy. The results of this study allow for the argument that threatening rather than persuasive tactics offer an explanation of the direct impact of social movement actions.
+C1 Uppsala Univ, Dept Polit Sci, SE-75120 Uppsala, Sweden.
+RP Uba, K (corresponding author), Uppsala Univ, Dept Polit Sci, Box 514, SE-75120 Uppsala, Sweden.
+EM Katrin.Uba@statsvet.uu.se
+NR 42
+TC 14
+Z9 14
+U1 0
+U2 7
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD OCT
+PY 2005
+VL 10
+IS 3
+BP 383
+EP 396
+PG 14
+WC Sociology
+SC Sociology
+GA 991EY
+UT WOS:000233796300005
+DA 2021-03-16
+ER
+
+PT J
+AU Ortiz, DG
+   Myers, DJ
+   Walls, NE
+   Diaz, MED
+AF Ortiz, DG
+   Myers, DJ
+   Walls, NE
+   Diaz, MED
+TI Where do we stand with newspaper data?
+SO MOBILIZATION
+LA English
+DT Review
+ID PROTEST EVENTS; MEDIA COVERAGE; SELECTION BIAS; CONFLICT; MOVEMENTS;
+   IMAGES; OPPORTUNITIES; INSURGENCY; WASHINGTON; DIMENSIONS
+AB We review the literature that identifies selection bias in media-based data and propose a theoretical model of the sources of these biases. Given the implications for validity and reliability, we conclude that newspaper data often do not reach acceptable standards for event analysis and that using them can distort findings and misguide theorizing. Furthermore, media selection biases are resistant to correction procedures largely because they are unstable across media sources, time, and location. We end with a plea for more circumspect approaches to media data that fully and openly consider the implications of their inherent limitations.
+C1 Univ Notre Dame, Notre Dame, IN 46556 USA.
+   Univ Denver, Grad Sch Social Work, Denver, CO 80208 USA.
+RP Myers, DJ (corresponding author), Dept Sociol, Notre Dame, IN 46556 USA.
+EM Myers.33@nd.edu
+RI Ortiz, David/B-2670-2009
+OI Myers, Daniel/0000-0002-0393-0110
+NR 115
+TC 128
+Z9 129
+U1 0
+U2 31
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD OCT
+PY 2005
+VL 10
+IS 3
+BP 397
+EP 419
+PG 23
+WC Sociology
+SC Sociology
+GA 991EY
+UT WOS:000233796300006
+DA 2021-03-16
+ER
+
+PT J
+AU Stern, RE
+AF Stern, RE
+TI Unpacking adaptation: The female inheritance movement in Hong Kong
+SO MOBILIZATION
+LA English
+DT Article
+ID SOCIAL-MOVEMENTS; DIFFUSION; APPEALS; LAW
+AB In 1994, after a year of intense activism by indigenous women and their urban supporters, indigenous women in the New Territories of Hong Kong were legally allowed to inherit land for the first time. In pushing for legislative change, the female inheritance movement adopted key ideas-gender equality, human rights and a critique of patriarchy-from a global vocabulary of feminism and human rights. This article examines this rights frame to understand how, if at all, activists modified international conceptions of discrimination and rights to fit Hong Kong. Overall, the ideology was not fundamentally altered or adapted, but indigenized by local activists through the use of local symbols. More deep-rooted change was not necessary for two reasons: First, in the pre-handover moment, rights arguments derived political currency from their association with an international community. Also, critical movement participants, here termed translators, helped encompass the indigenous women's individual kinship grievances within a broader movement based on rights.
+C1 Univ Calif Berkeley, Berkeley, CA 94720 USA.
+RP Stern, RE (corresponding author), Univ Calif Berkeley, Berkeley, CA 94720 USA.
+EM rstern@berkeley.edu
+NR 71
+TC 18
+Z9 18
+U1 0
+U2 4
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD OCT
+PY 2005
+VL 10
+IS 3
+BP 421
+EP 439
+PG 19
+WC Sociology
+SC Sociology
+GA 991EY
+UT WOS:000233796300007
+DA 2021-03-16
+ER
+
+PT J
+AU McCarthy, JD
+AF McCarthy, JD
+TI From words to numbers: Narrative, data and social science.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Penn State Univ, University Pk, PA 16802 USA.
+RP McCarthy, JD (corresponding author), Penn State Univ, University Pk, PA 16802 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 1
+PU SAN DIEGO STATE UNIV, DEPT SOCIOLOGY
+PI SAN DIEGO
+PA 5500 CAMPANILE DR, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD OCT
+PY 2005
+VL 10
+IS 3
+BP 441
+EP 443
+PG 3
+WC Sociology
+SC Sociology
+GA 991EY
+UT WOS:000233796300008
+DA 2021-03-16
+ER
+
+PT J
+AU Giugni, M
+AF Giugni, M
+TI Transnational protest and global activism.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Univ Geneva, Dept Polit Sci, CH-1211 Geneva, Switzerland.
+RP Giugni, M (corresponding author), Univ Geneva, Dept Polit Sci, CH-1211 Geneva, Switzerland.
+RI Giugni, Marco/AAA-1043-2020
+OI Giugni, Marco/0000-0001-7210-339X
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV, DEPT SOCIOLOGY
+PI SAN DIEGO
+PA 5500 CAMPANILE DR, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD OCT
+PY 2005
+VL 10
+IS 3
+BP 443
+EP 444
+PG 2
+WC Sociology
+SC Sociology
+GA 991EY
+UT WOS:000233796300009
+DA 2021-03-16
+ER
+
+PT J
+AU Santoro, WA
+AF Santoro, WA
+TI States, parties, and social movements.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Univ Iowa, Iowa City, IA 52242 USA.
+RP Santoro, WA (corresponding author), Univ Iowa, Iowa City, IA 52242 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV, DEPT SOCIOLOGY
+PI SAN DIEGO
+PA 5500 CAMPANILE DR, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD OCT
+PY 2005
+VL 10
+IS 3
+BP 444
+EP 446
+PG 3
+WC Sociology
+SC Sociology
+GA 991EY
+UT WOS:000233796300010
+DA 2021-03-16
+ER
+
+PT J
+AU Dixon, M
+AF Dixon, M
+TI Monitoring sweatshops: Workers, consumers, and the global apparel
+   industry.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Florida State Univ, Tallahassee, FL 32306 USA.
+RP Dixon, M (corresponding author), Florida State Univ, Tallahassee, FL 32306 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV, DEPT SOCIOLOGY
+PI SAN DIEGO
+PA 5500 CAMPANILE DR, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD OCT
+PY 2005
+VL 10
+IS 3
+BP 446
+EP 447
+PG 2
+WC Sociology
+SC Sociology
+GA 991EY
+UT WOS:000233796300011
+DA 2021-03-16
+ER
+
+PT J
+AU Buhlungu, S
+AF Buhlungu, S
+TI Made in China: Women factory workers in a global workplace.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Univ Witwatersrand, Johannesburg, South Africa.
+RP Buhlungu, S (corresponding author), Univ Witwatersrand, Johannesburg, South Africa.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV, DEPT SOCIOLOGY
+PI SAN DIEGO
+PA 5500 CAMPANILE DR, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD OCT
+PY 2005
+VL 10
+IS 3
+BP 447
+EP 448
+PG 2
+WC Sociology
+SC Sociology
+GA 991EY
+UT WOS:000233796300012
+DA 2021-03-16
+ER
+
+PT J
+AU Thompson, MR
+AF Thompson, MR
+TI Resisting dictatorship: Repression and protest in Southeast Asia.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Univ Erlangen Nurnberg, Erlangen, Germany.
+RP Thompson, MR (corresponding author), Univ Erlangen Nurnberg, Erlangen, Germany.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV, DEPT SOCIOLOGY
+PI SAN DIEGO
+PA 5500 CAMPANILE DR, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD OCT
+PY 2005
+VL 10
+IS 3
+BP 448
+EP 450
+PG 3
+WC Sociology
+SC Sociology
+GA 991EY
+UT WOS:000233796300013
+DA 2021-03-16
+ER
+
+PT J
+AU Mendoza, CA
+AF Mendoza, CA
+TI Political movements and violence in central America.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Univ Notre Dame, Notre Dame, IN 46556 USA.
+RP Mendoza, CA (corresponding author), Univ Notre Dame, Notre Dame, IN 46556 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV, DEPT SOCIOLOGY
+PI SAN DIEGO
+PA 5500 CAMPANILE DR, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD OCT
+PY 2005
+VL 10
+IS 3
+BP 450
+EP 451
+PG 2
+WC Sociology
+SC Sociology
+GA 991EY
+UT WOS:000233796300014
+DA 2021-03-16
+ER
+
+PT J
+AU Duran, R
+AF Duran, R
+TI The revolution question: Feminisms in El Salvador, Chile, and Cuba.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Univ Malaga, E-29071 Malaga, Spain.
+RP Duran, R (corresponding author), Univ Malaga, E-29071 Malaga, Spain.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV, DEPT SOCIOLOGY
+PI SAN DIEGO
+PA 5500 CAMPANILE DR, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD OCT
+PY 2005
+VL 10
+IS 3
+BP 451
+EP 452
+PG 2
+WC Sociology
+SC Sociology
+GA 991EY
+UT WOS:000233796300015
+DA 2021-03-16
+ER
+
+PT J
+AU Pasch, A
+AF Pasch, A
+TI An alternative Internet: Radical media, politics and creativity.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Univ Notre Dame, Notre Dame, IN 46556 USA.
+RP Pasch, A (corresponding author), Univ Notre Dame, Notre Dame, IN 46556 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 1
+PU SAN DIEGO STATE UNIV, DEPT SOCIOLOGY
+PI SAN DIEGO
+PA 5500 CAMPANILE DR, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD OCT
+PY 2005
+VL 10
+IS 3
+BP 452
+EP 454
+PG 3
+WC Sociology
+SC Sociology
+GA 991EY
+UT WOS:000233796300016
+DA 2021-03-16
+ER
+
+PT J
+AU Martin, A
+AF Martin, A
+TI Authority in contention (research in social movements, conflicts and
+   change, vol 25).
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Ohio State Univ, Columbus, OH 43210 USA.
+RP Martin, A (corresponding author), Ohio State Univ, Columbus, OH 43210 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD OCT
+PY 2005
+VL 10
+IS 3
+BP 454
+EP 455
+PG 2
+WC Sociology
+SC Sociology
+GA 991EY
+UT WOS:000233796300017
+DA 2021-03-16
+ER
+
+PT J
+AU Rupp, LJ
+AF Rupp, LJ
+TI Governing NOW: Grassroots activism in the National Organization for
+   Women.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Univ Calif Santa Barbara, Santa Barbara, CA 93106 USA.
+RP Rupp, LJ (corresponding author), Univ Calif Santa Barbara, Santa Barbara, CA 93106 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV, DEPT SOCIOLOGY
+PI SAN DIEGO
+PA 5500 CAMPANILE DR, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD OCT
+PY 2005
+VL 10
+IS 3
+BP 455
+EP 457
+PG 3
+WC Sociology
+SC Sociology
+GA 991EY
+UT WOS:000233796300018
+DA 2021-03-16
+ER
+
+PT J
+AU Myers, DJ
+AF Myers, DJ
+TI The politics of collective violence.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Univ Notre Dame, Notre Dame, IN 46556 USA.
+RP Myers, DJ (corresponding author), Univ Notre Dame, Notre Dame, IN 46556 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV, DEPT SOCIOLOGY
+PI SAN DIEGO
+PA 5500 CAMPANILE DR, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD OCT
+PY 2005
+VL 10
+IS 3
+BP 457
+EP 458
+PG 2
+WC Sociology
+SC Sociology
+GA 991EY
+UT WOS:000233796300019
+DA 2021-03-16
+ER
+
+PT J
+AU Johnston, H
+AF Johnston, H
+TI Editor's note
+SO MOBILIZATION
+LA English
+DT Editorial Material
+C1 San Diego State Univ, San Diego, CA 92182 USA.
+RP Johnston, H (corresponding author), San Diego State Univ, San Diego, CA 92182 USA.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV, DEPT SOCIOLOGY
+PI SAN DIEGO
+PA 5500 CAMPANILE DR, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD OCT
+PY 2005
+VL 10
+IS 3
+PG 2
+WC Sociology
+SC Sociology
+GA 991EY
+UT WOS:000233796300001
+DA 2021-03-16
+ER
+
+PT J
+AU Caniglia, BS
+   Carmin, JA
+AF Caniglia, BS
+   Carmin, JA
+TI Scholarship on social movement organziations: Classic views and emerging
+   trends
+SO MOBILIZATION
+LA English
+DT Review
+ID ORGANIZATIONS; MOBILIZATION; IDENTITY; TRANSFORMATION; INSURGENCY;
+   RESOURCES; WOMENS; END
+AB This essay examines research on social movement organizations (SMOs) within each of the three major schools of social movement theory: resource mobilization, political process, and cultural-cognitive approaches. We map the general terrain of these perspectives and demonstrate how they have established enduring and emerging trends in SMO scholarship. By briefly revisiting some of the central findings and theoretical arguments of SMO research, we provide a background for future research in social movement organizational processes and a foundation for the articles contained in this special issue.
+C1 Oklahoma State Univ, Stillwater, OK 74078 USA.
+   MIT, Cambridge, MA 02139 USA.
+RP Caniglia, BS (corresponding author), Oklahoma State Univ, Stillwater, OK 74078 USA.
+EM canigli@okstate.edu
+NR 101
+TC 30
+Z9 30
+U1 0
+U2 15
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD JUN
+PY 2005
+VL 10
+IS 2
+BP 201
+EP 212
+PG 12
+WC Sociology
+SC Sociology
+GA 991EX
+UT WOS:000233796200001
+DA 2021-03-16
+ER
+
+PT J
+AU Andrews, KT
+   Edwards, B
+AF Andrews, KT
+   Edwards, B
+TI The organizational structure of local environmentalism
+SO MOBILIZATION
+LA English
+DT Review
+ID SOCIAL-MOVEMENT ORGANIZATIONS; CIVIL-RIGHTS-MOVEMENT; RESOURCE
+   MOBILIZATION; NEWSPAPER COVERAGE; SELECTION BIAS; ROOTS; STRATEGY;
+   EVENTS; GROWTH; WAR
+AB Based on a survey of the population of local environmental organizations in North Carolina, this article addresses fundamental questions about how local organizations are structured, their orientation toward strategy and social change, their activities, and their perceived impacts. By comparing subsets of local organizations in terms of their geographic scope, degree of professionalization, and tactical repertoires, we identify important patterns. First, locally oriented organizations that focus on a neighborhood, city, or county are more likely to be affiliated with a national organization than regional or state organizations, but they are less likely to participate in coalitions than groups working at the regional or state level. Second, organizations relying on a mixture of volunteers and professionals are more formalized and report higher levels of success at mobilizing people than those that rely exclusively on volunteers or professionals. However, groups that are volunteer-based are more likely to engage in partisan activity and have diverse environmental philosophies, but less likely to use conventional advocacy tactics like lobbying and less likely to have a nonprofit tax status. Finally, organizations engaging in disruptive and routinized protest strategies tend to be more similar to one another than they are to organizations that rely exclusively on moderate tactical repertoires such as lobbying or environmental education.
+C1 Univ N Carolina, Chapel Hill, NC 27599 USA.
+   E Carolina Univ, Greenville, NC 27858 USA.
+RP Andrews, KT (corresponding author), Univ N Carolina, Chapel Hill, NC 27599 USA.
+EM kta@unc.edu; edwardsr@mail.ecu.edu
+NR 110
+TC 82
+Z9 83
+U1 1
+U2 39
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD JUN
+PY 2005
+VL 10
+IS 2
+BP 213
+EP 234
+PG 22
+WC Sociology
+SC Sociology
+GA 991EX
+UT WOS:000233796200002
+DA 2021-03-16
+ER
+
+PT J
+AU Murphy, G
+AF Murphy, G
+TI Coalitions and the development of the global environmental movement: A
+   double-edged sword
+SO MOBILIZATION
+LA English
+DT Article
+ID PRO-CHOICE MOVEMENT; SOCIAL-MOVEMENTS; ORGANIZATIONAL MORTALITY;
+   DYNAMICS; TRANSFORMATION; WORK
+AB Censuses reveal an increasing prominence of coalition organizations within transnational social movements. However, the causes and implications of this change are unclear. Using original data on a population of transnational environmental social movement organizations, this research shows that coalition presence is a double-edged sword. While greater numbers of coalitions suggest movement expansion, empirical evidence suggests that this rise makes foundings of new organizations less likely.
+C1 Univ Washington, Dept Sociol, Seattle, WA 98195 USA.
+RP Murphy, G (corresponding author), Univ Washington, Dept Sociol, 202 Savery Hall,Box 353340, Seattle, WA 98195 USA.
+EM gmurphy@u.washington.edu
+NR 53
+TC 28
+Z9 28
+U1 0
+U2 6
+PU SAN DIEGO STATE UNIV, DEPT SOCIOLOGY
+PI SAN DIEGO
+PA 5500 CAMPANILE DR, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD JUN
+PY 2005
+VL 10
+IS 2
+BP 235
+EP 250
+PG 16
+WC Sociology
+SC Sociology
+GA 991EX
+UT WOS:000233796200003
+DA 2021-03-16
+ER
+
+PT J
+AU Smith, J
+AF Smith, J
+TI Building bridges or building walls? Explaining regionalization among
+   transnational social movement organizations
+SO MOBILIZATION
+LA English
+DT Article; Proceedings Paper
+CT 45th Annual Convention of the International-Studies-Association
+CY MAR 17-20, 2004
+CL Montreal, CANADA
+SP Int Studies Assoc
+ID CIVIL-SOCIETY; HUMAN-RIGHTS; ENVIRONMENT; NETWORKS; NGOS
+AB Before the mid-1980s, most transnational social movement organizations (TSMOs) organized across the North-South divide. However, since the mid-1980s data show that more TSMOs are organized exclusively within either the global North or South. To explain this pattern, I analyze ties between regionally organized TSMOs and other nongovernmental organizations. Groups in the global South were more likely than their Northern counterparts to maintain cross-regional ties. At the same time, Northern groups were significantly more likely to report only regional ties. Environmental and women's organizations were the most likely to maintain only regional ties while economic justice and human rights organizations were the most likely to report cross-regional ties. These findings suggest that the regionalization of TSMOs is best explained as a response to the institutional environment rather than a consequence of intra-movement conflict and polarization.
+C1 Univ Notre Dame, Joan B Kroc Inst Int Peace Studies, Notre Dame, IN 46556 USA.
+RP Smith, J (corresponding author), Univ Notre Dame, Joan B Kroc Inst Int Peace Studies, POB 639, Notre Dame, IN 46556 USA.
+NR 68
+TC 27
+Z9 27
+U1 1
+U2 14
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD JUN
+PY 2005
+VL 10
+IS 2
+BP 251
+EP 269
+PG 19
+WC Sociology
+SC Sociology
+GA 991EX
+UT WOS:000233796200004
+DA 2021-03-16
+ER
+
+PT J
+AU Polletta, F
+AF Polletta, F
+TI How participatory democracy became white: Culture and organizational
+   choice
+SO MOBILIZATION
+LA English
+DT Article
+ID WOMENS; INNOVATION; MOVEMENTS; IDENTITY
+AB Why do activists choose the organizational forms they do? Social movement scholars have tended to focus on activists' instrumental assessments of organizational forms' costs and benefits or on activists' efforts to balance instrumental calculations with a commitment to ideological consistency. Neither explanation is adequate. Organizational forms, like strategies, tactics, and targets, are often appealing for their symbolic associations, and especially, their association with particular social groups. The article fleshes out this dynamic through a case study of the rise and fall of participatory democracy in the Student Nonviolent Coordinating Committee (SNCC). Contrary to standard explanations for SNCC activists' repudiation of consensus-based and nonhierarchical decision making in the mid-1960s, I show that participatory democracy was abandoned when it came to be seen as ideological, oriented to personal self transformation, and-no coincidence-as white. That was not the case earlier on, when participatory democracy was seen as practical, political, and black and I account for that shift. Once established, however, participatory democracy's social associations shaped subsequent activist generations' view of the form's strengths and liabilities.
+C1 Columbia Univ, Dept Sociol, New York, NY 10027 USA.
+RP Polletta, F (corresponding author), Columbia Univ, Dept Sociol, 510 Fayerweather Hall, New York, NY 10027 USA.
+EM fap8@columbia.edu
+NR 84
+TC 41
+Z9 42
+U1 1
+U2 11
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD JUN
+PY 2005
+VL 10
+IS 2
+BP 271
+EP 288
+PG 18
+WC Sociology
+SC Sociology
+GA 991EX
+UT WOS:000233796200005
+DA 2021-03-16
+ER
+
+PT J
+AU Minkoff, DC
+   McCarthy, JD
+AF Minkoff, DC
+   McCarthy, JD
+TI Reinvigorating the study of organizational processes in social movements
+SO MOBILIZATION
+LA English
+DT Review
+ID SOCIOLOGY; PARTICIPATION; WOMENS
+AB We draw upon diverse theoretical perspectives in organizational analysis to identify four areas where a more serious interface between this "cognate" field and social movement research promises to deepen our understanding of social movement organizations (SMOs). These areas include conceptualizing social movements as organizational fields, thinking of activists as part of a labor market situated in the social movement sector, analyzing SMOs in terms of entrepreneurship and organizational change, and finally, looking more closely at processes of organizational decision making. We discuss studies by social movement scholars that implicitly or explicitly engage the cognate scholarship with an eye to identifying those areas where systematic research is lacking. We close by sketching some methodological approaches for addressing each of the lacunae we identify.
+C1 Univ Washington, Seattle, WA 98195 USA.
+   Penn State Univ, University Pk, PA 16802 USA.
+RP Minkoff, DC (corresponding author), Univ Washington, Seattle, WA 98195 USA.
+EM dminkoff@u.washington.edu
+NR 112
+TC 46
+Z9 47
+U1 1
+U2 14
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD JUN
+PY 2005
+VL 10
+IS 2
+BP 289
+EP 308
+PG 20
+WC Sociology
+SC Sociology
+GA 991EX
+UT WOS:000233796200006
+DA 2021-03-16
+ER
+
+PT J
+AU Andrews, KT
+AF Andrews, KT
+TI Freedom is an endless meeting.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Univ N Carolina, Chapel Hill, NC 27514 USA.
+RP Andrews, KT (corresponding author), Univ N Carolina, Chapel Hill, NC 27514 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV, DEPT SOCIOLOGY
+PI SAN DIEGO
+PA 5500 CAMPANILE DR, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD JUN
+PY 2005
+VL 10
+IS 2
+BP 309
+EP 310
+PG 2
+WC Sociology
+SC Sociology
+GA 991EX
+UT WOS:000233796200007
+DA 2021-03-16
+ER
+
+PT J
+AU Bloom, JM
+AF Bloom, JM
+TI Freedom is a constant struggle: The Mississippi civil rights movement
+   and its legacy.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Indiana Univ NW, Gary, IN 46408 USA.
+RP Bloom, JM (corresponding author), Indiana Univ NW, Gary, IN 46408 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV, DEPT SOCIOLOGY
+PI SAN DIEGO
+PA 5500 CAMPANILE DR, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD JUN
+PY 2005
+VL 10
+IS 2
+BP 310
+EP 311
+PG 2
+WC Sociology
+SC Sociology
+GA 991EX
+UT WOS:000233796200008
+DA 2021-03-16
+ER
+
+PT J
+AU Earl, J
+AF Earl, J
+TI Arresting images: Crime and policing in front of the television camera.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Univ Calif Santa Barbara, Santa Barbara, CA 93106 USA.
+RP Earl, J (corresponding author), Univ Calif Santa Barbara, Santa Barbara, CA 93106 USA.
+RI Earl, Jennifer/AAC-9495-2020
+OI Earl, Jennifer/0000-0002-0904-1605
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 1
+PU SAN DIEGO STATE UNIV, DEPT SOCIOLOGY
+PI SAN DIEGO
+PA 5500 CAMPANILE DR, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD JUN
+PY 2005
+VL 10
+IS 2
+BP 311
+EP 312
+PG 2
+WC Sociology
+SC Sociology
+GA 991EX
+UT WOS:000233796200009
+DA 2021-03-16
+ER
+
+PT J
+AU McCammon, H
+AF McCammon, H
+TI The road to Seneca Falls: Elizabeth Cady Stanton and the first woman's
+   rights convention.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Vanderbilt Univ, Nashville, TN 37240 USA.
+RP McCammon, H (corresponding author), Vanderbilt Univ, Nashville, TN 37240 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 1
+PU SAN DIEGO STATE UNIV, DEPT SOCIOLOGY
+PI SAN DIEGO
+PA 5500 CAMPANILE DR, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD JUN
+PY 2005
+VL 10
+IS 2
+BP 312
+EP 313
+PG 2
+WC Sociology
+SC Sociology
+GA 991EX
+UT WOS:000233796200010
+DA 2021-03-16
+ER
+
+PT J
+AU Baggetta, M
+AF Baggetta, M
+TI Environmental movements in majority and minority worlds: A global
+   perspective.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Harvard Univ, Cambridge, MA 02138 USA.
+RP Baggetta, M (corresponding author), Harvard Univ, Cambridge, MA 02138 USA.
+RI Baggetta, Matthew/S-7049-2019
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV, DEPT SOCIOLOGY
+PI SAN DIEGO
+PA 5500 CAMPANILE DR, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD JUN
+PY 2005
+VL 10
+IS 2
+BP 314
+EP 315
+PG 2
+WC Sociology
+SC Sociology
+GA 991EX
+UT WOS:000233796200011
+DA 2021-03-16
+ER
+
+PT J
+AU Poulson, SC
+AF Poulson, SC
+TI Dancing at Armageddon: Survivalism and chaos in modern times.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 James Madison Univ, Harrisonburg, VA 22807 USA.
+RP Poulson, SC (corresponding author), James Madison Univ, Harrisonburg, VA 22807 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 7
+PU SAN DIEGO STATE UNIV, DEPT SOCIOLOGY
+PI SAN DIEGO
+PA 5500 CAMPANILE DR, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD JUN
+PY 2005
+VL 10
+IS 2
+BP 315
+EP 316
+PG 2
+WC Sociology
+SC Sociology
+GA 991EX
+UT WOS:000233796200012
+DA 2021-03-16
+ER
+
+PT J
+AU Li, Y
+AF Li, Y
+TI Mobilizing an Asian American community.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Stanford Univ, Stanford, CA 94305 USA.
+RP Li, Y (corresponding author), Stanford Univ, Stanford, CA 94305 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV, DEPT SOCIOLOGY
+PI SAN DIEGO
+PA 5500 CAMPANILE DR, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD JUN
+PY 2005
+VL 10
+IS 2
+BP 316
+EP 317
+PG 2
+WC Sociology
+SC Sociology
+GA 991EX
+UT WOS:000233796200013
+DA 2021-03-16
+ER
+
+PT J
+AU Rudolph, LI
+AF Rudolph, LI
+TI Gandhi in his time and ours: The global legacy of his ideas.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Univ Chicago, Chicago, IL 60637 USA.
+RP Rudolph, LI (corresponding author), Univ Chicago, Chicago, IL 60637 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV, DEPT SOCIOLOGY
+PI SAN DIEGO
+PA 5500 CAMPANILE DR, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD JUN
+PY 2005
+VL 10
+IS 2
+BP 318
+EP 320
+PG 3
+WC Sociology
+SC Sociology
+GA 991EX
+UT WOS:000233796200015
+DA 2021-03-16
+ER
+
+PT J
+AU Wehr, K
+AF Wehr, K
+TI Dams and development: Transnational struggles for water and power.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Calif State Univ Sacramento, Sacramento, CA 95819 USA.
+RP Wehr, K (corresponding author), Calif State Univ Sacramento, Sacramento, CA 95819 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 2
+PU SAN DIEGO STATE UNIV, DEPT SOCIOLOGY
+PI SAN DIEGO
+PA 5500 CAMPANILE DR, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD JUN
+PY 2005
+VL 10
+IS 2
+BP 318
+EP 318
+PG 1
+WC Sociology
+SC Sociology
+GA 991EX
+UT WOS:000233796200014
+DA 2021-03-16
+ER
+
+PT J
+AU Kriger, N
+AF Kriger, N
+TI Caught in the crossfire: Revolution, repression, and the rational
+   peasant.
+SO MOBILIZATION
+LA English
+DT Book Review
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV, DEPT SOCIOLOGY
+PI SAN DIEGO
+PA 5500 CAMPANILE DR, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD JUN
+PY 2005
+VL 10
+IS 2
+BP 320
+EP 322
+PG 3
+WC Sociology
+SC Sociology
+GA 991EX
+UT WOS:000233796200016
+DA 2021-03-16
+ER
+
+PT J
+AU Wiest, D
+AF Wiest, D
+TI Globalization and cross-border labor solidarity in the Americas: The
+   anti-sweatshop movement and the struggle for social justice.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 SUNY Stony Brook, Stony Brook, NY 11794 USA.
+RP Wiest, D (corresponding author), SUNY Stony Brook, Stony Brook, NY 11794 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV, DEPT SOCIOLOGY
+PI SAN DIEGO
+PA 5500 CAMPANILE DR, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD JUN
+PY 2005
+VL 10
+IS 2
+BP 322
+EP 324
+PG 3
+WC Sociology
+SC Sociology
+GA 991EX
+UT WOS:000233796200017
+DA 2021-03-16
+ER
+
+PT J
+AU Jenkins, JC
+AF Jenkins, JC
+TI Solidarity and contention: Networks of Polish opposition.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Ohio State Univ, Columbus, OH 43210 USA.
+RP Jenkins, JC (corresponding author), Ohio State Univ, Columbus, OH 43210 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV, DEPT SOCIOLOGY
+PI SAN DIEGO
+PA 5500 CAMPANILE DR, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD JUN
+PY 2005
+VL 10
+IS 2
+BP 324
+EP 325
+PG 2
+WC Sociology
+SC Sociology
+GA 991EX
+UT WOS:000233796200018
+DA 2021-03-16
+ER
+
+PT J
+AU McAdam, D
+   Sampson, RJ
+   Weffer, S
+   MacIndoe, H
+AF McAdam, D
+   Sampson, RJ
+   Weffer, S
+   MacIndoe, H
+TI "There will be fighting in the streets": The distorting lens of social
+   movement theory
+SO MOBILIZATION
+LA English
+DT Article
+ID CIVIL-RIGHTS-MOVEMENT; CONFLICT; COVERAGE; PROTEST; WAR; DEMONSTRATIONS;
+   MISSISSIPPI; INSURGENCY; EVENTS; POLICY
+AB We argue that the disproportionate attention accorded the struggles of the sixties has created a stylized image of social movements that threatens to distort our understanding of popular contention, not only in earlier periods and in nondemocratic contexts, but also in the contemporary US. This stylized view tends to equate movements with (a) disruptive protest in public settings, (b) loosely coordinated national struggles over political issues, (c) urban and/or campus based protest activities, and (d) claim making by disadvantaged minorities. Drawing on a larger study of trends and patterns in collective civic engagement in metropolitan Chicago, we employ new data on some 1, 000 protest events between 1970 to 2000 to assess these four stylized views and address a number of related questions. The data do not support the common imagery of social movements-since 1980 there has been a marked transformation of the movement form to the point where public protest is now largely peaceful, routine, suburban, local in nature, and initiated by the advantaged We discuss the implications of these findings for the rise of a "movement society" in the U.S. and suggest directions for future research.
+C1 Stanford Univ, CABS, Stanford, CA 94305 USA.
+   Harvard Univ, Dept Sociol, Cambridge, MA 02138 USA.
+   Univ Chicago, Chicago, IL 60637 USA.
+RP McAdam, D (corresponding author), Stanford Univ, CABS, Stanford, CA 94305 USA.
+RI Sampson, Robert J./AAB-7369-2020
+NR 43
+TC 80
+Z9 80
+U1 1
+U2 28
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD FEB
+PY 2005
+VL 10
+IS 1
+BP 1
+EP 18
+PG 18
+WC Sociology
+SC Sociology
+GA 991EW
+UT WOS:000233796100001
+DA 2021-03-16
+ER
+
+PT J
+AU Koopmans, R
+AF Koopmans, R
+TI The missing link between structure and agency: Outline of an
+   evolutionary approach to social movements
+SO MOBILIZATION
+LA English
+DT Article
+ID OPPORTUNITIES
+AB Theories of political opportunity structure (POS) have received ambiguous empirical support. Quite a few studies make a convincing case for POS, some find it to have no measurable effect, others show that it can have different effects in different contexts. The lack of a theory of the mechanisms that link POS to movement action is identified as the fundamental problem behind these divergent results. I suggest a dynamic and relational solution to the structure agency problem that employs an evolutionary mode of causal explanation. I show how such an approach helps us to understand why in spite of limited information and frequent errors of judgment, actors' choices may ultimately reflect structural opportunities. I also discuss how an evolutionary approach can help explain deviations from the predictions of POS theory, e.g., why adaptation to changes in POS is slow, why opportunities are sometimes missed and why those that are perceived cannot always be seized I conclude with a discussion of some methodological implications.
+C1 Free Univ Amsterdam, Amsterdam, Netherlands.
+RP Koopmans, R (corresponding author), Free Univ Amsterdam, Amsterdam, Netherlands.
+EM r.koopmans@fsw.vu.nl
+NR 43
+TC 29
+Z9 29
+U1 0
+U2 13
+PU SAN DIEGO STATE UNIV, DEPT SOCIOLOGY
+PI SAN DIEGO
+PA 5500 CAMPANILE DR, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD FEB
+PY 2005
+VL 10
+IS 1
+BP 19
+EP 35
+PG 17
+WC Sociology
+SC Sociology
+GA 991EW
+UT WOS:000233796100002
+DA 2021-03-16
+ER
+
+PT J
+AU Staggenborg, S
+   Taylor, V
+AF Staggenborg, S
+   Taylor, V
+TI Whatever happened to the women's movement?
+SO MOBILIZATION
+LA English
+DT Article
+ID FEMINISM; ORGANIZATIONS; ACTIVISM; CULTURE
+AB Analyses of the women's movement that focus on its "waves" and theories of social movements that focus on contentious politics have encouraged the view that the women's movement is in decline. Employing alternative perspectives on social movements, we show that the women's movement continues to thrive. This is evidenced by organizational maintenance and growth, including the international expansion of women's movement organizations; feminism within institutions and other social movements; the spread of feminist culture and collective identity; and the variety of the movement's tactical repertoires. Moreover, the movement remains capable of contentious collective action. We argue for research based on broader conceptions of social movements as well as the contentious politics approach.
+C1 McGill Univ, Montreal, PQ H3A 2T5, Canada.
+   Univ Calif Santa Barbara, Santa Barbara, CA 93106 USA.
+RP Staggenborg, S (corresponding author), McGill Univ, Montreal, PQ H3A 2T5, Canada.
+EM suzanne.staggenborg@mcgill.ca; vtaylor@soc.ucsb.edu
+NR 79
+TC 77
+Z9 79
+U1 3
+U2 22
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD FEB
+PY 2005
+VL 10
+IS 1
+BP 37
+EP 52
+PG 16
+WC Sociology
+SC Sociology
+GA 991EW
+UT WOS:000233796100003
+DA 2021-03-16
+ER
+
+PT J
+AU Tarrow, S
+AF Tarrow, S
+TI The dualities of transnational contention: "Two activist solitudes" or a
+   new world altogether?
+SO MOBILIZATION
+LA English
+DT Article
+ID HUMAN-RIGHTS; GLOBALIZATION; CONSTRUCTION; LAW
+AB International protests against global capitalism have focused scholars' attention on the highly visible activities of transnational activists and advocates; but the tough, incremental, and deeply embedded work of grassroots social movements has too often been sublimated under the slogan: "Think globally; act locally!" Are transnational activists isolated from domestic social movements, extensions of domestic contention, or bridges between the local and the global? Three problems in particular will be examined: First, the difficulty of establishing durable transnational coalitions; Second, the problem of bridging the gap between movement protesters and NGO advocates; and, third, that of escaping movement structuration by national cleavages, alignments, and opportunities.
+C1 Cornell Univ, Ithaca, NY 14853 USA.
+RP Tarrow, S (corresponding author), Cornell Univ, Ithaca, NY 14853 USA.
+NR 88
+TC 37
+Z9 38
+U1 0
+U2 7
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD FEB
+PY 2005
+VL 10
+IS 1
+BP 53
+EP 72
+PG 20
+WC Sociology
+SC Sociology
+GA 991EW
+UT WOS:000233796100004
+DA 2021-03-16
+ER
+
+PT J
+AU della Porta, D
+AF della Porta, D
+TI Making the polis: Social forums and democracy in the global justice
+   movement
+SO MOBILIZATION
+LA English
+DT Article
+AB The debate on deliberative democracy could open a fruitful perspective for research on social movement conceptions and practices of democracy. This article reports a pilot study of the values and norms that guide the global justice movement's organizational choices based upon focus groups and in-depth interviews with participants in various Italian social forums. Deliberative democracy, which emphasizes participation and the quality of communication, is particularly relevant for a multifaceted, heterogeneous movement that incorporates many social, generational, and ideological groups as well as movement organizations from different countries. The global justice movement-a "movement of movements" according to some activists-comprises a dense network of movement organizations, often the product of previous protest cycles. It builds upon past experiences of organizational institutionalization, but also upon reflexive criticisms of it. These networks of networks provide important resources, but also pose challenges for participation and internal communication. The activists in our study addressed these challenges by building an organizational culture that stressed diversity rather than homogeneity; subjectivity, rather than obedience to organizational demands; transparency, even at the cost of effectiveness; open confrontations oriented to consensus building over efficient decision making; and "ideological contamination" rather than dogmatism. Traditional participatory models of democracy are bridged with concerns for good communication and deliberation.
+C1 European Univ Inst, Dept Social Sci, Florence, Italy.
+RP della Porta, D (corresponding author), European Univ Inst, Dept Social Sci, Florence, Italy.
+EM donatella.dellaporta@iue.it
+NR 62
+TC 66
+Z9 68
+U1 1
+U2 21
+PU SAN DIEGO STATE UNIV, DEPT SOCIOLOGY
+PI SAN DIEGO
+PA 5500 CAMPANILE DR, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD FEB
+PY 2005
+VL 10
+IS 1
+BP 73
+EP 94
+PG 22
+WC Sociology
+SC Sociology
+GA 991EW
+UT WOS:000233796100005
+DA 2021-03-16
+ER
+
+PT J
+AU Beyeler, M
+   Kriesi, H
+AF Beyeler, M
+   Kriesi, H
+TI Transnational protest and the public sphere
+SO MOBILIZATION
+LA English
+DT Article
+ID GLOBALIZATION; MEDIA
+AB This article explores the impact of protests against economic globalization in the public sphere. The focus is on two periodical events targeted by transnational protests: the m ministerial conferences of the World Trade Organization (WTO) and the annual meetings of the World Economic Forum (WEF). Based on a selection of seven quality newspapers published in different parts of the world, we trace media attention, support of the activists, as well as the broader public debate on economic globalization. We find that starting with Seattle, protest events received extensive media coverage. Media support of the street activists, especially in the case of the anti-WEF protests, is however rather low. Nevertheless, despite the low levels of support that street protesters received, many of their issues obtain wide public support.
+C1 Univ Zurich, CH-8006 Zurich, Switzerland.
+RP Beyeler, M (corresponding author), Univ Zurich, CH-8006 Zurich, Switzerland.
+EM kriesi@pwi.unizh.ch
+NR 30
+TC 24
+Z9 24
+U1 0
+U2 4
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD FEB
+PY 2005
+VL 10
+IS 1
+BP 95
+EP 109
+PG 15
+WC Sociology
+SC Sociology
+GA 991EW
+UT WOS:000233796100006
+DA 2021-03-16
+ER
+
+PT J
+AU Ryan, C
+   Anastario, M
+   Jeffreys, K
+AF Ryan, C
+   Anastario, M
+   Jeffreys, K
+TI Start small, build big: Negotiating opportunities in media markets
+SO MOBILIZATION
+LA English
+DT Article
+ID MOVEMENT
+AB We track the strategic choices of Rhode Island Coalition against Domestic Violence (RICADV), a statewide collective actor working in one media market to expand opportunities to promote its mission. We reconstruct an organizational life history describing how RICADV built its communications capacity and deepened internal and external relations, thereby increasing media standing with Rhode Island journalists. To measure growth in media standing quantitatively, we analyze print coverage of three comparable clusters of domestic violence murders occurring in Rhode Island between 1996 and 2002. Over this interval, RICADV rose from invisibility to become Rhode Island reporters' foremost source for background information on domestic-violence murders. Also, the use of language identifying these murders as domestic violence increased sixteen-fold. Stressing dialogic and relational approaches, we conclude that despite restricted access to corporatized media markets, intentional collective actors can negotiate and expand media opportunities by strategically selecting mission-relevant media projects that match their existing resources and networks.
+EM char_ryan@verizon.net
+NR 56
+TC 24
+Z9 24
+U1 0
+U2 5
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD FEB
+PY 2005
+VL 10
+IS 1
+BP 111
+EP 128
+PG 18
+WC Sociology
+SC Sociology
+GA 991EW
+UT WOS:000233796100007
+DA 2021-03-16
+ER
+
+PT J
+AU Blee, KM
+   Currier, A
+AF Blee, KM
+   Currier, A
+TI Character building: The dynamics of emerging social movement groups
+SO MOBILIZATION
+LA English
+DT Article
+ID RESISTANCE; PROTEST
+AB Few studies have collected contemporaneous data on social movements at their earliest stages. Thus, we know little about how social movement groups develop the characteristics that will later become assumed as what the group is. This study explores how social movement groups come to take on a particular character by collecting longitudinal, contemporaneous, comparative, and interactional data on what we term "emerging social movement groups" (ESMGs). Using concepts from time-geographic theory, we examine how three paired ESMGs develop distinctive interpersonal, organizational, and ideological characteristics.
+C1 Univ Pittsburgh, Pittsburgh, PA 15260 USA.
+RP Blee, KM (corresponding author), Univ Pittsburgh, Pittsburgh, PA 15260 USA.
+EM kblee@pitt.edu; amcst87@pitt.edu
+NR 67
+TC 10
+Z9 10
+U1 0
+U2 4
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD FEB
+PY 2005
+VL 10
+IS 1
+BP 129
+EP 144
+PG 16
+WC Sociology
+SC Sociology
+GA 991EW
+UT WOS:000233796100008
+DA 2021-03-16
+ER
+
+PT J
+AU Giugni, M
+   Koopmans, R
+   Passy, F
+   Statham, P
+AF Giugni, M
+   Koopmans, R
+   Passy, F
+   Statham, P
+TI Institutional and discursive opportunities for extreme-right
+   mobilization in five countries
+SO MOBILIZATION
+LA English
+DT Article
+ID ETHNIC-MINORITIES; VALIDITY; PARTIES; PROTEST; EUROPE
+AB Inspired by spatial theories of political behavior and by work on the impact of immigration on national identity, in this article we propose an explanation of the extreme right's claim making based on the interplay of three factors: national models of citizenship, the dynamics of political alignments and party competition, and the strategic/organizational repertoires of the extreme right, in particular the electoral strength of extreme-right parties. Confronting a number of hypotheses derived from this theoretical framework with original data on the extreme right's claim making in five European countries (the Netherlands, Britain, France, Germany, and Switzerland), we show how political-institutional and cultural-discursive opportunities account for differences in the extent, forms, and content of xenophobic and extreme-right claim making. Our study shows that national configurations of citizenship affect in significant ways the mobilization of the extreme right, both directly and indirectly. More precisely, our two-country comparison confirms the hypothesis that the claim making of the extreme right depends on a specific political opportunity structure formed by the combination of discursive opportunities deriving from the prevailing model of citizenship and by the political space made available by mainstream parties for far-right mobilization.
+C1 Univ Geneva, Dept Polit Sci, CH-1211 Geneva, Switzerland.
+   Free Univ Amsterdam, Amsterdam, Netherlands.
+   Univ Lausanne, Inst Etudes Polit & Internatl, CH-1015 Lausanne, Switzerland.
+   Univ Leeds, Ctr European Polit Commun, Leeds, W Yorkshire, England.
+RP Giugni, M (corresponding author), Univ Geneva, Dept Polit Sci, Uni Mail, CH-1211 Geneva, Switzerland.
+RI Giugni, Marco/AAA-1043-2020
+OI Giugni, Marco/0000-0001-7210-339X
+NR 38
+TC 41
+Z9 41
+U1 0
+U2 27
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD FEB
+PY 2005
+VL 10
+IS 1
+BP 145
+EP 162
+PG 18
+WC Sociology
+SC Sociology
+GA 991EW
+UT WOS:000233796100009
+DA 2021-03-16
+ER
+
+PT J
+AU Rucht, D
+AF Rucht, D
+TI Appeal, threat, and press resonance: Comparing mayday protests in London
+   and Berlin
+SO MOBILIZATION
+LA English
+DT Article
+AB Since its beginnings in 1890, the First of May (hereafter Mayday) was meant to symbolize the presence and power of the workers' movement. Throughout its history, this day served two purposes for the movement. On the one hand, the workers took to the streets to let their voices be heard in marches, rallies, and various other public gatherings. Thus, Mayday was proclaimed as a "day of struggle", a recurrent opportunity for the movement to symbolically flex its muscles and make claims to further the workers' cause. On the other hand, Mayday also helped strengthen internal bonds and maintain the collective identity. For this purpose, the workers came together-usually after the public performances in the morning or early afternoon to sing and drink as though they were family. This two-fold character of a "day of struggle" and a "day of festivities" still can be found in many Mayday events.
+C1 Social Sci Ctr Berlin, D-10785 Berlin, Germany.
+RP Rucht, D (corresponding author), Social Sci Ctr Berlin, Reichpietschufer 50, D-10785 Berlin, Germany.
+EM rucht@wz-berlin.de
+NR 12
+TC 8
+Z9 8
+U1 0
+U2 2
+PU SAN DIEGO STATE UNIV, DEPT SOCIOLOGY
+PI SAN DIEGO
+PA 5500 CAMPANILE DR, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD FEB
+PY 2005
+VL 10
+IS 1
+BP 163
+EP 181
+PG 19
+WC Sociology
+SC Sociology
+GA 991EW
+UT WOS:000233796100010
+DA 2021-03-16
+ER
+
+PT J
+AU Amenta, E
+AF Amenta, E
+TI Social protest and policy change: Ecology antinuclear, and peace
+   movements in comparative historical perspective.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 NYU, New York, NY 10012 USA.
+RP Amenta, E (corresponding author), NYU, 550 1St Ave, New York, NY 10012 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 2
+PU SAN DIEGO STATE UNIV, DEPT SOCIOLOGY
+PI SAN DIEGO
+PA 5500 CAMPANILE DR, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD FEB
+PY 2005
+VL 10
+IS 1
+BP 183
+EP 184
+PG 2
+WC Sociology
+SC Sociology
+GA 991EW
+UT WOS:000233796100011
+DA 2021-03-16
+ER
+
+PT J
+AU Kim, H
+AF Kim, H
+TI Rethinking social movements: Structure, meaning, and emotion.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Univ Washington, Seattle, WA 98195 USA.
+RP Kim, H (corresponding author), Univ Washington, Seattle, WA 98195 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 1
+PU SAN DIEGO STATE UNIV, DEPT SOCIOLOGY
+PI SAN DIEGO
+PA 5500 CAMPANILE DR, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD FEB
+PY 2005
+VL 10
+IS 1
+BP 184
+EP 185
+PG 2
+WC Sociology
+SC Sociology
+GA 991EW
+UT WOS:000233796100012
+DA 2021-03-16
+ER
+
+PT J
+AU Ferree, MM
+AF Ferree, MM
+TI Pro-life activists in America: Meaning, motivation and direct action.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Univ Wisconsin, Madison, WI 53706 USA.
+RP Ferree, MM (corresponding author), Univ Wisconsin, Madison, WI 53706 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 3
+PU SAN DIEGO STATE UNIV, DEPT SOCIOLOGY
+PI SAN DIEGO
+PA 5500 CAMPANILE DR, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD FEB
+PY 2005
+VL 10
+IS 1
+BP 185
+EP 186
+PG 2
+WC Sociology
+SC Sociology
+GA 991EW
+UT WOS:000233796100013
+DA 2021-03-16
+ER
+
+PT J
+AU Passy, F
+AF Passy, F
+TI Democracy and participation: Popular protest and new social movements.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Univ Lausanne, CH-1015 Lausanne, Switzerland.
+RP Passy, F (corresponding author), Univ Lausanne, CH-1015 Lausanne, Switzerland.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV, DEPT SOCIOLOGY
+PI SAN DIEGO
+PA 5500 CAMPANILE DR, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD FEB
+PY 2005
+VL 10
+IS 1
+BP 186
+EP 188
+PG 3
+WC Sociology
+SC Sociology
+GA 991EW
+UT WOS:000233796100014
+DA 2021-03-16
+ER
+
+PT J
+AU Knauss, J
+AF Knauss, J
+TI Hard work: Remaking the American labor movement.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Univ Wisconsin, Madison, WI 53706 USA.
+RP Knauss, J (corresponding author), Univ Wisconsin, Madison, WI 53706 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 1
+PU SAN DIEGO STATE UNIV
+PI SAN DIEGO
+PA DEPT SOCIOLOGY, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD FEB
+PY 2005
+VL 10
+IS 1
+BP 188
+EP 190
+PG 3
+WC Sociology
+SC Sociology
+GA 991EW
+UT WOS:000233796100015
+DA 2021-03-16
+ER
+
+PT J
+AU Baiocchi, G
+AF Baiocchi, G
+TI Democracy's voices: Social ties and the quality of public life in Spain.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Univ Massachusetts, Amherst, MA 01003 USA.
+RP Baiocchi, G (corresponding author), Univ Massachusetts, Amherst, MA 01003 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV, DEPT SOCIOLOGY
+PI SAN DIEGO
+PA 5500 CAMPANILE DR, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD FEB
+PY 2005
+VL 10
+IS 1
+BP 190
+EP 191
+PG 2
+WC Sociology
+SC Sociology
+GA 991EW
+UT WOS:000233796100016
+DA 2021-03-16
+ER
+
+PT J
+AU Beyerlein, K
+AF Beyerlein, K
+TI The voice of Southern labor: Radio, music, and textile strikes,
+   1929-1934.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Univ N Carolina, Chapel Hill, NC 27515 USA.
+RP Beyerlein, K (corresponding author), Univ N Carolina, Chapel Hill, NC 27515 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV, DEPT SOCIOLOGY
+PI SAN DIEGO
+PA 5500 CAMPANILE DR, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD FEB
+PY 2005
+VL 10
+IS 1
+BP 191
+EP 192
+PG 2
+WC Sociology
+SC Sociology
+GA 991EW
+UT WOS:000233796100017
+DA 2021-03-16
+ER
+
+PT J
+AU Schwartz, M
+AF Schwartz, M
+TI The there there: Race, class, and political community in Oakland.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 SUNY Stony Brook, Stony Brook, NY 11794 USA.
+RP Schwartz, M (corresponding author), SUNY Stony Brook, Stony Brook, NY 11794 USA.
+NR 1
+TC 1
+Z9 1
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV, DEPT SOCIOLOGY
+PI SAN DIEGO
+PA 5500 CAMPANILE DR, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD FEB
+PY 2005
+VL 10
+IS 1
+BP 192
+EP 194
+PG 3
+WC Sociology
+SC Sociology
+GA 991EW
+UT WOS:000233796100018
+DA 2021-03-16
+ER
+
+PT J
+AU Carroll, WK
+AF Carroll, WK
+TI The Canadianization movement: Emergence, survival, and success.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Univ Victoria, Victoria, BC V8W 2Y2, Canada.
+RP Carroll, WK (corresponding author), Univ Victoria, Victoria, BC V8W 2Y2, Canada.
+RI Carroll, William/I-9113-2019
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV, DEPT SOCIOLOGY
+PI SAN DIEGO
+PA 5500 CAMPANILE DR, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD FEB
+PY 2005
+VL 10
+IS 1
+BP 194
+EP 195
+PG 2
+WC Sociology
+SC Sociology
+GA 991EW
+UT WOS:000233796100019
+DA 2021-03-16
+ER
+
+PT J
+AU Futrell, R
+AF Futrell, R
+TI Chemical consequences: Environmental mutagens, scientist activism, and
+   the rise of genetic toxicology.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Univ Nevada, Reno, NV 89557 USA.
+RP Futrell, R (corresponding author), Univ Nevada, Reno, NV 89557 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV, DEPT SOCIOLOGY
+PI SAN DIEGO
+PA 5500 CAMPANILE DR, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD FEB
+PY 2005
+VL 10
+IS 1
+BP 195
+EP 197
+PG 3
+WC Sociology
+SC Sociology
+GA 991EW
+UT WOS:000233796100020
+DA 2021-03-16
+ER
+
+PT J
+AU Moaddel, M
+AF Moaddel, M
+TI Islamic activism: A social movement theory approach.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Eastern Michigan Univ, Ypsilanti, MI 48197 USA.
+RP Moaddel, M (corresponding author), Eastern Michigan Univ, Ypsilanti, MI 48197 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAN DIEGO STATE UNIV, DEPT SOCIOLOGY
+PI SAN DIEGO
+PA 5500 CAMPANILE DR, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD FEB
+PY 2005
+VL 10
+IS 1
+BP 197
+EP 198
+PG 2
+WC Sociology
+SC Sociology
+GA 991EW
+UT WOS:000233796100021
+DA 2021-03-16
+ER
+
+PT J
+AU Tolnay, SE
+AF Tolnay, SE
+TI Rough justice: Lynching and American society, 1874-1947.
+SO MOBILIZATION
+LA English
+DT Book Review
+C1 Univ Washington, Seattle, WA 98195 USA.
+RP Tolnay, SE (corresponding author), Univ Washington, Seattle, WA 98195 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 1
+PU SAN DIEGO STATE UNIV, DEPT SOCIOLOGY
+PI SAN DIEGO
+PA 5500 CAMPANILE DR, SAN DIEGO, CA 92182 USA
+SN 1086-671X
+J9 MOBILIZATION
+JI Mobilization
+PD FEB
+PY 2005
+VL 10
+IS 1
+BP 198
+EP 199
+PG 2
+WC Sociology
+SC Sociology
+GA 991EW
+UT WOS:000233796100022
+DA 2021-03-16
+ER
+
+EF
