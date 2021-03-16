@@ -1,0 +1,5471 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Blair, J
+   Lacy, MG
+AF Blair, J
+   Lacy, MG
+TI Statistics of ordinal variation
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+ID INEQUALITY
+AB Whereas measures of variation in nominal data have long been recognized and used by sociologists, measures of variation for ordered categorical data have received little attention. The authors discuss the potential usefulness of ordinal dispersion statistics in sociology and define a broad class of such measures, some of which have previously been proposed in other forms. This article focuses on two statistics, termed l(2) and l, which are [0 - 1] normed measures of concentration or dispersion, and illustrates their use for two purposes: measuring inequality and cultural consensus. The bias, variance, and use of these statistics in inference are discussed. The article concludes with a substantive application of these statistics and a comparison to the performance of conventional variation statistics.
+C1 Colorado State Univ, Ft Collins, CO 80523 USA.
+NR 14
+TC 42
+Z9 42
+U1 0
+U2 8
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD FEB
+PY 2000
+VL 28
+IS 3
+BP 251
+EP 280
+DI 10.1177/0049124100028003001
+PG 30
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 280TZ
+UT WOS:000085121000001
+DA 2020-08-31
+ER
+
+PT J
+AU Houtkoop-Steenstra, H
+   van den Bergh, H
+AF Houtkoop-Steenstra, H
+   van den Bergh, H
+TI Effects of introductions in large-scale telephone survey interviews
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+ID REFUSAL RATES; PARTICIPATE
+AB In this article, the effect of four different introductions on response rates in large-scale telephone surveys in the Netherlands is investigated Three standardized scripted introductions with different numbers of content elements, in addition to a fourth agenda-based introduction, were distinguished. In the latter the interviewers formulated their own introductions an the basis of a limited number of catchwords. A total of 1,831 first telephone calls by 132 interviewers were analyzed; only first calls were taken into account. In a multilevel model, the three standardized scripted introductions did not differ much with respect to response rates, appointment rates or refusal rates. However the agenda-based introduction induced both higher response rates and higher appointment rates and, therefore, lower refusal rates.
+C1 Utrecht Inst Linguist, Utrecht, Netherlands.
+RP Houtkoop-Steenstra, H (corresponding author), Utrecht Inst Linguist, Utrecht, Netherlands.
+NR 35
+TC 10
+Z9 11
+U1 0
+U2 3
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD FEB
+PY 2000
+VL 28
+IS 3
+BP 281
+EP 300
+DI 10.1177/0049124100028003002
+PG 20
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 280TZ
+UT WOS:000085121000002
+DA 2020-08-31
+ER
+
+PT J
+AU Allison, PD
+AF Allison, PD
+TI Multiple imputation for missing data - A cautionary tale
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+ID VALUES
+AB Two algorithms for producing multiple imputations for missing data are evaluated with simulated data. Software using a propensity score classifier with the approximate Bayesian bootstrap produces badly biased estimates of regression coefficients when data on predictor variables ape missing at random or missing completely at random. On the other hand a regression-based method employing the data augmentation algorithm produces estimates with little or no bias.
+C1 Univ Penn, Philadelphia, PA 19104 USA.
+RP Allison, PD (corresponding author), Univ Penn, Philadelphia, PA 19104 USA.
+RI Allison, Paul/A-1345-2007
+OI Allison, Paul/0000-0002-0646-5242
+NR 12
+TC 332
+Z9 341
+U1 2
+U2 27
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD FEB
+PY 2000
+VL 28
+IS 3
+BP 301
+EP 309
+DI 10.1177/0049124100028003003
+PG 9
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 280TZ
+UT WOS:000085121000003
+DA 2020-08-31
+ER
+
+PT J
+AU Pollock, G
+AF Pollock, G
+TI Special section on evolutionary game theory - Introduction
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Editorial Material
+C1 Univ Bonn, D-5300 Bonn, Germany.
+RP Pollock, G (corresponding author), Univ Bonn, D-5300 Bonn, Germany.
+NR 0
+TC 1
+Z9 1
+U1 0
+U2 1
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD FEB
+PY 2000
+VL 28
+IS 3
+BP 310
+EP 311
+DI 10.1177/0049124100028003004
+PG 2
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 280TZ
+UT WOS:000085121000004
+DA 2020-08-31
+ER
+
+PT J
+AU Araki, K
+   Low, H
+AF Araki, K
+   Low, H
+TI Noisy convention selection with local interaction
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+AB Stochastic evolutionary processes can be used to determine which equilibrium a society selects, but expected waiting times for the transition to such an equilibrium can be fantastically large. Waiting times are reduced if interaction is predominantly local or if the selection process is very noisy. This article uses simulation to study waiting times when interaction is local and selection is noisy simultaneously. Waiting times fall significantly, and increases in population size do not necessarily lead to increased waiting times. The form of local interaction is shown to be important to the effect on waiting times. The key to the speed of overall convergence is the speed of convergence of the first subgroup. Applications to the problem of convention selection rely on more frequent mistakes in learning,which weakens the selection result. The selection result is also weakened by local interaction.
+C1 Waseda Univ, Tokyo, Japan.
+   Univ Cambridge, Cambridge CB2 1TN, England.
+RP Araki, K (corresponding author), Waseda Univ, Tokyo, Japan.
+OI Low, Hamish/0000-0002-6064-9448
+NR 10
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD FEB
+PY 2000
+VL 28
+IS 3
+BP 312
+EP 340
+DI 10.1177/0049124100028003005
+PG 29
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 280TZ
+UT WOS:000085121000005
+DA 2020-08-31
+ER
+
+PT J
+AU Eshel, I
+   Herreiner, DK
+   Samuelson, L
+   Sansone, E
+   Shaked, A
+AF Eshel, I
+   Herreiner, DK
+   Samuelson, L
+   Sansone, E
+   Shaked, A
+TI Cooperation, mimesis, and local interaction
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+ID GAMES
+AB In a population with a local interaction structure, where individuals interact with their neighbors and leaning is by way of imitating a successful neighbor cooperation is shown to be a stable strategy that cannot easily be eliminated from the population.
+C1 Tel Aviv Univ, IL-69978 Tel Aviv, Israel.
+   Univ Bonn, D-5300 Bonn, Germany.
+   Univ Wisconsin, Madison, WI 53706 USA.
+   Univ Naples, I-80138 Naples, Italy.
+RP Eshel, I (corresponding author), Tel Aviv Univ, IL-69978 Tel Aviv, Israel.
+NR 9
+TC 8
+Z9 8
+U1 0
+U2 1
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD FEB
+PY 2000
+VL 28
+IS 3
+BP 341
+EP 364
+DI 10.1177/0049124100028003006
+PG 24
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 280TZ
+UT WOS:000085121000006
+DA 2020-08-31
+ER
+
+PT J
+AU Cooper, B
+   Wallace, C
+AF Cooper, B
+   Wallace, C
+TI The evolution of partnerships
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+AB In an evolutionary setting, players are allowed to choose not only their strategies for a particular game but also to some extent with whom they will play. This can lead to complex dynamics. Here, simulations are used to obtain some preliminary conclusions. It is shown that the ability to form fixed partnerships can enable players to coordinate on efficient outcomes. In scenarios where partnerships would lead to inefficient outcomes, they do not survive the evolutionary process.
+NR 14
+TC 4
+Z9 4
+U1 0
+U2 1
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD FEB
+PY 2000
+VL 28
+IS 3
+BP 365
+EP 381
+DI 10.1177/0049124100028003007
+PG 17
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 280TZ
+UT WOS:000085121000007
+DA 2020-08-31
+ER
+
+PT J
+AU Mahoney, J
+AF Mahoney, J
+TI Strategies of causal inference in small-N analysis
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+ID EVENT-STRUCTURE ANALYSIS; HISTORICAL SOCIOLOGY; QUALITATIVE-ANALYSIS;
+   RATIONAL CHOICE; BIG CONCLUSIONS; SOCIAL-SCIENCE; TIME; EXPLANATION;
+   REALISM
+AB Much debate concerning small-N analysis has centered on the question of whether this research tradition has powerful tools for assessing causality. Yet, recent contributions make it clear that scholars are not in consensus with regard to the more basic: issue of which procedures and underlying logic are in fact used in small-N causal assessment. Focusing on the field of comparative-historical analysis, this article attempts to clarify these procedures and logic. Methods associated with three major strategies of small-N causal inference are examined: nominal comparison, ordinal comparison, and within-case analysis. The article argues that the use of these three strategies within particular small-N studies has led scholars to reach radically divergent conclusions about the logic of causal analysis in small-N research. One implication of this argument is that methodologists must sort our the interrelationship between strategies of causal inference before arriving at conclusions about the overall strengths and limitations of small-N analysis.
+C1 Brown Univ, Providence, RI 02912 USA.
+RP Mahoney, J (corresponding author), Brown Univ, Providence, RI 02912 USA.
+NR 83
+TC 119
+Z9 122
+U1 1
+U2 39
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD MAY
+PY 2000
+VL 28
+IS 4
+BP 387
+EP 424
+DI 10.1177/0049124100028004001
+PG 38
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 310YA
+UT WOS:000086856100001
+DA 2020-08-31
+ER
+
+PT J
+AU Paik, H
+AF Paik, H
+TI Comments on neural networks
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Editorial Material
+ID GRADUATE STUDENT SUCCESS; DISCRIMINANT-ANALYSIS; ACADEMIC-ACHIEVEMENT;
+   CLASSIFICATION; DELINQUENCY; REGRESSION; VARIABLES; AMERICAN
+AB Although neural networks do offer a few advantages over some other nonlinear methods, in certain situations these advantages are difficult to utilize However; many neural network applications in the social sciences are flawed in ways that obfuscate such effects. In this article, the neural network methodology is reviewed some common flaws are pointed out, and a rather commonplace data set-dealing with school delinquency-is analyzed for illustrative purposes.
+C1 Univ Oklahoma, Dept Commun, Norman, OK 73019 USA.
+RP Paik, H (corresponding author), Univ Oklahoma, Dept Commun, Norman, OK 73019 USA.
+NR 52
+TC 2
+Z9 2
+U1 0
+U2 6
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD MAY
+PY 2000
+VL 28
+IS 4
+BP 425
+EP 453
+DI 10.1177/0049124100028004002
+PG 29
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 310YA
+UT WOS:000086856100002
+OA Green Published
+DA 2020-08-31
+ER
+
+PT J
+AU Ransom, MR
+AF Ransom, MR
+TI Sampling distributions of segregation indexes
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+ID GENDER
+AB This article examines the sampling distributions of popular indexes of segregation: the dissimilarity index and the Gini index. Although applications of segregation indexes are common in the social sciences, researchers have usually failed to recognize their stochastic nature This study addresses that failure by deriving the exact sampling distribution of two popular indexes of segregation and developing a convenient asymptotic test for hypotheses about changes in segregation. Monte Carlo simulations show that the proposed test has appropriate significance levels An example applies the methods developed in this article to test whether segregation of Men and women across college Majors decreased during the 1980s. The analysis finds that gender segregation has decreased and that the decrease is statistically significant.
+C1 Brigham Young Univ, Provo, UT 84602 USA.
+RP Ransom, MR (corresponding author), Brigham Young Univ, Provo, UT 84602 USA.
+RI Ransom, Michael R/F-6304-2011
+NR 15
+TC 29
+Z9 29
+U1 0
+U2 2
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD MAY
+PY 2000
+VL 28
+IS 4
+BP 454
+EP 475
+DI 10.1177/0049124100028004003
+PG 22
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 310YA
+UT WOS:000086856100003
+DA 2020-08-31
+ER
+
+PT J
+AU Mirowsky, J
+   Reynolds, JR
+AF Mirowsky, J
+   Reynolds, JR
+TI Age, depression, and attrition in the national survey of families and
+   households
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+ID SAMPLE SELECTION BIAS; SOCIOLOGICAL DATA; MORTALITY; MODELS; PANEL
+AB It might seem that following people over time provides the best indication of how people change with age, Sample attrition can undermine that assumption. This study describes the impact of health impairment, and depression on attrition in the Notional Survey of Families and Households. It analyzes the impact of that attrition on estimates of the age-specific changes in depression over a six-year period In doing so, it illustrates methods for assessing and perhaps correcting the effects of attrition. Results show that the cross-sectional relationship of baseline depression to age differs sharply for those who later drop out compared with those who stay in Much Of the difference, but not all, vanishes with adjustment for health and impairment. The probability of dropping out increases with poor health, impairment and depression at baseline. The impact of impairment and depression on attrition increases with age. Panel models that ignore the attrition imply that depression decreases in old age. Models that adjust for the hazard of attrition imply that depression riser by an amount that increases with age.
+C1 Ohio State Univ, Columbus, OH 43210 USA.
+   Florida State Univ, Tallahassee, FL 32306 USA.
+RP Mirowsky, J (corresponding author), Ohio State Univ, Columbus, OH 43210 USA.
+NR 33
+TC 48
+Z9 48
+U1 1
+U2 5
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD MAY
+PY 2000
+VL 28
+IS 4
+BP 476
+EP 504
+DI 10.1177/0049124100028004004
+PG 29
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 310YA
+UT WOS:000086856100004
+DA 2020-08-31
+ER
+
+PT J
+AU van der Heijden, PGM
+   van Gils, G
+   Bouts, J
+   Hox, JJ
+AF van der Heijden, PGM
+   van Gils, G
+   Bouts, J
+   Hox, JJ
+TI A comparison of randomized response, computer-assisted self-interview,
+   and face-to-face direct questioning - Eliciting sensitive information in
+   the context of welfare and unemployment benefit
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+ID DATA QUALITY; TAX EVASION; MODE
+AB This article assesses the validity of responses to sensitive questions using four different methods. In an experimental setting, the authors compared a computer-assisted self-interview (CASI), face-re-face direct questioning, and two different varieties of randomized response. All respondents interviewed had been identified as having committed welfare and unemployment benefit fraud. The interviewers did not know that respondents had been caught for fraud and the respondents did not know that the researchers had this information. The results are evaluated by comparing the percentage of false negatives. The authors also looked for variables that might explain why same respondents admit fraud and others do not. The proportions of respondents admitting fraud are relatively low, between 19 percent and 49 percent. The two randomized response conditions were superior in eliciting admissions of fraud. A number of background variables, notably gender; age, still receiving benefit, and duration and perception of fraud are related to admitting fraud Although the randomized response conditions performed much better than face-to-face direct questioning and CASI, the percentage of respondents admitting fraud is only around 50 percent. Some possible reasons for this are discussed.
+C1 Univ Utrecht, Fac Social Sci, NL-3508 TC Utrecht, Netherlands.
+   BeleidsOnderzoek Advies, Utrecht, Netherlands.
+RP van der Heijden, PGM (corresponding author), Univ Utrecht, Fac Social Sci, NL-3508 TC Utrecht, Netherlands.
+NR 54
+TC 106
+Z9 106
+U1 0
+U2 33
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD MAY
+PY 2000
+VL 28
+IS 4
+BP 505
+EP 537
+DI 10.1177/0049124100028004005
+PG 33
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 310YA
+UT WOS:000086856100005
+DA 2020-08-31
+ER
+
+PT J
+AU Abbott, A
+   Tsay, A
+AF Abbott, A
+   Tsay, A
+TI Sequence analysis and optimal matching methods in sociology - Review and
+   prospect
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+ID INFORMATION-SYSTEM DEVELOPMENT; DECISION-MAKING; ALIGNMENT; CAREERS;
+   EVENTS; AGREEMENT; PATTERNS; CAUSAL; TIME
+AB The authors review all known studies applying optimal matching or alignment(OM) techniques to social science sequence data. Issues of data, coding, temporality cost setting/algorithm design, and analytic strategies are considered and substantive findings are reviewed. The authors conclude that OM techniques have produced interesting results in a wide variety of areas, the most promising being studies of careers and of sequentially organized cultural artifacts.
+C1 Univ Chicago, Chicago, IL 60637 USA.
+RP Abbott, A (corresponding author), Univ Chicago, Chicago, IL 60637 USA.
+NR 48
+TC 330
+Z9 334
+U1 0
+U2 53
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD AUG
+PY 2000
+VL 29
+IS 1
+BP 3
+EP 33
+DI 10.1177/0049124100029001001
+PG 31
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 339HC
+UT WOS:000088470700001
+DA 2020-08-31
+ER
+
+PT J
+AU Levine, JH
+AF Levine, JH
+TI But what have you done for us lately? Commentary on Abbott and Tsay
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+C1 Dartmouth Coll, Hanover, NH 03755 USA.
+RP Levine, JH (corresponding author), Dartmouth Coll, Hanover, NH 03755 USA.
+NR 6
+TC 75
+Z9 76
+U1 0
+U2 4
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD AUG
+PY 2000
+VL 29
+IS 1
+BP 34
+EP 40
+DI 10.1177/0049124100029001002
+PG 7
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 339HC
+UT WOS:000088470700002
+DA 2020-08-31
+ER
+
+PT J
+AU Wu, LL
+AF Wu, LL
+TI Some comments on "sequence analysis and optimal matching methods in
+   sociology: Review and prospect"
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+ID PREMARITAL BIRTH; OCCUPATIONAL-STATUS; DISCRETE-TIME; FAMILY; MODELS;
+   EVENTS; HETEROGENEITY; RESEMBLANCE; HAZARDS; CAUSAL
+C1 Univ Wisconsin, Madison, WI 53706 USA.
+RP Wu, LL (corresponding author), Univ Wisconsin, Madison, WI 53706 USA.
+NR 49
+TC 124
+Z9 125
+U1 0
+U2 20
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+EI 1552-8294
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD AUG
+PY 2000
+VL 29
+IS 1
+BP 41
+EP 64
+DI 10.1177/0049124100029001003
+PG 24
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 339HC
+UT WOS:000088470700003
+DA 2020-08-31
+ER
+
+PT J
+AU Abbot, A
+AF Abbot, A
+TI Some comments on "sequence analysis and optimal matching methods in
+   sociology: Review and prospect" - Reply to Levine and Wu
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+ID CAUSAL
+C1 Univ Chicago, Chicago, IL 60637 USA.
+RP Abbot, A (corresponding author), Univ Chicago, Chicago, IL 60637 USA.
+NR 11
+TC 29
+Z9 29
+U1 0
+U2 15
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD AUG
+PY 2000
+VL 29
+IS 1
+BP 65
+EP 76
+DI 10.1177/0049124100029001004
+PG 12
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 339HC
+UT WOS:000088470700004
+DA 2020-08-31
+ER
+
+PT J
+AU Liu, X
+AF Liu, X
+TI Development of a structural hazard rate model in sociological research
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+ID SOCIAL SUPPORT; HOST-RESISTANCE; PATH-ANALYSIS; OLDER-PEOPLE; MORTALITY;
+   HEALTH; NETWORKS; TRANSITIONS; DYNAMICS; STRESS
+AB In this article, the author presents and develops a structural hazard rate model that takes into account the interrelationships of covariates and their effects on the hazard rate. In particular both a full model and a set of sequential reduced-form equations are specified. Whereas the full model Estimates only the direct effects of exogenous covariates on the hazard rate, the final reduced-form equation measures their total effects. From two adjacent models, the indirect influences of exogenous variables by means of intervening factors can be estimated and tested. The author also recognizes the prediction power derived from the full model, then uses it to estimate the prediction bias associated with reduced-from equations. Finally, an empirical example is provided to demonstrate this approach in sociological research.
+C1 Walter Reed Army Med Ctr, Washington, DC 20307 USA.
+RP Liu, X (corresponding author), Walter Reed Army Med Ctr, Washington, DC 20307 USA.
+NR 55
+TC 5
+Z9 5
+U1 0
+U2 4
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD AUG
+PY 2000
+VL 29
+IS 1
+BP 77
+EP 117
+DI 10.1177/0049124100029001005
+PG 41
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 339HC
+UT WOS:000088470700005
+DA 2020-08-31
+ER
+
+PT J
+AU Zeng, LC
+AF Zeng, LC
+TI A heteroscedastic generalized extreme value discrete choice model
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+ID MULTINOMIAL LOGIT MODEL; PROBIT MODELS; SPECIFICATION; ELECTIONS;
+   DECISIONS
+AB Of the commonly used discrete choice models, the probit class allows flexible covariance structures for disturbances but is computationally burdensome for problems with more than a few alternatives. The generalized extreme value (GEV) class, including the widely used logit and nested logit models, has the advantage of computational ease but suffers in general from the restriction of homoscedastic disturbances. This article generalizes the GEV class to allow heteroscedastic disturbances across decision makers as well as across choice alternatives. The resulting models include the heteroscedastic extreme value model as a special case, which is a generalized logit model, with heteroscedasticity across choice alternatives. Particular attention is paid to the heteroscedastic logit and nested logit models because of their widespread use in practice. An empirical application reanalyzing data from the 1980 presidential election tests the hypothesis of information-induced heteroscedasticity across voters and finds support for a heteroscedastic logit model that reveals stronger effects of voter information on the turnout decision than suggested by the original standard logit model in Ordeshook and Zeng.
+C1 George Washington Univ, Washington, DC 20052 USA.
+RP Zeng, LC (corresponding author), George Washington Univ, Washington, DC 20052 USA.
+NR 34
+TC 7
+Z9 7
+U1 0
+U2 5
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD AUG
+PY 2000
+VL 29
+IS 1
+BP 118
+EP 144
+DI 10.1177/0049124100029001006
+PG 27
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 339HC
+UT WOS:000088470700006
+DA 2020-08-31
+ER
+
+PT J
+AU Frank, KA
+AF Frank, KA
+TI Impact of a confounding variable on a regression coefficient
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Review
+ID STATISTICAL SIGNIFICANCE; CAUSAL INFERENCE; SOCIOECONOMIC ACHIEVEMENT;
+   UNITED-STATES; HIGH-SCHOOL; PSYCHOLOGY; MODELS; TESTS
+AB Regression coefficients cannot be interpreted as causal if the relationship can be attributed to an alternate mechanism. One may control for the alternate cause through an experiment(e.g., with random assignment to treatment and control) or by measuring a corresponding confounding variable and including it in the model. Unfortunately, there are some circumstances under which it is not possible to measure or control for the potentially confounding variable. Under these circumstances, it is helpful to assess the robustness of a statistical inference to the inclusion of a potentially confounding variable. In this article, an index is derived for quantifying the impact of a confounding variable on the inference of a regression coefficient. The index is developed for the bivariate care and then generalized to the multivariate case, and the distribution of the index is discussed. The index also is compared with existing indexes and procedures. An example is presented for the relationship between socioeconomic background and educational attainment, and a reference distribution for the index is obtained. The potential for the index to inform causal inferences is discussed as are extensions.
+C1 Michigan State Univ, E Lansing, MI 48824 USA.
+RP Frank, KA (corresponding author), Michigan State Univ, E Lansing, MI 48824 USA.
+NR 102
+TC 190
+Z9 190
+U1 3
+U2 24
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD NOV
+PY 2000
+VL 29
+IS 2
+BP 147
+EP 194
+DI 10.1177/0049124100029002001
+PG 48
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 364AW
+UT WOS:000089870700001
+DA 2020-08-31
+ER
+
+PT J
+AU Croon, MA
+   Bergsma, W
+   Hagenaars, JA
+AF Croon, MA
+   Bergsma, W
+   Hagenaars, JA
+TI Analyzing change in categorical variables by generalized log-linear
+   models
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+ID PANEL-DATA; RESPONSES
+AB This article discusses how several hypotheses about change in discrete variables can be rested on data obtained in a longitudinal study. A first class of hypotheses pertain to the invariance of certain characteristics of marginal distributions. A second class of hypotheses derive from assumptions about the causal relations between the variables. In this article, the authors show how all these hypotheses can be tested by means of a generalization of log-linear modeling developed by Lang and Agresti. By means of the same approach, it is also possible to test conjunctions of several hypotheses from both classes.
+C1 Tilburg Univ, Fac Social Sci, Dept Methodol, NL-5000 LE Tilburg, Netherlands.
+RP Croon, MA (corresponding author), Tilburg Univ, Fac Social Sci, Dept Methodol, NL-5000 LE Tilburg, Netherlands.
+OI Bergsma, Wicher/0000-0002-2422-2359
+NR 24
+TC 10
+Z9 10
+U1 0
+U2 0
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD NOV
+PY 2000
+VL 29
+IS 2
+BP 195
+EP 229
+DI 10.1177/0049124100029002002
+PG 35
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 364AW
+UT WOS:000089870700002
+DA 2020-08-31
+ER
+
+PT J
+AU Bassi, F
+   Hagenaars, JA
+   Croon, MA
+   Vermunt, JK
+AF Bassi, F
+   Hagenaars, JA
+   Croon, MA
+   Vermunt, JK
+TI Estimating true changes when categorical panel data are affected by
+   uncorrelated and correlated classification errors - An application to
+   unemployment data
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+ID LATENT CLASS ANALYSIS; CLASS MODELS; VARIABLES; FLOWS
+AB Conclusions about changes in categorical characteristics based on observed panel data can be incorrect when (even a small amount of) measurement error is present. Random measurement errors, referred to as independent classification errors, usually lead to over-estimation of the total amount of gross change, whereas systematic, correlated errors usually cause underestimation of the transitions. Furthermore, the patterns of true change may be seriously distorted by independent or systematic classification errors. Latent class models and directed log-linear analysis are excellent tools to correct for both independent and correlated measurement errors. An extensive example on labor market stares taken from the Survey of Income and Program Participation panel is presented.
+C1 Univ Padua, Dept Stat, I-35100 Padua, Italy.
+   Tilburg Univ, Dept Methodol, Fac Social Sci, NL-5000 LE Tilburg, Netherlands.
+   Tilburg Univ, Dept Methodol, Fac Social & Behav Sci, NL-5000 LE Tilburg, Netherlands.
+   Tilburg Univ, Work & Org Res Ctr, NL-5000 LE Tilburg, Netherlands.
+RP Bassi, F (corresponding author), Univ Padua, Dept Stat, I-35100 Padua, Italy.
+RI vermunt, jeroen k/K-3680-2012
+OI vermunt, jeroen k/0000-0001-9053-9330
+NR 86
+TC 19
+Z9 19
+U1 0
+U2 4
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+EI 1552-8294
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD NOV
+PY 2000
+VL 29
+IS 2
+BP 230
+EP 268
+DI 10.1177/0049124100029002003
+PG 39
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 364AW
+UT WOS:000089870700003
+DA 2020-08-31
+ER
+
+PT J
+AU Land, KC
+AF Land, KC
+TI Introduction to the special issue on finite mixture models
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Editorial Material
+ID POISSON REGRESSION; LATENT
+C1 Duke Univ, Durham, NC 27706 USA.
+RP Land, KC (corresponding author), Duke Univ, Durham, NC 27706 USA.
+NR 16
+TC 9
+Z9 9
+U1 0
+U2 3
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD FEB
+PY 2001
+VL 29
+IS 3
+BP 275
+EP 281
+DI 10.1177/0049124101029003001
+PG 7
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 394EP
+UT WOS:000166511400001
+DA 2020-08-31
+ER
+
+PT J
+AU McDermott, S
+   Nagin, DS
+AF McDermott, S
+   Nagin, DS
+TI Same or different? Comparing offender groups and covariates over time
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+ID ANTISOCIAL-BEHAVIOR; CRIMINAL CAREERS; TRAJECTORIES; DELINQUENCY;
+   POISSON
+AB Recent theoretical and empirical work in crhinology supports the classilification of individuals in criminal groups, where groups differ in the determinants of antisocial behavior and resulting trajectories of offending over rime. This article presents methods for finding distinctions between offender groups in key time-varying factors: measures of social control, negative parent labels, delinquent peers, and family structure. The authors use self-report data on 835 males from the National Youth Survey and apply group-based modeling to estimate three age-crime trajectories, corresponding to three offender groups. Emerging from the analysis is a view of offender groups, as defined by age-crime trajectories, that combines elements of typological and general theories of crime. Individuals in the sample, although widely dissimilar in their offending patterns, share common fundamental processes that influence their criminal behavior: However, the nature of that influence appears to differ according to the pattern of offending, that is, according to offender group.
+C1 Carnegie Mellon Univ, Pittsburgh, PA 15213 USA.
+RP McDermott, S (corresponding author), Carnegie Mellon Univ, Pittsburgh, PA 15213 USA.
+NR 17
+TC 24
+Z9 24
+U1 0
+U2 3
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD FEB
+PY 2001
+VL 29
+IS 3
+BP 282
+EP 318
+DI 10.1177/0049124101029003002
+PG 37
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 394EP
+UT WOS:000166511400002
+DA 2020-08-31
+ER
+
+PT J
+AU Brame, R
+   Mulvey, EP
+   Piquero, AR
+AF Brame, R
+   Mulvey, EP
+   Piquero, AR
+TI On the development of different kinds of criminal activity
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+ID POISSON REGRESSION-MODELS; EMPIRICAL APPLICATIONS; PROBLEM BEHAVIOR;
+   ADOLESCENCE; TRAJECTORIES; CAREERS; CRIMINOLOGY; DELINQUENCY;
+   AGGRESSION; ADULTHOOD
+AB Research has established that individuals who participate in one form of antisocial behavior are at relatively high risk of participating in other forms of antisocial behavior as well. In this article, the authors rely on recent methodological advances to study the longitudinal development of two different forms of antisocial behavior: serious violent offenses and other offenses. The results of their analysis of two Philadelphia birth cohorts suggest that trajectories of offending differ more in degree than in kind and that relative standing in the distribution of violent offending is associated with relative standing in the distribution of other types of offending activity
+C1 Univ Maryland, Dept Criminol & Criminal Justice, College Pk, MD 20742 USA.
+   Univ Pittsburgh, Sch Med, Western Psychiat Inst & Clin, Law & Psychiat Program, Pittsburgh, PA 15260 USA.
+   Northeastern Univ, Coll Criminal Justice, Boston, MA USA.
+RP Brame, R (corresponding author), Univ Maryland, Dept Criminol & Criminal Justice, College Pk, MD 20742 USA.
+RI Piquero, Alex R/B-2312-2013
+NR 41
+TC 52
+Z9 52
+U1 0
+U2 10
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD FEB
+PY 2001
+VL 29
+IS 3
+BP 319
+EP 341
+DI 10.1177/0049124101029003003
+PG 23
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 394EP
+UT WOS:000166511400003
+DA 2020-08-31
+ER
+
+PT J
+AU Land, KC
+   Nagin, DS
+   McCall, PL
+AF Land, KC
+   Nagin, DS
+   McCall, PL
+TI Discrete-time hazard regression models with hidden heterogeneity - The
+   semiparametric mixed Poisson regression approach
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article; Proceedings Paper
+CT 92nd Annual Meeting of the American-Sociological-Association
+CY AUG 09-13, 1997
+CL TORONTO, CANADA
+SP Amer Sociol Assoc
+ID MAXIMUM-LIKELIHOOD METHODS; CRIMINAL CAREERS; EMPIRICAL APPLICATIONS;
+   MIXTURE MODEL; LIFE-TABLES; COUNT DATA; DURATION; SPECIFICATION
+AB Previous methodological research has shown that hidden heterogeneity in hazard rate regression models-in the form of systematic differences between sample members in the risk or hazard of making a transition due to unobserved variables not accounted for by the measured covariates-can produce biased parameter estimates and erroneous inferences. However, few empirical applications of hazard regression do more than pay lip service to the complications of hidden heterogeneity. In part, this is due to the relative inaccessibility of the mathematical apparatus of continuous-time hazard regression methodology with flexible nonparametric specifications on the hidden heterogeneity This article presents new methods for incorporating nonparametric specifications of hidden heterogeneity into hazard regressions by developing discrete-time Poisson rate/complementary log-log hazard regression models with nonparametric hidden heterogeneity that are analogous to the continuous-rime models of Heckman and Singer: Maximum-likelihood estimators and associated hypothesis tests are described. An empirical application to data on criminal careers, which illustrates the utility of models that explicitly incorporate hidden heterogeneity, is presented.
+C1 Duke Univ, Durham, NC 27706 USA.
+   Carnegie Mellon Univ, H John Heinz III Sch Publ Policy & Management, Pittsburgh, PA 15213 USA.
+   N Carolina State Univ, Dept Anthropol & Sociol, Raleigh, NC 27695 USA.
+RP Land, KC (corresponding author), Duke Univ, Durham, NC 27706 USA.
+NR 50
+TC 17
+Z9 17
+U1 0
+U2 0
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD FEB
+PY 2001
+VL 29
+IS 3
+BP 342
+EP 373
+DI 10.1177/0049124101029003004
+PG 32
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 394EP
+UT WOS:000166511400004
+DA 2020-08-31
+ER
+
+PT J
+AU Jones, BL
+   Nagin, DS
+   Roeder, K
+AF Jones, BL
+   Nagin, DS
+   Roeder, K
+TI A SAS procedure based on mixture models for estimating developmental
+   trajectories
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+ID POISSON REGRESSION; ANTISOCIAL-BEHAVIOR; CRIMINAL CAREERS; LATENT;
+   ADOLESCENCE
+AB This article introduces a new SAS procedure written by the authors that analyzes longitudinal data (developmental trajectories by fitting a mixture model. The TRAJ procedure fits semiparametric (discrete) mixtures of censored normal, Poisson, zero-inflated Poisson, and Bernoulli distributions to longitudinal data. Applications to psychometric scale data, offense counts and a dichotomous prevalence measure in violence research are illustrated In addition, the use of the Bayesian information criterion to address the problem of model selection including the estimation of the number of components in the mixture, is demonstrated.
+C1 Carnegie Mellon Univ, Dept Stat, Pittsburgh, PA 15213 USA.
+   Carnegie Mellon Univ, H John Heinz III Sch Publ Policy & Management, Pittsburgh, PA 15213 USA.
+RP Jones, BL (corresponding author), Carnegie Mellon Univ, Dept Stat, Pittsburgh, PA 15213 USA.
+OI Roeder, Kathryn/0000-0002-8869-6254
+NR 35
+TC 1278
+Z9 1288
+U1 6
+U2 74
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD FEB
+PY 2001
+VL 29
+IS 3
+BP 374
+EP 393
+DI 10.1177/0049124101029003005
+PG 20
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 394EP
+UT WOS:000166511400005
+DA 2020-08-31
+ER
+
+PT J
+AU Agresti, A
+   Liu, I
+AF Agresti, A
+   Liu, I
+TI Strategies for modeling a categorical variable allowing multiple
+   category choices
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+ID LOG-LINEAR MODELS; LONGITUDINAL DATA; ITEM ANALYSIS; RESPONSES
+AB This article discusses strategies for modeling a categorical variable when subjects can select any subset of the categories. With c outcome categories, the models relate to a c-dimensional binary response, with each component indicating whether a particular category is chosen The strategies are the following: (I) Using logit models directly for the marginal distribution of each component; this accounts for dependence among the component responses but does not treat the dependence as an integral part of the model. (2) Using logit models containing subject random effects to generate the dependence among the components; this approach is limited by implying nonnegative associations having a certain exchangeability. (3) Using loglinear modeling; quasi-symmetric ones are useful but are limited to estimation of within-subject effects. Marginal logit models less fully describe the dependence patterns for the data but require fewer assumptions and focus more directly on the effects of greatest substantive interest.
+C1 Univ Florida, Dept Stat, Gainesville, FL 32611 USA.
+   Victoria Univ Wellington, Sch Math & Comp Sci, Wellington, New Zealand.
+RP Agresti, A (corresponding author), Univ Florida, Dept Stat, Gainesville, FL 32611 USA.
+OI Liu, Ivy/0000-0002-3152-2632
+NR 15
+TC 28
+Z9 28
+U1 0
+U2 6
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD MAY
+PY 2001
+VL 29
+IS 4
+BP 403
+EP 434
+DI 10.1177/0049124101029004001
+PG 32
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 421UC
+UT WOS:000168081100001
+DA 2020-08-31
+ER
+
+PT J
+AU Greve, HR
+   Tuma, NB
+   Strang, D
+AF Greve, HR
+   Tuma, NB
+   Strang, D
+TI Estimation of diffusion processes from incomplete data - A simulation
+   study
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article; Proceedings Paper
+CT 88th Annual Meeting of the American-Sociological-Association
+CY AUG 13-17, 1993
+CL MIAMI BEACH, FLORIDA
+SP Amer Sociol Assoc
+ID MODELS
+AB Event-history analysis of the diffusion of practices in a social system can show how actors are influenced by each other as well as by their own characteristics The presumption that complete data on the entire population are essential to draw valid inferences about diffusion processes has been a major limitation in empirical analyses and has precluded diffusion studies in large populations. The authors examine the impacts of several forms of incomplete data on estimation of the heterogeneous diffusion model proposed by Strang and Tuma. Left censoring causes bias, but right censoring leads to no noteworthy problems. Extensive time aggregation biases estimates of intrinsic propensities but not cross-case influences. Importantly, random sampling can yield good results on diffusion processes if there are supplementary data on influential cases outside the sample, The capability of obtaining good estimates from sampled diffusion histories should help to advance research on diffusion.
+C1 Univ Tsukuba, Tsukuba, Ibaraki 305, Japan.
+   Stanford Univ, Stanford, CA 94305 USA.
+   Cornell Univ, Ithaca, NY 14853 USA.
+RP Greve, HR (corresponding author), Univ Tsukuba, Tsukuba, Ibaraki 305, Japan.
+RI Greve, Henrich R./B-3655-2010
+OI Greve, Henrich R./0000-0002-7927-6573
+NR 31
+TC 12
+Z9 13
+U1 0
+U2 1
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD MAY
+PY 2001
+VL 29
+IS 4
+BP 435
+EP 467
+DI 10.1177/0049124101029004002
+PG 33
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 421UC
+UT WOS:000168081100002
+DA 2020-08-31
+ER
+
+PT J
+AU Chen, FN
+   Bollen, KA
+   Paxton, P
+   Curran, PJ
+   Kirby, JB
+AF Chen, FN
+   Bollen, KA
+   Paxton, P
+   Curran, PJ
+   Kirby, JB
+TI Improper solutions in structural equation models - Causes, consequences,
+   and strategies
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article; Proceedings Paper
+CT Annual Meeting of the Psychometric-Society
+CY JUN 24-27, 1999
+CL UNIV KANSAS, LAWRENCE, KANSAS
+SP Psychometr Soc
+HO UNIV KANSAS
+ID CONFIRMATORY FACTOR-ANALYSIS; COVARIANCE STRUCTURE-ANALYSIS;
+   IDENTIFICATION
+AB In this article, the authors examine the most common type of improper solutions: zero or negative error variances. They address the causes of consequences of; and strategies to handle these issues. Several hypotheses are evaluated using Monte Carlo simulation models, including two structural equation models with several misspecifications of each model Results suggested several unique findings. First, increasing numbers of omitted paths in the measurement model were associated with decreasing numbers of improper solutions. Second, bias in the parameter estimates,vas higher in samples with improper solutions than in samples including only proper solutions. Third investigation of the consequences of using constrained estimates in the presence of improper solutions indicated that inequality constraints helped some samples achieve convergence. Finally, the use of confidence intervals as well as four other proposed tests yielded similar results when testing whether the error variance,vas greater than or equal to zero.
+C1 Univ N Carolina, Dept Sociol, Chapel Hill, NC 27514 USA.
+   Ohio State Univ, Columbus, OH 43210 USA.
+RP Chen, FN (corresponding author), Univ N Carolina, Dept Sociol, CB 3210, Chapel Hill, NC 27514 USA.
+NR 24
+TC 228
+Z9 231
+U1 1
+U2 22
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD MAY
+PY 2001
+VL 29
+IS 4
+BP 468
+EP 508
+DI 10.1177/0049124101029004003
+PG 41
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 421UC
+UT WOS:000168081100003
+DA 2020-08-31
+ER
+
+PT J
+AU Pickery, J
+   Loosveldt, G
+   Carton, A
+AF Pickery, J
+   Loosveldt, G
+   Carton, A
+TI The effects of interviewer and respondent characteristics on response
+   behavior in panel surveys - A multilevel approach
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+ID MODEL; PARTICIPATE
+AB Unit nonresponse in the second wave of a panel survey is related to several respondent characteristics and to the interviewer of that wave. More striking is the effect of the interviewer of the first wave, who is not involved in the second interview. To analyze both interviewer effects simultaneously, the authors use a multilevel cross-classified model. In. that analysis, the effect of the interviewer of the second wave almost disappears. That effect turns out to be at least partly spurious due to a correlation of both interviewer effects. The authors conclude that the interviewer of the first interview is very important regarding participation in the subsequent waves of a panel survey.
+C1 Katholieke Univ Leuven, Dept Sociol, Louvain, Belgium.
+RP Pickery, J (corresponding author), Katholieke Univ Leuven, Dept Sociol, Louvain, Belgium.
+NR 28
+TC 54
+Z9 54
+U1 0
+U2 9
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD MAY
+PY 2001
+VL 29
+IS 4
+BP 509
+EP 523
+DI 10.1177/0049124101029004004
+PG 15
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 421UC
+UT WOS:000168081100004
+DA 2020-08-31
+ER
+
+PT J
+AU van Driel, K
+   Oosterveld, P
+AF van Driel, K
+   Oosterveld, P
+TI Nonoptimal alignment - A comment on "Measuring the agreement between
+   sequences" by Dijkstra and Taris
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+ID STRING CORRECTION PROBLEM
+AB An algorithm to measure agreement between sequences as proposed by Dijkstra and Tan's is discussed. It is concluded that the "optimal alignment" algorithm does nor necessarily produce the optimal solution, that is, the minimal distance between two sequences.
+C1 Delft Univ Technol, OTB Res Inst, NL-2600 AA Delft, Netherlands.
+RP van Driel, K (corresponding author), Delft Univ Technol, OTB Res Inst, NL-2600 AA Delft, Netherlands.
+RI Oosterveld, Paul/D-3455-2012
+NR 10
+TC 3
+Z9 3
+U1 0
+U2 0
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD MAY
+PY 2001
+VL 29
+IS 4
+BP 524
+EP 531
+DI 10.1177/0049124101029004005
+PG 8
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 421UC
+UT WOS:000168081100005
+DA 2020-08-31
+ER
+
+PT J
+AU Dijkstra, W
+AF Dijkstra, W
+TI How to measure the agreement between sequences - A comment
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+ID HIDDEN MARKOV-MODELS
+AB Some problems of optimal alignment procedures to measure the agreement between sequences are discussed. Hidden Markov models; may be a new approach that is especially suited for grouping sequences that are more or less alike.
+C1 Vrije Univ Amsterdam, Dept Social Res Methodol, Amsterdam, Netherlands.
+RP Dijkstra, W (corresponding author), Vrije Univ Amsterdam, Dept Social Res Methodol, Amsterdam, Netherlands.
+NR 8
+TC 2
+Z9 2
+U1 0
+U2 0
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD MAY
+PY 2001
+VL 29
+IS 4
+BP 532
+EP 535
+DI 10.1177/0049124101029004006
+PG 4
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 421UC
+UT WOS:000168081100006
+DA 2020-08-31
+ER
+
+PT J
+AU Snijders, TAB
+   Hagenaars, JA
+AF Snijders, TAB
+   Hagenaars, JA
+TI Guest editors' introduction to the special issue on causality at work
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Editorial Material
+C1 Univ Groningen, NL-9700 AB Groningen, Netherlands.
+   Tilburg Univ, Fac Social Sci, NL-5000 LE Tilburg, Netherlands.
+RP Snijders, TAB (corresponding author), Univ Groningen, NL-9700 AB Groningen, Netherlands.
+RI Snijders, Tom/F-2896-2012
+OI Snijders, Tom/0000-0003-3157-4157
+NR 22
+TC 11
+Z9 11
+U1 0
+U2 0
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD AUG
+PY 2001
+VL 30
+IS 1
+BP 3
+EP 10
+DI 10.1177/0049124101030001001
+PG 8
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 456FN
+UT WOS:000170072600001
+OA Green Published
+DA 2020-08-31
+ER
+
+PT J
+AU Saris, WE
+AF Saris, WE
+TI The strength of the causal relationship between living conditions and
+   satisfaction
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article; Proceedings Paper
+CT 14th World Congress of Sociology
+CY JUL 26-AUG 01, 1998
+CL UNIV MONTREAL, MONTREAL, CANADA
+HO UNIV MONTREAL
+ID ERROR; LIFE
+AB This article attempts to explicate the subjective variable satisfaction with life in general by means of the objective variable income. The reason for this study is that, so far the objective living conditions have been found to have little effect on the subjective feelings of people. Several different approaches have been used to estimate the strength of this relationship. First, correction for measurement errors was tried, then an alternative formulation of the relationship was tested using difference scores instead of the original variables. Next, nonlinear relationships between these variables were introduced. None of these methods led to any substantial strengthening of the relationship, Finally, a model was tested controlling for lagged variables and correcting for measurement errors in a panel design. The combination of these changes led to a considerable effect of the objective variable on satisfaction. This article shows how biased estimates of relationships can be. A specific combination of approaches led to a fundamentally different result.
+C1 Univ Amsterdam, Fac Social & Behav Sci, NL-1012 WX Amsterdam, Netherlands.
+RP Saris, WE (corresponding author), Univ Amsterdam, Fac Social & Behav Sci, NL-1012 WX Amsterdam, Netherlands.
+EM Saris@PSCW.UvA.nl
+NR 31
+TC 7
+Z9 7
+U1 0
+U2 1
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD AUG
+PY 2001
+VL 30
+IS 1
+BP 11
+EP 34
+DI 10.1177/0049124101030001002
+PG 24
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 456FN
+UT WOS:000170072600002
+DA 2020-08-31
+ER
+
+PT J
+AU van der Zouwen, J
+   van Tilburg, T
+AF van der Zouwen, J
+   van Tilburg, T
+TI Reactivity in panel studies and its consequences for testing causal
+   hypotheses
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article; Proceedings Paper
+CT 14th World Congress of Sociology
+CY JUL 26-AUG 01, 1998
+CL MONTREAL, CANADA
+ID PERSONAL NETWORK SIZE; VALIDITY; ATTITUDE; BEHAVIOR
+AB The procedure of standardized repeated measurement, as used in panel studies, may hamper the quality of the data, due to the potential "reactivity" of survey interviewing on respondents' attitudes and behavior In case respondents are interviewed in subsequent waves by different interviewers, differential interviewer effects may occur These threats to data quality are illustrated with data from a longitudinal study among 2,819 older adults, conducted in the Netherlands. From an analysis of 100 interview protocols, it appears that the behavior of the interviewers has a significant impact on the data obtained. On one hand. interviewers seem to adjust their interviewing strategy to a norm regarding a "normal" personal network and, on the other hand, to a norm about the appropriate interviewing time. Suggestions are formulated to prevent misestimating actual change within respondents over time, leading to incorrect conclusions about causal relationships.
+C1 Vrije Univ Amsterdam, Dept Social Res Methodol, NL-1081 HV Amsterdam, Netherlands.
+RP van der Zouwen, J (corresponding author), Vrije Univ Amsterdam, Dept Social Res Methodol, De Boelelaan 1085, NL-1081 HV Amsterdam, Netherlands.
+RI van Tilburg, Theo G/F-1269-2010
+OI van Tilburg, Theo G/0000-0002-1005-6732
+NR 30
+TC 17
+Z9 17
+U1 0
+U2 5
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD AUG
+PY 2001
+VL 30
+IS 1
+BP 35
+EP 56
+DI 10.1177/0049124101030001003
+PG 22
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 456FN
+UT WOS:000170072600003
+DA 2020-08-31
+ER
+
+PT J
+AU Abell, P
+AF Abell, P
+TI Causality and low-frequency complex events - The role of comparative
+   narratives
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article; Proceedings Paper
+CT 14th World Congress of Sociology
+CY JUL 26-AUG 01, 1998
+CL UNIV MONTREAL, MONTREAL, CANADA
+HO UNIV MONTREAL
+AB This article seeks to describe complex events (often occurring at low frequency) where standard statistical modeling of causality is not likely to prove feasible. Such events are perhaps best analyzed using the method of comparative narratives, which relies on an internal model of causality.
+C1 Univ London London Sch Econ & Polit Sci, Interdisciplinary Inst Management, London WC2A 2AE, England.
+RP Abell, P (corresponding author), Univ London London Sch Econ & Polit Sci, Interdisciplinary Inst Management, London WC2A 2AE, England.
+NR 23
+TC 19
+Z9 19
+U1 0
+U2 5
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+EI 1552-8294
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD AUG
+PY 2001
+VL 30
+IS 1
+BP 57
+EP 80
+DI 10.1177/0049124101030001004
+PG 24
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 456FN
+UT WOS:000170072600004
+DA 2020-08-31
+ER
+
+PT J
+AU Doreian, P
+AF Doreian, P
+TI Causality in social network analysis
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article; Proceedings Paper
+CT 14th World Congress of Sociology
+CY JUL 26-AUG 01, 1998
+CL MONTREAL, CANADA
+ID MODELS; GRAPHS
+AB The role that causality can play in social network analysis is unclear The author provides a broad characterization of social network analysis before considering the nature of causality. He distinguishes four types of causality: system causality, statistical causality, mechanism causality and algorithmic causality Their potential places in network analysis are discussed Understanding generative mechanisms-be they system, mechanism, or algorithmic-seems the most promising way to proceed. The role of statistical causality is a source of potential data analytic tools that can be mobilized within analyses conducted in the spirit of the other three types of causality.
+C1 Univ Pittsburgh, Dept Sociol, Pittsburgh, PA 15260 USA.
+RP Doreian, P (corresponding author), Univ Pittsburgh, Dept Sociol, Pittsburgh, PA 15260 USA.
+NR 56
+TC 34
+Z9 35
+U1 0
+U2 8
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD AUG
+PY 2001
+VL 30
+IS 1
+BP 81
+EP 114
+DI 10.1177/0049124101030001005
+PG 34
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 456FN
+UT WOS:000170072600005
+DA 2020-08-31
+ER
+
+PT J
+AU Becker, HS
+AF Becker, HS
+TI Ethnography through thick and thin.
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Book Review
+NR 10
+TC 0
+Z9 0
+U1 0
+U2 2
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD AUG
+PY 2001
+VL 30
+IS 1
+BP 115
+EP 117
+DI 10.1177/0049124101030001007
+PG 3
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 456FN
+UT WOS:000170072600006
+DA 2020-08-31
+ER
+
+PT J
+AU Liao, TF
+AF Liao, TF
+TI Sociological methodology 1999.
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Book Review
+C1 Univ Essex, Colchester CO4 3SQ, Essex, England.
+   Univ Illinois, Chicago, IL 60680 USA.
+RP Liao, TF (corresponding author), Univ Essex, Colchester CO4 3SQ, Essex, England.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD AUG
+PY 2001
+VL 30
+IS 1
+BP 117
+EP 120
+DI 10.1177/0049124101030001008
+PG 4
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 456FN
+UT WOS:000170072600007
+DA 2020-08-31
+ER
+
+PT J
+AU Winship, C
+AF Winship, C
+TI A primer on regression artifacts.
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Book Review
+C1 Harvard Univ, Cambridge, MA 02138 USA.
+RP Winship, C (corresponding author), Harvard Univ, Cambridge, MA 02138 USA.
+NR 4
+TC 0
+Z9 0
+U1 0
+U2 1
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD AUG
+PY 2001
+VL 30
+IS 1
+BP 120
+EP 122
+DI 10.1177/0049124101030001009
+PG 3
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 456FN
+UT WOS:000170072600008
+DA 2020-08-31
+ER
+
+PT J
+AU Halaby, CN
+AF Halaby, CN
+TI Models for repeated measurements, 2nd edition.
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Book Review
+C1 Univ Wisconsin, Madison, WI 53706 USA.
+RP Halaby, CN (corresponding author), Univ Wisconsin, Madison, WI 53706 USA.
+NR 2
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD AUG
+PY 2001
+VL 30
+IS 1
+BP 122
+EP 124
+DI 10.1177/0049124101030001010
+PG 3
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 456FN
+UT WOS:000170072600009
+DA 2020-08-31
+ER
+
+PT J
+AU Stine, RA
+AF Stine, RA
+TI Bootstrap methods and their application.
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Book Review
+C1 Univ Penn, Philadelphia, PA 19104 USA.
+RP Stine, RA (corresponding author), Univ Penn, Philadelphia, PA 19104 USA.
+NR 5
+TC 2
+Z9 2
+U1 1
+U2 11
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD AUG
+PY 2001
+VL 30
+IS 1
+BP 124
+EP 126
+DI 10.1177/0049124101030001011
+PG 3
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 456FN
+UT WOS:000170072600010
+DA 2020-08-31
+ER
+
+PT J
+AU Stine, RA
+AF Stine, RA
+TI Subsampling.
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Book Review
+C1 Univ Penn, Philadelphia, PA 19104 USA.
+RP Stine, RA (corresponding author), Univ Penn, Philadelphia, PA 19104 USA.
+NR 2
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD AUG
+PY 2001
+VL 30
+IS 1
+BP 126
+EP 128
+DI 10.1177/0049124101030001012
+PG 3
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 456FN
+UT WOS:000170072600011
+DA 2020-08-31
+ER
+
+PT J
+AU Maney, GM
+   Oliver, PE
+AF Maney, GM
+   Oliver, PE
+TI Finding collective events - Sources, searches, timing
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+ID PROTEST; CONFLICT; SELECTION; COVERAGE
+AB Researchers collecting data on collective events have often relied on ad hoc procedures and untested assumptions. A detailed comparison of different sources and data-gathering strategies for one month of events in one city challenges several assumptions made in prior studies. Police agencies and news sources have their own logics of jurisdiction, producing both incomplete and selective records of collective events. Different strategies for searching newspapers for stories about events yield very different results. News items about events do not occur at the same time as the events but are dispersed around them. All three of these patterns vary greatly from source to source and locale to locale. Comparisons of research findings between localities must more explicitly consider these selection issues. All data collection projects need to include methodological analyses of selection structures in their particular cases so that there can be some basis for comparison between studies.
+C1 Hofstra Univ, Hempstead, NY 11550 USA.
+   Univ Wisconsin, Madison, WI 53706 USA.
+RP Maney, GM (corresponding author), Hofstra Univ, Hempstead, NY 11550 USA.
+RI Oliver, Pamela/K-9949-2016
+OI Oliver, Pamela/0000-0001-7643-1008
+NR 23
+TC 32
+Z9 32
+U1 0
+U2 2
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+EI 1552-8294
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD NOV
+PY 2001
+VL 30
+IS 2
+BP 131
+EP 169
+DI 10.1177/0049124101030002001
+PG 39
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 487BP
+UT WOS:000171854000001
+DA 2020-08-31
+ER
+
+PT J
+AU Vermunt, JK
+   Rodrigo, MF
+   Ato-Garcia, M
+AF Vermunt, JK
+   Rodrigo, MF
+   Ato-Garcia, M
+TI Modeling joint and marginal distributions in the analysis of categorical
+   panel data
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+ID LOG-LINEAR MODELS; ASSOCIATION
+AB This article presents a unifying approach to the analysis of repeated univariate categorical (ordered) responses based on the application of the generalized log-linear modeling framework proposed by Lang and Agresti. It is shown that three important research questions in longitudinal studies can be addressed simultaneously. These questions are the following: What is the overall dependence structure of the repeated responses? What is the structure of the change between consecutive time points? and What is the structure of the change in the marginal distributions? Each of these questions involves specifying log-linear models for different marginal distributions of the multiway cross classification of the responses. The proposed approach is illustrated by means of two real data examples.
+C1 Tilburg Univ, Fac Social & Behav Sci, Dept Methodol & Stat, NL-5000 LE Tilburg, Netherlands.
+   Univ Valencia, Fac Psychol, Dept Methodol, E-46003 Valencia, Spain.
+   Univ Murcia, Fac Psychol, Dept Expt Psychol & Methodol, E-30001 Murcia, Spain.
+RP Vermunt, JK (corresponding author), Tilburg Univ, Fac Social & Behav Sci, Dept Methodol & Stat, NL-5000 LE Tilburg, Netherlands.
+RI vermunt, jeroen k/K-3680-2012
+OI vermunt, jeroen k/0000-0001-9053-9330; Rodrigo, Maria
+   F/0000-0002-9209-7377
+NR 31
+TC 13
+Z9 13
+U1 1
+U2 3
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+EI 1552-8294
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD NOV
+PY 2001
+VL 30
+IS 2
+BP 170
+EP 196
+DI 10.1177/0049124101030002002
+PG 27
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 487BP
+UT WOS:000171854000002
+DA 2020-08-31
+ER
+
+PT J
+AU Wong, RSK
+AF Wong, RSK
+TI Multidimensional association models - A multilinear approach
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article; Proceedings Paper
+CT International-Sociological-Association-Reseach-Committee on Social
+   Stratification
+CY AUG, 1999
+CL MADISON, WI
+SP Int Sociol Assoc
+ID LATENT STRUCTURE-ANALYSIS; CONTINGENCY-TABLES; CROSS-CLASSIFICATIONS;
+   MOBILITY; EXTENSIONS; CATEGORIES; UNIQUENESS
+AB This article develops several multidimensional multilinear association models for sociologists and other social science researchers to analyze the relationship between categorical variables in multiway cross-classification tables. The proposed multilinear approach not only provides satisfactory fit by conventional standards in the illustrative examples but also offers better understanding of the complex relationship between variables. This study highlights the relationship between two alternative decompositions in the multilinear framework-the PARAFAC/CANDECOMP and the Tucker 3-mode methods to decompose log-linear parameters-as well as the relationship between the multilinear approach and the log-multiplicative association models developed by Goodman and others. In addition, the author discusses empirical strategies to determine whether some or all cross-dimensional and other identifying restrictions can be relaxed in certain restricted models and to account for the proper degrees of freedom for these models.
+C1 Univ Calif Santa Barbara, Santa Barbara, CA 93106 USA.
+RP Wong, RSK (corresponding author), Univ Calif Santa Barbara, Santa Barbara, CA 93106 USA.
+EM wong@soc.ucsb.edu
+OI Wong, Raymond Sin-Kwok/0000-0003-2920-5117
+NR 49
+TC 9
+Z9 9
+U1 0
+U2 4
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+EI 1552-8294
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD NOV
+PY 2001
+VL 30
+IS 2
+BP 197
+EP 240
+DI 10.1177/0049124101030002003
+PG 44
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 487BP
+UT WOS:000171854000003
+DA 2020-08-31
+ER
+
+PT J
+AU Maassen, GH
+   Bakker, AB
+AF Maassen, GH
+   Bakker, AB
+TI Suppressor variables in path models - Definitions and interpretations
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+ID REGRESSION
+AB Suppressor variables are well known in the context of multiple regression analysis. Using several examples, the authors demonstrate that the different forms of the suppressor phenomenon described in the literature occur not only in prediction equations but also in the explanatory use of multiple regression, including structural equations models. Moreover they show that the probability of their occurrence is relatively high in models with latent variables, in which the suppressed variable is corrected for measurement errors. Special attention will be paid to the two-wave model since this is particularly liable to the suppressor phenomenon. The occurrence of suppression in structural equations models is usually not foreseen and confronts researchers with problems of interpretation. The authors discuss definitions of the suppressor phenomenon, show how the unwary researcher can be warned against it, and present guidelines for the interpretation of the results.
+C1 Univ Utrecht, Fac Social Sci, Dept Methodol & Stat, NL-3508 TC Utrecht, Netherlands.
+   Univ Utrecht, Dept Social & Org Psychol, NL-3508 TC Utrecht, Netherlands.
+RP Maassen, GH (corresponding author), Univ Utrecht, Fac Social Sci, Dept Methodol & Stat, NL-3508 TC Utrecht, Netherlands.
+RI Bakker, Arnold B./F-8494-2010
+OI Bakker, Arnold B./0000-0003-1489-1847
+NR 26
+TC 238
+Z9 244
+U1 2
+U2 21
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD NOV
+PY 2001
+VL 30
+IS 2
+BP 241
+EP 270
+DI 10.1177/0049124101030002004
+PG 30
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 487BP
+UT WOS:000171854000004
+DA 2020-08-31
+ER
+
+PT J
+AU Teachman, J
+   Duncan, GJ
+   Yeung, WJ
+   Levy, D
+AF Teachman, J
+   Duncan, GJ
+   Yeung, WJ
+   Levy, D
+TI Covariance structure models for fixed and random effects
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+ID WAGES
+AB Fixed- and random-effects models are often used to control for unmeasured person-specific effects when examining the influence of measured covariates on an outcome. To date, different estimators are used for fixed- and random-effects models, making it difficult to choose between these two alternatives. In this article, the authors outline a covariance-structure model that captures both fixed and random effects and provides a simple test for comparing them.
+C1 Western Washington Univ, Dept Sociol, Bellingham, WA 98225 USA.
+   Northwestern Univ, Evanston, IL 60208 USA.
+   Univ Michigan, Ann Arbor, MI 48109 USA.
+RP Teachman, J (corresponding author), Western Washington Univ, Dept Sociol, Bellingham, WA 98225 USA.
+RI Yeung, Wei-Jun Jean/AAI-3931-2020; Yeung, Wei-Jun/D-7661-2015
+OI Yeung, Wei-Jun Jean/0000-0001-7519-5576; 
+NR 19
+TC 20
+Z9 20
+U1 0
+U2 6
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+EI 1552-8294
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD NOV
+PY 2001
+VL 30
+IS 2
+BP 271
+EP 288
+DI 10.1177/0049124101030002005
+PG 18
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 487BP
+UT WOS:000171854000005
+DA 2020-08-31
+ER
+
+PT J
+AU Amenta, E
+AF Amenta, E
+TI Fuzzy-set social science.
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Book Review
+C1 NYU, New York, NY 10016 USA.
+RP Amenta, E (corresponding author), NYU, 550 1St Ave, New York, NY 10016 USA.
+NR 3
+TC 0
+Z9 0
+U1 0
+U2 4
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD NOV
+PY 2001
+VL 30
+IS 2
+BP 289
+EP 291
+DI 10.1177/0049124101030002006
+PG 3
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 487BP
+UT WOS:000171854000006
+DA 2020-08-31
+ER
+
+PT J
+AU Kostello, E
+AF Kostello, E
+TI The basics of S and S-PLUS, 2d edition.
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Book Review
+C1 Yale Univ, New Haven, CT 06520 USA.
+RP Kostello, E (corresponding author), Yale Univ, New Haven, CT 06520 USA.
+NR 3
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD NOV
+PY 2001
+VL 30
+IS 2
+BP 291
+EP 292
+DI 10.1177/0049124101030002007
+PG 2
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 487BP
+UT WOS:000171854000007
+DA 2020-08-31
+ER
+
+PT J
+AU Hoff, P
+AF Hoff, P
+TI S programming.
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Book Review
+C1 Univ Washington, Seattle, WA 98195 USA.
+RP Hoff, P (corresponding author), Univ Washington, Seattle, WA 98195 USA.
+RI Hoff, Peter/H-4040-2011
+NR 1
+TC 1
+Z9 1
+U1 2
+U2 17
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD NOV
+PY 2001
+VL 30
+IS 2
+BP 293
+EP 295
+DI 10.1177/0049124101030002008
+PG 3
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 487BP
+UT WOS:000171854000009
+DA 2020-08-31
+ER
+
+PT J
+AU Hoff, P
+AF Hoff, P
+TI Modern applied statistics with S-PLUS.
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Book Review
+C1 Univ Washington, Seattle, WA 98195 USA.
+RP Hoff, P (corresponding author), Univ Washington, Seattle, WA 98195 USA.
+RI Hoff, Peter/H-4040-2011
+NR 1
+TC 1
+Z9 1
+U1 2
+U2 17
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD NOV
+PY 2001
+VL 30
+IS 2
+BP 293
+EP 295
+DI 10.1177/0049124101030002008
+PG 3
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 487BP
+UT WOS:000171854000008
+DA 2020-08-31
+ER
+
+PT J
+AU Heeringa, SG
+AF Heeringa, SG
+TI Sampling of populations: Methods and applications, 3rd edition
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Book Review
+C1 Univ Michigan, Ann Arbor, MI 48109 USA.
+RP Heeringa, SG (corresponding author), Univ Michigan, Ann Arbor, MI 48109 USA.
+NR 3
+TC 0
+Z9 0
+U1 1
+U2 1
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD NOV
+PY 2001
+VL 30
+IS 2
+BP 295
+EP 297
+DI 10.1177/0049124101030002009
+PG 3
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 487BP
+UT WOS:000171854000010
+DA 2020-08-31
+ER
+
+PT J
+AU Akritas, MG
+   Osgood, DW
+AF Akritas, MG
+   Osgood, DW
+TI Guest editors' introduction to the special issue on nonparametric models
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Editorial Material
+ID FACTORIAL-DESIGNS; RANK STATISTICS; HYPOTHESES; VARIANCE
+C1 Penn State Univ, Dept Stat, University Pk, PA 16802 USA.
+RP Akritas, MG (corresponding author), Penn State Univ, Dept Stat, University Pk, PA 16802 USA.
+RI Osgood, D. Wayne/L-4042-2019
+OI Osgood, D. Wayne/0000-0003-4794-0158
+NR 32
+TC 1
+Z9 1
+U1 0
+U2 0
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+EI 1552-8294
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD FEB
+PY 2002
+VL 30
+IS 3
+BP 303
+EP 308
+DI 10.1177/0049124102030003001
+PG 6
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 512AK
+UT WOS:000173298800001
+DA 2020-08-31
+ER
+
+PT J
+AU Du, YL
+   Akritas, MG
+   Arnold, SF
+   Osgood, DW
+AF Du, YL
+   Akritas, MG
+   Arnold, SF
+   Osgood, DW
+TI Nonparametric analysis of adolescent deviant behavior
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+ID FACTORIAL-DESIGNS; HYPOTHESES; STATISTICS; TESTS
+AB The impact of certain personal characteristics on marijuana use while controlling for routine activities in everyday life is analyzed. The assumptions underlying several logistic regression models, as well as the parametric analysis of covariance (ANCOVA) model, are violated in this example. More critical from the practical point of view is the fact that the covariate is measured on an ordinal (noninterval) scale, implying that the results from such analyses depend on the chosen scale. The analysis of main effects and interactions while accounting for the presence of the covariate rising this nonparametric model is compared with similar analyses using the parametric ANCOVA and logistic regression models. The formal analysis is supplemented by, new exploratory data analysis plots. Significance tests for certain ordered and other patterned alternatives are proposed and evaluated via simulations. Results are compared with those rising logistic regression models treating the levels of the factors as ordinal.
+C1 Columbia Univ, Mailman Sch Publ Hlth, Dept Biostat, New York, NY 10027 USA.
+   Penn State Univ, Dept Stat, University Pk, PA 16802 USA.
+RP Du, YL (corresponding author), Columbia Univ, Mailman Sch Publ Hlth, Dept Biostat, New York, NY 10027 USA.
+RI Osgood, D. Wayne/L-4042-2019
+OI Osgood, D. Wayne/0000-0003-4794-0158
+NR 19
+TC 3
+Z9 3
+U1 0
+U2 5
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD FEB
+PY 2002
+VL 30
+IS 3
+BP 309
+EP 340
+DI 10.1177/0049124102030003002
+PG 32
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 512AK
+UT WOS:000173298800002
+DA 2020-08-31
+ER
+
+PT J
+AU Choi, K
+   Marden, J
+AF Choi, K
+   Marden, J
+TI Multivariate analysis of variance using spatial ranks
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+ID FACTORIAL-DESIGNS; QUANTILES; TESTS
+AB The authors consider multivariate analysis of variance procedures based on the multivariate spatial ranks. Two models are considered: the location family model and the fully nonparametric model. Procedures for testing main and interaction effects are given for the 2 x 2 layout.
+C1 Hongik Univ, Jochiwon, South Korea.
+   Univ Illinois, Urbana, IL 61801 USA.
+RP Choi, K (corresponding author), Hongik Univ, Jochiwon, South Korea.
+NR 14
+TC 2
+Z9 2
+U1 0
+U2 0
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+EI 1552-8294
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD FEB
+PY 2002
+VL 30
+IS 3
+BP 341
+EP 366
+DI 10.1177/0049124102030003003
+PG 26
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 512AK
+UT WOS:000173298800003
+DA 2020-08-31
+ER
+
+PT J
+AU Domhof, S
+   Brunner, E
+   Osgood, DW
+AF Domhof, S
+   Brunner, E
+   Osgood, DW
+TI Rank procedures for repeated measures with missing values
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+ID REPEATED-MEASURES DESIGNS; FACTORIAL-DESIGNS; UNIFIED APPROACH; TESTS;
+   MULTIVARIATE
+AB This article presents a nonparametric approach to analyzing research designs that include repeated observations on the same set of individuals or units, such as longitudinal panel studies. The data collected from different individuals are generally assumed to be independent, while several observations from the same individual or unit may, be dependent. The approach suggested in this study is nonparametric in the sense that only the distribution functions are used to define the treatment effects, and suggested procedures are extensions of well-established rank order methods. Missing observations are especially common in studies with repeated measures, and three strategies Jar addressing this problem are compared: complete case analysis, last observation carried forward, and complete set analysis. The authors demonstrate these methods with an analysis of age trends and sex differences in alcohol consumption in a sample of U.S. adolescents who completed questionnaires four times in the 7th through 10th grades.
+C1 Univ Gottingen, Dept Med Stat, D-3400 Gottingen, Germany.
+   Penn State Univ, University Pk, PA 16802 USA.
+RP Domhof, S (corresponding author), Univ Gottingen, Dept Med Stat, D-3400 Gottingen, Germany.
+RI Osgood, D. Wayne/L-4042-2019
+OI Osgood, D. Wayne/0000-0003-4794-0158
+NR 26
+TC 6
+Z9 6
+U1 0
+U2 1
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD FEB
+PY 2002
+VL 30
+IS 3
+BP 367
+EP 393
+DI 10.1177/0049124102030003004
+PG 27
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 512AK
+UT WOS:000173298800004
+DA 2020-08-31
+ER
+
+PT J
+AU Handcock, MS
+   Janssen, PL
+AF Handcock, MS
+   Janssen, PL
+TI Statistical inference for the relative density
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+ID METHODOLOGY
+AB Social scientists are increasingly interested in techniques for comparing changes in distributional shape in addition to mean levels. One such technique is based on the relative distribution, a nonparametric summary of the information required for scale-invariant comparisons between two distributions. The relative distribution is being used by social scientists to represent and analyze distributional differences, enabling researchers to move well beyond comparisons of means and variances in it simple Intuitive way. The authors develop a nonparametric estimator for the relative density function. They study its asymptotic properties, derive computable expressions fur tire asymptotic variance, and consider local bandwidth selection. The v also illustrate how the relative density can be decomposed into a component due to location differences and a component due to shape differences. This decomposition indentifies that component of interdistributional dissimilarity due to interdistributional inequality. The methods arc illustrated by comparing the earnings distributions of working women to drat of working mess based on the 1990 census and to women from 1967 to 1996.
+C1 Univ Washington, Seattle, WA 98195 USA.
+   Limburgs Univ Ctr, Ctr Stat, Diepenbeek, Belgium.
+RP Handcock, MS (corresponding author), Univ Washington, Seattle, WA 98195 USA.
+NR 34
+TC 10
+Z9 10
+U1 0
+U2 5
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+EI 1552-8294
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD FEB
+PY 2002
+VL 30
+IS 3
+BP 394
+EP 424
+DI 10.1177/0049124102030003005
+PG 31
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 512AK
+UT WOS:000173298800005
+DA 2020-08-31
+ER
+
+PT J
+AU Akritas, MG
+   Kuha, J
+   Osgood, DW
+AF Akritas, MG
+   Kuha, J
+   Osgood, DW
+TI A nonparametric approach to matched pairs with missing data
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+ID STATISTICS
+AB The matched pairs t-statistic on the overall ranks is extended to data with observations missing at random. Either one of the two variables is allowed to be missing. The procedure is completely nonparametric. Comparisons with the likelihood ratio test for normal data indicate that the proposed method fares well when the data are normal and outperforms it in other cases. Simulations also confirm that the proposed method has higher power than common nonparametric complete pairs tests for observations missing completely at random. Finally, a data set on the delinquent values of boys released from correctional institutions is analyzed and discussed.
+C1 Penn State Univ, Dept Stat, University Pk, PA 16802 USA.
+   Univ London London Sch Econ & Polit Sci, London WC2A 2AE, England.
+RP Akritas, MG (corresponding author), Penn State Univ, Dept Stat, University Pk, PA 16802 USA.
+RI Osgood, D. Wayne/L-4042-2019
+OI Osgood, D. Wayne/0000-0003-4794-0158; Kuha, Jouni/0000-0002-1156-8465
+NR 19
+TC 15
+Z9 15
+U1 0
+U2 4
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD FEB
+PY 2002
+VL 30
+IS 3
+BP 425
+EP 454
+DI 10.1177/0049124102030003006
+PG 30
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 512AK
+UT WOS:000173298800006
+DA 2020-08-31
+ER
+
+PT J
+AU Domhof, S
+   Brunner, E
+AF Domhof, S
+   Brunner, E
+TI Discussion on "A Nonparametric approach to matched pairs with missing
+   data"
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Editorial Material
+C1 Univ Gottingen, Dept Med Stat, D-3400 Gottingen, Germany.
+RP Domhof, S (corresponding author), Univ Gottingen, Dept Med Stat, D-3400 Gottingen, Germany.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 1
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD FEB
+PY 2002
+VL 30
+IS 3
+BP 455
+EP 457
+DI 10.1177/0049124102030003007
+PG 3
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 512AK
+UT WOS:000173298800007
+DA 2020-08-31
+ER
+
+PT J
+AU Schafer, JL
+AF Schafer, JL
+TI Discussion on "A nonparametric approach to matched pairs with missing
+   data"
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Editorial Material
+C1 Penn State Univ, Dept Stat, University Pk, PA 16802 USA.
+   Penn State Univ, Methodol Ctr, University Pk, PA 16802 USA.
+RP Schafer, JL (corresponding author), Penn State Univ, Dept Stat, University Pk, PA 16802 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 1
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD FEB
+PY 2002
+VL 30
+IS 3
+BP 458
+EP 459
+DI 10.1177/0049124102030003008
+PG 2
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 512AK
+UT WOS:000173298800008
+DA 2020-08-31
+ER
+
+PT J
+AU Akritas, MG
+   Kuha, J
+   Osgood, DW
+AF Akritas, MG
+   Kuha, J
+   Osgood, DW
+TI Rejoinder
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Editorial Material
+C1 Penn State Univ, University Pk, PA 16802 USA.
+   Univ London London Sch Econ & Polit Sci, London WC2A 2AE, England.
+RP Akritas, MG (corresponding author), Penn State Univ, University Pk, PA 16802 USA.
+RI imbens, guido/P-2333-2019; Hubert, Mia/B-7434-2011; Nakas, Christos
+   T/F-3052-2011; Buhlmann, Peter/A-2107-2013; /B-9845-2008; Aydin,
+   Abdulkadir Cuneyt/F-4183-2010; brick, j michael/G-7582-2014; Preskorn,
+   Sheldon H/L-9839-2016; Berger, James O/C-6067-2013; Osgood, D.
+   Wayne/L-4042-2019; Veski, Siim/A-9417-2014; Steel, Mark/M-9663-2019;
+   Rato, Tiago J./I-4991-2014
+OI Hubert, Mia/0000-0001-6398-4850; Nakas, Christos T/0000-0003-4155-722X;
+   Buhlmann, Peter/0000-0002-1782-6015; /0000-0001-9858-9279; Aydin,
+   Abdulkadir Cuneyt/0000-0002-6696-4297; brick, j
+   michael/0000-0003-3490-8925; Berger, James O/0000-0002-6413-2876;
+   Osgood, D. Wayne/0000-0003-4794-0158; Veski, Siim/0000-0002-8297-2385;
+   Rato, Tiago J./0000-0002-5247-6583
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 2
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD FEB
+PY 2002
+VL 30
+IS 3
+BP 460
+EP 462
+DI 10.1177/0049124102030003009
+PG 3
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 512AK
+UT WOS:000173298800009
+DA 2020-08-31
+ER
+
+PT J
+AU Mouw, T
+AF Mouw, T
+TI Relative distribution methods in the social sciences.
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Book Review
+C1 Univ N Carolina, Chapel Hill, NC 27515 USA.
+RP Mouw, T (corresponding author), Univ N Carolina, Chapel Hill, NC 27515 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD FEB
+PY 2002
+VL 30
+IS 3
+BP 463
+EP 464
+DI 10.1177/0049124102030003010
+PG 2
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 512AK
+UT WOS:000173298800010
+DA 2020-08-31
+ER
+
+PT J
+AU Belli, RF
+AF Belli, RF
+TI The science of self-report: Implications for research and practice.
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Book Review
+C1 Univ Michigan, Ann Arbor, MI 48109 USA.
+RP Belli, RF (corresponding author), Univ Michigan, Ann Arbor, MI 48109 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 1
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD FEB
+PY 2002
+VL 30
+IS 3
+BP 464
+EP 467
+PG 4
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 512AK
+UT WOS:000173298800012
+DA 2020-08-31
+ER
+
+PT J
+AU Belli, RF
+AF Belli, RF
+TI Cognition and survey research.
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Book Review
+C1 Univ Michigan, Ann Arbor, MI 48109 USA.
+RP Belli, RF (corresponding author), Univ Michigan, Ann Arbor, MI 48109 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 1
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD FEB
+PY 2002
+VL 30
+IS 3
+BP 464
+EP 467
+PG 4
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 512AK
+UT WOS:000173298800011
+DA 2020-08-31
+ER
+
+PT J
+AU Morgan, SL
+AF Morgan, SL
+TI Sociological methodology 2000.
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Book Review
+C1 Cornell Univ, Ithaca, NY 14853 USA.
+RP Morgan, SL (corresponding author), Cornell Univ, Ithaca, NY 14853 USA.
+NR 6
+TC 0
+Z9 0
+U1 0
+U2 1
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD FEB
+PY 2002
+VL 30
+IS 3
+BP 467
+EP 471
+PG 5
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 512AK
+UT WOS:000173298800013
+DA 2020-08-31
+ER
+
+PT J
+AU Sorensen, JB
+AF Sorensen, JB
+TI The use and misuse of the coefficient of variation in organizational
+   demography research
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+ID MANAGEMENT TEAM DEMOGRAPHY; SOCIAL INTEGRATION; BLACK-BOX; TURNOVER;
+   DIVERSITY; PERFORMANCE; HETEROGENEITY; COMMUNICATION
+AB Demographic heterogeneity is a central theoretical construct in organizational demography research. The most commonly used measure of demographic heterogeneity is the coefficient of variation. The author critically evaluates the rationale for using this measure and shows that the use of the coefficient of variation raises a number of methodological and interpretive problems. Empirical analyses of turnover suggest that using the coefficient of variation may, lead to incorrect conclusions about the effects of demographic heterogeneity.
+C1 MIT, Sloan Sch Management, Cambridge, MA 02139 USA.
+RP Sorensen, JB (corresponding author), MIT, Sloan Sch Management, Cambridge, MA 02139 USA.
+NR 23
+TC 28
+Z9 28
+U1 0
+U2 8
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD MAY
+PY 2002
+VL 30
+IS 4
+BP 475
+EP 491
+DI 10.1177/0049124102030004001
+PG 17
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 540UY
+UT WOS:000174949100001
+DA 2020-08-31
+ER
+
+PT J
+AU Piquero, AR
+   MacIntosh, R
+   Hickman, M
+AF Piquero, AR
+   MacIntosh, R
+   Hickman, M
+TI The validity of a self-reported delinquency scale - Comparisons across
+   gender, age, race, and place of residence
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+ID ITEM RESPONSE THEORY; BEHAVIOR
+AB Self-reported delinquency scales have been widely adopted by researchers seeking to measure delinquency. Establishing the validity of these scales is critical because if valid measures are not created, findings about the correlates of delinquency will be of limited use in testing theory and formulating public policy. In this article, the authors use data from the first wave of the National Youth Survey to examine the measurement properties of a commonly used delinquency scale. The authors use the Rasch measurement model to test whether the scale meets the requirements of fundamental measurement and whether consistent measurement has occurred across subgroups including gender age, race. and place of residence. Our results indicate that the original response category options are inadequate and differential item functioning exists across various subgroups, Methodological implications and directions for future research are identified.
+C1 Univ Florida, Ctr Studies Criminol & Law, Gainesville, FL 32611 USA.
+   Calif State Univ Sacramento, Dept Sociol, Sacramento, CA 95819 USA.
+   Temple Univ, Dept Criminal Justice, Philadelphia, PA 19122 USA.
+   Bur Justice Stat, Washington, DC USA.
+RP Piquero, AR (corresponding author), Univ Florida, Ctr Studies Criminol & Law, Gainesville, FL 32611 USA.
+RI Piquero, Alex R/B-2312-2013
+OI Hickman, Matthew/0000-0003-2651-685X
+NR 60
+TC 92
+Z9 92
+U1 3
+U2 29
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+EI 1552-8294
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD MAY
+PY 2002
+VL 30
+IS 4
+BP 492
+EP 529
+DI 10.1177/0049124102030004002
+PG 38
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 540UY
+UT WOS:000174949100002
+DA 2020-08-31
+ER
+
+PT J
+AU Moore, KA
+   Halle, TG
+   Vandivere, S
+   Mariner, CL
+AF Moore, KA
+   Halle, TG
+   Vandivere, S
+   Mariner, CL
+TI Scaling back survey scales - How short is too short?
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+ID SHORT-FORM; FAMILY; PERSPECTIVES; INVENTORY; ECOLOGY
+AB To understand childrens development, one must examine an array of constructs. Yet the time and budget constraints of large-scale survey research create a dilemma: how to cut scales to the fewest possible items while still retaining their predictive properties. In this article, the authors compare the predictive validity of several shortened versions of the Behavior Problems Index and the Home Observation for Measurement of the Environment-Short Form with their full scales within the National Longitudinal Survey of Youth-1979 cohort. They use the scales to predict delinquency, reading recognition scores, parent-child activities, and smoking behavior of children at ages 13 or 14 from data gathered 2,4, and 6 years prior Analyses leave the authors cautiously optimistic that short scales, especially scales composed of items gathered at different time points and repeated regularly, may enjoy substantial predictive power However, two-item scales may be too short, and psychometric study on additional scales is warranted.
+C1 Child Trends, Washington, DC 20008 USA.
+RP Moore, KA (corresponding author), Child Trends, Washington, DC 20008 USA.
+NR 30
+TC 32
+Z9 32
+U1 1
+U2 6
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD MAY
+PY 2002
+VL 30
+IS 4
+BP 530
+EP 567
+DI 10.1177/0049124102030004003
+PG 38
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 540UY
+UT WOS:000174949100003
+DA 2020-08-31
+ER
+
+PT J
+AU Bollen, KA
+   Biesanz, JC
+AF Bollen, KA
+   Biesanz, JC
+TI A note on a two-stage least squares estimator for higher-order factor
+   analyses
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+ID PERSONALITY
+AB This article extends Bollen's two-stage least squares (2SLS) estimator to estimate confirmatory higher-order factor analysis models. This includes estimation of the higher order and lower-order factor loadings and their intercepts. This 2SLS estimator does not require that the observed variables come from normal distributions, and it is less sensitive to specification errors than are the full information estimators. As such, this makes the 2SLS estimator a useful complementary estimator to the other full information estimators.
+C1 Univ N Carolina, Odum Inst Res Social Sci, Chapel Hill, NC 27514 USA.
+   Univ Wisconsin, Dept Psychol, Madison, WI 53706 USA.
+RP Bollen, KA (corresponding author), Univ N Carolina, Odum Inst Res Social Sci, Chapel Hill, NC 27514 USA.
+NR 18
+TC 14
+Z9 15
+U1 0
+U2 1
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD MAY
+PY 2002
+VL 30
+IS 4
+BP 568
+EP 579
+DI 10.1177/0049124102030004004
+PG 12
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 540UY
+UT WOS:000174949100004
+DA 2020-08-31
+ER
+
+PT J
+AU Eliason, S
+AF Eliason, S
+TI Statistical methods for categorical data analysis.
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Book Review
+C1 Univ Minnesota, Minneapolis, MN 55455 USA.
+RP Eliason, S (corresponding author), Univ Minnesota, Minneapolis, MN 55455 USA.
+NR 14
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD MAY
+PY 2002
+VL 30
+IS 4
+BP 580
+EP 582
+DI 10.1177/0049124102030004005
+PG 3
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 540UY
+UT WOS:000174949100005
+DA 2020-08-31
+ER
+
+PT J
+AU Land, KC
+AF Land, KC
+TI Generalized, linear and mixed models.
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Book Review
+C1 Duke Univ, Durham, NC 27706 USA.
+RP Land, KC (corresponding author), Duke Univ, Durham, NC 27706 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 6
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD MAY
+PY 2002
+VL 30
+IS 4
+BP 583
+EP 584
+PG 2
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 540UY
+UT WOS:000174949100006
+DA 2020-08-31
+ER
+
+PT J
+AU Hewitt, M
+AF Hewitt, M
+TI Attitudes toward interview mode and comparability of reporting sexual
+   behavior by personal interview and audio computer-assisted
+   self-interviewing - Analyses of the 1995 National Survey of Family
+   Growth
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+ID DRUG-USE; TECHNOLOGY; RISK; HIV
+AB Respondents, attitudes toward audio computer-assisted self-interviewing (audio-CASI) relative to personal interviewing and comparability of reporting of the number of sex partners in the past year were assessed using the 1995 National Survey of Family Growth. Bivariate and multivariate analyses were used. Few women indicated that the personal interview, relative to audio-CASI, provided more honest answers or greater comfort. However, minority group members, especially Hispanics, were more likely to prefer personal interviews. Most women (83.4 percent) provided consistent reports of number of sex partners on the two modes, 12.6 percent reported more sex partners with audio-CASI, and 4.0 percent reported more partners in the personal interview, Hispanic women and women of "other" race/ethnicity were significantly more likely to have decreased reporting of sex partners with audio-CASI. Further methodologic research is needed on mode effects among minority populations, Reporting errors associated with the data collection technology could obscure important findings.
+NR 25
+TC 23
+Z9 23
+U1 0
+U2 5
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD AUG
+PY 2002
+VL 31
+IS 1
+BP 3
+EP 26
+DI 10.1177/0049124102031001001
+PG 24
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 572QK
+UT WOS:000176786300001
+DA 2020-08-31
+ER
+
+PT J
+AU DeMaris, A
+AF DeMaris, A
+TI Explained variance in logistic regression - A Monte Carlo study of
+   proposed measures
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+ID PROBIT; GOODNESS; MODELS; LOGIT; FIT
+AB R-2 is widely relied on in linear regression to index a model's discriminatory power Many counterparts have been proposed for use in logistic regression, but no single measure is consistently used. Two potential criterion values are relevant: the explained variance in the latent scale underlying the binary indicator of event occurrence and the explained risk of the event itself, In this study, Monte Carlo methods were used to examine the performance, with respect to fixed theoretical levels of explained variance and explained risk, of eight R-2 analogues. The McKelvey-Zavoina measure appears to be best at estimating explained variance and either the sample-estimated explained risk or the ordinary least squares R-2 to be best at indexing explained risk. Other measures appear to be poor choices, primarily because asymptotic trends suggest they may be inconsistent estimators of the relevant criterion.
+C1 Bowling Green State Univ, Bowling Green, OH 43403 USA.
+RP DeMaris, A (corresponding author), Bowling Green State Univ, Bowling Green, OH 43403 USA.
+NR 33
+TC 79
+Z9 80
+U1 1
+U2 17
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD AUG
+PY 2002
+VL 31
+IS 1
+BP 27
+EP 74
+DI 10.1177/0049124102031001002
+PG 48
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 572QK
+UT WOS:000176786300002
+DA 2020-08-31
+ER
+
+PT J
+AU Zax, JS
+AF Zax, JS
+TI Comment on "Estimating the extent of racially polarized voting in
+   multicandidate contests" by Bernard Grofman and Michael Migalski
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Editorial Material
+AB Double regression figures prominently in the analysis of racially polarized voting, Grofman and Migalski attempt three extensions of this technique: the application to multimember districts, the calculation of standard errors for the parameters of interest, and validation through comparisons with seemingly unrelated regression (SUR). All three extensions fail. The first is based on an arithmetical error The second is based on an incomplete specification of the underlying statistical model. The third is based on a mistaken application of SUR in a context in which it is guaranteed to yield the same results as the ordinary least squares estimates of double regression.
+C1 Univ Colorado, Boulder, CO 80309 USA.
+RP Zax, JS (corresponding author), Univ Colorado, Boulder, CO 80309 USA.
+NR 6
+TC 4
+Z9 4
+U1 0
+U2 0
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD AUG
+PY 2002
+VL 31
+IS 1
+BP 75
+EP 86
+DI 10.1177/0049124102031001003
+PG 12
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 572QK
+UT WOS:000176786300003
+DA 2020-08-31
+ER
+
+PT J
+AU Vanleeuwen, DM
+   Mandabach, KH
+AF Vanleeuwen, DM
+   Mandabach, KH
+TI A note on the reliability of ranked items
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+ID IPSATIVE MEASURES; VALUES
+AB Instruments may be designed to use either Likert-type items (ratings) or ranks to obtain priority rankings of items. Models commonly used in generalizability theory (GT) provide a basis for assessing the reliability of item measurements based on ratings. However, these commonly used models do not apply when respondents are required to rank a set of items. Unlike ratings, ranks force subject effects to zero. Furthermore, ranks violate independence assumptions, and the dependence between ranks assigned to different items affects the standard error of item mean differences and, consequently, the reliability of the item comparisons. A GT analysis for ranked items is presented and used to derive standard errors for differences between item means as well as an item measurement reliability coefficient. This analysis uses a linear model that is not typically used in GT analyses but that models those features unique to ranks.
+C1 New Mexico State Univ, Las Cruces, NM 88003 USA.
+RP Vanleeuwen, DM (corresponding author), New Mexico State Univ, Las Cruces, NM 88003 USA.
+NR 23
+TC 11
+Z9 11
+U1 0
+U2 2
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD AUG
+PY 2002
+VL 31
+IS 1
+BP 87
+EP 105
+DI 10.1177/0049124102031001004
+PG 19
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 572QK
+UT WOS:000176786300004
+DA 2020-08-31
+ER
+
+PT J
+AU Powers, DA
+AF Powers, DA
+TI Regression models for categorical dependent variables using Stata.
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Book Review
+C1 Univ Texas, Austin, TX 78712 USA.
+RP Powers, DA (corresponding author), Univ Texas, Austin, TX 78712 USA.
+NR 2
+TC 1
+Z9 1
+U1 0
+U2 13
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD AUG
+PY 2002
+VL 31
+IS 1
+BP 106
+EP 110
+DI 10.1177/0049124102031001005
+PG 5
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 572QK
+UT WOS:000176786300005
+DA 2020-08-31
+ER
+
+PT J
+AU Raudenbush, SW
+AF Raudenbush, SW
+TI Linear mixed models for longitudinal data.
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Book Review
+C1 Univ Michigan, Ann Arbor, MI 48109 USA.
+RP Raudenbush, SW (corresponding author), Univ Michigan, Ann Arbor, MI 48109 USA.
+NR 1
+TC 1
+Z9 1
+U1 3
+U2 42
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD AUG
+PY 2002
+VL 31
+IS 1
+BP 110
+EP 118
+PG 9
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 572QK
+UT WOS:000176786300006
+DA 2020-08-31
+ER
+
+PT J
+AU Raudenbush, SW
+AF Raudenbush, SW
+TI Mixed-effects models in S and S-plus.
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Book Review
+C1 Univ Michigan, Ann Arbor, MI 48109 USA.
+RP Raudenbush, SW (corresponding author), Univ Michigan, Ann Arbor, MI 48109 USA.
+NR 1
+TC 1
+Z9 1
+U1 3
+U2 42
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD AUG
+PY 2002
+VL 31
+IS 1
+BP 110
+EP 118
+PG 9
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 572QK
+UT WOS:000176786300007
+DA 2020-08-31
+ER
+
+PT J
+AU Newman, KS
+AF Newman, KS
+TI Introduction: Qualitative research on the frontlines of controversy
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Editorial Material
+C1 Harvard Univ, Cambridge, MA 02138 USA.
+RP Newman, KS (corresponding author), John F Kennedy Sch Govt, 79 John F Kennedy St, Cambridge, MA 02138 USA.
+EM Katherine_Newman@Harvard.edu
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+EI 1552-8294
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD NOV
+PY 2002
+VL 31
+IS 2
+BP 123
+EP 130
+DI 10.1177/0049124102031002001
+PG 8
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 605TY
+UT WOS:000178694200001
+DA 2020-08-31
+ER
+
+PT J
+AU Roth, WD
+   Mehta, JD
+AF Roth, WD
+   Mehta, JD
+TI The Rashomon effect - Combining positivist and interpretivist approaches
+   in the analysis of contested events
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+AB Positivist and interpretivist analytical approaches are frequently believed to be incompatible as research strategies and ways of understanding the world. This article argues that not only may versions of positivism and interpretivism be combined in the analysis of contested events, but this combination can further the goals of both approaches by contributing information that may have been missed by adopting only one perspective. The authors illustrate this using two case studies of lethal school shootings near Paducah, Kentucky, and Jonesboro, Arkansas, and introduce methodological strategies to manage potential biases that may lead to contradictory testimony. However, these same contradictions act as distinct data points from the interpretivist perspective, offering insight into the cultural understandings of a community. The authors develop new forms of triangulation that are tailored to these research goals and illustrate how, just as positivist analysis may be used to aid interpretivism, an interpretive understanding of a community may be necessary to develop causal theories of contested events such as school shootings.
+C1 Harvard Univ, Dept Sociol, Cambridge, MA 02138 USA.
+RP Roth, WD (corresponding author), Harvard Univ, Dept Sociol, 33 Kirkland St, Cambridge, MA 02138 USA.
+EM wroth@wjh.harvard.edu; jmehta@fas.harvard.edu
+NR 42
+TC 44
+Z9 44
+U1 1
+U2 24
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+EI 1552-8294
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD NOV
+PY 2002
+VL 31
+IS 2
+BP 131
+EP 173
+DI 10.1177/0049124102031002002
+PG 43
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 605TY
+UT WOS:000178694200002
+DA 2020-08-31
+ER
+
+PT J
+AU Harding, DJ
+   Fox, C
+   Mehta, JD
+AF Harding, DJ
+   Fox, C
+   Mehta, JD
+TI Studying rare events through qualitative case studies - Lessons from a
+   study of rampage school shootings
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+ID VIOLENT DEATHS; UNITED-STATES; INFERENCE; RISK; RACE
+AB This article considers five methodological challenges in studying rare events such as school shootings. Drawing on the literature on causal analysis in macro-historical and other small-N research, it outlines strategies for studying school shootings using qualitative case studies and illustrates these strategies using data from case studies of two rampage school shootings: Heath High School in West Paducah, Kentucky,, and Westside Middle School outside Jonesboro, Arkansas. Strengths and limitations are discussed as well as lessons for studying rare events.
+C1 Harvard Univ, Dept Sociol, Cambridge, MA 02138 USA.
+RP Harding, DJ (corresponding author), Harvard Univ, Dept Sociol, 33 Kirkland St, Cambridge, MA 02138 USA.
+EM dharding@wjh.harvard.edu; fox@fas.harvard.edu; jmehta@fas.harvard.edu
+NR 79
+TC 57
+Z9 58
+U1 1
+U2 25
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+EI 1552-8294
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD NOV
+PY 2002
+VL 31
+IS 2
+BP 174
+EP 217
+DI 10.1177/0049124102031002003
+PG 44
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 605TY
+UT WOS:000178694200003
+DA 2020-08-31
+ER
+
+PT J
+AU Hagan, J
+   Hirschfield, P
+   Shedd, C
+AF Hagan, J
+   Hirschfield, P
+   Shedd, C
+TI First and last words - Apprehending the social and legal facts of an
+   urban high school shooting
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+AB Urban school violence is common and when it becomes fatal constitutes a neglected theoretical counterpoint to highly publicized rural and suburban school shootings. Joseph White shot and killed Delondyn Lawson and injured two other youths at Tilden High School in the last fatal Chicago school shooting nearly a decade ago. This event was portrayed in extensive news coverage as random and senseless and by a jury trial as a first-degree homicide that was inexcusable as self-defense. Journalism often is described as the first draft of history, and trials often are seen as the more definitive record. Yet neither journalism nor trials are comprehensive sources of social history, especially of social conflict. The authors demonstrate that journalistic accounts can prejudge and stereotype lethal school violence, that trials often further depict these conflicts in legally authoritative but restricted and misleading ways, and that an exclusive focus on rural and suburban settings obscures a broader theoretical understanding of deadly school shootings.
+C1 Northwestern Univ, Dept Sociol, Evanston, IL 60208 USA.
+RP Hagan, J (corresponding author), Northwestern Univ, Dept Sociol, Evanston, IL 60208 USA.
+NR 29
+TC 16
+Z9 16
+U1 0
+U2 21
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+EI 1552-8294
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD NOV
+PY 2002
+VL 31
+IS 2
+BP 218
+EP 254
+DI 10.1177/0049124102031002004
+PG 37
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 605TY
+UT WOS:000178694200004
+DA 2020-08-31
+ER
+
+PT J
+AU Sullivan, ML
+AF Sullivan, ML
+TI Exploring layers - Extended case method as a tool for multilevel
+   analysis of school violence
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+ID DISORDER; PROGRAM; TRENDS
+AB Recent incidents of mass school shootings are highly unusual in at least three ways besides the severity of the violence involved. The offenders have little prior history of violence, the schools have previously been orderly and safe, and the surrounding communities are low-crime areas. Understanding these incidents thus requires a multilevel framework of inquiry that addresses the nested levels of individual, school, and community. The case of the incident that occurred in Rockdale County, Georgia, in 1999 is compared to a situation of more frequent and routine violence in New York City to illustrate the methodological and substantive problems of such an inquiry. The assumptions and procedures of extended case method are described, contrasted to those of hierarchical regression modeling, and applied to the problem at hand.
+C1 Rutgers State Univ, Sch Criminal Justice, Newark, NJ 07102 USA.
+RP Sullivan, ML (corresponding author), Rutgers State Univ, Sch Criminal Justice, Newark, NJ 07102 USA.
+NR 47
+TC 19
+Z9 19
+U1 0
+U2 17
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+EI 1552-8294
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD NOV
+PY 2002
+VL 31
+IS 2
+BP 255
+EP 285
+DI 10.1177/0049124102031002005
+PG 31
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 605TY
+UT WOS:000178694200005
+DA 2020-08-31
+ER
+
+PT J
+AU Ip, EH
+   Wang, YCJ
+AF Ip, EH
+   Wang, YCJ
+TI A strategy for designing telescoping models for analyzing multiway
+   contingency tables using mixed parameters
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+DE multilevel partition; marginal models; association-marginal models;
+   loglinear models
+ID LOG-LINEAR MODELS; MARGINAL DISTRIBUTIONS; CROSS-CLASSIFICATIONS;
+   ASSOCIATION; RESPONSES; COUNTS
+AB In the analysis of cross-classified data, sociologists often focus on building flexible models for the marginal distributions of a selected set of variables. One strategy for achieving flexible modeling is to design models for telescoping marginal distributions. As an illustration of telescoping distributions, consider a joint distribution of four cross-classifying variables: occupational attainment, education level, race, and gender A set Of telescoping distributions would be the univariate occupation distribution, the bivariate occupation by education, the trivariate occupation by education by race, and the entire joint distribution. A methodology that enables the telescoping modeling strategy is mixed parameterization, which has its roots in the statistics and sociology literatures. In this article, the authors develop a scheme of multilevel mixed parameterization that can be applied to a hierarchy of marginal distributions of reducing dimension. An example from the General Social Survey illustrates mixed parameters for telescoping models.
+C1 Univ So Calif, Informat & Operat Management Dept, Marshall Sch Business, Los Angeles, CA 90089 USA.
+   Rutgers State Univ, Dept Math Sci, Camden, NJ 08102 USA.
+RP Ip, EH (corresponding author), Univ So Calif, Informat & Operat Management Dept, Marshall Sch Business, Los Angeles, CA 90089 USA.
+NR 26
+TC 4
+Z9 4
+U1 0
+U2 0
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD FEB
+PY 2003
+VL 31
+IS 3
+BP 291
+EP 324
+DI 10.1177/0049124102239078
+PG 34
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 639CV
+UT WOS:000180610800001
+DA 2020-08-31
+ER
+
+PT J
+AU Sawyer, RK
+AF Sawyer, RK
+TI Multiagent systems and the micro-macro link in sociological theory
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Review
+DE computer simulation; multiagent systems; sociological theory; emergence
+ID SOCIAL-STRUCTURE; SIMULATION; EVOLUTION; STRUCTURATION; ORGANIZATION;
+   MODELS
+AB This article introduces a general sociological readership to multiagent systems (MAS), a new computer simulation technology that has increasingly been used to describe and explain sociological phenomena. The author uses the term artificial societies to refer to social simulations using MAS and he describes MAS technology and contrasts it with other social simulation technologies. The author argues that MAS have attained a level of maturity where they can be useful tools for sociologists, and he shows how MAS provide new perspectives on contemporary discussions of the micro-macro link in sociological theory by focusing on three aspects of the micro-macro link: micro-to-macro emergence, macro-to-micro social causation, and the dialectic between emergence and social causation.
+C1 Washington Univ, St Louis, MO 63130 USA.
+RP Sawyer, RK (corresponding author), Washington Univ, St Louis, MO 63130 USA.
+NR 111
+TC 65
+Z9 67
+U1 0
+U2 23
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+EI 1552-8294
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD FEB
+PY 2003
+VL 31
+IS 3
+BP 325
+EP 363
+DI 10.1177/0049124102239079
+PG 39
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 639CV
+UT WOS:000180610800002
+DA 2020-08-31
+ER
+
+PT J
+AU Smith, DA
+   Brame, R
+AF Smith, DA
+   Brame, R
+TI Tobit models in social science research - Some limitations and a more
+   general alternative
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+DE tobit model; Monte Carlo simulation study; Cragg model
+ID DELINQUENCY; CRIME
+AB The use of tobit models to study censored and limited dependent variables has become increasingly common in applied social science research over the past two decades. Importantly, the likelihood function for a tobit model involves two distinct components: (1) the process that determines whether the outcome variable is fully observed or not and (2) the process that determines the score on the dependent variable for individuals whose outcome is fully observed. One limitation of the tobit model is its assumption that the processes in both regimes of the outcome are equal up to a constant of proportionality. In this article, the authors use Monte Carlo simulation evidence and an empirical example to illustrate the restrictive nature of this assumption and the consequences of disproportionality for the tobit model. They conclude that an alternative model proposed by Cragg should replace the tobit model as the estimator of first resort in situations such as those considered here.
+C1 Univ Maryland, Dept Criminol & Criminal Justice, College Pk, MD 20742 USA.
+   Univ S Carolina, Coll Criminal Justice, Columbia, SC 29208 USA.
+RP Smith, DA (corresponding author), Univ Maryland, Dept Criminol & Criminal Justice, College Pk, MD 20742 USA.
+NR 30
+TC 45
+Z9 45
+U1 0
+U2 8
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD FEB
+PY 2003
+VL 31
+IS 3
+BP 364
+EP 388
+DI 10.1177/0049124102239080
+PG 25
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 639CV
+UT WOS:000180610800003
+DA 2020-08-31
+ER
+
+PT J
+AU Lee, SY
+   Xu, LA
+AF Lee, SY
+   Xu, LA
+TI Case-deletion diagnostics for factor analysis models with continuous and
+   ordinal categorical data
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+DE influential observations; EM algorithm; Gibbs sampler; one-step
+   approximation
+ID CONFIRMATORY FACTOR-ANALYSIS; STRUCTURAL EQUATION MODELS; LATENT
+   VARIABLE MODELS; POLYTOMOUS DATA; LOCAL INFLUENCE; INCOMPLETE-DATA;
+   MAXIMUM-LIKELIHOOD; LINEAR-REGRESSION; MIXED MODELS; OUTLIERS
+AB This article proposes a method to detect influential observations in a factor analysis model with continuous and ordinal categorical variables. The key ideas are to treat the latent factors as hypothetical missing data and then develop the diagnostic measures on the basis of the conditional expectation of the complete-data log-likelihood function in the EM algorithm. A one-step approximation is proposed to reduce the computational burden. Building blocks for achieving the diagnostic measures are computed via observations generated by the Gibbs sampler. Results from a simulation study and an illustrative real example are presented.
+C1 Chinese Univ Hong Kong, Dept Stat, Hong Kong, Hong Kong, Peoples R China.
+RP Lee, SY (corresponding author), Chinese Univ Hong Kong, Dept Stat, Hong Kong, Hong Kong, Peoples R China.
+NR 41
+TC 5
+Z9 5
+U1 2
+U2 7
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD FEB
+PY 2003
+VL 31
+IS 3
+BP 389
+EP 419
+DI 10.1177/0049124102239081
+PG 31
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 639CV
+UT WOS:000180610800004
+DA 2020-08-31
+ER
+
+PT J
+AU Stolzenberg, RM
+AF Stolzenberg, RM
+TI Time matters: On theory and method.
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Book Review
+C1 Univ Chicago, Chicago, IL 60637 USA.
+RP Stolzenberg, RM (corresponding author), Univ Chicago, Chicago, IL 60637 USA.
+NR 10
+TC 2
+Z9 2
+U1 0
+U2 5
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD FEB
+PY 2003
+VL 31
+IS 3
+BP 420
+EP 427
+DI 10.1177/0049124102239082
+PG 8
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 639CV
+UT WOS:000180610800005
+DA 2020-08-31
+ER
+
+PT J
+AU Tuma, NB
+AF Tuma, NB
+TI Econometric analysis of count data.
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Book Review
+C1 Stanford Univ, Stanford, CA 94305 USA.
+RP Tuma, NB (corresponding author), Stanford Univ, Stanford, CA 94305 USA.
+NR 5
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD FEB
+PY 2003
+VL 31
+IS 3
+BP 427
+EP 430
+DI 10.1177/0049124102239083
+PG 4
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 639CV
+UT WOS:000180610800006
+DA 2020-08-31
+ER
+
+PT J
+AU Mark, NP
+AF Mark, NP
+TI Accountability in social research: Issues and debates.
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Book Review
+C1 Stanford Univ, Stanford, CA 94305 USA.
+RP Mark, NP (corresponding author), Stanford Univ, Stanford, CA 94305 USA.
+NR 5
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD FEB
+PY 2003
+VL 31
+IS 3
+BP 430
+EP 434
+DI 10.1177/0049124102239084
+PG 5
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 639CV
+UT WOS:000180610800007
+DA 2020-08-31
+ER
+
+PT J
+AU Poon, WY
+   Tang, ML
+   Wang, SJ
+AF Poon, WY
+   Tang, ML
+   Wang, SJ
+TI Influence measures in contingency tables with application in sampling
+   zeros
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+DE contingency table; sampling zeros; local influence; curvatures;
+   independence model; log-linear model
+ID LOCAL INFLUENCE; DIAGNOSTICS; REGRESSION; OUTLIERS
+AB Based on the local influence approach with an appropriate perturbation scheme, measures are developed to assess the influence of an individual cell in contingency tables. The authors demonstrate that the developed measures are particularly suitable for sensitivity analysis in tables with sampling zeros. The independence model and the log-linear model, together with numerical examples, are presented for illustration.
+C1 Chinese Univ Hong Kong, Sha Tin 100083, Peoples R China.
+   Harvard Univ, Cambridge, MA 02138 USA.
+RP Poon, WY (corresponding author), Chinese Univ Hong Kong, Sha Tin 100083, Peoples R China.
+RI Tang, Man/B-4326-2009
+OI Poon, Wai Yin/0000-0002-1940-8925; Tang, Man Lai/0000-0001-6460-8136
+NR 18
+TC 1
+Z9 1
+U1 0
+U2 1
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD MAY
+PY 2003
+VL 31
+IS 4
+BP 439
+EP 452
+DI 10.1177/0049124103251946
+PG 14
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 672RL
+UT WOS:000182535200001
+DA 2020-08-31
+ER
+
+PT J
+AU Sturgis, P
+AF Sturgis, P
+TI Knowledge and collective preferences - A comparison of two approaches to
+   estimating the opinions of a better informed public
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+DE deliberative polling; public opinion; simulation modeling
+ID INFORMATION; POLLS; BEHAVIOR
+AB This article compares estimates of "informed" public opinion derived from the regression-based approach of Bartels, Delli Carpini and Keeler and Althaus with those from the deliberative polling method of Fishkin on the same sample of respondents. Contrary to low-information rationality perspectives, both methods indicate that across a range of prominent policy domains, level of political awareness has a strong impact on the expressed preferences of individuals. And while self-canceling across respondents tends to translate these individual-level influences into only rather modest effects in the aggregate, on a significant minority of issues, substantial shifts in collective opinion remain. The broad similarity of the estimates produced by these two very different methods, in addition to their convergence with previous studies of information effects, lends some simultaneous support to the validity and reliability of both approaches.
+C1 Univ Surrey, Dept Sociol, Guildford GU2 5XH, Surrey, England.
+RP Sturgis, P (corresponding author), Univ Surrey, Dept Sociol, Guildford GU2 5XH, Surrey, England.
+OI Sturgis, Patrick/0000-0003-1180-3493
+NR 47
+TC 16
+Z9 16
+U1 0
+U2 8
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+EI 1552-8294
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD MAY
+PY 2003
+VL 31
+IS 4
+BP 453
+EP 485
+DI 10.1177/0049124103251949
+PG 33
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 672RL
+UT WOS:000182535200002
+DA 2020-08-31
+ER
+
+PT J
+AU Tourangeau, R
+   Singer, E
+   Presser, S
+AF Tourangeau, R
+   Singer, E
+   Presser, S
+TI Context effects in attitude surveys - Effects on remote items and impact
+   on predictive validity
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+DE context effects; question order effects; assimilation; contrast
+ID CENSUS; SUSCEPTIBILITY; PARTICIPATION; STRENGTH; PRIVACY
+AB The authors present the results from parallel experiments in two surveys about privacy attitudes. Concerned that the order of the questions might affect the answers, they systematically varied the order of some of the key questions in the questionnaire. In both surveys, four of five question order experiments produced significant effects on responses to the items involved, but the question order variables did not affect responses to attitude items that came later in the questionnaire or relations between the attitude items whose order the authors varied and background characteristics of the respondents. They were also able to determine for most respondents whether their household had mailed back its census questionnaire. Question order did not have a consistent impact on the correlations between the survey responses and actual census returns. These results suggest that question order effects may be common with conceptually related items but that their impact is generally local, affecting answers to the items themselves but not answers to later questions, correlations with respondent background characteristics, or relations to subsequent behaviors.
+C1 Univ Maryland, Joint Program Suvrey Methodol, College Pk, MD 20742 USA.
+   Univ Michigan, Survey Res Ctr, Survey Methodol Program, Ann Arbor, MI 48109 USA.
+   Univ Maryland, Dept Sociol, College Pk, MD 20742 USA.
+RP Tourangeau, R (corresponding author), Univ Maryland, Joint Program Suvrey Methodol, College Pk, MD 20742 USA.
+NR 22
+TC 41
+Z9 42
+U1 0
+U2 14
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD MAY
+PY 2003
+VL 31
+IS 4
+BP 486
+EP 513
+DI 10.1177/0049124103251950
+PG 28
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 672RL
+UT WOS:000182535200003
+DA 2020-08-31
+ER
+
+PT J
+AU Li, T
+   Trivedi, PK
+   Guo, JQ
+AF Li, T
+   Trivedi, PK
+   Guo, JQ
+TI Modeling response bias in count: A structural approach with an
+   application to the National Crime Victimization Survey data
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+DE count data; negative binomial mixture of Poisson regression; school
+   crime victimization; simulated maximum likelihood estimator
+ID POISSON REGRESSION; SCHOOL CRIME
+AB This article considers modeling response bias when the response is a count. The authors adopt a "structural approach" by using a generalized negative binomial mixture of Poisson distribution to model misreported counts, assuming that the distribution of the true response follows a negative binomial distribution. The model may be interpreted as a "stopped-sum" model. A simulated maximum likelihood estimator is proposed, and its finite sample performance is investigated through Monte Carlo simulations. The approach is then applied to analyzing school victimization data drawn from the National Crime Victimization Survey, which allows the authors to identify the individual- and school-related characteristics that could contribute to school crime victimization and to the possible biases on the reported number of repeat victimizations. The authors find that for the reported number of thefts, about 12 percent of respondents overreport the numbers, most of whom actually have not had any item stolen at school.
+C1 Indiana Univ, Bloomington, IN 47405 USA.
+   Fannie Mae, Washington, DC USA.
+RP Li, T (corresponding author), Indiana Univ, Bloomington, IN 47405 USA.
+OI Trivedi, Pravin/0000-0002-1683-0805
+NR 30
+TC 13
+Z9 13
+U1 0
+U2 0
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD MAY
+PY 2003
+VL 31
+IS 4
+BP 514
+EP 544
+DI 10.1177/0049124103251951
+PG 31
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 672RL
+UT WOS:000182535200004
+DA 2020-08-31
+ER
+
+PT J
+AU Banerjee, M
+AF Banerjee, M
+TI Empirical likelihood.
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Book Review
+C1 Univ Michigan, Ann Arbor, MI 48109 USA.
+RP Banerjee, M (corresponding author), Univ Michigan, Ann Arbor, MI 48109 USA.
+NR 3
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD MAY
+PY 2003
+VL 31
+IS 4
+BP 545
+EP 550
+DI 10.1177/00491241030310040051
+PG 6
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 672RL
+UT WOS:000182535200005
+DA 2020-08-31
+ER
+
+PT J
+AU Wu, LL
+AF Wu, LL
+TI Nonparametric simple regression: Smoothing scatterplots, vol 130.
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Book Review
+C1 Univ Wisconsin, Madison, WI 53706 USA.
+RP Wu, LL (corresponding author), Univ Wisconsin, Madison, WI 53706 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD MAY
+PY 2003
+VL 31
+IS 4
+BP 550
+EP 557
+PG 8
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 672RL
+UT WOS:000182535200006
+DA 2020-08-31
+ER
+
+PT J
+AU Wu, LL
+AF Wu, LL
+TI Local regression and likelihood.
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Book Review
+C1 Univ Wisconsin, Madison, WI 53706 USA.
+RP Wu, LL (corresponding author), Univ Wisconsin, Madison, WI 53706 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD MAY
+PY 2003
+VL 31
+IS 4
+BP 550
+EP 557
+PG 8
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 672RL
+UT WOS:000182535200007
+DA 2020-08-31
+ER
+
+PT J
+AU Palloni, A
+AF Palloni, A
+TI Applied survival analysis: Regression modeling of time to event data.
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Book Review
+C1 Univ Wisconsin, Madison, WI 53706 USA.
+RP Palloni, A (corresponding author), Univ Wisconsin, Madison, WI 53706 USA.
+NR 1
+TC 1
+Z9 1
+U1 0
+U2 10
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD MAY
+PY 2003
+VL 31
+IS 4
+BP 557
+EP 559
+DI 10.1177/0049124103031004007
+PG 3
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 672RL
+UT WOS:000182535200008
+DA 2020-08-31
+ER
+
+PT J
+AU Elzinga, CH
+AF Elzinga, CH
+TI Sequence similarity - A nonaligning technique
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+DE sequence analysis; sequence similarity; OM; life history
+ID OPTIMAL MATCHING METHODS; AGREEMENT; SOCIOLOGY
+AB This article reviews objections to optimal-matching (OM) algorithms in sequence analysis and reformulates the concept of sequence similarity in terms of a binary precedence relation. This precedence relation is then used to develop a new quantification of sequence similarity. The new measure is used to reanalyze the life history data that were previously discussed by Dijkstra and Taris (1995). The reanalysis demonstrates the new measure to be superior to the OM algorithm and the alternatives proposed by Dijkstra and Taris. A new algorithm is presented to enumerate matching k-tuples from pairs of sequences in polynomial time.
+C1 Vrije Univ Amsterdam, Amsterdam, Netherlands.
+RP Elzinga, CH (corresponding author), Vrije Univ Amsterdam, Amsterdam, Netherlands.
+RI Elzinga, Cees/F-2800-2013
+NR 13
+TC 56
+Z9 57
+U1 0
+U2 11
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+EI 1552-8294
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD AUG
+PY 2003
+VL 32
+IS 1
+BP 3
+EP 29
+DI 10.1177/0049124103253373
+PG 27
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 705XX
+UT WOS:000184423500001
+OA Green Published
+DA 2020-08-31
+ER
+
+PT J
+AU Martin, AD
+AF Martin, AD
+TI Bayesian inference for heterogeneous event counts
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+DE event count; Markov chain Monte Carlo; hierarchical Bayes; multilevel
+   models; BUGS
+ID POISSON REGRESSION-MODEL; DISTRIBUTIONS; MULTILEVEL
+AB This article presents an integrated set of Bayesian tools one can use to model heterogeneous event counts. While models for event count cross sections are now widely used, little has been written about how to model counts when contextual factors introduce heterogeneity. The author begins with a discussion of Bayesian cross-sectional count models and discusses an alternative model for counts with overdispersion. To illustrate the Bayesian framework, the author fits the model to the number of women's rights cosponsorships for each member of the 83rd to 102nd House of Representatives. The model is generalized to allow for contextual heterogeneity. The hierarchical model allows one to explicitly model contextual factors and test alternative contextual explanations, even with a small number of contextual units. The author compares the estimates from this model with traditional approaches and discusses software one can use to easily implement these Bayesian models with little start-up cost.
+C1 Washington Univ, St Louis, MO 63130 USA.
+RP Martin, AD (corresponding author), Washington Univ, St Louis, MO 63130 USA.
+OI Martin, Andrew/0000-0002-6532-0721
+NR 43
+TC 8
+Z9 8
+U1 0
+U2 7
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD AUG
+PY 2003
+VL 32
+IS 1
+BP 30
+EP 63
+DI 10.1177/0049124103253500
+PG 34
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 705XX
+UT WOS:000184423500002
+OA Green Published
+DA 2020-08-31
+ER
+
+PT J
+AU Leahey, E
+   Entwisle, B
+   Einaudi, P
+AF Leahey, E
+   Entwisle, B
+   Einaudi, P
+TI Diversity in everyday research practice - The case of data editing
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+DE research practice; data management; data cleaning; vignette analysis;
+   disciplinary standards
+ID MARITAL COITAL FREQUENCY; MISSING-VALUES; MISCONDUCT; SCIENCE; WORK
+AB How should social science researchers deal with data inaccuracies? This article uses Web-based survey data collected from faculty members in three social science disciplines to document variation in views about data editing. Through an analysis of qualitative responses to a hypothetical vignette, the authors demonstrate that a wide range of opinion surrounds the "proper" use of data. Reactions are to some extent contingent on discipline and experience with different types of data and data collection methods. They also depend on characteristics of the data-editing situation-for example, whether the problem is with an independent or dependent variable. Even taking these social and situational factors into account, however, there is still substantial diversity in vignette responses. Normative standards that pervade other aspects of the research process have not yet emerged,for data editing.
+C1 Univ Arizona, Dept Sociol, Tucson, AZ 85721 USA.
+   Univ N Carolina, Chapel Hill, NC USA.
+RP Leahey, E (corresponding author), Univ Arizona, Dept Sociol, POB 210027, Tucson, AZ 85721 USA.
+RI Leahey, Erin/B-4645-2012
+NR 48
+TC 10
+Z9 10
+U1 0
+U2 9
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD AUG
+PY 2003
+VL 32
+IS 1
+BP 64
+EP 89
+DI 10.1177/0049124103253461
+PG 26
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 705XX
+UT WOS:000184423500003
+DA 2020-08-31
+ER
+
+PT J
+AU Chin, HC
+   Quddus, MA
+AF Chin, HC
+   Quddus, MA
+TI Modeling count data with excess zeroes - An empirical application to
+   traffic accidents
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+DE traffic accidents; zero-inflated models; Poisson regression; negative
+   binomial regression
+ID POISSON REGRESSION; GEOMETRIC DESIGN; SELECTION
+AB There are many studies in social sciences, such as traffic accident analysis, in which the event counts may be characterized by a large number of zero observations. In this article, a proposed model that takes into account both the zero-count state and the nonzero-count state is used to describe the traffic accident phenomenon. The probability of the zero-count state (p) and the mean number of event counts (mu) in the non-zero-count state may depend on the covariates. Sometimes, p and mu are unrelated, while at other times, p may assume a simple function of A. In proposing the model, different types of traffic accidents at signalized intersections in Singapore were investigated. The results demonstrate that the zero-altered probability process is an appropriate technique for modeling specific types of accidents in which the data contain many zero counts.
+C1 Natl Univ Singapore, Dept Civil Engn, Singapore 117548, Singapore.
+   Univ London Imperial Coll Sci Technol & Med, London SW7 2AZ, England.
+RP Chin, HC (corresponding author), Natl Univ Singapore, Dept Civil Engn, 10 Kent Ridge Crescent, Singapore 117548, Singapore.
+OI Quddus, Mohammed/0000-0001-6969-2365; Chin`, Hoong
+   Chor/0000-0002-2271-3111
+NR 30
+TC 36
+Z9 36
+U1 0
+U2 12
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+EI 1552-8294
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD AUG
+PY 2003
+VL 32
+IS 1
+BP 90
+EP 116
+DI 10.1177/0049124103253459
+PG 27
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 705XX
+UT WOS:000184423500004
+DA 2020-08-31
+ER
+
+PT J
+AU Li, JCA
+AF Li, JCA
+TI Modeling survival data: Extending the Cox model.
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Book Review
+C1 Univ Wisconsin, Madison, WI 53706 USA.
+RP Li, JCA (corresponding author), Univ Wisconsin, Madison, WI 53706 USA.
+NR 6
+TC 5
+Z9 5
+U1 1
+U2 11
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD AUG
+PY 2003
+VL 32
+IS 1
+BP 117
+EP 120
+DI 10.1177/0049124103031004005
+PG 4
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 705XX
+UT WOS:000184423500005
+DA 2020-08-31
+ER
+
+PT J
+AU Walker, JR
+AF Walker, JR
+TI Wealth, work, and health: Innovations in measurement in the social
+   sciences.
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Book Review
+C1 Univ Wisconsin, Madison, WI 53706 USA.
+RP Walker, JR (corresponding author), Univ Wisconsin, Madison, WI 53706 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 2
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD AUG
+PY 2003
+VL 32
+IS 1
+BP 120
+EP 121
+DI 10.1177/0049124103031004006
+PG 2
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 705XX
+UT WOS:000184423500006
+DA 2020-08-31
+ER
+
+PT J
+AU van der Maas, HLJ
+   Kolstein, R
+   van der Pligt, J
+AF van der Maas, HLJ
+   Kolstein, R
+   van der Pligt, J
+TI Sudden transitions in attitudes
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+DE attitude change; polarization; ambivalence; stochastic catastrophe
+   theory; catastrophe flags; maximum likelihood estimation
+ID CATASTROPHE-THEORY; SOCIAL-PSYCHOLOGY; MODELS; POLARIZATION; CRITIQUE;
+   DYNAMISM; JUDGMENT; SYSTEMS; GEMCAT
+AB Both the dynamic approach and catastrophe modeling have been warmly welcomed in research on attitudes and opinions. In this article, the authors discuss a general methodology for testing catastrophe models and apply it to the dynamics of attitude formation and change. First, by making use of the so-called catastrophe flags, converging support for the catastrophe model can be attained. Each flag relates to a specific hypothesis about attitudinal change. Second, fitting stochastic catastrophe models to data enables one to carry out a direct test of catastrophe models. Results of analyzing large data sets on political attitudes support the validity of the general catastrophe model of attitude change in which transitions in attitudes are a function of involvement and information. Present results suggest that in the case of political attitudes, involvement might well be correlated with attitude. A more refined approach to the measurement of information and involvement is suggested.
+C1 Univ Amsterdam, NL-1012 WX Amsterdam, Netherlands.
+RP van der Maas, HLJ (corresponding author), Univ Amsterdam, NL-1012 WX Amsterdam, Netherlands.
+NR 57
+TC 67
+Z9 67
+U1 0
+U2 8
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD NOV
+PY 2003
+VL 32
+IS 2
+BP 125
+EP 152
+DI 10.1177/0049124103253773
+PG 28
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 736HR
+UT WOS:000186165800001
+DA 2020-08-31
+ER
+
+PT J
+AU Thum, YM
+AF Thum, YM
+TI Measuring progress toward a goal - Estimating teacher productivity using
+   a multivariate multilevel model for value-added analysis
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+DE accountability models; Bayesian effect size; covariate adjustment; gain
+   score; Markov chain Monte Carlo; multivariate multilevel modeling
+ID GAIN SCORES; CONVERGENCE; INFERENCE; OBSOLETE; CHOICE
+AB This article develops a procedure for measuring how much is gained by students in a pretest and posttest situation against a target score on the posttest. The author defines a productivity index, M (j), for teacher j as the ratio of estimated gains to an estimated standard that is the distance between an estimate of the pretest and target score. Using language, mathematics, and reading scores on the SAT 9 for 1999 and 2000 from 75 public elementary classrooms (Grades 3-6 in 2000), the author employs a Bayesian implementation of a multivariate mixed model for repeated test scores from individual students. The analysis points to statistically significant gains on the whole for Grades 3, 4, and 6. The strength of the approach lies in a straightforward estimation of the productivity index and a procedure for representing its uncertainty in the form of a productivity profile. This approach also facilitates a Bayesian effect size analysis free from frequentist appeals to noncentral t or F distributions.
+C1 Univ Calif Los Angeles, Los Angeles, CA 90024 USA.
+RP Thum, YM (corresponding author), Univ Calif Los Angeles, Los Angeles, CA 90024 USA.
+EM thum@ucla.edu
+NR 94
+TC 26
+Z9 26
+U1 0
+U2 14
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+EI 1552-8294
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD NOV
+PY 2003
+VL 32
+IS 2
+BP 153
+EP 207
+DI 10.1177/0049124103257073
+PG 55
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 736HR
+UT WOS:000186165800002
+DA 2020-08-31
+ER
+
+PT J
+AU Curran, PJ
+   Bollen, KA
+   Chen, FN
+   Paxton, P
+   Kirby, JB
+AF Curran, PJ
+   Bollen, KA
+   Chen, FN
+   Paxton, P
+   Kirby, JB
+TI Finite sampling properties of the point estimates and confidence
+   intervals of the RMSEA
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+DE RMSEA; SEM; goodness of fit; computer simulations; noncentrality
+ID GOODNESS-OF-FIT; STRUCTURAL EQUATION MODELS; IMPROPER SOLUTIONS;
+   COVARIANCE; INDEXES; SIZE; SPECIFICATION; METHODOLOGIES; ERROR; POWER
+AB A key advantage of the root mean square error of approximation (RMSEA) is that under certain assumptions, the sample estimate has a known sampling distribution that allows for the computation of confidence intervals. However, little is known about the finite sampling behaviors of this measure under violations of these ideal asymptotic conditions. This information is critical for developing optimal criteria for using the RMSEA to evaluate model fit in practice. Using data generated from a computer simulation study, the authors empirically tested a set of theoretically generated research hypotheses about the sampling characteristics of the RMSEA under conditions commonly encountered in applied social science research. The results suggest that both the sample estimates and confidence intervals are accurate for sample sizes of n = 200 and higher, but caution is warranted in the use of these measures at smaller sample sizes, at least for the types of models considered here.
+C1 Univ N Carolina, Dept Psychol, Chapel Hill, NC 27599 USA.
+   Texas A&M Univ, College Stn, TX 77843 USA.
+   Ohio State Univ, Columbus, OH 43210 USA.
+RP Curran, PJ (corresponding author), Univ N Carolina, Dept Psychol, CB 3270, Chapel Hill, NC 27599 USA.
+EM curran@unc.edu
+NR 36
+TC 76
+Z9 76
+U1 0
+U2 6
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+EI 1552-8294
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD NOV
+PY 2003
+VL 32
+IS 2
+BP 208
+EP 252
+DI 10.1177/0049124103256130
+PG 45
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 736HR
+UT WOS:000186165800003
+DA 2020-08-31
+ER
+
+PT J
+AU Huisman, M
+   Snijders, TAB
+AF Huisman, M
+   Snijders, TAB
+TI Statistical analysis of longitudinal network data with changing
+   composition
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+DE network evolution; Markov process; stochastic actor-oriented network
+   model; changing composition
+ID FRIENDSHIP; EVOLUTION; DYNAMICS; MODELS
+AB Markov chains can be used for the modeling of complex longitudinal network data. One class of probability models to model the evolution of social networks are stochastic actor-oriented models for network change proposed by Snijders. These models are continuous-time Markov chain models that are implemented as simulation models. The authors propose an extension of the simulation algorithm of stochastic actor-oriented models to include networks of changing composition. In empirical research, the composition of networks may change due to actors joining or leaving the network at some point in time. The composition changes are modeled as exogenous events that occur at given time points and are implemented in the simulation algorithm. The estimation of the network effects, as well as the effects of actor and dyadic attributes that influence the evolution of the network, is based on the simulation of Markov chains.
+C1 Univ Groningen, Dept Stat & Data Anal, NL-9700 AB Groningen, Netherlands.
+   Univ Groningen, Dept Stat, NL-9700 AB Groningen, Netherlands.
+RP Huisman, M (corresponding author), Univ Groningen, Dept Stat & Data Anal, NL-9700 AB Groningen, Netherlands.
+RI Huisman, Mark/E-9764-2013; Snijders, Tom/F-2896-2012
+OI Huisman, Mark/0000-0002-9009-7859; Snijders, Tom/0000-0003-3157-4157
+NR 30
+TC 88
+Z9 89
+U1 2
+U2 10
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+EI 1552-8294
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD NOV
+PY 2003
+VL 32
+IS 2
+BP 253
+EP 287
+DI 10.1177/0049124103256096
+PG 35
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 736HR
+UT WOS:000186165800004
+DA 2020-08-31
+ER
+
+PT J
+AU Western, B
+AF Western, B
+TI The Bayesian choice: From decision-theoretic foundations to
+   computational implementation.
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Book Review
+C1 Princeton Univ, Princeton, NJ 08544 USA.
+RP Western, B (corresponding author), Princeton Univ, Princeton, NJ 08544 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD NOV
+PY 2003
+VL 32
+IS 2
+BP 288
+EP 291
+PG 4
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 736HR
+UT WOS:000186165800006
+DA 2020-08-31
+ER
+
+PT J
+AU Western, B
+AF Western, B
+TI Bayes and empirical Bayes methods for data analysis.
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Book Review
+C1 Princeton Univ, Princeton, NJ 08544 USA.
+RP Western, B (corresponding author), Princeton Univ, Princeton, NJ 08544 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD NOV
+PY 2003
+VL 32
+IS 2
+BP 288
+EP 291
+PG 4
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 736HR
+UT WOS:000186165800005
+DA 2020-08-31
+ER
+
+PT J
+AU Lynch, SM
+AF Lynch, SM
+TI Bayesian methods: A social and behavioral sciences approach.
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Book Review
+C1 Princeton Univ, Princeton, NJ 08544 USA.
+RP Lynch, SM (corresponding author), Princeton Univ, Princeton, NJ 08544 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD NOV
+PY 2003
+VL 32
+IS 2
+BP 291
+EP 295
+PG 5
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 736HR
+UT WOS:000186165800007
+DA 2020-08-31
+ER
+
+PT J
+AU Lynch, SM
+   Western, B
+AF Lynch, SM
+   Western, B
+TI Bayesian posterior predictive checks for complex models
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article; Proceedings Paper
+CT Meeting of the Methodology Section of the
+   American-Sociological-Association
+CY MAR, 2002
+CL PRINCETON, NEW JERSEY
+SP Amer Sociol Assoc, Methodol Sect
+DE Bayesian posterior predictive distributions; Bayesian approach;
+   statistics; model fit
+ID SOCIAL-RESEARCH; SELECTION
+AB In sociological research, it is often difficult to compare nonnested models and to evaluate the fit of models in which outcome variables are not normally distributed. In this article, the authors demonstrate the utility of Bayesian posterior predictive distributions specifically, as well as a Bayesian approach to modeling snore generally, in tackling these issues. First, they review the Bayesian approach to statistics and computation. Second, they discuss the evaluation of model fit in a bivariate probit model. Third, they discuss comparing fixed- and random-effects hierarchical linear models. Both examples highlight the use of Bayesian posterior predictive distributions beyond these particular cases.
+C1 Princeton Univ, Princeton, NJ 08544 USA.
+RP Lynch, SM (corresponding author), Princeton Univ, Princeton, NJ 08544 USA.
+NR 17
+TC 40
+Z9 40
+U1 0
+U2 14
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD FEB
+PY 2004
+VL 32
+IS 3
+BP 301
+EP 335
+DI 10.1177/0049124103257303
+PG 35
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 768TK
+UT WOS:000188551300001
+DA 2020-08-31
+ER
+
+PT J
+AU Bollen, KA
+   Curran, PJ
+AF Bollen, KA
+   Curran, PJ
+TI Autoregressive latent trajectory (ALT) models a synthesis of two
+   traditions
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article; Proceedings Paper
+CT Symposium in honor of Karl Joreskogs Retirement
+CY APR, 2000
+CL UPPSALA, SWEDEN
+DE latent curve analysis; autoregressive models; structural equation
+   models; repeated measures analysis; growth curve modeling
+ID MEASUREMENT ERROR; VARIABLE GROWTH; SIMPLEX MODELS; PANEL; STABILITY;
+   BEHAVIOR
+AB Although there are a variety of statistical methods available for the analysis of longitudinal panel data, two approaches are of particular historical importance: the autoregressive (simplex) model and the latent trajectory (curve) model. These two approaches have been portrayed as competing methodologies such that one approach is superior to the other. We argue that the autoregressive and trajectory models ate special cases of a more encompassing model that we call the autoregressive latent trajectory (ALT) model. In this paper we detail the underlying statistical theory and mathematical identification of this model, and demonstrate the ALT model using two empirical data sets. The first reanalyzes a simulated repeated measures data set that was previously used to argue against the autoregressive model, and we illustrate how the ALT model can recover the true latent curve model. Second, we apply the ALT model to real family income data on N=3912 adults over a seven year period and find evidence for both autoregressive and latent trajectory processes. Extensions and limitations are discussed.
+C1 Univ N Carolina, Chapel Hill, NC 27515 USA.
+RP Bollen, KA (corresponding author), Univ N Carolina, Chapel Hill, NC 27515 USA.
+RI Meierer, Markus J./C-6234-2008
+NR 67
+TC 237
+Z9 237
+U1 3
+U2 25
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+EI 1552-8294
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD FEB
+PY 2004
+VL 32
+IS 3
+BP 336
+EP 383
+DI 10.1177/0049124103260222
+PG 48
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 768TK
+UT WOS:000188551300002
+DA 2020-08-31
+ER
+
+PT J
+AU van den Hout, A
+   van der Heijden, PGM
+AF van den Hout, A
+   van der Heijden, PGM
+TI The analysis of multivariate misclassified data with special attention
+   to randomized response data
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+DE latent class analysis; log-linear model; misclassification; randomized
+   response; statistical disclosure control
+ID CATEGORICAL-DATA; CONTINGENCY TABLES; MODELS; POSTERIOR
+AB This article discusses log-linear analysis of misclassified categorical data when conditional misclassification probabilities are known. This kind of misclassification occurs when data are collected using a randomized response design. The authors describe the misclassification by a latent class model. Since a latent class model is a log-linear model with one or more categorical latent variables, it is possible to investigate relations between misclassified variables. Methods to fit log-linear models for the latent table are discussed, including an EM algorithm. Attention is given to problems with boundary solutions. The results can also be used in statistical disclosure control when the post-randomization method is applied to protect the privacy of respondents, it? epidemiology when specificity and sensitivity are known, and in data mining when privacy is protected by intentional statistical perturbation. Examples are given using randomized response data from a research into social benefit fraud.
+C1 Univ Utrecht, NL-3508 TC Utrecht, Netherlands.
+RP van den Hout, A (corresponding author), Univ Utrecht, NL-3508 TC Utrecht, Netherlands.
+NR 31
+TC 11
+Z9 11
+U1 0
+U2 3
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD FEB
+PY 2004
+VL 32
+IS 3
+BP 384
+EP 410
+DI 10.1177/0049124103257440
+PG 27
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 768TK
+UT WOS:000188551300003
+OA Green Published
+DA 2020-08-31
+ER
+
+PT J
+AU Morgan, SL
+AF Morgan, SL
+TI Causality: Models, reasoning, and inference.
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Book Review
+C1 Cornell Univ, Ithaca, NY 14853 USA.
+RP Morgan, SL (corresponding author), Cornell Univ, Ithaca, NY 14853 USA.
+NR 2
+TC 1
+Z9 1
+U1 0
+U2 2
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD FEB
+PY 2004
+VL 32
+IS 3
+BP 411
+EP 416
+DI 10.1177/0049124104323004
+PG 6
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 768TK
+UT WOS:000188551300004
+DA 2020-08-31
+ER
+
+PT J
+AU Sobel, ME
+AF Sobel, ME
+TI The theory of the design of experiments.
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Book Review
+C1 Columbia Univ, New York, NY 10027 USA.
+RP Sobel, ME (corresponding author), Columbia Univ, New York, NY 10027 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD FEB
+PY 2004
+VL 32
+IS 3
+BP 416
+EP 418
+DI 10.1177/0049124104323005
+PG 3
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 768TK
+UT WOS:000188551300005
+DA 2020-08-31
+ER
+
+PT J
+AU Qian, ZC
+AF Qian, ZC
+TI Techniques of event history modeling: New approaches to causal analysis,
+   2d edition.
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Book Review
+C1 Ohio State Univ, Columbus, OH 43210 USA.
+RP Qian, ZC (corresponding author), Ohio State Univ, Columbus, OH 43210 USA.
+NR 5
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD FEB
+PY 2004
+VL 32
+IS 3
+BP 419
+EP 422
+DI 10.1177/0049124104323006
+PG 4
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 768TK
+UT WOS:000188551300006
+DA 2020-08-31
+ER
+
+PT J
+AU Bollen, KA
+   Bauer, DJ
+AF Bollen, KA
+   Bauer, DJ
+TI Automating the selection of model-implied instrumental variables
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+DE instrumental variables; structural equation models; two-stage least
+   squares; algorithm
+ID STRUCTURAL EQUATION; ESTIMATOR; COEFFICIENTS; ALGORITHMS; 2SLS
+AB Recently, interest has grown in the use of instrumental variables (IVs) in estimating factor analysis and latent variable models such as structural equations models. Bollen (1996) suggested a two-stage least squares (2SLS) technique that makes use of model-implied IVs in estimating the measurement and latent variable models. Model-implied instrumental variables are the observed variables in the model that can serve as instrumental variables in a given equation. One difficulty inhibiting the practical use of the 2SLS estimator is identifying the model-implied IVs. The authors provide a simple procedure that identifies the model-implied IVs and a computer algorithm that can easily be implemented to automate the selection of IVs for simultaneous equations, factor analysis, and latent variable models.
+C1 Univ N Carolina, Odum Inst Res Social Sci, Chapel Hill, NC 27514 USA.
+   Univ N Carolina, Dept Psychol, Chapel Hill, NC USA.
+RP Bollen, KA (corresponding author), Univ N Carolina, Odum Inst Res Social Sci, Chapel Hill, NC 27514 USA.
+NR 25
+TC 23
+Z9 23
+U1 1
+U2 4
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD MAY
+PY 2004
+VL 32
+IS 4
+BP 425
+EP 452
+DI 10.1177/0049124103260341
+PG 28
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 814XB
+UT WOS:000221006300001
+DA 2020-08-31
+ER
+
+PT J
+AU Olsson, UH
+   Foss, T
+   Breivik, E
+AF Olsson, UH
+   Foss, T
+   Breivik, E
+TI Two equivalent discrepancy functions for maximum likelihood estimation:
+   Do their test statistics follow a non-central Chi-square distribution
+   under model misspecification?
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+DE structural equation modeling; fit assessment; specification error;
+   non-central Chi-square approximation
+ID STRUCTURAL EQUATION MODELS; ASYMPTOTIC-DISTRIBUTION; INTERVAL
+   ESTIMATION; SAMPLE-SIZE; COVARIANCE; ERROR
+AB Over the years several discrepancy,functions have been introduced both in the literature and in the software of Structural Equation Modeling (SEM). The test statistics for the discrepancy functions associated with Maximum Likelihood (ML), Generalized Least Squares (GLS), and Normal Theory Weighted Least Squares (NWLS) are all asymptotically equivalent. These test statistics are all approximately distributed as central chi-square under correct model specification and if the observed variables are multivariate normally distributed. However, it is known that the distribution of these test statistics will not approximate a central Chi-square distribution for models containing specification error, but is more likely to follow a non-central Chi-square distribution (Browne 1984). This study investigates the empirical distributions of the ML and NWLS discrepancy functions. The study includes 13 different factor models with different types and degrees of specification error It is found, except for small samples, that the empirical distribution of the ML-test statistic outperforms the empirical distribution of the NWLS-test statistic in terms of approximation to the theoretical non-central Chi-square distribution. Furthermore, in some cases, it turned out that the non-central Chi-square approximation was not appropriate even for models that contained minor and moderate degrees of specification error.
+C1 Norwegian Sch Management BI, Oslo, Norway.
+   Norwegian Sch Econ & Business Adm, Bergen, Norway.
+RP Olsson, UH (corresponding author), Norwegian Sch Management BI, Oslo, Norway.
+NR 32
+TC 22
+Z9 22
+U1 0
+U2 2
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+EI 1552-8294
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD MAY
+PY 2004
+VL 32
+IS 4
+BP 453
+EP 500
+DI 10.1177/0049124103258131
+PG 48
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 814XB
+UT WOS:000221006300002
+DA 2020-08-31
+ER
+
+PT J
+AU Diprete, TA
+   Engelhardt, H
+AF Diprete, TA
+   Engelhardt, H
+TI Estimating causal effects with matching methods in the presence and
+   absence of bias cancellation
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+DE causal effects; treatment effect; matching methods; bias cancellation
+ID SELECTION BIAS
+AB This article explores the implications of bias cancellation on the estimate of average treatment effects using ordinary least squares (OLS) and Rubin-style matching methods. Bias cancellation (offsetting biases at high and low propensities for treatment in estimates of treatment effects that are uncorrected for nonrandom selection) has been observed when job training is the treatment variable and earnings is the outcome variable. Contrary to published assertions in the literature, bias cancellation is not explainable in terms of the standard selection model, which assumes a symmetric distribution for the errors in the structural and assignment equations. A substantive rationale for bias cancellation is offered, which conceptualizes bias cancellation as the result of a mixture process based on two distinct individual-level decision-making models. While the general properties are unknown, the existence of bias cancellation appears to reduce the average bias in both OLS and matching methods relative to the symmetric distribution case.
+C1 Duke Univ, Durham, NC 27706 USA.
+   Austrian Acad Sci, Vienna Inst Demog Res, A-1010 Vienna, Austria.
+RP Diprete, TA (corresponding author), Duke Univ, Durham, NC 27706 USA.
+NR 14
+TC 11
+Z9 11
+U1 0
+U2 1
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+EI 1552-8294
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD MAY
+PY 2004
+VL 32
+IS 4
+BP 501
+EP 528
+DI 10.1177/0049124103260187
+PG 28
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 814XB
+UT WOS:000221006300003
+DA 2020-08-31
+ER
+
+PT J
+AU Lara, D
+   Strickler, J
+   Olavarrieta, CD
+   Ellertson, C
+AF Lara, D
+   Strickler, J
+   Olavarrieta, CD
+   Ellertson, C
+TI Measuring induced abortion in Mexico - A comparison of four
+   methodologies
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+DE induced abortion; survey methods; sensitive topics; Mexico
+ID RANDOMIZED-RESPONSE TECHNIQUE; 1995 NATIONAL-SURVEY; SEXUAL-BEHAVIOR;
+   RISK BEHAVIOR; PREVALENCE; FERTILITY; PREGNANCY; DETERMINANTS;
+   INTERVIEWS; RATES
+AB The authors compare four methods of collecting information on abortion through survey research to measure the levels of induced abortion in Mexico: face-to-ace interview (FTF), audio computer-assisted self-interview (ACASI), self-administered questionnaire (SAQ), and a random-response technique (RRT). They tested all methods in three samples: (1) hospital patients in Mexico City, (2) rural women in Chiapas, and (3) women randomly chosen as part of a house-to-house survey in Mexico City. In each sample, RRT found the highest rate of attempted induced abortion in the hospital, rural, and household samples (21.7, 36.1, and 17.9 percent, respectively), followed by the SAQ (19.3, 10.1, and 10.8 percent, respectively). The ACASI and FTF interviews yielded fewer reported abortion attempts. The RRT seems the most promising methodology to measure the levels of induced abortion. With SAQ, detailed information was obtained, and the reported frequency rates were slightly lower than the RRT rates in urban areas.
+C1 Univ Vermont, Burlington, VT 05405 USA.
+NR 52
+TC 65
+Z9 66
+U1 0
+U2 11
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+EI 1552-8294
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD MAY
+PY 2004
+VL 32
+IS 4
+BP 529
+EP 558
+DI 10.1177/0049124103262685
+PG 30
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 814XB
+UT WOS:000221006300004
+DA 2020-08-31
+ER
+
+PT J
+AU Stovel, K
+   Bolan, M
+AF Stovel, K
+   Bolan, M
+TI Residential trajectories - Using optimal alignment to reveal the
+   structure of residential mobility
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+DE optimal alignment; residential mobility
+ID OPTIMAL MATCHING ANALYSIS; SEQUENCE-ANALYSIS; LIFE-COURSE; CAREERS;
+   ACHIEVEMENT; MIGRATION; PATTERNS; FAMILY; CITY
+AB This article illustrates the challenges and potential advantages associated with using a sequence-based method to describe the structure of individual residential mobility histories. The authors examine the existence and prevalence of distinctive patterns of residential mobility across a rural-suburban-urban place-type continuum. They identify a finite set of empirically common residential trajectories that describe patterns of movement across the geographic landscape. This approach reveals (1) a great deal of stability in patterns of residential attachment; (2) that residential movement is frequently organized in terms of place-type, rather than in terms of specific locations; and (3) that certain place-types are rarely linked together in residential histories, which suggests that the universe of place-types contains social boundaries. Combining the empirically observed residential trajectories with basic demographic characteristics of individuals confirms general expectations from the life course perspective about the roles and positions individuals occupy over different stages of adulthood.
+C1 Univ Washington, Seattle, WA 98195 USA.
+RP Stovel, K (corresponding author), Univ Washington, Seattle, WA 98195 USA.
+NR 38
+TC 64
+Z9 64
+U1 1
+U2 20
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD MAY
+PY 2004
+VL 32
+IS 4
+BP 559
+EP 598
+DI 10.1177/0049124103262683
+PG 40
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 814XB
+UT WOS:000221006300005
+DA 2020-08-31
+ER
+
+PT J
+AU Fox, J
+AF Fox, J
+TI Robust diagnostic regression analysis.
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Book Review
+C1 McMaster Univ, Hamilton, ON L8S 4L8, Canada.
+RP Fox, J (corresponding author), McMaster Univ, Hamilton, ON L8S 4L8, Canada.
+NR 4
+TC 0
+Z9 0
+U1 0
+U2 4
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+EI 1552-8294
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD MAY
+PY 2004
+VL 32
+IS 4
+BP 599
+EP 603
+DI 10.1177/0049124104263079
+PG 5
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 814XB
+UT WOS:000221006300006
+DA 2020-08-31
+ER
+
+PT J
+AU Morgan, SL
+AF Morgan, SL
+TI Methodologist as arbitrator - Five models for black-white differences in
+   the causal effect of expectations on attainment
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+DE educational expectations; educational achievement; causal effects;
+   Black-White differences; multimodel research
+ID EDUCATIONAL-ATTAINMENT; PEER INFLUENCES; ACHIEVEMENT; ASPIRATIONS;
+   INEQUALITY; STRATIFICATION; PERFORMANCE; ADOLESCENTS; OPPORTUNITY;
+   INFERENCE
+AB When progress in applied research slows because opposing coalitions of investigators privilege their favored models, methodologists can contribute by addressing a tractable unresolved question that is relevant to all competing positions. In this article, the literature on educational attainment is addressed, broadly by focusing on alternative positions on the need to model students' own beliefs and more narrowly by attempting to answer a classic question that emerged in debates over the power of status attainment approaches: Why is the relationship between educational expectations and subsequent educational attainment weaker for Blacks than for Whites? Five complementary models of the causal effect of expectations on attainment are offered: a traditional path model, an average effects instrumental variable model, a counterfactual analysis of bounds, a rationale expectations forecasting model, and a panel data model of updated expectations.
+C1 Cornell Univ, Dept Sociol, Ithaca, NY 14853 USA.
+RP Morgan, SL (corresponding author), Cornell Univ, Dept Sociol, Ithaca, NY 14853 USA.
+NR 78
+TC 23
+Z9 23
+U1 0
+U2 4
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+EI 1552-8294
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD AUG
+PY 2004
+VL 33
+IS 1
+BP 3
+EP 53
+DI 10.1177/0049124104263657
+PG 51
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 840FJ
+UT WOS:000222842300001
+DA 2020-08-31
+ER
+
+PT J
+AU Gill, J
+   King, G
+AF Gill, J
+   King, G
+TI What to do when your Hessian is not invertible - Alternatives to model
+   respecification in nonlinear estimation
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+DE Hessian; generalize inverse; importance sampling; generalized Cholesky
+ID RIDGE-REGRESSION; NONORTHOGONAL PROBLEMS
+AB What should a researcher do when statistical analysis software terminates before completion with a message that the Hessian is not invertible? The standard textbook advice is to respecify the model, but this is another way of saying that the researcher should change the question being asked. Obviously, however, computer programs should not be in the business of deciding what questions are worth of study. Although noninvertable Hessians are sometimes signals of poorly posed questions, nonsensical models, or inappropriate estimators, they also frequently occur when information about the quantities of interest exists in the data through the likelihood function. The authors explain the problem in some detail and lay out two preliminary proposals for ways of dealing with noninvertable Hessians without changing the question asked.
+C1 Univ Calif Davis, Davis, CA 95616 USA.
+   Harvard Univ, Cambridge, MA 02138 USA.
+RP Gill, J (corresponding author), Univ Calif Davis, Davis, CA 95616 USA.
+NR 36
+TC 26
+Z9 26
+U1 0
+U2 2
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+EI 1552-8294
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD AUG
+PY 2004
+VL 33
+IS 1
+BP 54
+EP 87
+DI 10.1177/0049124103262681
+PG 34
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 840FJ
+UT WOS:000222842300002
+DA 2020-08-31
+ER
+
+PT J
+AU Galindo-Garre, F
+   Vermunt, JK
+   Bergsma, WP
+AF Galindo-Garre, F
+   Vermunt, JK
+   Bergsma, WP
+TI Bayesian posterior estimation of logit parameters with small samples
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+DE small samples; logit models; Bayesian estimation; prior distributions
+ID INTERVAL ESTIMATION; LINEAR-MODELS
+AB When the sample size is small compared to the number of cells in a contingency table, maximum likelihood estimates of logit parameters and their associated standard errors may not exist or may be biased. This problem is usually solved by "smoothing" the estimates, assuming a certain prior distribution for the parameters. This article investigates the performance of point and interval estimates obtained by assuming various prior distributions. The authors focus on two logit parameters of a 2 x 2 x 2 table: the interaction effect of two predictors on a response variable and the main effect of one of two predictors on a response variable, under the assumption that the interaction effect is zero. The results indicate the superiority of the posterior mode to the posterior mean.
+C1 Tilburg Univ, Dept Methodol & Stat, Tilburg, Netherlands.
+RP Galindo-Garre, F (corresponding author), Tilburg Univ, Dept Methodol & Stat, Tilburg, Netherlands.
+RI vermunt, jeroen k/K-3680-2012
+OI vermunt, jeroen k/0000-0001-9053-9330; Bergsma,
+   Wicher/0000-0002-2422-2359
+NR 17
+TC 18
+Z9 18
+U1 0
+U2 3
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD AUG
+PY 2004
+VL 33
+IS 1
+BP 88
+EP 117
+DI 10.1177/0049124104265997
+PG 30
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 840FJ
+UT WOS:000222842300003
+OA Green Published
+DA 2020-08-31
+ER
+
+PT J
+AU Schrapler, JP
+AF Schrapler, JP
+TI Respondent behavior in panel studies - A case study for income
+   nonresponse by means of the German Socio-Economic Panel (SOEP)
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+DE respondent behavior; interviewer effects; item nonresponse; panel
+   analysis; multilevel modeling; SOEP
+ID INTERVIEWER; MODELS; PARTICIPATION; CONSEQUENCES; IMPUTATION;
+   REGRESSION; ERROR
+AB Many validation studies deal with item nonresponse and measurement error in earnings data. In this article, the author explores respondents' motives for failing to reveal earnings using the Get-man Socio-Economic Panel (SOEP). The SOEP collects socioeconomic information from private households in the Federal Republic of Germany. The author explains the evolution of income nonresponse in the SOEP and demonstrates the importance of discriminating between refusing to state income and responses of "don't know."
+C1 Ruhr Univ Bochum, Dept Social Sci, D-4630 Bochum, Germany.
+   DIW, German Inst Econ Res, Berlin, Germany.
+RP Schrapler, JP (corresponding author), Ruhr Univ Bochum, Dept Social Sci, Univ Str 150, D-4630 Bochum, Germany.
+NR 48
+TC 27
+Z9 27
+U1 1
+U2 8
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD AUG
+PY 2004
+VL 33
+IS 1
+BP 118
+EP 156
+DI 10.1177/0049124103262689
+PG 39
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 840FJ
+UT WOS:000222842300004
+DA 2020-08-31
+ER
+
+PT J
+AU Baydar, N
+AF Baydar, N
+TI Missing data.
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Book Review
+C1 Koc Univ, Istanbul, Turkey.
+   Univ Washington, Seattle, WA 98195 USA.
+RP Baydar, N (corresponding author), Koc Univ, Istanbul, Turkey.
+RI Baydar, Nazli/P-1410-2016
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 1
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+EI 1552-8294
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD AUG
+PY 2004
+VL 33
+IS 1
+BP 157
+EP 161
+PG 5
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 840FJ
+UT WOS:000222842300005
+DA 2020-08-31
+ER
+
+PT J
+AU Baydar, N
+AF Baydar, N
+TI Statistical analysis with missing data.
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Book Review
+C1 Koc Univ, Istanbul, Turkey.
+   Univ Washington, Seattle, WA 98195 USA.
+RP Baydar, N (corresponding author), Koc Univ, Istanbul, Turkey.
+RI Baydar, Nazli/P-1410-2016
+NR 1
+TC 0
+Z9 0
+U1 1
+U2 13
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+EI 1552-8294
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD AUG
+PY 2004
+VL 33
+IS 1
+BP 157
+EP 161
+PG 5
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 840FJ
+UT WOS:000222842300006
+DA 2020-08-31
+ER
+
+PT J
+AU Weakliem, DL
+AF Weakliem, DL
+TI Introduction to the Special Issue on model selection
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Editorial Material
+ID STATISTICAL-INFERENCE; NULL HYPOTHESIS; TESTS
+C1 Univ Connecticut, Storrs, CT 06269 USA.
+RP Weakliem, DL (corresponding author), Univ Connecticut, Storrs, CT 06269 USA.
+NR 44
+TC 27
+Z9 28
+U1 0
+U2 6
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD NOV
+PY 2004
+VL 33
+IS 2
+BP 167
+EP 187
+DI 10.1177/0049124104268642
+PG 21
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 865MD
+UT WOS:000224706300001
+DA 2020-08-31
+ER
+
+PT J
+AU Kuha, J
+AF Kuha, J
+TI AIC and BIC - Comparisons of assumptions and performance
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article; Proceedings Paper
+CT Annual Meeting of the American-Sociological-Association
+CY AUG 11-16, 2000
+CL Chicago, IL
+SP Amer Sociol Assoc
+DE Bayesian inference; Kullback-Leibler divergence; mobility tables; model
+   selection; parsimony; prediction
+ID AKAIKES INFORMATION CRITERION; MODEL SELECTION; BAYES FACTORS;
+   REGRESSION; LIKELIHOOD; MOBILITY; CHOICE; COUNTRIES; VARIABLES; PARADOX
+AB The two most commonly used penalized model selection criteria, the Bavesian information criterion (BIC) and Akaike's information criterion (AIC), are examined and compared. Their motivations as approximations of two different target quantities are discussed, and their performance in estimating those quantities is assessed. Despite their different foundations, some similarities between the two statistics can be observed, for example, in analogous interpretations of their penalty terms. The behavior of the criteria in selecting good models for observed data is examined with simulated data and also illustrated with the analysis of two well-known data sets on social mobility. It is argued that useful information for model selection can be obtained from using AIC and BIC together, particularly from trying as far as possible to find models favored by both criteria.
+C1 London Sch Econ, London, England.
+RP Kuha, J (corresponding author), London Sch Econ, London, England.
+OI Kuha, Jouni/0000-0002-1156-8465
+NR 46
+TC 337
+Z9 338
+U1 0
+U2 36
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD NOV
+PY 2004
+VL 33
+IS 2
+BP 188
+EP 229
+DI 10.1177/0049124103262065
+PG 42
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 865MD
+UT WOS:000224706300002
+DA 2020-08-31
+ER
+
+PT J
+AU Stine, RA
+AF Stine, RA
+TI Model selection using information theory and the MDL principle
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+DE Akaike information criterion (AIC); Bayes injorniation criterion (BIC);
+   risk inflation criterion (RIC); cross-validation; model selection;
+   stepwise regression; regression tree
+ID MINIMUM DESCRIPTION LENGTH; MULTIPLE-REGRESSION
+AB Information theory offers a coherent, intuitive view, of model selection. This perspective arises from thinking of a statistical model as a code, an algorithm for compressing data into a sequence of bits. The description lenght is the length of this code for the data phis the length of a description of the model itself The length of the code for the data measures the fit of the model to the data, whereas the length of the code for the model measures its complexity. The minimum description length (MDL) principle picks the model with smallest description length, balancing fit versus complexity Variations on MDL reproduce other well-known methods of model selection. Going further, information theory allows one to choose from among various types of models, permitting the comparison of tree-based models to regressions. A running example compares several models for the well-known Boston housing data.
+C1 Univ Penn, Philadelphia, PA 19104 USA.
+RP Stine, RA (corresponding author), Univ Penn, Philadelphia, PA 19104 USA.
+NR 32
+TC 17
+Z9 17
+U1 1
+U2 6
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD NOV
+PY 2004
+VL 33
+IS 2
+BP 230
+EP 260
+DI 10.1177/0049124103262064
+PG 31
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 865MD
+UT WOS:000224706300003
+DA 2020-08-31
+ER
+
+PT J
+AU Burnham, KP
+   Anderson, DR
+AF Burnham, KP
+   Anderson, DR
+TI Multimodel inference - understanding AIC and BIC in model selection
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+DE AIC; BIC; model averaging; model selection; multimodel inference
+ID INFORMATION CRITERION; LIKELIHOOD; REGRESSION; PREDICTION; CHOICE
+AB The model selection literature has been generally poor at reflecting the deep foundations of the Akaike information criterion (AIC) and at making appropriate comparisons to the Bayesian information criterion (BIC). There is a clear philosophy a sound criterion based in information theory, and a rigorous statistical foundation for AIC. AIC can be justified as Bayesian using a "savvy" prior on models that is a function of sample Size and the number of model parameters. Furthermore, BIC can be derived as a non-Bayesian result. Therefore, arguments about using AIC versus BIC for model selection cannot be from a Bayes versus frequentist perspective. The philosophical context of what is assumed about reality, approximating models, and the intent of model-based inference should determine whether AIC or BIC is used. Various facets of such multimodel inference are presented here, particularly methods of model averaging.
+C1 Colorado State Univ, Colorado Cooperat Fish & Wildlife Res Unit, USGS, BRD, Ft Collins, CO 80523 USA.
+RP Burnham, KP (corresponding author), Colorado State Univ, Colorado Cooperat Fish & Wildlife Res Unit, USGS, BRD, Ft Collins, CO 80523 USA.
+NR 51
+TC 4576
+Z9 4642
+U1 49
+U2 755
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+EI 1552-8294
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD NOV
+PY 2004
+VL 33
+IS 2
+BP 261
+EP 304
+DI 10.1177/0049124104268644
+PG 44
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 865MD
+UT WOS:000224706300004
+DA 2020-08-31
+ER
+
+PT J
+AU Greenberg, DF
+AF Greenberg, DF
+TI Applied longitudinal data analysis: Modeling change and event
+   occurrences
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Book Review
+C1 NYU, New York, NY 10012 USA.
+RP Greenberg, DF (corresponding author), NYU, New York, NY 10012 USA.
+NR 6
+TC 2
+Z9 3
+U1 1
+U2 9
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD NOV
+PY 2004
+VL 33
+IS 2
+BP 305
+EP 308
+DI 10.1177/0049124104268748
+PG 4
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 865MD
+UT WOS:000224706300005
+DA 2020-08-31
+ER
+
+PT J
+AU Iorga, SR
+AF Iorga, SR
+TI Statistical group comparison
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Book Review
+C1 Columbia Univ, New York, NY 10027 USA.
+RP Iorga, SR (corresponding author), Columbia Univ, New York, NY 10027 USA.
+NR 3
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD NOV
+PY 2004
+VL 33
+IS 2
+BP 309
+EP 312
+DI 10.1177/004912410403300206
+PG 4
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 865MD
+UT WOS:000224706300006
+DA 2020-08-31
+ER
+
+EF
