@@ -3,7 +3,7 @@ library(tidyverse)
 library(readr)
 library(plyr)
 
-file.ls <- list.files(path="data/raw/")
+file.ls <- list.files(path = "data/raw/")
 file.ls <- paste0("data/raw/", file.ls)
 
 M_all <- data.frame()
@@ -13,8 +13,17 @@ for (i in seq_along(file.ls)) {
   M_all <- rbind.fill(M_all, M)
 }
 
-pwords <- c("protest", "protests", "protestor", "protestors", "social movement", "social movements", "contentious politics")
-pwords <- paste0("\\b",pwords, "\\b")
+pwords <-
+  c(
+    "protest",
+    "protests",
+    "protestor",
+    "protestors",
+    "social movement",
+    "social movements",
+    "contentious politics"
+  )
+pwords <- paste0("\\b", pwords, "\\b")
 
 M_all_p <- M_all %>%
   mutate(abstract = tolower(AB)) %>%

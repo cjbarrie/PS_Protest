@@ -8,7 +8,7 @@ library(plyr)
 # articles. So before final submission, the data needs to be harmonized in terms of which journals are being
 # included for each part of the analysis.
 
-file.ls <- list.files(path="data/raw/")
+file.ls <- list.files(path = "data/raw/")
 file.ls <- paste0("data/raw/", file.ls)
 
 M_all <- data.frame()
