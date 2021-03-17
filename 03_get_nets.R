@@ -14,7 +14,7 @@ library(xtable)
 
 
 ################
-load("data/analysis/bib_precords_f.RData")
+load("data/analysis/bib_precords.RData")
 
 #co-citation of references: Co-citation of two articles occurs when both are cited in a third
 #article. Thus, co-citation is the counterpart of bibliographic coupling (Aria and Cuccurullo 2013).
@@ -32,27 +32,26 @@ load("data/analysis/bib_precords_f.RData")
 #So Tilly will reguilarly appear alongside Tarrow, while Chenoweth will often appear alongside
 #Skocpol
 
-M <- M %>%
-  filter(!is.na(AB) & PY != "2020")
+M <- M_all_p
 
 NetMatrix <-
   biblioNetwork(M,
                 analysis = "co-citation",
                 network = "references",
-                sep = "; ")
+                sep = ";")
 net <-
   networkPlot(
     NetMatrix,
     normalize = NULL,
     weighted = NULL,
-    n = 150,
+    n = 160,
     Title = "Co-citation",
     type = "fruchterman",
     size = 5,
     size.cex = T,
     remove.multiple = TRUE,
     labelsize = 0.8,
-    label.n = 20,
+    label.n = 30,
     label.cex = F,
     cluster = "walktrap"
   )
@@ -65,107 +64,13 @@ g1
 #get graphml file for Gephi
 write.graph(g1, "data/output/prot.graphml", format = "graphml")
 
-#conceptual structure
-#note the documents argument is only for the factorial map -- it tells you which documents are contributing to each cluster
-#mindegree is for the minimum number of occurrences of a word for it to make it onto the map
-#cluster = "auto" finds the number of clusters automatically
-#CA versus MCA is correspondences analysis or multiple correspondence analysis
-CS <- conceptualStructure(
-  M,
-  field = "ID",
-  method = "CA",
-  minDegree = 8,
-  clust = "3",
-  stemming = FALSE,
-  labelsize = 15,
-  documents = 10
-)
-CAg <- CS$graph_terms
-#view labellings
-CAg$labels
-
-#change fill and shape and color to "Cluster"
-CAg$labels$colour <- "Cluster"
-CAg$labels$fill <- "Cluster"
-CAg$labels$shape <- "Cluster"
-CAg$labels$label <- ""
-
-g <- CAg + theme_minimal(base_family = "Helvetica") +
-  theme(
-    legend.position = "bottom",
-    legend.direction = "horizontal",
-    legend.key = element_rect(colour = "black", size = 0.2),
-    legend.title = element_text(size = 12),
-    legend.text = element_text(size = 12),
-    legend.spacing.x = unit(1, "cm"),
-    legend.key.size = unit(.75, "cm"),
-    axis.text = element_text(size = 15),
-    axis.title = element_text(size = 15)
-  ) +
-  ggtitle("") + ylab("") + xlab("") +
-  guides(fill = guide_legend(override.aes = list(alpha = 0)))
-
-
-outcomes <- CAg$data
-outcomes <- outcomes %>%
-  filter(
-    name == "attitudes" |
-      name == "public-opinion" |
-      name == "consequences" |
-      name == "outcomes" |
-      name == "impact"
-  )
-
-shape <- data.frame(x = c(-.78, -.14, .7, .8,-.33),
-                    y = c(-.28, .69, .59, -.87,-1.54))
-
-shape$name <- ""
-
-g1 <-
-  ggplot(outcomes, aes(x, y, label = name)) + theme_minimal(base_family = "Helvetica") +
-  geom_point() +  ggtitle("") + ylab("") + xlab("") +
-  guides(fill = guide_legend(override.aes = list(alpha = 0))) +
-  geom_text_repel(
-    data = subset(outcomes, name == "attitudes" | name == "consequences"),
-    color = "red",
-    size = 5,
-    nudge_x = .5,
-    nudge_y = .5
-  ) +
-  geom_text_repel(
-    data = subset(outcomes, name == "outcomes" | name == "public-opinion"),
-    color = "red",
-    size = 5,
-    nudge_x = -.4,
-    nudge_y = -.5
-  ) +
-  geom_text_repel(
-    data = subset(outcomes, name == "impact"),
-    color = "red",
-    size = 5,
-    nudge_x = -.3,
-    nudge_y = .3
-  ) +
-  geom_polygon(
-    data = shape,
-    fill = "red",
-    color = "red",
-    alpha = .2
-  ) +
-  theme(
-    axis.text = element_text(size = 15),
-    axis.title = element_text(size = 15),
-    aspect.ratio = .75
-  )
-g1
 #another look at keyword frequency
 #here i take all keywords in polisci then soc., I filter by lowest frequency of outcome word (3 inPS; 7 in soc.),
 #then denominate by total remaining keywords in dataframe to get meaasure of frequency that can compare between soc. and PS.
 
 journals <- unique(M$SO)
-psjournals <- journals[c(1:7)]
+psjournals <- journals[c(1, 3,5,7,9,10,14)]
 socjournals <- setdiff(journals, psjournals)
-
 
 MALL <- M
 
@@ -184,7 +89,7 @@ results <- biblioAnalysis(MsocALL, sep = ";")
 S <- summary(object = results, k = 10, pause = FALSE)
 sockeyw <- as.data.frame(results$ID)
 colnames(sockeyw) <- c("word", "freqsoc")
-sockeyw$freqsoc <- sockeyw$freqsoc / 602
+sockeyw$freqsoc <- sockeyw$freqsoc / 710
 
 allkeyw <- merge(pskeyw, sockeyw, by = "word")
 allkeyw <-
@@ -232,42 +137,6 @@ png(
   res = 300
 )
 g2
-dev.off()
-
-#or
-
-lhs <- g
-rhs <-
-  plot_grid(
-    g1,
-    g2,
-    labels = c('B', 'C'),
-    label_size = 20,
-    ncol = 2
-  )
-
-plot_grid(
-  lhs,
-  rhs,
-  labels = c('A', ''),
-  label_size = 20,
-  ncol = 1
-)
-
-png(
-  "figures/concmapall.png",
-  width = 500,
-  height = 480,
-  units = 'mm',
-  res = 300
-)
-plot_grid(
-  lhs,
-  rhs,
-  labels = c('A', ''),
-  label_size = 20,
-  ncol = 1
-)
 dev.off()
 
 #look at most cited papers in soc and polisci
