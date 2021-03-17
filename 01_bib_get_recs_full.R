@@ -1,5 +1,6 @@
 library(bibliometrix)
 library(tidyverse)
+library(readr)
 library(plyr)
 
 file.ls <- list.files(path="data/raw/")
@@ -20,3 +21,4 @@ M_all_p <- M_all %>%
   filter(str_detect(abstract, paste(pwords, collapse = "|")))
 
 save(M_all_p, file = "data/analysis/bib_precords.RData")
+write_csv(M_all_p, "data/output/particles.csv")
