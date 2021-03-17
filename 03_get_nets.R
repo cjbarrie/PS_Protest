@@ -189,11 +189,11 @@ dev.off()
 
 cmat <- cocMatrix(MpsALL, Field = "CR", type = "sparse", sep = ";",binary = TRUE)
 topPS <- as.data.frame(sort(Matrix::colSums(cmat), decreasing = TRUE)[1:20])
-write.csv(topPS, "output/topPS.csv",row.names = T)
+write.csv(topPS, "data/output/topPS.csv",row.names = T)
 
 cmat <- cocMatrix(MsocALL, Field = "CR", type = "sparse", sep = ";",binary = TRUE)
 topSOC <- as.data.frame(sort(Matrix::colSums(cmat), decreasing = TRUE)[1:20])
-write.csv(topSOC, "output/topSOC.csv",row.names = T)
+write.csv(topSOC, "data/output/topSOC.csv",row.names = T)
 
 
 topPS <- setDT(topPS, keep.rownames = TRUE)[]
@@ -206,7 +206,7 @@ topSOC$Top_SOC <- as.character(topSOC$Top_SOC)
 topb <-cbind(topSOC, topPS)
 
 
-print(xtable(topb, type = "latex",digits=0), file = "output/topb.tex")
-print(xtable(topSOC, type = "latex", digits=0), file = "output/topsoc.tex")
-print(xtable(topPS, type = "latex", digits=0), file = "output/topps.tex")
+print(xtable(topb, type = "latex",digits=0), file = "data/output/topb.tex")
+print(xtable(topSOC, type = "latex", digits=0), file = "data/output/topsoc.tex")
+print(xtable(topPS, type = "latex", digits=0), file = "data/output/topps.tex")
 
