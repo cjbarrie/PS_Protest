@@ -140,11 +140,7 @@ dev.off()
 
 #######
 
-# #facetting by journal
-# MALL <- rbind(MAPSR, MAJPS,MJOP,MCPS,MBJPS,MWP,MIO, MASR, MAJS,MSF, MBJS,MESR,MSP,MSMR)
-# #get rid of weird data.frame/bibliometrixDB class by converting to and from matrix class
-# MALLm <- as.matrix(MALL)
-# MALL <- as.data.frame(MALLm)
+#facetting by journal
 
 journals_list <- list(psjournals, socjournals)
 gplotsfac <- list()
@@ -233,7 +229,7 @@ png("figures/socbyart.png",
 socbyart
 dev.off()
 
-##by article count
+#facetting by article count
 
 gplotsfacall <- list()
 
