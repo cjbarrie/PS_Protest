@@ -1,0 +1,3361 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Kim, SE
+   Margalit, Y
+AF Kim, Sung Eun
+   Margalit, Yotam
+TI Tariffs As Electoral Weapons: The Political Geography of the US-China
+   Trade War
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE Trade war; election; retaliatory tariffs
+AB In response to President Trump instigating conflict over trade with China, the Chinese government countered by issuing tariffs on thousands of products worth over USD 110 billion in US exports. We explore whether China's tariffs reflected a strategy to apply counterpressure by hurting political support for the president's party. We also assess the strategy's impact on the 2018 midterm elections and examine the mechanism underlying the resulting electoral shift. We find strong evidence that Chinese tariffs systematically targeted US goods that had production concentrated in Republican-supporting counties, particularly when located in closely contested Congressional districts. This apparent strategy was successful: targeted areas were more likely to turn against Republican candidates. Using data on campaign communications, local search patterns online, and an original national survey, we find evidence that voters residing in areas affected by the tariffs were more likely to learn about the trade war, recognize its adverse impact, and assign the Republicans responsibility for the escalating dispute. These findings demonstrate how domestic political institutions can be a source of vulnerability in interstate disputes.
+C1 [Kim, Sung Eun] Korea Univ, Polit Sci & Int Relat, Seoul, South Korea.
+   [Margalit, Yotam] Tel Aviv Univ, Polit Sci, Tel Aviv, Israel.
+RP Kim, SE (corresponding author), Korea Univ, Polit Sci & Int Relat, Seoul, South Korea.
+EM sung_kim@korea.edu; ymargalit@tau.ac.il
+FU Ministry of Education of the Republic of Korea; National Research
+   Foundation of KoreaNational Research Foundation of Korea
+   [NRF-2019S1A5A8034621]
+FX This work was supported by the Ministry of Education of the Republic of
+   Korea and the National Research Foundation of Korea (Grant No.
+   NRF-2019S1A5A8034621).
+NR 37
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PY 2021
+VL 75
+IS 1
+BP 1
+EP 38
+AR PII S0020818320000612
+DI 10.1017/S0020818320000612
+PG 38
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA QM5FP
+UT WOS:000621805300001
+DA 2021-03-19
+ER
+
+PT J
+AU Branch, J
+AF Branch, Jordan
+TI What's in a Name? Metaphors and Cybersecurity
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE Cybersecurity; metaphor; language; United States; civil-military
+   relations; information technology
+AB For more than a decade, the United States military has conceptualized and discussed the Internet and related systems as "cyberspace," understood as a "domain" of conflict like land, sea, air, and outer space. How and why did this concept become entrenched in US doctrine? What are its effects? Focusing on the emergence and consolidation of this terminology, I make three arguments about the role of language in cybersecurity policy. First, I propose a new, politically consequential category of metaphor: foundational metaphors, implied by using particular labels rather than stated outright. These metaphors support specific ways to understand complex issues, provide discursive resources to some arguments over others, and shape policy contestation and outcomes. Second, I present a detailed empirical study of US military strategy and doctrine that traces the emergence and consolidation of terminology built on the "cyberspace domain." This concept supported implicit metaphorical correspondences between the Internet and physical space, yielding specific analogies and arguments for understanding the Internet and its effects. Third, I focus on the rhetorical effects of this terminology to reveal two important institutional consequences: this language has been essential to expanding the military's role in cybersecurity, and specific interests within the Department of Defense have used this framework to support the creation of US Cyber Command. These linguistic effects in the United States also have implications for how other states approach cybersecurity, for how international law is applied to cyber operations, and for how International Relations understands language and technological change.
+C1 [Branch, Jordan] Claremont Mckenna Coll, Govt, Claremont, CA 91711 USA.
+RP Branch, J (corresponding author), Claremont Mckenna Coll, Govt, Claremont, CA 91711 USA.
+EM jordan.branch@cmc.edu
+NR 180
+TC 1
+Z9 1
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PY 2021
+VL 75
+IS 1
+BP 39
+EP 70
+AR PII S002081832000051X
+DI 10.1017/S002081832000051X
+PG 32
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA QM5FP
+UT WOS:000621805300002
+DA 2021-03-19
+ER
+
+PT J
+AU Strezhnev, A
+   Kelley, JG
+   Simmons, BA
+AF Strezhnev, Anton
+   Kelley, Judith G.
+   Simmons, Beth A.
+TI Testing for Negative Spillovers: Is Promoting Human Rights Really Part
+   of the "Problem"?
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE Human rights; international law; international relations; counteraction;
+   spillover effects; backlash; causal inference; sensitivity analysis;
+   instrumental variables
+AB The international community often seeks to promote political reforms in recalcitrant states. Recently, some scholars have argued that, rather than helping, international law and advocacy create new problems because they have negative spillovers that increase rights violations. We review three mechanisms for such spillovers: backlash, trade-offs, and counteraction and concentrate on the last of these. Some researchers assert that governments sometimes "counteract" international human rights pressures by strategically substituting violations in adjacent areas that are either not targeted or are harder to monitor. However, most such research shows only that both outcomes correlate with an intervention-the targeted positively and the spillover negatively. The burden of proof, however, should be as rigorous as those for studies of first-order policy consequences. We show that these correlations by themselves are insufficient to demonstrate counteraction outside of the narrow case where the intervention is assumed to have no direct effect on the spillover, a situation akin to having a valid instrumental variable design. We revisit two prominent findings and show that the evidence for the counteraction claim is weak in both cases. The article contributes methodologically to the study of negative spillovers in general by proposing mediation and sensitivity analysis within an instrumental variables framework for assessing such arguments. It revisits important prior findings that claim negative consequences to human rights law and/or advocacy, and raises critical normative questions regarding how we empirically evaluate hypotheses about causal mechanisms.
+C1 [Kelley, Judith G.] Duke Sanford Sch Publ Policy, Publ Policy & Polit Sci, Durham, NC USA.
+   [Simmons, Beth A.] Univ Penn, Law Polit Sci & Business Eth, Philadelphia, PA 19104 USA.
+   [Strezhnev, Anton] NYU, Ctr Data Sci, New York, NY 10003 USA.
+RP Strezhnev, A (corresponding author), NYU, Ctr Data Sci, New York, NY 10003 USA.
+EM as6672@nyu.edu; judith.kelley@duke.edu; simmons3@law.upenn.edu
+NR 86
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PY 2021
+VL 75
+IS 1
+BP 71
+EP 102
+AR PII S0020818320000661
+DI 10.1017/S0020818320000661
+PG 32
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA QM5FP
+UT WOS:000621805300003
+DA 2021-03-19
+ER
+
+PT J
+AU Abramson, SF
+   Carter, DB
+AF Abramson, Scott F.
+   Carter, David B.
+TI Systemic Instability and the Emergence of Border Disputes
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE Territory; territorial dispute; great power; hegemony; systemic
+   instability; regional instability
+AB Although evidence shows that territorial disputes fundamentally shape relations among states, we know surprisingly little about when territorial claims are made. We argue that revisionist states have incentives to make territorial claims when the great powers that manage the system are in crisis. We identify five main sources of systemic instability and develop measures of each of them, demonstrating that the majority of territorial claims in Europe are drawn at times when regional great powers are embroiled in crisis, for example, 1848 or 1870 during the nineteenth century. The claims that emerge at these times are not necessarily among states involved in the crises that generated turmoil (e.g., Prussia and France in 1870). We use a newly developed spatial measure of historical boundary precedents in Europe from 1650 to 1790 to demonstrate that the effect of this known spatial correlate of where claims are drawn matters only when the European system is in crisis. We further demonstrate that this claim-timing pattern is general to the global system of states. In the appendix we corroborate our explanation of our findings with a detailed case study of the territorial claims that led to the contemporary Italian state's formation.
+C1 [Abramson, Scott F.] Univ Rochester, Dept Polit Sci, Rochester, NY 14627 USA.
+   [Carter, David B.] Washington Univ, Dept Polit Sci, St Louis, MO 63110 USA.
+RP Abramson, SF (corresponding author), Univ Rochester, Dept Polit Sci, Rochester, NY 14627 USA.
+EM sabramso@ur.rochester.edu; davidcarter@wustl.edu
+NR 69
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PY 2021
+VL 75
+IS 1
+BP 103
+EP 146
+AR PII S0020818320000545
+DI 10.1017/S0020818320000545
+PG 44
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA QM5FP
+UT WOS:000621805300004
+DA 2021-03-19
+ER
+
+PT J
+AU Davis, JW
+   McDermott, R
+AF Davis, James W.
+   McDermott, Rose
+TI The Past, Present, and Future of Behavioral IR
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Review
+DE Behavioral IR; behavioral economics; behavioral science; political
+   psychology; decision making; rationality; rational choice; neuroscience;
+   emotions; foreign policy analysis; prospect theory; genetics;
+   epigenetics; experimental IR
+AB Originally developed by applying models from cognitive psychology to the study of foreign policy decision making, the field of behavioral IR is undergoing important transformations. Building on a broader range of models, methods, and data from the fields of neuroscience, biology, and genetics, behavioral IR has moved beyond the staid debate between rational choice and psychology and instead investigates the plethora of mechanisms selected by evolution for solving adaptive problems. This opens new opportunities for collaboration between scholars informed by rational choice and behavioral insights. Examining the interactions between the individual's genetic inheritance, social environment, and downstream behavior of individuals and groups, the emerging field of behavioral epigenetics offers novel insights into the methodological problem of aggregation that has confounded efforts to apply behavioral findings to IR. In the first instance empirical, behavioral IR raises numerous normative and philosophical questions best answered in dialogue with political and legal theorists.
+C1 [Davis, James W.] Univ St Gallen, Polit Sci, St Gallen, Switzerland.
+   [McDermott, Rose] Brown Univ, Dept Polit Sci, Int Relat, Providence, RI 02912 USA.
+RP Davis, JW (corresponding author), Univ St Gallen, Polit Sci, St Gallen, Switzerland.
+EM James.Davis@unisg.ch; rose_mcdermott@brown.edu
+NR 204
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PY 2021
+VL 75
+IS 1
+BP 147
+EP 177
+AR PII S0020818320000272
+DI 10.1017/S0020818320000272
+PG 31
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA QM5FP
+UT WOS:000621805300005
+DA 2021-03-19
+ER
+
+PT J
+AU Germann, M
+   Sambanis, N
+AF Germann, Micha
+   Sambanis, Nicholas
+TI Political Exclusion, Lost Autonomy, and Escalating Conflict over
+   Self-Determination
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE Civil war; conflict escalation; nonviolent claims; separatism;
+   self-determination conflicts
+AB Most civil wars are preceded by nonviolent forms of conflict. While it is often assumed that violent and nonviolent conflicts are qualitatively different and have different causes, that assumption is rarely tested empirically. We use a two-step approach to explore whether political exclusion and lost autonomy-two common causes of civil war according to extant literature-are associated with the emergence of nonviolent separatist claims, with the escalation of nonviolent separatist claims to war, or both. Our analysis suggests that different types of grievances matter more at different stages of conflict escalation. We find that political exclusion is a significant correlate of the escalation of nonviolent claims for self-determination to violence, while its association with the emergence of nonviolent separatist claims is weaker. By contrast, lost autonomy is correlated with both the emergence of nonviolent separatist claims and, if autonomy revocations are recent, their escalation to violence. We argue that these results are consistent with both grievance- and opportunity-based theories of conflict.
+C1 [Germann, Micha] Univ Bath, Dept Polit Languages & Int Relat, Bath, Avon, England.
+   [Sambanis, Nicholas] Univ Penn, Dept Polit Sci, Philadelphia, PA 19104 USA.
+RP Germann, M (corresponding author), Univ Bath, Dept Polit Languages & Int Relat, Bath, Avon, England.
+EM m.germann@bath.ac.uk; sambanis@sas.upenn.edu
+NR 44
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PY 2021
+VL 75
+IS 1
+BP 178
+EP 203
+AR PII S0020818320000557
+DI 10.1017/S0020818320000557
+PG 26
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA QM5FP
+UT WOS:000621805300006
+DA 2021-03-19
+ER
+
+PT J
+AU Doucette, JS
+   Moller, J
+AF Doucette, Jonathan Stavnskaer
+   Moller, Jorgen
+TI The Collapse of State Power, the Cluniac Reform Movement, and the
+   Origins of Urban Self-Government in Medieval Europe
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE State collapse; urban agglomeration; warfare; urban self-government;
+   Cluniac reforms; Gregorian reforms; monasteries; bishops; medieval
+   Europe
+AB Several generations of scholarship have identified the medieval development of urban self-government as crucial for European patterns of state formation. However, extant theories, emphasizing structural factors such as initial endowments and warfare, do little to explain the initial emergence of institutions of urban self-government before CE 1200 or why similar institutions did not emerge outside of Europe. We argue that a large-scale collapse of public authority in the ninth and tenth centuries allowed a bottom-up reform movement in West Francia (the Cluniac movement), directed by clergy but with popular backing, to push for ecclesiastical autonomy and asceticism in the eleventh and twelfth centuries. These social realignments, facilitated by new norms about ecclesiastical office holding, stimulated the urban associationalism that led to the initial emergence of autonomous town councils. Using a panel data set of 643 towns in the period between 800 and 1800, we show that medieval towns were substantially more likely to establish autonomous town councils in the period between 1000 and 1200 if they were situated in the vicinity of Cluniac monasteries. These findings are corroborated by regressions that use distance from Cluny-the movement's place of origin-to instrument for proximity to Cluniac monasteries.
+C1 [Doucette, Jonathan Stavnskaer; Moller, Jorgen] Aarhus Univ, Dept Polit Sci, Aarhus, Denmark.
+RP Doucette, JS (corresponding author), Aarhus Univ, Dept Polit Sci, Aarhus, Denmark.
+EM jd@ps.au.dk; jm@ps.au.dk
+NR 62
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PY 2021
+VL 75
+IS 1
+BP 204
+EP 223
+AR PII S0020818320000284
+DI 10.1017/S0020818320000284
+PG 20
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA QM5FP
+UT WOS:000621805300007
+DA 2021-03-19
+ER
+
+PT J
+AU Barnhart, JN
+   Trager, RF
+   Saunders, EN
+   Dafoe, A
+AF Barnhart, Joslyn N.
+   Trager, Robert F.
+   Saunders, Elizabeth N.
+   Dafoe, Allan
+TI The Suffragist Peace
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE Democratic peace; gender; conflict; use of force; public opinion;
+   suffrage
+ID DEMOCRATIC PEACE; WOMENS SUFFRAGE; GENDER-DIFFERENCES; AUDIENCE COSTS;
+   SUPPORT; WAR; SEX; AGGRESSION; POLITICS; INSTITUTIONS
+AB Preferences for conflict and cooperation are systematically different for men and women: across a variety of contexts, women generally prefer more peaceful options and are less supportive of making threats and initiating conflict. But how do these preferences affect states' decisions for war and patterns of conflict at the international level, such as the democratic peace? Women have increasingly participated in political decision making over the last century because of suffragist movements. But although there is a large body of research on the democratic peace, the role of women's suffrage has gone unexplored. Drawing on theory, a meta-analysis of survey experiments in international relations, and analysis of crossnational conflict data, we show how features of women's preferences about the use of force translate into specific patterns of international conflict. When empowered by democratic institutions and suffrage, women's more pacific preferences generate a dyadic democratic peace (i.e., between democracies), as well as a monadic peace. Our analysis supports the view that the enfranchisement of women is essential for the democratic peace.
+C1 [Barnhart, Joslyn N.] Univ Calif Santa Barbara, Dept Polit Sci, Santa Barbara, CA 93106 USA.
+   [Trager, Robert F.] Univ Calif Los Angeles, Dept Polit Sci, Los Angeles, CA 90024 USA.
+   [Saunders, Elizabeth N.] Georgetown Univ, Sch Foreign Serv, Washington, DC 20057 USA.
+   [Saunders, Elizabeth N.] Georgetown Univ, Secur Studies Program, Washington, DC USA.
+   [Dafoe, Allan] Univ Oxford, Future Humanity Inst, Ctr Governance AI, Oxford, England.
+RP Barnhart, JN (corresponding author), Univ Calif Santa Barbara, Dept Polit Sci, Santa Barbara, CA 93106 USA.
+EM joslynbarnhart@gmail.com; rtrager@ucla.edu;
+   elizabeth.saunders@georgetown.edu; allan.dafoe@governance.ai
+FU Burkle Center for International Relations; University of California
+   Laboratory Fees Research Program
+FX Robert Trager acknowledges support from the Burkle Center for
+   International Relations and the University of California Laboratory Fees
+   Research Program.
+NR 84
+TC 0
+Z9 0
+U1 4
+U2 4
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PY 2020
+VL 74
+IS 4
+BP 633
+EP 670
+AR PII S0020818320000508
+DI 10.1017/S0020818320000508
+PG 38
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA OT8EO
+UT WOS:000591073200001
+DA 2021-03-19
+ER
+
+PT J
+AU Graham, ER
+   Serdaru, A
+AF Graham, Erin R.
+   Serdaru, Alexandria
+TI Power, Control, and the Logic of Substitution in Institutional Design:
+   The Case of International Climate Finance
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE Institutional design; global climate regime; international
+   organizations; climate finance; international cooperation; World Bank;
+   United Nations
+ID RATIONAL DESIGN; ORGANIZATIONS; FLEXIBILITY; POLITICS; STATES; POLICY;
+   AID
+AB How do powerful states control international organizations (IOs)? In contrast to the conventional wisdom that treats weighted voting rules as the primary means that powerful states use to codify their asymmetric control in institutional design, we propose that funding rules are equally important. Our framework develops a logic of substitution whereby permissive earmark rules-that allow donors to stipulate how their contributions to an IO are used-are a design substitute for weighted voting from wealthy states' perspective. Whether asymmetric control is incorporated in design through voting or funding rules depends on whether egalitarian norms emphasizing political and legal equality, or shareholder norms emphasizing influence commensurate with financial power, govern voting and representation rights at the IO. Focusing on the domain of climate finance, we demonstrate that weighted voting rules are used at international climate finance institutions (ICFIs) associated with multilateral development banks, but that wealthy states pursued permissive earmark rules at ICFIs within the United Nations system where egalitarian norms are strong. In this way, powerful donors can exert control over resource allocation even when developing states appear to hold equal influence on governing bodies. In addition to providing a reassessment of how power translates into control at IOs, our framework offers insight into forum-shopping behavior and sheds light on substitution dynamics that involve other dimensions of design across a range of issue areas.
+C1 [Graham, Erin R.] Drexel Univ Philadelphia, Polit, Philadelphia, PA 19104 USA.
+   [Serdaru, Alexandria] Case Western Reserve Univ, Sch Law Cleveland, Cleveland, OH 44106 USA.
+RP Graham, ER (corresponding author), Drexel Univ Philadelphia, Polit, Philadelphia, PA 19104 USA.
+EM erin.r.graham@drexel.edu; als273@case.edu
+NR 85
+TC 1
+Z9 1
+U1 8
+U2 8
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PY 2020
+VL 74
+IS 4
+BP 671
+EP 706
+AR PII S0020818320000181
+DI 10.1017/S0020818320000181
+PG 36
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA OT8EO
+UT WOS:000591073200002
+DA 2021-03-19
+ER
+
+PT J
+AU Muller-Crepon, C
+AF Mueller-Crepon, Carl
+TI Continuity or Change? (In)direct Rule in British and French Colonial
+   Africa
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE Colonialism; indirect rule; precolonial institutions; Africa
+ID CHIEFS; INSTITUTIONS; BORDERS; EMPIRE; IMPACT; STATE; LAND
+AB Current political order in Africa is often linked to legacies of colonialism, in particular to legacies of indirect colonial rule. However, evidence about the application of indirect rule is scarce. In this paper I argue that empire-level characteristics interacted with precolonial institutions in shaping the indirectness of local rule. First, British governments ruled more indirectly than French administrations, which followed a comparatively centralized administrative blueprint, came with a transformative republican ideology, and had more administrative resources. Empirically, I find that French colonization led to the demise of the lines of succession of seven out of ten precolonial polities, twice as many as under British rule. Second, precolonial centralization was a crucial prerequisite for indirect rule. Local administrative data from eight British colonies show that British colonizers employed less administrative effort and devolved more power to native authorities where centralized institutions existed. Such a pattern did not exist in French colonies. Together, these findings improve our understanding of the long-term effects of precolonial institutions and draw attention to the interaction of characteristics of dominant and subordinate units in shaping local governance arrangements.
+C1 [Mueller-Crepon, Carl] ETH, Int Conflict Res Grp, Zurich, Switzerland.
+RP Muller-Crepon, C (corresponding author), ETH, Int Conflict Res Grp, Zurich, Switzerland.
+EM carl.mueller-crepon@icr.gess.ethz.ch
+FU Swiss National Science FoundationSwiss National Science Foundation
+   (SNSF)European Commission [P0EZP1_165233]
+FX This research was supported by the Swiss National Science Foundation
+   under grant P0EZP1_165233.
+NR 99
+TC 0
+Z9 0
+U1 2
+U2 2
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PY 2020
+VL 74
+IS 4
+BP 707
+EP 741
+AR PII S0020818320000211
+DI 10.1017/S0020818320000211
+PG 35
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA OT8EO
+UT WOS:000591073200003
+DA 2021-03-19
+ER
+
+PT J
+AU Pouliot, V
+AF Pouliot, Vincent
+TI Historical Institutionalism Meets Practice Theory: Renewing the
+   Selection Process of the United Nations Secretary-General
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE United Nations; institutional change; agency; practice theory;
+   historical institutionalism
+AB The selection process leading to the appointment of Antonio Guterres as Secretary-General of the United Nations gave way to unprecedented practices in world politics, such as public hearings with candidates. A textbook case of what historical institutionalism calls "layering," this episode of institutional development features intriguing puzzles, including its timing, form, and limits. Drawing on historical institutionalism and practice theory, I develop a "pulling" theory of agency that complements intentionalist accounts. The webs of practices that agents find themselves in afford certain actions over others, orienting the push of interests. I infer three mechanisms-relational crossover, competence transfers, and pushback-and show how a set of nine practices, available at the UN in 2015-2016 but not in earlier episodes, account for the specifics of the recent renewal of the Secretary-General's selection procedure. A full explanation of this critical case of institutional change is impossible without understanding how agents struggled with one another under the pull of the UN web of practices, affording some innovations but not others.
+C1 [Pouliot, Vincent] McGill Univ, Dept Polit Sci, Montreal, PQ, Canada.
+RP Pouliot, V (corresponding author), McGill Univ, Dept Polit Sci, Montreal, PQ, Canada.
+EM vincent.pouliot@mcgill.ca
+OI Pouliot, Vincent/0000-0002-1820-5376
+NR 57
+TC 1
+Z9 1
+U1 3
+U2 3
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PY 2020
+VL 74
+IS 4
+BP 742
+EP 772
+AR PII S002081832000020X
+DI 10.1017/S002081832000020X
+PG 31
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA OT8EO
+UT WOS:000591073200004
+DA 2021-03-19
+ER
+
+PT J
+AU van der Maat, E
+AF van der Maat, Eelco
+TI Genocidal Consolidation: Final Solutions to Elite Rivalry
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE Mass violence; genocide; indiscriminate violence; atrocities;
+   authoritarian politics; elite rivalry; purges; leaders
+ID VIOLENCE; ETHNICITY; LESSONS; WAR
+AB Under conditions of guerrilla conflict, mass indiscriminate violence has been shown to effectively starve a guerrilla of its support. Consequently, counter-guerrilla mass violence is concentrated within territories where a guerrilla is dominant. However, in roughly 40 percent of mass violence episodes (e.g., Rwanda and Cambodia), the violence was aimed at populations within areas of secure territorial control. These episodes have therefore been explained by attributing ideological preferences to leaders or as unique cases only. I argue that leaders adopt mass indiscriminate violence against outgroups to consolidate power under conditions of elite rivalry. The violence serves two main goals. First, it helps build coalitions with constituencies that gain from violence; and second, it targets rival factions indirectly by forcing local security officials to facilitate or oppose the violence. The violence thereby provides rival supporters with an exit option, provides the regime with information on rival supporters' private loyalties, and undermines rivals' abilities to mount an effective resistance. These rivals can ultimately be purged from the regime. Based on newly collected original data on elite purges and on the type of mass indiscriminate violence for the years 1950 to 2004, I show that this type of mass violence, which I call "genocidal consolidation," is intimately connected to authoritarian consolidation.
+C1 [van der Maat, Eelco] Leiden Univ, Inst Hist, Int Relat, Leiden, Netherlands.
+RP van der Maat, E (corresponding author), Leiden Univ, Inst Hist, Int Relat, Leiden, Netherlands.
+EM e.van.der.maat@hum.leidenuniv.nl
+NR 72
+TC 0
+Z9 0
+U1 1
+U2 1
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PY 2020
+VL 74
+IS 4
+BP 773
+EP 809
+AR PII S0020818320000259
+DI 10.1017/S0020818320000259
+PG 37
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA OT8EO
+UT WOS:000591073200005
+DA 2021-03-19
+ER
+
+PT J
+AU Carnegie, A
+   Mikulaschek, C
+AF Carnegie, Allison
+   Mikulaschek, Christoph
+TI The Promise of Peacekeeping: Protecting Civilians in Civil Wars
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE Civil war; conflict; instrumental variable; international institutions;
+   United Nations; peacekeeping
+ID INTERNATIONAL INTERVENTION; CONFLICTS; CONTAGION; VIOLENCE; AID
+AB Do peacekeepers protect civilians in civil conflict? Securing civilian safety is a key objective of contemporary peacekeeping missions, yet whether these efforts actually make a difference on the ground is widely debated in large part because of intractable endogeneity concerns and selection bias. To overcome these issues, we use an instrumental variables design, leveraging exogenous variation in the rotation of African members of the United Nations Security Council and looking at its effects on African civil wars. We show that states that wield more power send more peacekeepers to their preferred locations, and that these peacekeepers in turn help to protect civilians. We thus demonstrate the robustness of many existing results to a plausible identification strategy and present a method that can also be applied to other diverse settings in international relations.
+C1 [Carnegie, Allison] Columbia Univ, Dept Polit Sci, New York, NY 10027 USA.
+   [Mikulaschek, Christoph] Harvard Univ, Dept Govt, Cambridge, MA 02138 USA.
+RP Carnegie, A (corresponding author), Columbia Univ, Dept Polit Sci, New York, NY 10027 USA.
+EM allison.carnegie@columbia.edu; mikulaschek@gov.harvard.edu
+NR 56
+TC 0
+Z9 0
+U1 2
+U2 2
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PY 2020
+VL 74
+IS 4
+BP 810
+EP 832
+AR PII S0020818320000442
+DI 10.1017/S0020818320000442
+PG 23
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA OT8EO
+UT WOS:000591073200006
+DA 2021-03-19
+ER
+
+PT J
+AU Isaksson, AS
+AF Isaksson, Ann-Sofie
+TI Chinese Aid and Local Ethnic Identification
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE China; aid; ethnic identities; Africa
+ID FOREIGN-AID; DEVELOPMENT-PROJECTS; PUBLIC-GOODS; FAVORITISM; CORRUPTION;
+   DIVERSITY; AFRICA; GROWTH; IMPACT
+AB Recent empirical evidence suggests that Chinese development finance may be particularly prone to elite capture and patronage spending. If aid ends up in the pockets of political elites and their ethno-regional networks, this may exacerbate ethnic grievances and contribute to ethnic mobilization. In this research note I examine whether Chinese development projects make local ethnic identities more salient in African partner countries. A new geo-referenced data set on the subnational allocation of Chinese development finance projects to Africa is geographically matched with survey data for 50,520 respondents from eleven African countries. The identification strategy compares sites where a Chinese project was under implementation at the time of the interview to sites where a Chinese project will appear subsequently. The empirical results suggest that living near an ongoing Chinese project makes ethnic identities more salient. There is no indication of an equivalent pattern when considering other donors' development projects.
+C1 [Isaksson, Ann-Sofie] Res Inst Ind Econ Stockholm, Stockholm, Sweden.
+   [Isaksson, Ann-Sofie] Univ Gothenburg, Gothenburg, Sweden.
+RP Isaksson, AS (corresponding author), Res Inst Ind Econ Stockholm, Stockholm, Sweden.; Isaksson, AS (corresponding author), Univ Gothenburg, Gothenburg, Sweden.
+EM ann-sofie.isaksson@economics.gu.se
+OI Isaksson, Ann-Sofie/0000-0003-2447-3665
+FU Swedish Research CouncilSwedish Research CouncilEuropean Commission
+FX I acknowledge financial support from the Swedish Research Council.
+NR 47
+TC 0
+Z9 0
+U1 6
+U2 6
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PY 2020
+VL 74
+IS 4
+BP 833
+EP 852
+AR PII S0020818320000260
+DI 10.1017/S0020818320000260
+PG 20
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA OT8EO
+UT WOS:000591073200007
+DA 2021-03-19
+ER
+
+PT J
+AU Silverman, D
+AF Silverman, Daniel
+TI Too Late to Apologize? Collateral Damage, Post-Harm Compensation, and
+   Insurgent Violence in Iraq
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE Collateral damage; condolence payments; compensation; war; Iraq
+AB A key piece of conventional wisdom among scholars of modern armed conflict is that collateral damage is often strategically costly in war. Yet most combatants already know this and take actions after mistakes-most prominently, the distribution of "condolence payments" to civilian victims-in order to mitigate these costs. Do these payments work? This question is important not only for policymakers but also for deeper theoretical debates about how civilians respond to combatant signals in war. To examine these issues, I use micro-level conflict event data on 4,046 condolence payments made by Coalition forces to civilian victims during the Iraq War from 2004 to 2008, matching it with corresponding data on collateral damage and insurgent violence. The results of this analysis reveal that post-harm compensation does significantly diminish local rates of insurgent violence, and that this is true across different types of payments (cash handouts or in-kind assistance). Ultimately, these patterns can be best explained by a rationalist mechanism in which civilians update their beliefs about violent events based on new information about combatants' wartime intentions. The results thus provide a compelling strategic rationale for combatants to compensate their victims in war, and suggest that civilians are not blinded to new information about conflict dynamics by their preexisting biases.
+C1 [Silverman, Daniel] Carnegie Mellon Univ, Inst Polit & Strategy, Pittsburgh, PA 15213 USA.
+RP Silverman, D (corresponding author), Carnegie Mellon Univ, Inst Polit & Strategy, Pittsburgh, PA 15213 USA.
+EM dmsilver@andrew.cmu.edu
+NR 23
+TC 0
+Z9 0
+U1 1
+U2 1
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PY 2020
+VL 74
+IS 4
+BP 853
+EP 871
+AR PII S0020818320000193
+DI 10.1017/S0020818320000193
+PG 19
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA OT8EO
+UT WOS:000591073200008
+DA 2021-03-19
+ER
+
+PT J
+AU Schwartz, JA
+   Blair, CW
+AF Schwartz, Joshua A.
+   Blair, Christopher W.
+TI Do Women Make More Credible Threats? Gender Stereotypes, Audience Costs,
+   and Crisis Bargaining
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE Audience costs; gender; female leaders; crisis bargaining; credibility;
+   inconsistency costs
+ID CANDIDATE GENDER; TYING HANDS; SEX; INFORMATION; SECURITY; AGGRESSION;
+   ELECTIONS; WORKPLACE; DEFENSE; POLICY
+AB As more women attain executive office, it is important to understand how gender dynamics affect international politics. Toward this end, we present the first evidence that gender stereotypes affect leaders' abilities to generate audience costs. Using survey experiments, we show that female leaders have political incentives to combat gender stereotypes that women are weak by acting "tough" during international military crises. Most prominently, we find evidence that female leaders, and male leaders facing female opponents, pay greater inconsistency costs for backing down from threats than male leaders do against fellow men. These findings point to particular advantages and disadvantages women have in international crises. Namely, female leaders are better able to tie hands-an efficient mechanism for establishing credibility in crises. However, this bargaining advantage means female leaders will also have a harder time backing down from threats. Our findings have critical implications for debates over the effects of greater gender equality in executive offices worldwide.
+C1 [Schwartz, Joshua A.; Blair, Christopher W.] Univ Penn, Polit Sci, Philadelphia, PA 19104 USA.
+RP Schwartz, JA (corresponding author), Univ Penn, Polit Sci, Philadelphia, PA 19104 USA.
+EM josha@sas.upenn.edu; cwblair@sas.upenn.edu
+RI Schwartz, Joshua Adam/AAC-9699-2021
+OI Schwartz, Joshua/0000-0001-9283-5846
+FU Christopher H. Browne Center for International Politics at the
+   University of Pennsylvania; Time-Sharing Experiments for the Social
+   Sciences (TESS); NSFNational Science Foundation (NSF) [0818839]
+FX Generous support for this research was provided by the Christopher H.
+   Browne Center for International Politics at the University of
+   Pennsylvania and Time-Sharing Experiments for the Social Sciences
+   (TESS). Some of the data were collected by Time-Sharing Experiments for
+   the Social Sciences, NSF Grant 0818839, Jeremy Freese and James
+   Druckman, principal investigators. This research was approved by the
+   University of Pennsylvania Institutional Review Board (IRB Protocol
+   #832589).
+NR 83
+TC 2
+Z9 2
+U1 3
+U2 3
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PY 2020
+VL 74
+IS 4
+BP 872
+EP 895
+AR PII S0020818320000223
+DI 10.1017/S0020818320000223
+PG 24
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA OT8EO
+UT WOS:000591073200009
+DA 2021-03-19
+ER
+
+PT J
+AU Broz, JL
+   Zhang, ZW
+   Wang, GY
+AF Broz, J. Lawrence
+   Zhang, Zhiwen
+   Wang, Gaoyang
+TI Explaining Foreign Support for China's Global Economic Leadership
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE China; global leadership; international institutions; international
+   change; international regimes; Belt and Road Initiative (BRI);
+   International Monetary Fund (IMF); Asian Infrastructure Investment Bank
+   (AIIB)
+ID GLOBALIZATION; IMF
+AB We analyze the factors that increase the likelihood that other nations will follow China's global economic leadership. While our theoretical framework incorporates the conventional argument that China pulls in followers with economic benefits, we focus on grievances with the current global order that have the effect ofpushingcountries toward the rising new leader. We find that grievances about global financial instability are particularly important push factors. Our results show that countries that have experienced more financial crises, more variable capital account policies, more volatile portfolio capital outflows, and more social unrest during IMF programs are more likely to support China's global leadership than leaders of nations that have been less exposed to these problems. We find no evidence that grievances about global governance, or grievances about discriminatory US trade policies, are related to foreign support for China's global economic leadership. Overall, our evidence is consistent with the interpretation that leaders want to reform and preserve the WTO and the IMF, which have worked reasonably well for them under US leadership. At the same time, they have incentives to follow China's economic leadership on global capital flows, emphasizing long-term infrastructure and development finance over short-term flows which, under the current order, have imposed large costs on many economies.
+C1 [Broz, J. Lawrence] Univ Calif San Diego, Dept Polit Sci, San Diego, CA 92103 USA.
+   [Zhang, Zhiwen; Wang, Gaoyang] Sun Yat Sen Univ Guangzhou, Sch Int Relat, Zhuhai Campus, Guangzhou, Peoples R China.
+RP Zhang, ZW (corresponding author), Sun Yat Sen Univ Guangzhou, Sch Int Relat, Zhuhai Campus, Guangzhou, Peoples R China.
+EM jlbroz@ucsd.edu; gmszzw@mail.sysu.edu.cn; wanggy7@mail.sysu.edu.cn
+NR 46
+TC 1
+Z9 1
+U1 15
+U2 17
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PY 2020
+VL 74
+IS 3
+BP 417
+EP 452
+AR PII S0020818320000120
+DI 10.1017/S0020818320000120
+PG 36
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA ME8ZV
+UT WOS:000544944700001
+DA 2021-03-19
+ER
+
+PT J
+AU Paris, R
+AF Paris, Roland
+TI The Right to Dominate: How Old Ideas About Sovereignty Pose New
+   Challenges for World Order
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE Sovereignty; Russia; China; United States; international order;
+   international norms; norm retrieval; great powers
+ID FOREIGN-POLICY; CHINA; NORMS; STATE; RISE; DEMOCRACY; POPULISM;
+   DYNAMICS; NATION; BELT
+AB A principal theme of international relations scholarship following the Cold War was the apparent erosion of state sovereignty caused by globalization's integrative effects and the proliferation of international institutions and networks. In recent years, however, scholars have noted a reverse trend: the reassertion of traditional, or Westphalian, state sovereignty. By contrast, I highlight another recent trend that has gone largely overlooked: the reaffirmation of older "extralegal" and "organic" versions of sovereignty by three of the world's most powerful states-Russia, China, and the United States. After tracing the genealogy of these older concepts, I consider how and why they have gained prominence in the official discourse of all three countries. I also explore the implications of this shift, which not only illustrates the importance of "norm retrieval" in international affairs, but also raises questions about the foundations of international order. Contrary to Westphalian sovereignty, which emphasizes the legal equality of states and the principle of noninterference in domestic affairs, the extralegal and organic versions offer few constraints on state action. If anything, they appear to license powerful states to dominate others.
+C1 [Paris, Roland] Univ Ottawa, Grad Sch Publ & Int Affairs, Ottawa, ON, Canada.
+RP Paris, R (corresponding author), Univ Ottawa, Grad Sch Publ & Int Affairs, Ottawa, ON, Canada.
+EM rparis@uottawa.ca
+NR 136
+TC 2
+Z9 2
+U1 11
+U2 11
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PY 2020
+VL 74
+IS 3
+BP 453
+EP 489
+AR PII S0020818320000077
+DI 10.1017/S0020818320000077
+PG 37
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA ME8ZV
+UT WOS:000544944700002
+DA 2021-03-19
+ER
+
+PT J
+AU Altman, D
+AF Altman, Dan
+TI The Evolution of Territorial Conquest After 1945 and the Limits of the
+   Territorial Integrity Norm
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE Territorial conquest; territorial conflict; territorial disputes; causes
+   of war; interstate war; norms; territorial integrity norm; fait accompli
+ID WAR; CONFLICT; DYNAMICS; RULES; DYADS
+AB Past studies conclude that a territorial integrity norm caused territorial conquest to decline sharply after 1945, virtually subsiding after 1975. However, using new and more comprehensive data on territorial conquest attempts, this study presents a revised history of conquest after 1945. Unlike attempts to conquer entire states, attempts to conquer parts of states remained far more common than previously recognized. More than conquest declined in frequency, its relationship with war evolved. Challengers attempting conquest before 1945 often initiated a war, then sought to occupy large territories. Today, challengers more often seize small regions, then attempt to avoid war. Adopting this strategy, the fait accompli, challengers increasingly came to target territories with characteristics that reduce the risk of provoking war-such as a low population and the absence of a defending military garrison-but challengers nonetheless take a calculated gamble. In part because seizures of smaller territories with such characteristics have not declined, the operative constraint appears to be against war-prone aggression, not territorial revision. The evolution of conquest is a symptom of war's decline, not its cause. Most of the evidence that the territorial integrity norm suppressed conquest or war withers under investigation with new data. Attempts to get away with seizing small pieces of territory are likely to be a defining element of the twenty-first-century international security landscape.
+C1 [Altman, Dan] Georgia State Univ, Polit Sci, Atlanta, GA 30303 USA.
+RP Altman, D (corresponding author), Georgia State Univ, Polit Sci, Atlanta, GA 30303 USA.
+EM Daltman@gsu.edu
+NR 75
+TC 2
+Z9 2
+U1 4
+U2 4
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PY 2020
+VL 74
+IS 3
+BP 490
+EP 522
+AR PII S0020818320000119
+DI 10.1017/S0020818320000119
+PG 33
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA ME8ZV
+UT WOS:000544944700003
+DA 2021-03-19
+ER
+
+PT J
+AU Stanton, JA
+AF Stanton, Jessica A.
+TI Rebel Groups, International Humanitarian Law, and Civil War Outcomes in
+   the Post-Cold War Era
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE Civil wars; civilian targeting; violence against civilians;
+   international humanitarian law
+ID INDISCRIMINATE VIOLENCE; TERRORISM; POLITICS; INTERVENTION; ENFORCEMENT;
+   INCENTIVES; RETHINKING; MEDIATION; DIPLOMACY; DURATION
+AB Do rebel group violations of international humanitarian law during civil war-in particular, attacks on noncombatant civilians-affect conflict outcomes? I argue that in the post-Cold War era, rebel groups that donottarget civilians have used the framework of international humanitarian law to appeal for diplomatic support from Western governments and intergovernmental organizations. However, rebel group appeals for international diplomatic support are most likely to be effective when the rebel group can contrast its own restraint toward civilians with the government's abuses. Rebel groups that donottarget civilians in the face of government abuses, therefore, are likely to be able to translate increased international diplomatic support into more favorable conflict outcomes. Using original cross-national data on rebel group violence against civilians in all civil wars from 1989 to 2010, I show that rebel groups that exercise restraint toward civilians in the face of government violence are more likely to secure favorable conflict outcomes. I also probe the causal mechanism linking rebel group behavior to conflict outcomes, showing that when a rebel group exercises restraint toward civilians and the government commits atrocities, Western governments and intergovernmental organizations are more likely to take coercive diplomatic action against the government. The evidence shows that rebel groups can translate this increased diplomatic support into favorable political outcomes.
+C1 [Stanton, Jessica A.] Temple Univ, Dept Polit Sci, Philadelphia, PA 19122 USA.
+RP Stanton, JA (corresponding author), Temple Univ, Dept Polit Sci, Philadelphia, PA 19122 USA.
+EM jessica.stanton@temple.edu
+NR 104
+TC 0
+Z9 0
+U1 5
+U2 5
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PY 2020
+VL 74
+IS 3
+BP 523
+EP 559
+AR PII S0020818320000090
+DI 10.1017/S0020818320000090
+PG 37
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA ME8ZV
+UT WOS:000544944700004
+DA 2021-03-19
+ER
+
+PT J
+AU Holland, AC
+   Peters, ME
+AF Holland, Alisha C.
+   Peters, Margaret E.
+TI Explaining Migration Timing: Political Information and Opportunities
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE Asylum; refugees; information; migration; Syria
+ID TIME-SERIES ANALYSIS; FORCED MIGRATION; REFUGEES; ASYLUM; DETERMINANTS;
+   CRISIS
+AB How do migrants decide when to leave? Conventional wisdom is that violence and economic deprivation force migrants to leave their homes. However, long-standing problems of violence and poverty often cannot explain sudden spikes in migration. We study the timing of migration decisions in the critical case of Syrian and Iraqi migration to Europe using an original survey and embedded experiment, as well as interviews, focus groups, and Internet search data. We find that violence and poverty lead individuals to invest in learning about the migration environment. Political shifts in receiving countries then can unleash migratory flows. The findings underscore the need for further research on what migrants know about law and politics, when policy changes create and end migrant waves, and whether politicians anticipate migratory responses when crafting policy.
+C1 [Holland, Alisha C.] Harvard Univ, Dept Govt, Cambridge, MA 02138 USA.
+   [Peters, Margaret E.] Univ Calif Los Angeles, Dept Polit Sci, Los Angeles, CA 90024 USA.
+RP Holland, AC (corresponding author), Harvard Univ, Dept Govt, Cambridge, MA 02138 USA.
+EM aholland@fas.harvard.edu; mepeters@ucla.edu
+FU Whitney and Betty MacMillan Center for International and Area Studies at
+   Yale University; Bobst Center for Peace and Justice at Princeton
+   University; National Science FoundationNational Science Foundation (NSF)
+   [RAPID 1638952]
+FX This project received funding from the Whitney and Betty MacMillan
+   Center for International and Area Studies at Yale University, the
+   National Science Foundation (RAPID 1638952), and the Bobst Center for
+   Peace and Justice at Princeton University.
+NR 33
+TC 2
+Z9 2
+U1 6
+U2 7
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PY 2020
+VL 74
+IS 3
+BP 560
+EP 583
+AR PII S002081832000017X
+DI 10.1017/S002081832000017X
+PG 24
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA ME8ZV
+UT WOS:000544944700005
+DA 2021-03-19
+ER
+
+PT J
+AU Bush, SS
+   Prather, L
+AF Bush, Sarah Sunn
+   Prather, Lauren
+TI Foreign Meddling and Mass Attitudes Toward International Economic
+   Engagement
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE Foreign aid; trade; public opinion; experiment; foreign meddling; United
+   States; Tunisia
+ID POLITICAL-ECONOMY; TRADE-POLICY; AID; PERCEPTIONS; SUPPORT; DEMAND
+AB What explains variation in individual preferences for foreign economic engagement? Although a large and growing literature addresses that question, little research examines how partner countries affect public opinion on policies such as trade, foreign aid, and investment. We construct a new theory arguing that political side-taking by outside powers shapes individuals' support for engaging economically with those countries. We test the theory using original surveys in the United States and Tunisia. In both cases, the potential partner country's side-taking in the partisan politics of the respondents' country dramatically shapes support for foreign economic relations. As the rise of new aid donors, investors, and trade partners creates new choices in economic partners, our theory and findings are critical to understanding mass preferences about open economic engagement.
+C1 [Bush, Sarah Sunn] Yale Univ, Dept Polit Sci, New Haven, CT 06520 USA.
+   [Prather, Lauren] Univ Calif San Diego, Sch Global Policy & Strategy, San Diego, CA 92103 USA.
+RP Bush, SS (corresponding author), Yale Univ, Dept Polit Sci, New Haven, CT 06520 USA.
+EM sarah.bush@yale.edu; lprather@ucsd.edu
+FU National Science FoundationNational Science Foundation (NSF) [1456505]
+FX This material is based upon work supported by the National Science
+   Foundation under grant no. 1456505. Any opinions, findings, and
+   conclusions or recommendations expressed in this material are those of
+   the authors and do not necessarily reflect the views of the National
+   Science Foundation.
+NR 33
+TC 2
+Z9 2
+U1 4
+U2 4
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PY 2020
+VL 74
+IS 3
+BP 584
+EP 609
+AR PII S0020818320000156
+DI 10.1017/S0020818320000156
+PG 26
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA ME8ZV
+UT WOS:000544944700006
+DA 2021-03-19
+ER
+
+PT J
+AU Min, E
+AF Min, Eric
+TI Talking While Fighting: Understanding the Role of Wartime Negotiation
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE War; interstate war; conflict; diplomacy; bargaining; negotiation;
+   mediation; war duration; war termination; nuclear weapons; alliances;
+   laws of war; 1945
+ID INTERSTATE WARS; CIVIL-WAR; PEACE; DURATION; INFORMATION; TREATIES
+AB Contemporary studies of conflict have adopted approaches that minimize the importance of negotiation during war or treat it as a constant and mechanical activity. This is strongly related to the lack of systematic data that track and illustrate the complex nature of wartime diplomacy. I address these issues by creating and exploring a new daily-level data set of negotiations in all interstate wars from 1816 to the present. I find strong indications that post-1945 wars feature more frequent negotiations and that these negotiations are far less predictive of war termination. Evidence suggests that increased international pressures for peace and stability after World War II, especially emanating from nuclear weapons and international alliances, account for this trend. These original data and insights establish a dynamic research agenda that enables a more policy-relevant study of conflict management, highlights a historical angle to conflict resolution, and speaks to the utility of viewing diplomacy as an essential dimension to understanding war.
+C1 [Min, Eric] Univ Calif Los Angeles, Polit Sci, Los Angeles, CA 90095 USA.
+RP Min, E (corresponding author), Univ Calif Los Angeles, Polit Sci, Los Angeles, CA 90095 USA.
+EM eric.min@ucla.edu
+OI Min, Eric/0000-0002-8258-2723
+FU National Science Foundation's Graduate Research FellowshipNational
+   Science Foundation (NSF) [DGE-114747]
+FX I gladly acknowledge the financial support of the National Science
+   Foundation's Graduate Research Fellowship #DGE-114747.
+NR 51
+TC 1
+Z9 1
+U1 7
+U2 8
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PY 2020
+VL 74
+IS 3
+BP 610
+EP 632
+AR PII S0020818320000168
+DI 10.1017/S0020818320000168
+PG 23
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA ME8ZV
+UT WOS:000544944700007
+DA 2021-03-19
+ER
+
+PT J
+AU Kennard, A
+AF Kennard, Amanda
+TI The Enemy of My Enemy: When Firms Support Climate Change Regulation
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE Climate change; firms; open economy politics; lobbying
+ID TRADE
+AB Policies to mitigate global climate change entail significant economic costs. Yet a growing number of firms lobby in favor of regulation to mitigate carbon emissions. Why do firms support environmental regulations that directly increase production costs? This question is all the more puzzling in a globalized economy where regulation may undermine the competitiveness of domestic firms at home and abroad. By imposing differential costs on participants in the domestic market, policies designed to mitigate carbon emissions shift market share toward firms with low anticipated adjustment costs. I develop and test a model of climate change policymaking in the presence of market competition and open borders. Heterogeneity in adjustment costs induces a preference for regulation among low-cost firms. Firms facing import pressure-or export competition-may prefer stringent regulation if costs are sufficiently asymmetric. Firms embedded in global value chains also benefit if regulation raises the costs of domestically produced intermediate goods.
+C1 [Kennard, Amanda] NYU, Wilf Family Dept Polit, New York, NY 10003 USA.
+RP Kennard, A (corresponding author), NYU, Wilf Family Dept Polit, New York, NY 10003 USA.
+EM kennard@nyu.edu
+NR 52
+TC 1
+Z9 1
+U1 4
+U2 5
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PY 2020
+VL 74
+IS 2
+BP 187
+EP 221
+AR PII S0020818320000107
+DI 10.1017/S0020818320000107
+PG 35
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA LO0HN
+UT WOS:000533310900001
+DA 2021-03-19
+ER
+
+PT J
+AU Lopez, JC
+AF Costa Lopez, Julia
+TI Political Authority in International Relations: Revisiting the Medieval
+   Debate
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE Authority; heteronomy; feudalism; sovereignty; Middle Ages; Roman law
+ID TERRITORIALITY; CONSTITUTION; RECOGNITION; SOVEREIGNTY; LEGITIMACY;
+   EUROPE
+AB In international relations, accounts of medieval political authority are divided between those who see a heteronomous patchwork of overlapping authorities and those who claim that the era of the state started in the twelfth century. How can we overcome this divide? I argue that IR's current difficulties in grasping the nature of medieval political authority stem from shortcomings in how the notion of political authority itself has been conceptualized. Thus, rather than starting from a substantive definition of political authority, I focus on contestation over the categorization and authorization of rule, that is, on how authority is produced in historically specific ways as a result of contemporary contestation over what political authority is, who is authorized, and how rulers stand in relation to one another. This reorientation allows us to appreciate how medieval political authority emerged from the competition between four sets of ordering categories: iurisdictio, potestas, lord/vassal, and magistrate. Each one of these four categories understood authority, rulers, and the relation between rulers in different ways. The problem with existing accounts of medieval authority is that they attempt to find the single ordering principle of medieval international relations. In doing so, they not only fail to capture the features of the time but also reinforce a particular approach to political authority that is unhelpful for understanding medieval and modern politics alike.
+C1 [Costa Lopez, Julia] Univ Groningen, Hist & Theory Int Relat, Groningen, Netherlands.
+RP Lopez, JC (corresponding author), Univ Groningen, Hist & Theory Int Relat, Groningen, Netherlands.
+EM j.costa.lopez@rug.nl
+NR 105
+TC 0
+Z9 0
+U1 1
+U2 2
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PY 2020
+VL 74
+IS 2
+BP 222
+EP 252
+AR PII S0020818319000390
+DI 10.1017/S0020818319000390
+PG 31
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA LO0HN
+UT WOS:000533310900002
+DA 2021-03-19
+ER
+
+PT J
+AU Lichtenheld, AG
+AF Lichtenheld, Adam G.
+TI Explaining Population Displacement Strategies in Civil Wars: A
+   Cross-National Analysis
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE Displacement; forced migration; violence; civil war; counterinsurgency
+ID FORCED MIGRATION; CONFLICT; VIOLENCE; POLITICS; RESETTLEMENT;
+   INSURGENCY; GEOGRAPHY; WARFARE; REBEL
+AB Why do combatants uproot civilians in wartime? In this paper I identify cross-national variation in three population-displacement strategies-cleansing, depopulation, and forced relocation-and test different explanations for their use by state actors. I advance a new "assortative" theory to explain forced relocation, the most common type. I argue that combatants displace not only to expel undesirable populations, but also to identify the undesirables in the first place by forcing people to send signals of loyalty and affiliation based on whether, and to where, they flee. This makes communities more "legible" and facilitates the extraction of rents and recruits. I test these arguments using a novel Strategic Displacement in Civil Conflict data set (1945-2008). Consistent with my expectations, different displacement strategies occur in different contexts and appear to follow different logics. Cleansing is more likely in conventional wars, where territorial conquest takes primacy, while forced relocation is more likely in irregular wars, where identification problems are most acute. The evidence indicates that cleansing follows a logic of punishment. The results for relocation, however, are consistent with the implications of my assortative logic: it is more likely to be employed by resource-constrained incumbents fighting insurgencies in "illegible" areas-rural, peripheral territories. A case study from Uganda based on in-depth fieldwork provides evidence for the assortative mechanism. As the most comprehensive analysis of wartime displacement strategies to date, this paper challenges some core assumptions about a devastating form of contemporary political violence.
+C1 [Lichtenheld, Adam G.] Yale Univ, MacMillion Ctr, New Haven, CT 06520 USA.
+RP Lichtenheld, AG (corresponding author), Yale Univ, MacMillion Ctr, New Haven, CT 06520 USA.
+EM adam.lichtenheld@yale.edu
+FU National Science FoundationNational Science Foundation (NSF) [1746447];
+   United States Institute of Peace; Harry Frank Guggenheim Foundation;
+   University of California Institute on Global Conflict and Cooperation;
+   UC Berkeley Center for African Studies
+FX I acknowledge funding support from the National Science Foundation (No.
+   1746447), the United States Institute of Peace, the Harry Frank
+   Guggenheim Foundation, the University of California Institute on Global
+   Conflict and Cooperation, and the UC Berkeley Center for African
+   Studies.
+NR 83
+TC 0
+Z9 0
+U1 3
+U2 4
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PY 2020
+VL 74
+IS 2
+BP 253
+EP 294
+AR PII S0020818320000089
+DI 10.1017/S0020818320000089
+PG 42
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA LO0HN
+UT WOS:000533310900003
+DA 2021-03-19
+ER
+
+PT J
+AU Duursma, A
+AF Duursma, Allard
+TI African Solutions to African Challenges: The Role of Legitimacy in
+   Mediating Civil Wars in Africa
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE International mediation; legitimacy; norms; civil war; Africa; capacity;
+   conflict resolution
+ID INTERNATIONAL MEDIATION; AGREEMENT; PEACE; INTERVENTION; BIAS
+AB The current scholarly literature on the international mediation of civil wars draws predominantly on a rationalist-materialist perspective. This perspective suggests that the ticket to mediation success is the material manipulation of the bargaining environment by third parties with a high degree of economic and military resources. I argue that legitimacy also determines outcomes of mediation because if a mediator has legitimacy, it can continue to look for a mutually satisfactory outcome and try to pull the conflict parties toward compliance. I show that legitimacy matters by systematically comparing the effectiveness of African and non-African third parties. African third parties are typically considered ineffective because of a low degree of economic and military capacity. However, they effectively mediate civil wars in Africa because of a high degree of legitimacy, which is a result of a strong conviction within the African society of states that African mediation is the most desirable type in conflicts there. Drawing on data from the Uppsala Conflict Data Program supplemented with unique data, which together cover all mediation efforts in Africa between 1960 and 2017, I find quantitative evidence supporting the effectiveness of African third parties. Compared to non-African ones, African third parties are far more likely to conclude negotiated settlements that are more likely to be durable. African third parties are especially effective if the conflict parties are highly committed to the African solutions norm. Theoretically, this study deviates from much of the literature that puts forward solely rationalist-materialist explanations of mediation success. By bringing legitimacy to the forefront, this article supplements the current mediation literature that emphasizes material sources of power and ignores social structures.
+C1 [Duursma, Allard] ETH, Ctr Secur Studies CSS, Zurich, Switzerland.
+RP Duursma, A (corresponding author), ETH, Ctr Secur Studies CSS, Zurich, Switzerland.
+EM allard.duursma@sipo.gess.ethz.ch
+NR 66
+TC 2
+Z9 2
+U1 2
+U2 2
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PY 2020
+VL 74
+IS 2
+BP 295
+EP 330
+AR PII S0020818320000041
+DI 10.1017/S0020818320000041
+PG 36
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA LO0HN
+UT WOS:000533310900004
+DA 2021-03-19
+ER
+
+PT J
+AU Hashimoto, B
+AF Hashimoto, Barry
+TI Autocratic Consent to International Law: The Case of the International
+   Criminal Court's Jurisdiction, 1998-2017
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE International law; international organizations; international courts;
+   war crimes; genocide; human rights; repression; civil war; leaders;
+   democracy; foreign aid; International Criminal Court; World Bank; IMF;
+   OECD; Development Assistance Committee
+ID HUMAN-RIGHTS; DOMESTIC POLITICS; STATE CAPACITY; AID; COMMITMENTS;
+   CONFLICT; VIOLENCE; REVENUE; MODELS
+AB This article contributes to an understanding of why autocrats have accepted the jurisdiction of the International Criminal Court. Leveraging their ability to obstruct their own prosecution, autocrats have traded off the risk of unwanted prosecutions against the deterrent threat that prosecutions pose to political rivals and patrons of their enemies conspiring to oust them. The risk of unwanted prosecutions and the court's deterrent threat both arise because ICC prosecutions credibly communicate guilt for international crimes to capital-disbursing democracies, which may, insofar as possible, use leader-specific economic statecraft to prevent the administration of foreign states by those whom the court signals are guilty of international crimes. Analysis using fixed effects and matching shows that a greater reliance on capital publicly financed by democracies increased the probability that a state accepted the court's jurisdiction only when it was an autocracy (1998-2017). ICC jurisdiction also lengthened the tenure of autocrats and reduced the severity of civil conflict in autocracies.
+C1 [Hashimoto, Barry] New York Univ Abu Dhabi, Polit Sci, Div Social Sci, Abu Dhabi, U Arab Emirates.
+RP Hashimoto, B (corresponding author), New York Univ Abu Dhabi, Polit Sci, Div Social Sci, Abu Dhabi, U Arab Emirates.
+EM barry.hashimoto@nyu.edu
+NR 88
+TC 0
+Z9 0
+U1 1
+U2 1
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PY 2020
+VL 74
+IS 2
+BP 331
+EP 362
+AR PII S0020818320000065
+DI 10.1017/S0020818320000065
+PG 32
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA LO0HN
+UT WOS:000533310900005
+DA 2021-03-19
+ER
+
+PT J
+AU Hyde, SD
+   Saunders, EN
+AF Hyde, Susan D.
+   Saunders, Elizabeth N.
+TI Recapturing Regime Type in International Relations: Leaders,
+   Institutions, and Agency Space
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Review
+DE Regime type; democracy; autocracy; leaders; dictators; accountability;
+   audience costs; democratic advantage
+ID OPEN-ECONOMY POLITICS; TRADE-POLICY; HUMAN-RIGHTS; DEMOCRATIC
+   INSTITUTIONS; WAR OUTCOMES; INVESTMENT; GOVERNMENT; US; ACCOUNTABILITY;
+   RATIFICATION
+AB A wave of recent research challenges the role of regime type in international relations. One striking takeaway is that democratic and autocratic leaders can often achieve similar levels of domestic constraint, which in many issue areas results in similar international outcomes-leading many to question traditional views of democracies as distinctive in their international relations. In this review essay, we use recent contributions in the field to build what we call a "malleable constraints" framework, in which all governments have an institutionally defined default level of domestic audience constraint that is generally higher in democracies, but leaders maintain some agency within these institutions and can strategically increase their exposure to or insulation from this constraint. Using this framework, we argue that regime type is still a crucial differentiator in international affairs even if, as recent studies suggest, democratic and autocratic leaders can sometimes be similarly constrained by domestic audiences and thus achieve similar international outcomes. This framework helps reconcile many competing claims in recent scholarship, including the puzzle of why autocracies do not strategically increase domestic audience constraint more often. Just because autocracies can engage audience constraints and democracies can escape them does not mean that they can do so with equal ease, frequency, or risk.
+C1 [Hyde, Susan D.] Univ Calif Berkeley, Polit Sci, Berkeley, CA 94720 USA.
+   [Saunders, Elizabeth N.] Georgetown Univ, Sch Foreign Serv, Washington, DC 20057 USA.
+RP Hyde, SD (corresponding author), Univ Calif Berkeley, Polit Sci, Berkeley, CA 94720 USA.
+EM susanhyde@berkeley.edu; elizabeth.saunders@georgetown.edu
+OI Saunders, Elizabeth/0000-0001-5350-0138
+FU Edward J. and Dorothy Clarke Kempf Fund from the MacMillan Center, Yale
+   University; The Institute for Security and Conflict Studies at the
+   Elliott School of International Affairs, George Washington University;
+   Leitner Program in International and Comparative Political Economy, Yale
+   University
+FX We gratefully acknowledge conference funding from the Edward J. and
+   Dorothy Clarke Kempf Fund from the MacMillan Center, Yale University;
+   The Institute for Security and Conflict Studies at the Elliott School of
+   International Affairs, George Washington University; and the Leitner
+   Program in International and Comparative Political Economy, Yale
+   University.
+NR 155
+TC 4
+Z9 4
+U1 3
+U2 5
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PY 2020
+VL 74
+IS 2
+BP 363
+EP 395
+AR PII S0020818319000365
+DI 10.1017/S0020818319000365
+PG 33
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA LO0HN
+UT WOS:000533310900006
+DA 2021-03-19
+ER
+
+PT J
+AU Brown, JM
+AF Brown, Joseph M.
+TI Correlates of Warning: Territory, Democracy, and Casualty Aversion in
+   Terrorist Tactics
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE Terrorism; Insurgency; Threats; Counterterrorism; Conflict Resolution;
+   Communication
+ID CIVIL-WAR
+AB Terrorists attack civilian targets but there is variation in how many civilians they kill. Terrorists may deliberately harm civilians, or they may adopt a less bloody approach, demolishing businesses, transit systems, and other civilian property while employing tactics to avert civilian casualties. One such tactic is to warn civilians before an attack, allowing them to flee the area. With warnings as an example, this study considers why terrorists might adopt casualty-aversion tactics. An analysis of 12,235 bombings by 131 terrorist groups in the years 1970 to 2016 finds that warnings are most common when terrorists fight democracies and when they lack territorial strongholds. Ideological factors such as religion are not significant predictors of warnings. These findings suggest a need to revisit the claim that religion incentivizes indiscriminate terrorism. They also suggest a strategic logic behind casualty-aversion tactics. Terrorists fighting democracies may spare civilians to appear legitimate in citizens' eyes. Terrorists without strongholds may spare civilians because they rely on the state's population for support. At first glance, my findings appear to contradict civil war literature arguing that militants with strongholds use violence more discriminately. However, terrorism occurs in areas of state control. Militants with strongholds can use indiscriminate terrorism against state-governed civilians without alienating their own supporters elsewhere.
+C1 [Brown, Joseph M.] Univ Massachusetts Boston, Polit Sci, Boston, MA 02125 USA.
+RP Brown, JM (corresponding author), Univ Massachusetts Boston, Polit Sci, Boston, MA 02125 USA.
+EM Joseph.Brown@umb.edu
+FU Horowitz Foundation for Social Policy; Earth Institute at Columbia
+   University
+FX This research was funded by the Horowitz Foundation for Social Policy
+   and the Earth Institute at Columbia University.
+NR 51
+TC 0
+Z9 0
+U1 2
+U2 2
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PY 2020
+VL 74
+IS 2
+BP 396
+EP 415
+AR PII S002081832000003X
+DI 10.1017/S002081832000003X
+PG 20
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA LO0HN
+UT WOS:000533310900007
+DA 2021-03-19
+ER
+
+PT J
+AU Schneider, CJ
+   Tobin, JL
+AF Schneider, Christina J.
+   Tobin, Jennifer L.
+TI The Political Economy of Bilateral Bailouts
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE Bilateral bailouts; IMF; financial crises; financial rescues
+ID CONGRESSIONAL POLITICS; AID ALLOCATION; DEBT RELIEF; IMF; RESERVE; MONEY
+AB IMF loans during times of financial crisis often occur in conjunction with bilateral financial rescues. These bilateral bailouts are substantial in size and a central component of international cooperation during financial crises. We analyze the political economy of bilateral bailouts and study the trade-offs that potential creditor governments experience when other countries find themselves in financial distress. Creditor governments want to stabilize crisis countries by providing additional liquidity, particularly if the crisis country is economically or politically important to them, but they are constrained by domestic politics. Politicians aim to balance these countervailing pressures. They provide bailouts when their own economy is exposed to negative spillover effects and when the crisis country is important for geostrategic, military, or political reasons. Domestic economic and political constraints, on the other hand, limit their ability to bail out other countries. We test our hypotheses using an original data set on bilateral bailouts by the G7 countries to countries that experienced financial crises between 1975 and 2010. The findings of our statistical analysis support our theoretical argument and contribute to a deeper understanding of international cooperation's complex structure during financial crises.
+C1 [Schneider, Christina J.] Univ Calif San Diego, Dept Polit Sci, La Jolla, CA 92093 USA.
+   [Tobin, Jennifer L.] Georgetown Univ, McCourt Sch Publ Policy, Publ Policy, Washington, DC 20057 USA.
+RP Schneider, CJ (corresponding author), Univ Calif San Diego, Dept Polit Sci, La Jolla, CA 92093 USA.
+EM cjschneider@ucsd.edu; jlt58@georgetown.edu
+FU Hellman Foundation
+FX We gratefully acknowledge financial support from the Hellman Foundation.
+NR 73
+TC 3
+Z9 3
+U1 3
+U2 18
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PY 2020
+VL 74
+IS 1
+BP 1
+EP 29
+AR PII S0020818319000389
+DI 10.1017/S0020818319000389
+PG 29
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA KG5OZ
+UT WOS:000510000600001
+DA 2021-03-19
+ER
+
+PT J
+AU Putnam, TL
+AF Putnam, Tonya L.
+TI Mingling and Strategic Augmentation of International Legal Obligations
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE International law; heresthetics; extradition; international criminal
+   court
+ID OVERLAPPING INSTITUTIONS; CRIMINAL COURT; LAW; AGREEMENTS; POLITICS;
+   POWER; DYNAMICS; TREATIES; ARTICLE; DESIGN
+AB Managing foreign affairs is in no small measure about anticipating the actions (and non-actions) of others, and about taking steps to limit the unexpected-and the undesired. Law has long been recognized as important to these tasks. Nevertheless, standard IR treatments often overlook important properties of law, even when trying to account for international law's effects on behavior. Chief among these overlooked properties is the fact that legal rules are formulated for general use, which means their provisions lack determinate meaning in relation to the full range of facts they may be applied to. Selecting and using legal rules to guide or assess behavior thus requires interpretation. Self-interested actors may differ regarding the applicability, scope, or meaning of individual rules, and still more so where multiple legal rules are in play. In situations where political stakes are high, powerful actors may not be content to leave all options on the table. Instead they may use interpretative tactics to mingle obligations from different agreements and, where needed, to augment relevant legal obligations in efforts to prospectively ensure, in the mode of Riker's heresthetics, that interlocutors feel compelled by legal circumstances to enact the more powerful actor's preferences. I demonstrate how agreement mingling and augmentation function in complex legal environments by reexaming US efforts to insulate its citizens from unwanted exercises of jurisdiction by the International Criminal Court (ICC).
+C1 [Putnam, Tonya L.] Columbia Univ, Polit Sci, New York, NY 10027 USA.
+RP Putnam, TL (corresponding author), Columbia Univ, Polit Sci, New York, NY 10027 USA.
+EM tp2202@columbia.edu
+NR 75
+TC 2
+Z9 2
+U1 2
+U2 9
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PY 2020
+VL 74
+IS 1
+BP 31
+EP 64
+AR PII S0020818319000377
+DI 10.1017/S0020818319000377
+PG 34
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA KG5OZ
+UT WOS:000510000600002
+DA 2021-03-19
+ER
+
+PT J
+AU Kang, DC
+AF Kang, David C.
+TI International Order in Historical East Asia: Tribute and Hierarchy
+   Beyond Sinocentrism and Eurocentrism
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Review
+DE East Asian history; hierarchy; hegemony; international order
+ID CHINA; WAR; SOCIETY; BUREAUCRATIZATION; FUTURE; STEPPE; SYSTEM
+AB IR theorizing about international order has been profoundly, perhaps exclusively, shaped by the Western experiences of the Westphalian order and often assumes that the Western experience can be generalized to all orders. Recent scholarship on historical East Asian orders challenges these notions. The fundamental organizing principle in historical East Asia was hierarchy, not sovereign equality. The region was characterized by hegemony, not balance of power. This emerging research program has direct implications for enduring questions about the relative importance of cultural and material factors in both international orders and their influence on behavior-for describing and explaining patterns of war and peace across time and space, for understanding East Asia as a region made up of more than just China, and for more usefully comparing East Asia, Europe, and other regions of the world.
+C1 [Kang, David C.] Univ Southern Calif, Int Relat, Los Angeles, CA 90007 USA.
+RP Kang, DC (corresponding author), Univ Southern Calif, Int Relat, Los Angeles, CA 90007 USA.
+EM kangdc@usc.edu
+OI Kang, David/0000-0002-5685-3841
+FU Laboratory Program for Korean Studies through the Ministry of Education
+   of the Republic of Korea; Korean Studies Promotion Service of the
+   Academy of Korean Studies [AKS-2015-LAB-2250002]
+FX Funding for this project was supported by Laboratory Program for Korean
+   Studies through the Ministry of Education of the Republic of Korea and
+   the Korean Studies Promotion Service of the Academy of Korean Studies
+   (AKS-2015-LAB-2250002).
+NR 87
+TC 2
+Z9 2
+U1 4
+U2 10
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PY 2020
+VL 74
+IS 1
+BP 65
+EP 93
+AR PII S0020818319000274
+DI 10.1017/S0020818319000274
+PG 29
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA KG5OZ
+UT WOS:000510000600003
+DA 2021-03-19
+ER
+
+PT J
+AU Kertzer, JD
+   Rathbun, BC
+   Rathbun, NS
+AF Kertzer, Joshua D.
+   Rathbun, Brian C.
+   Rathbun, Nina Srinivasan
+TI The Price of Peace: Motivated Reasoning and Costly Signaling in
+   International Relations
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE Motivated reasoning; Iran deal; costly signaling; reassurance; political
+   psychology
+ID BELIEFS; VALUES; IMAGE
+AB Canonical models of costly signaling in international relations (IR) tend to assume costly signals speak for themselves: a signal's costliness is typically understood to be a function of the signal, not the perceptions of the recipient. Integrating the study of signaling in IR with research on motivated skepticism and asymmetric updating from political psychology, we show that individuals' tendencies to embrace information consistent with their overarching belief systems (and dismiss information inconsistent with it) has important implications for how signals are interpreted. We test our theory in the context of the 2015 Joint Comprehensive Plan of Action (JCPOA) on Iran, combining two survey experiments fielded on members of the American mass public. We find patterns consistent with motivated skepticism: the individuals most likely to update their beliefs are those who need reassurance the least, such that costly signals cause polarization rather than convergence. Successful signaling therefore requires knowing something about the orientations of the signal's recipient.
+C1 [Kertzer, Joshua D.] Harvard Univ, Polit Econ, Cambridge, MA 02138 USA.
+   [Rathbun, Brian C.; Rathbun, Nina Srinivasan] Univ Southern Calif, Int Relat, Los Angeles, CA 90007 USA.
+RP Kertzer, JD (corresponding author), Harvard Univ, Polit Econ, Cambridge, MA 02138 USA.
+EM jkertzer@gov.harvard.edu; brathbun@usc.edu; nrathbun@usc.edu
+FU Niehaus Center for Globalization and Governance at Princeton University
+FX Kertzer acknowledges the support of the Niehaus Center for Globalization
+   and Governance at Princeton University.
+NR 50
+TC 2
+Z9 2
+U1 6
+U2 6
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PY 2020
+VL 74
+IS 1
+BP 95
+EP 118
+AR PII S0020818319000328
+DI 10.1017/S0020818319000328
+PG 24
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA KG5OZ
+UT WOS:000510000600004
+DA 2021-03-19
+ER
+
+PT J
+AU Tomz, M
+   Weeks, JLP
+   Yarhi-Milo, K
+AF Tomz, Michael
+   Weeks, Jessica L. P.
+   Yarhi-Milo, Keren
+TI Public Opinion and Decisions About Military Force in Democracies
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE Public opinion; war; domestic politics; international security; foreign
+   policy; survey experiments
+ID FOREIGN-POLICY; AUDIENCE COSTS; WAR; SUPPORT; ELITES; RESPONSIVENESS;
+   OBLIGATION; ATTITUDES; IDENTITY; BELIEFS
+AB Many theories of international relations assume that public opinion exerts a powerful effect on foreign policy in democracies. Previous research, based on observational data, has reached conflicting conclusions about this foundational assumption. We use experiments to examine two mechanisms-responsiveness and selection-through which opinion could shape decisions about the use of military force. We tested responsiveness by asking members of the Israeli parliament to consider a crisis in which we randomized information about public opinion. Parliamentarians were more willing to use military force when the public was in favor and believed that contravening public opinion would entail heavy political costs. We tested selection by asking citizens in Israel and the US to evaluate parties/candidates, which varied randomly on many dimensions. In both countries, security policy proved as electorally significant as economic and religious policy, and far more consequential than nonpolicy considerations such as gender, race, and experience. Overall, our experiments in two important democracies imply that citizens can affect policy by incentivizing incumbents and shaping who gets elected.
+C1 [Tomz, Michael] Stanford Univ, Polit Sci, Stanford, CA 94305 USA.
+   [Tomz, Michael] Stanford Univ, Stanford Inst Econ Policy Res, Stanford, CA 94305 USA.
+   [Weeks, Jessica L. P.] Univ Wisconsin Madison, Dept Polit Sci, Madison, WI USA.
+   [Yarhi-Milo, Keren] Columbia Univ, Polit Sci & Int & Publ Affairs, Dept Polit Sci, New York, NY 10027 USA.
+   [Yarhi-Milo, Keren] Columbia Univ, Sch Int & Publ Affairs, New York, NY 10027 USA.
+RP Tomz, M (corresponding author), Stanford Univ, Polit Sci, Stanford, CA 94305 USA.; Tomz, M (corresponding author), Stanford Univ, Stanford Inst Econ Policy Res, Stanford, CA 94305 USA.
+EM tomz@stanford.edu; jweeks@wisc.edu; keren.yarhi-milo@columbia.edu
+OI Tomz, Michael/0000-0002-0453-024X
+NR 88
+TC 10
+Z9 10
+U1 3
+U2 11
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PY 2020
+VL 74
+IS 1
+BP 119
+EP 143
+AR PII S0020818319000341
+DI 10.1017/S0020818319000341
+PG 25
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA KG5OZ
+UT WOS:000510000600005
+DA 2021-03-19
+ER
+
+PT J
+AU Kavakli, KC
+   Kuhn, PM
+AF Kavakli, Kerim Can
+   Kuhn, Patrick M.
+TI Dangerous Contenders: Election Monitors, Islamic Opposition Parties, and
+   Terrorism
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE Democracy promotion; international election observation; foreign
+   election intervention; international security; elections in developing
+   countries; Islamic political parties; Islamist terrorism
+ID OBSERVERS; SELECTION; POLITICS
+AB How do international observers decide whether to criticize or condone electoral fraud in a country? We argue that this decision depends on the identity of the victims of electoral fraud. A monitoring organization is more likely to overlook fraud committed against groups that are deemed dangerous by its sponsor. Based on this insight, we hypothesize that in the post-Cold War era election monitors are more tolerant of fraud against Islamic challengers, especially when Islamic movements are perceived as a threat to political stability. In support of our hypothesis, we find that outside monitors are more likely to endorse an election in countries with an Islamic opposition party and an ongoing Islamist terrorist campaign. Furthermore, we find that the effect is driven by Western monitoring organizations and becomes stronger after the September 11 attacks. Our findings provide a simple yet powerful insight: the calculus of outside observers depends not only on who they wish to see in power, but also who they want to keep from power.
+C1 [Kavakli, Kerim Can] Bocconi Univ, Dept Polit Sci, Milan, Italy.
+   [Kuhn, Patrick M.] Univ Durham, SGIA, Comparat Polit, Durham, England.
+RP Kavakli, KC (corresponding author), Bocconi Univ, Dept Polit Sci, Milan, Italy.
+EM kerimcan@gmail.com; p.m.kuhn@durham.ac.uk
+OI Kuhn, Patrick/0000-0002-8849-0248
+NR 54
+TC 1
+Z9 1
+U1 2
+U2 6
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PY 2020
+VL 74
+IS 1
+BP 145
+EP 164
+AR PII S002081831900033X
+DI 10.1017/S002081831900033X
+PG 20
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA KG5OZ
+UT WOS:000510000600006
+OA Green Accepted
+DA 2021-03-19
+ER
+
+PT J
+AU Carter, DB
+   Poast, P
+AF Carter, David B.
+   Poast, Paul
+TI Barriers to Trade: How Border Walls Affect Trade Relations
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE Borders; border wall; border effects; international trade; gravity model
+ID POLITICS; GRAVITY
+AB Since trade must cross borders, to what extent do border walls affect trade flows? We argue that border walls can reduce trade flows. Even if the objective is to only stem illicit flows, border walls heighten "border effects" that can also inhibit legal cross-border flows. Using a gravity model of trade that reflects recent developments in both economic theory and econometrics, we find that the creation of a wall is associated with a reduction in legal trade flows between neighboring countries. We provide a battery of evidence that suggests this reduction is not simply a function of worsening bilateral relations. Our findings have implications for understanding how governments have taken measures to assert sovereign control of their borders in an age of increasing economic globalization.
+C1 [Carter, David B.] Washington Univ, Polit Sci, St Louis, MO 63130 USA.
+   [Poast, Paul] Univ Chicago, Dept Polit Sci, Chicago, IL 60637 USA.
+RP Carter, DB (corresponding author), Washington Univ, Polit Sci, St Louis, MO 63130 USA.
+EM davidcarter@wustl.edu; paulpoast@uchicago.edu
+NR 51
+TC 2
+Z9 2
+U1 1
+U2 4
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PY 2020
+VL 74
+IS 1
+BP 165
+EP 185
+AR PII S0020818319000353
+DI 10.1017/S0020818319000353
+PG 21
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA KG5OZ
+UT WOS:000510000600007
+DA 2021-03-19
+ER
+
+PT J
+AU Kalyanpur, N
+   Newman, AL
+AF Kalyanpur, Nikhil
+   Newman, Abraham L.
+TI Mobilizing Market Power: Jurisdictional Expansion as Economic Statecraft
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+ID GLOBAL GOVERNANCE; EUROPEAN-UNION; INTERNATIONAL-POLITICS; REGULATORY
+   STATE; FOREIGN FIRMS; US; CONSEQUENCES; INSTITUTIONS; COOPERATION;
+   BOTTOM
+AB States with large markets routinely compete with one another to shield domestic regulatory policies from global pressure, export their rules to other jurisdictions, and provide their firms with competitive advantages. Most arguments about market power tend to operationalize the concept in economic terms. In this paper, we argue that a state's ability to leverage or block these adjustment pressures is not only conditioned by their relative economic position but also by the political institutions that govern their markets. Specifically, we expect that where a state chooses to draw jurisdictional boundaries over markets directly shapes its global influence. When a state expands its jurisdiction, harmonizing rules across otherwise distinct subnational or national markets, for example, it can curtail a rival's authority. We test the theory by assessing how changes in internal governance within the European Union altered firm behavior in response to US extraterritorial pressure. Empirically, we examine foreign firm delisting decisions from US stock markets after the adoption of the Sarbanes-Oxley accounting legislation. The act, which included an exogenous compliance shock, follows the harmonization of stock market governance across various European jurisdictions. Econometric analysis of firm-level data illustrates that EU-based companies, which benefited from jurisdictional expansion, were substantially more likely to leave the American market and avoid adjustment pressures. Our findings contribute to debates on the role of political institutions in economic statecraft and suggest the conditions under which future regulatory conflicts will arise between status quo and rising economic powers.
+C1 [Kalyanpur, Nikhil; Newman, Abraham L.] Georgetown Univ, Dept Govt, Washington, DC 20057 USA.
+   [Newman, Abraham L.] Georgetown Univ, Edmund A Walsh Sch Foreign Serv, Washington, DC 20057 USA.
+RP Kalyanpur, N (corresponding author), Georgetown Univ, Dept Govt, Washington, DC 20057 USA.
+EM nik.kalyanpur@gmail.com; tm2630@columbia.edu
+NR 103
+TC 5
+Z9 5
+U1 3
+U2 108
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PD WIN
+PY 2019
+VL 73
+IS 1
+BP 1
+EP 34
+DI 10.1017/S0020818318000334
+PG 34
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA HH4BF
+UT WOS:000455664400001
+DA 2021-03-19
+ER
+
+PT J
+AU Lipscy, PY
+   Lee, HNK
+AF Lipscy, Phillip Y.
+   Lee, Haillie Na-Kyung
+TI The IMF As a Biased Global Insurance Mechanism: Asymmetrical Moral
+   Hazard, Reserve Accumulation, and Financial Crises
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+ID INTERNATIONAL MONETARY FUND; SYNTHETIC CONTROL METHODS; POLITICS;
+   LESSONS
+AB A large literature has established that the International Monetary Fund (IMF) is heavily politicized. We argue that this politicization has important consequences for international reserve accumulation and financial crises. The IMF generates moral hazard asymmetrically, reducing the expected costs of risky lending and policies for states that are politically influential vis-a-vis the institution. Using a panel data set covering 1980 to 2010, we show that proxies for political influence over the IMF are associated with outcomes indicative of moral hazard: lower international reserves and more frequent financial crises. We support our causal claims by applying the synthetic control method to Taiwan, which was expelled from the IMF in 1980. Consistent with our predictions, Taiwan's expulsion led to a sharp increase in precautionary international reserves and exceptionally conservative financial policies.
+C1 [Lipscy, Phillip Y.] Stanford Univ, Polit Sci, Stanford, CA 94305 USA.
+   [Lipscy, Phillip Y.] Thomas Rohlen Ctr, Stanford, CA USA.
+   [Lipscy, Phillip Y.] Freeman Spogli Inst Int Studies, Stanford, CA 94305 USA.
+   [Lee, Haillie Na-Kyung] Princeton Univ, Niehaus Ctr Globalizat & Governance, Princeton, NJ 08544 USA.
+RP Lipscy, PY (corresponding author), Stanford Univ, Polit Sci, Stanford, CA 94305 USA.; Lipscy, PY (corresponding author), Thomas Rohlen Ctr, Stanford, CA USA.; Lipscy, PY (corresponding author), Freeman Spogli Inst Int Studies, Stanford, CA 94305 USA.
+EM plipscy@stanford.edu; nal@princeton.edu
+FU Shorenstein Asia Pacific Research Center, Freeman Spogli Institute for
+   International Studies
+FX We thank James Fearon, Judy Goldstein, Dennis Quinn, James Vreeland,
+   participants at workshops at Georgetown University, Stanford University,
+   the International Political Economy Society Annual Meeting, the
+   Political Economy of International Organizations Annual Meeting, and two
+   anonymous reviewers for helpful feedback. We also thank current and
+   former officials of the IMF, Chinese government, Japanese Ministry of
+   Finance, Japanese Ministry of Foreign Affairs, Taiwanese Ministry of the
+   Economy, Taiwanese Ministry of Foreign Affairs, United States Department
+   of State, United States Department of the Treasury, and World Bank who
+   were exceedingly gracious with their time and resources. This research
+   was made possible by the generous support of the Shorenstein Asia
+   Pacific Research Center, Freeman Spogli Institute for International
+   Studies, and Sakurako and William Fisher.
+NR 94
+TC 8
+Z9 8
+U1 2
+U2 79
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PD WIN
+PY 2019
+VL 73
+IS 1
+BP 35
+EP 64
+DI 10.1017/S0020818318000371
+PG 30
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA HH4BF
+UT WOS:000455664400002
+DA 2021-03-19
+ER
+
+PT J
+AU Christensen, D
+AF Christensen, Darin
+TI Concession Stands: How Mining Investments Incite Protest in Africa
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+ID CIVIL-WAR; CONFLICT; GROWTH; CLOSER; CURSE; MODEL; OIL
+AB Foreign investment in Africa's mineral resources has increased dramatically. This paper addresses three questions raised by this trend: do commercial mining investments increase the likelihood of social or armed conflict? If so, when are these disputes most prevalent? And, finally, what mechanisms help explain these conflicts? I show, first, that mining has contrasting effects on social and armed conflict: while the probability of protests or riots increases (roughly doubling) after mining starts, there is no increase in rebel activity. Second, I show that the probability of social conflict rises with plausibly exogenous increases in world commodity prices. Finally, I compile additional geo-spatial and survey data to explore potential mechanisms, including reporting bias, environmental harm, in-migration, inequality, and governance. Finding little evidence consistent with these accounts, I develop an explanation related to incomplete informationa common cause of conflict in industrial and international relations. This mechanism rationalizes why mining induces protest, why these conflicts are exacerbated by rising prices, and why transparency dampens the relationship between prices and protest.
+C1 [Christensen, Darin] Univ Calif Los Angeles, Publ Policy & Polit Sci, Los Angeles, CA 90095 USA.
+RP Christensen, D (corresponding author), Univ Calif Los Angeles, Publ Policy & Polit Sci, Los Angeles, CA 90095 USA.
+EM darinc@luskin.ucla.edu
+FU NICHD NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH Eunice Kennedy Shriver National
+   Institute of Child Health & Human Development (NICHD) [P2C HD041022]
+   Funding Source: Medline; EUNICE KENNEDY SHRIVER NATIONAL INSTITUTE OF
+   CHILD HEALTH & HUMAN DEVELOPMENTUnited States Department of Health &
+   Human ServicesNational Institutes of Health (NIH) - USANIH Eunice
+   Kennedy Shriver National Institute of Child Health & Human Development
+   (NICHD) [P2CHD041022, P2CHD041022, P2CHD041022, P2CHD041022,
+   P2CHD041022, P2CHD041022, P2CHD041022, P2CHD041022, P2CHD041022,
+   P2CHD041022, P2CHD041022, P2CHD041022, P2CHD041022, P2CHD041022,
+   P2CHD041022, P2CHD041022, P2CHD041022] Funding Source: NIH RePORTER
+NR 83
+TC 12
+Z9 12
+U1 4
+U2 221
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PD WIN
+PY 2019
+VL 73
+IS 1
+BP 65
+EP 101
+DI 10.1017/S0020818318000413
+PG 37
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA HH4BF
+UT WOS:000455664400003
+PM 31379386
+OA Green Accepted
+DA 2021-03-19
+ER
+
+PT J
+AU Fjelde, H
+   Hultman, L
+   Nilsson, D
+AF Fjelde, Hanne
+   Hultman, Lisa
+   Nilsson, Desiree
+TI Protection Through Presence: UN Peacekeeping and the Costs of Targeting
+   Civilians
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+ID PEACE OPERATIONS; VIOLENCE; CONSENT
+AB Are UN peacekeepers effective in protecting civilians from violence? Existing studies examine this issue at the country level, thereby making it difficult to isolate the effect of peacekeepers and to assess the actual mechanism at work. We provide the first comprehensive evaluation of UN peacekeeping success in protecting civilians at the subnational level. We argue that peacekeepers through their sizable local presence can increase the political and military costs for warring actors to engage in civilian targeting. Since peacekeepers' access to civilian populations rests on government consent, peacekeepers will primarily be effective in imposing these costs on rebel groups, but less so for government actors. To test these conjectures we combine new monthly data on the location of peacekeepers with data on the location and timing of civilian killings in Africa. Our findings suggest that local peacekeeping presence enhances the effectiveness of civilian protection against rebel abuse, but that UN peacekeeping struggles to protect civilians from government forces.
+C1 [Fjelde, Hanne; Nilsson, Desiree] Uppsala Univ, Dept Peace & Conflict Res, Uppsala, Sweden.
+   [Hultman, Lisa] Uppsala Univ, Peace & Conflict Res, Uppsala, Sweden.
+RP Fjelde, H (corresponding author), Uppsala Univ, Dept Peace & Conflict Res, Uppsala, Sweden.
+EM hanne.fjelde@pcr.uu.se; lisa.hultman@pcr.uu.se;
+   Desiree.Nilsson@pcr.uu.se
+RI Nilsson, Desiree/S-7081-2019; Hultman, Lisa/AAG-6662-2020; Fjelde,
+   Hanne/AAG-1165-2021
+OI Nilsson, Desiree/0000-0003-0205-2843
+FU Folke Bernadotte Academy; Riksbankens Jubileumsfond, Sweden
+   [P12-0787:1]; European Research CouncilEuropean Research Council
+   (ERC)European Commission [ERC ADG 694640]; Royal Swedish Academy of
+   Letters, History and Antiquities
+FX We thank Jonas Baumann and Mihai Croicu for excellent assistance with
+   data collection and data management. We are grateful to a number of
+   people who have provided valuable feedback and critique at ISA, Peace
+   Science Society, ENCoRe: Uppsala Workshop on Geography and Armed
+   Conflict, Folke Bernadotte Academy Workshop on Peacekeeping, Columbia
+   University, Oxford University, and University College London. Special
+   thanks to Stefano Costalli, Han Dorussen, David Lake, Pat Regan, Andrea
+   Ruggeri, Ralph Sundberg, Kajsa Tidblad-Lundholm, and Julian
+   Wucherphennig. We also thank the editors of IO and two anonymous
+   reviewers for excellent comments and suggestions. We gratefully
+   acknowledge financial support from the Folke Bernadotte Academy to
+   enable data collection on the location of peacekeepers. The research was
+   funded by grant P12-0787:1 from Riksbankens Jubileumsfond, Sweden,
+   European Research Council grant no. ERC ADG 694640, and the Royal
+   Swedish Academy of Letters, History and Antiquities. Author names are
+   listed alphabetically and equal authorship applies.
+NR 59
+TC 18
+Z9 18
+U1 2
+U2 61
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PD WIN
+PY 2019
+VL 73
+IS 1
+BP 103
+EP 131
+DI 10.1017/S0020818318000346
+PG 29
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA HH4BF
+UT WOS:000455664400004
+DA 2021-03-19
+ER
+
+PT J
+AU Lehmann, TC
+   Zhukov, YM
+AF Lehmann, Todd C.
+   Zhukov, Yuri M.
+TI Until the Bitter End? The Diffusion of Surrender Across Battles
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+ID MILITARY EFFECTIVENESS; REGIME CHANGE; GLOBAL GAMES; INFORMATION;
+   COHESION; MOVEMENT; SPREAD; DEMISE
+AB Why do armies sometimes surrender to the enemy and sometimes fight to the bitter end? Existing research has highlighted the importance of battlefield resolve for the onset, conduct, and outcome of war, but has left these life-and-death decisions mostly unexplained. We know little about why battle-level surrender occurs, and why it stops. In this paper, we argue that surrender emerges from a collective-action problem: success in battle requires that soldiers choose to fight as a unit rather than flee, but individual decisions to fight depend on whether soldiers expect their comrades to do the same. Surrender becomes contagious across battles because soldiers take cues from what other soldiers did when they were in a similar position. Where no recent precedent exists, mass surrender is unlikely. We find empirical support for this claim using a new data set of conventional battles in all interstate wars from 1939 to 2011. These findings advance our understanding of battlefield resolve, with broader implications for the design of political-military institutions and decisions to initiate, continue, and terminate war.
+C1 [Lehmann, Todd C.] Univ Michigan, Dept Polit Sci, Ann Arbor, MI 48109 USA.
+   [Zhukov, Yuri M.] Univ Michigan, Polit Sci, Ann Arbor, MI 48109 USA.
+RP Lehmann, TC (corresponding author), Univ Michigan, Dept Polit Sci, Ann Arbor, MI 48109 USA.
+EM tlehmann@umich.edu; zhukov@umich.edu
+RI Lehmann, Todd C./T-8316-2019
+OI Lehmann, Todd/0000-0003-2934-7545
+NR 70
+TC 2
+Z9 2
+U1 1
+U2 35
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PD WIN
+PY 2019
+VL 73
+IS 1
+BP 133
+EP 169
+DI 10.1017/S0020818318000358
+PG 37
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA HH4BF
+UT WOS:000455664400005
+DA 2021-03-19
+ER
+
+PT J
+AU Honig, D
+AF Honig, Dan
+TI When Reporting Undermines Performance: The Costs of Politically
+   Constrained Organizational Autonomy in Foreign Aid Implementation
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+ID PUBLIC MANAGEMENT; DELEGATION; BUREAUCRACY; DISCRETION; OWNERSHIP;
+   PRINCIPAL; CONTRACTS; SERVICE; DONORS; AGE
+AB y Bureaucracies with field operations that cannot be easily supervised and monitored by managers are caught between two sources of dysfunction that may harm performance. The first source of dysfunction is straightforward: field workers can use operating slack and asymmetric information to their own advantage, thwarting an organization's objectives. The second source of dysfunction is often overlooked: attempts to limit workers' autonomy may have deleterious effects, curbing agents' ability to respond efficaciously to the environment. I find that the parliaments and executive boards to whom International Development Organizations (IDOs) are accountable differentially constrain IDO organizational autonomy, which in turn affects management's control of field agents. Tight management control of field agents has negative effects, particularly in more unpredictable environments. Attempts by politicians to constrain organizations in an effort to improve performance can sometimes be self-undermining, having net effects opposite those intended.
+C1 [Honig, Dan] Johns Hopkins Sch Adv Int Studies, Int Dev, Washington, DC 20036 USA.
+RP Honig, D (corresponding author), Johns Hopkins Sch Adv Int Studies, Int Dev, Washington, DC 20036 USA.
+EM dhonig@jhu.edu
+RI Honig, Dan/T-9442-2018
+OI Honig, Dan/0000-0003-3030-6820
+FU National Science Foundation Graduate Research FellowshipNational Science
+   Foundation (NSF) [DGE-1144152]
+FX I thank the National Science Foundation Graduate Research Fellowship for
+   its support under grant #DGE-1144152. Matt Andrews, Sam Asher, Nancy
+   Birdsall, Mark Buntaine, Andreas Fuchs, Peter Hall, Conor Hartman, Bob
+   Keohane, Chris Kilby, Steve Knack, Aart Kraay, Jane Mansbridge, Sheila
+   Page, Woody Powell, Lant Pritchett, Simon Quinn, Steve Radelet, Tristan
+   Reed, Alasdair Roberts, Bill Savedoff, Evan Schofer, Ryan Sheely, Beth
+   Simmons, Vivek Srivastava, Martin Steinwand, Mike Tierney, Dustin
+   Tingley, Eric Werker, Michael Woolcock, anonymous reviewers at IO, and
+   many others have all provided helpful comments on earlier versions of
+   these ideas and/or this work. Many thanks to Yi Yan, Smriti Sakhamuri,
+   Grace Chao, Kyle Kessler, and the World Bank Archives staff
+   (particularly Sherrine Thompson) for their research assistance. I thank
+   the European Commission, the UK's Department for International
+   Development, the Asian Development Bank, the Global Fund for AIDS,
+   Tuberculosis, and Malaria, and the German Development Bank for providing
+   data. Because World Bank data used in this analysis are publicly
+   available the World Bank deserves perhaps the greatest thanks. Data for
+   the Japanese International Cooperation Agency (JICA), the German Society
+   for International Cooperation (GiZ), and the International Fund for
+   Agricultural Development were assembled from individual
+   project-completion reports by Odesk-contracted research assistants under
+   my supervision, with the compiled data then sent back to the originating
+   agency for comment and/or correction. GiZ was kind enough to respond
+   with corrections, which were incorporated; these data were generated by
+   me rather than by JICA and JICA is not responsible for them. The case
+   studies would not have been possible without the hundreds of hours spent
+   by a diverse group of interviewees listed in the online appendix who
+   talked to me and answered odd questions, for which I am very grateful.
+NR 82
+TC 7
+Z9 7
+U1 0
+U2 76
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PD WIN
+PY 2019
+VL 73
+IS 1
+BP 171
+EP 201
+DI 10.1017/S002081831800036X
+PG 31
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA HH4BF
+UT WOS:000455664400006
+DA 2021-03-19
+ER
+
+PT J
+AU Mitts, T
+AF Mitts, Tamar
+TI Terrorism and the Rise of Right-Wing Content in Israeli Books
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+ID NATIONALISM; MARKETPLACE; THREAT; PEACE; WAR; US
+AB In the past few years the Western world has witnessed a rise in the popularity of right-wing political discourse promoting nationalistic and exclusionary world views. While in many countries such rhetoric has surfaced in mainstream politics only recently, in Israel, right-wing ideology has been popular for almost two decades. Explanations for this phenomenon focus on Israeli citizens' attitudinal change in the face of exposure to terrorism but largely do not account for why such ideas remain popular over the long term, even after violence subsides. In this study I examine whether the long-lasting prominence of right-wing nationalistic politics in Israel is linked to the perpetuation of right-wing ideology in popular media. Analyzing the content of more than 70,000 published books, I find that content related to the political right has increased in Israeli books after periods of terrorism, a change that has become more pronounced over the years.
+C1 [Mitts, Tamar] Columbia Univ, Int & Publ Affairs, New York, NY 10027 USA.
+RP Mitts, T (corresponding author), Columbia Univ, Int & Publ Affairs, New York, NY 10027 USA.
+EM tm2630@columbia.edu
+OI Mitts, Tamar/0000-0002-3348-8490
+NR 45
+TC 1
+Z9 1
+U1 2
+U2 58
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PD WIN
+PY 2019
+VL 73
+IS 1
+BP 203
+EP 224
+DI 10.1017/S0020818318000383
+PG 22
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA HH4BF
+UT WOS:000455664400007
+DA 2021-03-19
+ER
+
+PT J
+AU Bartusevicius, H
+   Gleditsch, KS
+AF Bartusevicius, Henrikas
+   Gleditsch, Kristian Skrede
+TI A Two-Stage Approach to Civil Conflict: Contested Incompatibilities and
+   Armed Violence
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+ID SAMPLE SELECTION; WAR; MODELS; PEACE; SIZE
+AB We present a two-stage approach to civil conflict analysis. Unlike conventional approaches that focus only on armed conflict and treat all other cases as at peace, we first distinguish cases with and without contested incompatibilities (Stage 1) and then whether or not contested incompatibilities escalate to armed conflict (Stage 2). This allows us to analyze factors that relate to conflict origination (onset of incompatibilities) and factors that predict conflict militarization (onset of armed violence). Using new data on incompatibilities and armed conflict, we replicate and extend three prior studies of violent civil conflict, reformulated as a two-stage process, considering different estimation procedures and potential selection problems. We find that the group-based horizontal political inequalities highlighted in research on violent civil conflict clearly relate to conflict origination but have no clear association with militarization, whereas other features emphasized as shaping the risk of civil war, such as refugee flows and soft state power, predict militarization but not incompatibilities. A two-stage approach to conflict analysis can help advance theories of civil conflict, assess alternative mechanisms through which explanatory variables are thought to influence conflict, and guide new data-collection efforts.
+C1 [Bartusevicius, Henrikas] Aarhus Univ, Dept Polit Sci, Aarhus, Denmark.
+   [Gleditsch, Kristian Skrede] Univ Essex, Dept Govt, Polit Sci, Colchester, Essex, England.
+   [Gleditsch, Kristian Skrede] Michael Nicholson Ctr Conflict & Cooperat, Colchester, Essex, England.
+   [Gleditsch, Kristian Skrede] Int Peace Res Inst, Oslo, Prio, Norway.
+RP Bartusevicius, H (corresponding author), Aarhus Univ, Dept Polit Sci, Aarhus, Denmark.
+EM henrikas@ps.au.dk; ksg@essex.ac.uk
+RI Gleditsch, Kristian Skrede/C-7070-2008
+OI Gleditsch, Kristian Skrede/0000-0003-4149-3211; Bartusevicius,
+   Henrikas/0000-0001-8257-9041
+FU European Research CouncilEuropean Research Council (ERC)European
+   Commission [313373]; Innovation Fund Denmark [4110-00002B]
+FX This research was supported by grants from the European Research Council
+   (313373) and Innovation Fund Denmark (4110-00002B). We thank the
+   participants of the European Network for Conflict Research Meeting
+   (Uppsala University, October 2014), the workshop on "Contemporary
+   Conflict Research" (University of Essex, February 2015), the workshop on
+   "Conflict, Strategies, and Tactics" (University of Essex, June 2015),
+   fifteenth Jan Tinbergen European Peace Science Conference (University of
+   Warwick, June 2015), fifth Annual General Conference of the European
+   Political Science Association (Vienna, June 2015), and the workshop on
+   "Conflict and Democratization" (Aarhus, November 2016) for feedback. We
+   are particularly grateful to Daina Chiba, Cullen Hendrix, and Lasse
+   Lykke Rorbaek for insightful suggestions and very detailed comments. We
+   also thank Mette Houborg for research assistance.
+NR 52
+TC 8
+Z9 8
+U1 0
+U2 79
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PD WIN
+PY 2019
+VL 73
+IS 1
+BP 225
+EP 248
+DI 10.1017/S0020818318000425
+PG 24
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA HH4BF
+UT WOS:000455664400008
+OA Green Accepted
+DA 2021-03-19
+ER
+
+PT J
+AU Queralt, D
+AF Queralt, Didac
+TI War, International Finance, and Fiscal Capacity in the Long Run
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE State capacity; taxation; war; international finance; sovereign default;
+   limited government
+ID SOVEREIGN DEBT; WEST-AFRICA; CONFLICT; COMMITMENT; ADVANTAGE; TAXATION;
+   MARKETS
+AB In this article I revisit the relationship between war and state making in modern times by focusing on two prominent types of war finance: taxes and foreign loans. Financing war with tax money enhances the capacity to assess wealth and monitor compliance, namely fiscal capacity. Tax-financed war facilitates the adoption of power-sharing institutions, which transform taxation into a non-zero-sum game, carrying on the effect of war in the long run. Financing war with external capital does not contribute to long-term fiscal capacity if borrowers interrupt debt service and, as part of the default settlement, war debt is condoned or exchanged for nontax revenue. The empirical evidence draws from war around the world as early as 1816. Results suggest that globalization of capital markets in the nineteenth century undermined the association between war, state making, and political reform.
+C1 [Queralt, Didac] Yale Univ, Dept Polit Sci, New Haven, CT 06520 USA.
+RP Queralt, D (corresponding author), Yale Univ, Dept Polit Sci, New Haven, CT 06520 USA.
+EM didac.queralt@yale.edu
+OI QUERALT, DIDAC/0000-0001-8523-3783
+NR 84
+TC 4
+Z9 4
+U1 1
+U2 5
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PD FAL
+PY 2019
+VL 73
+IS 4
+BP 713
+EP 753
+DI 10.1017/S0020818319000250
+PG 41
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA KI1PC
+UT WOS:000511119100001
+DA 2021-03-19
+ER
+
+PT J
+AU Kim, IS
+   Londregan, J
+   Ratkovic, M
+AF Kim, In Song
+   Londregan, John
+   Ratkovic, Marc
+TI The Effects of Political Institutions on the Extensive and Intensive
+   Margins of Trade
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE Extensive and intensive margins of trade; political networks;
+   differentiated products; polity; democracy; international trade;
+   variable selection; machine learning; LASSO; zero trade
+ID SAMPLE SELECTION; DEMOCRACY; NETWORKS; GRAVITY; MODELS; WTO; COALITIONS;
+   PARTNERS; IMPACT; POLICY
+AB We present a model of political networks that integrates both the choice of trade partners (the extensive margin) and trade volumes (the intensive margin). Our model predicts that regimes secure in their survival, including democracies as well as some consolidated authoritarian regimes, will trade more on the extensive margin than vulnerable autocracies, which will block trade in products that would expand interpersonal contact among their citizens. We apply a two-stage Bayesian LASSO estimator to detailed measures of institutional features and highly disaggregated product-level trade data encompassing 131 countries over a half century. Consistent with our model, we find that (a) political institutions matter for the extensive margin of trade but not for the intensive margin and (b) the effects of political institutions on the extensive margin of trade vary across products, falling most heavily on those goods that involve extensive interpersonal contact.
+C1 [Kim, In Song] MIT, Dept Polit Sci, Polit Sci, Cambridge, MA 02139 USA.
+   [Londregan, John] Princeton Univ, Woodrow Wilson Sch, Polit & Int Affairs, Princeton, NJ 08544 USA.
+   [Londregan, John] Princeton Univ, Dept Polit, Princeton, NJ 08544 USA.
+   [Ratkovic, Marc] Princeton Univ, Dept Polit, Polit, Princeton, NJ 08544 USA.
+RP Kim, IS (corresponding author), MIT, Dept Polit Sci, Polit Sci, Cambridge, MA 02139 USA.
+EM insong@mit.edu; jbl@princeton.edu; ratkovic@princeton.edu
+RI Song, In/B-2895-2017
+OI Song, In/0000-0002-5774-1585
+NR 84
+TC 0
+Z9 0
+U1 2
+U2 6
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PD FAL
+PY 2019
+VL 73
+IS 4
+BP 755
+EP 792
+DI 10.1017/S0020818319000237
+PG 38
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA KI1PC
+UT WOS:000511119100002
+OA Green Published
+DA 2021-03-19
+ER
+
+PT J
+AU Abramson, SF
+   Boix, C
+AF Abramson, Scott F.
+   Boix, Carles
+TI Endogenous Parliaments: The Domestic and International Roots of
+   Long-Term Economic Growth and Executive Constraints in Europe
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE Parliaments; executive constraints; endogenous institutions
+ID INSTITUTIONS; COMMITMENT; GEOGRAPHY
+AB Institutional constraints on executive behavior are commonly understood to be crucial constitutional features that limit state expropriation, protect property rights, and promote economic development. Combining new data describing the presence of parliamentary constraints for the entire European continent with data on city sizes, we build upon theories of endogenous economic growth to demonstrate that paths of both economic and political development over the long span of European history from 1200 to 1900 are the consequence of a common process of urban agglomeration. In doing so, we provide evidence that both outcomes-the existence of constraining institutions and growth-are driven by initial conditions that fostered technical know-how embodied in urban-dwelling artisans who, in turn, were able to force institutional limits on rulers' actions. Hence, instead of reflecting a true underlying cause of development, parliamentary constraints are themselves outcomes determined by an endogenous process of growth.
+C1 [Abramson, Scott F.] Univ Rochester, Dept Polit Sci, Rochester, NY 14627 USA.
+   [Boix, Carles] Princeton Univ, Polit & Publ Affairs, Princeton, NJ 08544 USA.
+   [Boix, Carles] Univ Barcelona, IPErG, Barcelona, Spain.
+RP Abramson, SF (corresponding author), Univ Rochester, Dept Polit Sci, Rochester, NY 14627 USA.
+EM sabramso@ur.rochester.edu; cboix@princeton.edu
+NR 85
+TC 4
+Z9 4
+U1 0
+U2 5
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PD FAL
+PY 2019
+VL 73
+IS 4
+BP 793
+EP 837
+DI 10.1017/S0020818319000286
+PG 45
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA KI1PC
+UT WOS:000511119100003
+DA 2021-03-19
+ER
+
+PT J
+AU Wellhausen, RL
+AF Wellhausen, Rachel L.
+TI International Investment Law and Foreign Direct Reinvestment
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE Foreign direct investment; investor-state dispute settlement;
+   expropriation; international investment agreements; international law
+ID DEMOCRATIC INSTITUTIONS; EFFICIENT BREACH; POLITICAL RISK; TREATIES;
+   ENFORCEMENT; AGREEMENTS; SELECTION; DIPLOMACY; IMPACT
+AB One goal of the law is to provide a means to return disputing parties to cooperation. The prevailing expectation is that international investment law largely does not do this; rather, an aggrieved foreign investor sues the host state as a last resort and divests. I use a new database of Investor-State Dispute Settlement (ISDS) arbitrations and firm-level bilateral investment to show that, in fact, claimant investors reinvest in the host state at least 31 percent of the time (between 1990 and 2015). Among investors who file for arbitration, and controlling for sector, important correlates of reinvestment include the claimant's legal strategy; the extent of the claimant's grievance and success; and the incidence of post-arbitration litigation. Despite unique aspects of its institutional design, the de facto international investment regime can help solve host state time-inconsistency problems consistent with standard expectations of law. Whether the probability of reinvestment is high enough to reinforce host state commitments to this controversial regime is an open question.
+C1 [Wellhausen, Rachel L.] Univ Texas Austin, Govt, Austin, TX 78712 USA.
+RP Wellhausen, RL (corresponding author), Univ Texas Austin, Govt, Austin, TX 78712 USA.
+EM rwellhausen@utexas.edu
+NR 49
+TC 3
+Z9 3
+U1 2
+U2 7
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PD FAL
+PY 2019
+VL 73
+IS 4
+BP 839
+EP 858
+DI 10.1017/S0020818319000225
+PG 20
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA KI1PC
+UT WOS:000511119100004
+DA 2021-03-19
+ER
+
+PT J
+AU Thompson, A
+   Broude, T
+   Haftel, YZ
+AF Thompson, Alexander
+   Broude, Tomer
+   Haftel, Yoram Z.
+TI Once Bitten, Twice Shy? Investment Disputes, State Sovereignty, and
+   Change in Treaty Design
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE International investment agreements; international law; investor-state
+   dispute settlement; international political economy; international
+   institutions; institutional design; treaty renegotiation and termination
+ID LAW; AGREEMENTS; DIFFUSION; IMPACT; RULE; BITS
+AB More than 3,000 international investment agreements (IIAs) provide foreign investors with substantive protections in host states and access to binding investor-state dispute settlement (ISDS). In recent years, states increasingly have sought to change their treaty commitments through the practices of renegotiation and termination, so far affecting about 300 IIAs. The received wisdom is that this development reflects a "backlash" against the regime and an attempt by governments to reclaim sovereignty, consistent with broader antiglobalization trends. Using new data on the degree to which IIA provisions restrict state regulatory space (SRS), we provide the first systematic investigation into the effect of ISDS experiences on state decisions to adjust their treaties. The empirical analysis indicates that exposure to investment claims leads either to the renegotiation of IIAs in the direction of greater SRS or to their termination. This effect varies, however, with the nature of involvement in ISDS and with respect to different treaty provisions.
+C1 [Thompson, Alexander] Ohio State Univ, Polit Sci, Columbus, OH 43210 USA.
+   [Broude, Tomer] Hebrew Univ Jerusalem, Fac Law, Law, Jerusalem, Israel.
+   [Broude, Tomer] Hebrew Univ Jerusalem, Dept Int Relat, Jerusalem, Israel.
+   [Haftel, Yoram Z.] Hebrew Univ Jerusalem, Int Relat, Jerusalem, Israel.
+   [Haftel, Yoram Z.] Hebrew Univ Jerusalem, Study Peace & Reg Cooperat, Jerusalem, Israel.
+RP Thompson, A (corresponding author), Ohio State Univ, Polit Sci, Columbus, OH 43210 USA.
+EM thompson.1191@osu.edu; tomerbroude@gmail.com; yoram.haftel@gmail.com
+OI Broude, Tomer/0000-0002-2340-1398; Haftel, Yoram Z./0000-0002-8142-9647
+FU Marie Curie FP7 Integration Grant within the seventh European Union
+   Framework Programme
+FX This research was supported by a Marie Curie FP7 Integration Grant
+   within the seventh European Union Framework Programme.
+NR 47
+TC 8
+Z9 8
+U1 1
+U2 6
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PD FAL
+PY 2019
+VL 73
+IS 4
+BP 859
+EP 880
+DI 10.1017/S0020818319000195
+PG 22
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA KI1PC
+UT WOS:000511119100005
+DA 2021-03-19
+ER
+
+PT J
+AU Hahm, H
+   Konig, T
+   Osnabrugge, M
+   Frech, E
+AF Hahm, Hyeonho
+   Koenig, Thomas
+   Osnabrugge, Moritz
+   Frech, Elena
+TI Who Settles Disputes? Treaty Design and Trade Attitudes Toward the
+   Transatlantic Trade and Investment Partnership (TTIP)
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE Trade preferences; public opinion; treaty design; dispute settlement
+   mechanisms; ISDS; trade agreement; TTIP; conjoint analysis
+ID FOREIGN DIRECT-INVESTMENT; INTERNATIONAL-TRADE; POLITICS; INSTITUTIONS;
+   SUPPORT; AGREEMENTS; COUNTRIES; POLICY; RIGIDITY
+AB What type of trade agreement is the public willing to accept? Instead of focusing on individual concerns about market access and trade barriers, we argue that specific treaty design and, in particular, the characteristics of the dispute settlement mechanism, play a critical role in shaping public support for trade agreements. To examine this theoretical expectation, we conduct a conjoint experiment that varies diverse treaty-design elements and estimate preferences over multiple dimensions of the Transatlantic Trade and Investment Partnership (TTIP) based on a nationally representative sample in Germany. We find that compared to other alternatives, private arbitration, known as investor-state dispute settlement (ISDS), generates strong opposition to the trade agreement. As the single most important factor, this effect of dispute settlement characteristic is strikingly large and consistent across individuals' key attributes, including skill levels, information, and national sentiment, among others.
+C1 [Hahm, Hyeonho] Univ Mannheim, Collaborat Res Ctr SFB 884, Mannheim, Germany.
+   [Koenig, Thomas] Univ Mannheim, Polit Sci, Mannheim, Germany.
+   [Osnabrugge, Moritz] London Sch Econ & Polit Sci, Dept Govt, London, England.
+   [Frech, Elena] Univ Geneva, Dept Polit Sci & Int Relat, Geneva, Switzerland.
+RP Hahm, H (corresponding author), Univ Mannheim, Collaborat Res Ctr SFB 884, Mannheim, Germany.
+EM hahm@uni-mannheim.de; koenig@uni-mannheim.de; M.Osnabruegge1@lse.ac.uk;
+   Elena.Frech@unige.ch
+RI Hahm, Hyeonho/Y-6552-2019
+OI Hahm, Hyeonho/0000-0002-7646-3322; Frech, Elena/0000-0002-7974-2976;
+   Konig, Thomas/0000-0002-1797-6662; Osnabrugge,
+   Moritz/0000-0002-6177-1111
+FU Collaborative Research Center 884 "Political Economy of Reforms" at the
+   University of Mannheim [SFB 884]; German Research Foundation (DFG)German
+   Research Foundation (DFG)
+FX The authors gratefully acknowledge support of the Collaborative Research
+   Center 884 "Political Economy of Reforms" (SFB 884) at the University of
+   Mannheim. SFB 884 is funded by the German Research Foundation (DFG).
+NR 62
+TC 4
+Z9 4
+U1 2
+U2 13
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PD FAL
+PY 2019
+VL 73
+IS 4
+BP 881
+EP 900
+DI 10.1017/S0020818319000249
+PG 20
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA KI1PC
+UT WOS:000511119100006
+DA 2021-03-19
+ER
+
+PT J
+AU Lyall, J
+AF Lyall, Jason
+TI Civilian Casualties, Humanitarian Aid, and Insurgent Violence in Civil
+   Wars
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE Humanitarian assistance; civil war; civilian casualties;
+   counterinsurgency
+ID WARTIME
+AB Indiscriminate violence against civilians has long been viewed as a catalyst for new rounds of violence in civil wars. Can humanitarian assistance reduce violence after civilians have been harmed? Crossnational studies are pessimistic, drawing a connection between humanitarian aid and increased civil war violence, lethality, and duration. To date, however, we have few subnational studies of wartime aid and subsequent violence. To examine this relationship, I draw on the Afghan Civilian Assistance Program (ACAP II), a USAID-funded initiative that investigated 1,061 civilian casualty incidents (2011-13). Aid was assigned as if randomly to about half (55.8%) of these incidents, facilitating counterfactual estimation of how assistance affected Taliban attacks against the International Security Assistance Force, Afghan forces, and civilians. Challenging prior studies, I find that ACAP was associated with an average 23 percent reduction in attacks against ISAF, but not Afghan forces or civilians, at the village level for up to two years after the initial incident.
+C1 [Lyall, Jason] Dartmouth Coll, Dept Govt, Transnat Studies, Hanover, NH 03755 USA.
+   [Lyall, Jason] Polit Violence FieldLab, Hanover, NH 03755 USA.
+RP Lyall, J (corresponding author), Dartmouth Coll, Dept Govt, Transnat Studies, Hanover, NH 03755 USA.; Lyall, J (corresponding author), Polit Violence FieldLab, Hanover, NH 03755 USA.
+EM jason.lyall@dartmouth.edu
+OI Lyall, Jason/0000-0001-9117-7503
+FU Air Force Office of Scientific ResearchUnited States Department of
+   DefenseAir Force Office of Scientific Research (AFOSR) [13-005025-001]
+FX I gratefully acknowledge financial support from the Air Force Office of
+   Scientific Research (#13-005025-001).
+NR 44
+TC 3
+Z9 3
+U1 1
+U2 2
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PD FAL
+PY 2019
+VL 73
+IS 4
+BP 901
+EP 926
+DI 10.1017/S0020818319000262
+PG 26
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA KI1PC
+UT WOS:000511119100007
+DA 2021-03-19
+ER
+
+PT J
+AU Naurin, D
+   Naurin, E
+   Alexander, A
+AF Naurin, Daniel
+   Naurin, Elin
+   Alexander, Amy
+TI Gender Stereotyping and Chivalry in International Negotiations: A Survey
+   Experiment in the Council of the European Union (vol 73, pg 469, 2019)
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Correction
+FU European Research Council (ERC) under the European Union's Horizon 2020
+   research and innovation programmeEuropean Research Council (ERC)
+   [339571]
+FX This project received funding from the European Research Council (ERC)
+   under the European Union's Horizon 2020 research and innovation
+   programme (339571 PERDEM).
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PD FAL
+PY 2019
+VL 73
+IS 4
+BP 927
+EP 927
+DI 10.1017/S0020818319000316
+PG 1
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA KI1PC
+UT WOS:000511119100008
+DA 2021-03-19
+ER
+
+PT J
+AU Morse, JC
+AF Morse, Julia C.
+TI Blacklists, Market Enforcement, and the Global Regime to Combat
+   Terrorist Financing
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE international organizations; compliance; AML; CFT; FATF; market
+   enforcement; GPIs; blacklist; monitoring; rating; indicators
+ID DIFFUSION; POWER
+AB This paper highlights how international organizations can use global performance indicators (GPIs) to drive policy change through transnational market pressure. When international organizations are credible assessors of state policy, and when monitored countries compete for market resources, GPIs transmit information about country risk and stabilize market expectations. Under these conditions banks and investors may restrict access to capital in noncompliant states and incentivize increased compliance. I demonstrate this market-enforcement mechanism by analyzing the Financial Action Task Force (FATF), an intergovernmental body that issues nonbinding recommendations to combat money laundering and the financing of terrorism. The FATF's public listing of noncompliant jurisdictions has prompted international banks to move resources away from listed states and raised the costs of continued noncompliance, significantly increasing the number of states with laws criminalizing terrorist financing. This finding suggests a powerful pathway through which institutions influence domestic policy and highlights the power of GPIs in an age where information is a global currency.
+C1 [Morse, Julia C.] Univ Calif Santa Barbara, Polit Sci, Santa Barbara, CA 93106 USA.
+RP Morse, JC (corresponding author), Univ Calif Santa Barbara, Polit Sci, Santa Barbara, CA 93106 USA.
+EM jcmorse@polsci.ucsb.edu
+NR 73
+TC 7
+Z9 7
+U1 3
+U2 15
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PD SUM
+PY 2019
+VL 73
+IS 3
+BP 511
+EP 545
+AR PII S002081831900016X
+DI 10.1017/S002081831900016X
+PG 35
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA IO0GD
+UT WOS:000479056500002
+DA 2021-03-19
+ER
+
+PT J
+AU Bisbee, JH
+   Hollyer, JR
+   Rosendorff, BP
+   Vreeland, JR
+AF Bisbee, James H.
+   Hollyer, James R.
+   Rosendorff, B. Peter
+   Vreeland, James Raymond
+TI The Millennium Development Goals and Education: Accountability and
+   Substitution in Global Assessment
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+ID POLITICAL-ECONOMY; TRANSPARENCY; DEMOCRACY; CORRUPTION; QUALITY
+AB Precise international metrics and assessments may induce governments to alter policies in pursuit of more favorable assessments according to these metrics. In this paper, we explore a secondary effect of global performance indicators (GPIs). Insofar as governments have finite resources and make trade-offs in public goods investments, a GPI that precisely targets the provision of a particular public good may cause governments to substitute away from the provision of other, related, public goods. We argue that both the main effect of the GPI (on the measured public good) and this substitution effect vary systematically based on the domestic political institutions and informational environments of targeted states. Specifically, we contend that both the main and substitution effects of GPIs should be largest for governments that are least accountable (opaque and nondemocratic) and should be smallest for those that are most accountable. We illustrate the logic of these arguments using a formal model and test these claims using data on primary and secondary enrollment rates across 114 countries. We find that countries substitute toward primary education enrollment rates (which is targeted by the Millennium Development Goals) and away from secondary (which is not), and that these effects are mitigated as accountability rises.
+C1 [Bisbee, James H.] NYU, Dept Polit, New York, NY 10003 USA.
+   [Hollyer, James R.] Univ Minnesota, Polit Econ, Minneapolis, MN USA.
+   [Rosendorff, B. Peter] NYU, Dept Polit, Polit, New York, NY 10003 USA.
+   [Vreeland, James Raymond] Princeton Univ, Polit & Int Affairs, Woodrow Wilson Sch, Princeton, NJ 08544 USA.
+   [Vreeland, James Raymond] Princeton Univ, Dept Polit, Princeton, NJ 08544 USA.
+RP Bisbee, JH (corresponding author), NYU, Dept Polit, New York, NY 10003 USA.
+EM james.bisbee@nyu.edu; jhollyer@umn.edu; peter.rosendorff@nyu.edu;
+   jrv@princeton.edu
+RI Rosendorff, Peter/J-9572-2019
+FU Niehaus Center on Globalization and Governance; Benjamin Lippincott
+   foundation
+FX James Hollyer thanks the Niehaus Center on Globalization and Governance
+   and the Benjamin Lippincott foundation for research support.
+NR 56
+TC 4
+Z9 4
+U1 0
+U2 3
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PD SUM
+PY 2019
+VL 73
+IS 3
+BP 547
+EP 578
+DI 10.1017/S0020818319000109
+PG 32
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA IO0GD
+UT WOS:000479056500003
+DA 2021-03-19
+ER
+
+PT J
+AU Honig, D
+   Weaver, C
+AF Honig, Dan
+   Weaver, Catherine
+TI A Race to the Top? The Aid Transparency Index and the Social Power of
+   Global Performance Indicators
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE Global performance indicators; aid transparency; norm diffusion
+AB Recent studies on global performance indicators (GPIs) reveal the distinct power that nonstate actors can accrue and exercise in world politics. How and when does this happen? Using a mixed-methods approach, we examine the impact of the Aid Transparency Index (ATI), an annual rating and rankings index produced by the small UK-based NGO Publish What You Fund. The ATI seeks to shape development aid donors' behavior with respect to their transparency-the quality and kind of information they publicly disclose. To investigate the ATI's effect, we construct an original panel data set of donor transparency performance before and after ATI inclusion (2006-2013) to test whether (and which) donors alter their behavior in response to inclusion in the ATI. To further probe the causal mechanisms that explain variations in donor behavior we use qualitative research, including over 150 key informant interviews conducted between 2010 and 2017. Our analysis uncovers the conditions under which the ATI influences powerful aid donors. Our mixed-methods evidence reveals how this happens. Consistent with Kelley and Simmons's central argument that GPIs exercise influence via social pressure, we find that the ATI shapes donor behavior primarily via direct effects on elites: the diffusion of professional norms, organizational learning, and peer pressure.
+C1 [Honig, Dan] Johns Hopkins Univ, SAIS, Int Dev, Baltimore, MD 21218 USA.
+   [Weaver, Catherine] Univ Texas Austin, Lyndon B Johnson Sch Publ Affairs, Publ Affairs, Austin, TX 78712 USA.
+RP Honig, D (corresponding author), Johns Hopkins Univ, SAIS, Int Dev, Baltimore, MD 21218 USA.
+EM dhonig@jhu.edu; ceweaver@austin.utexas.edu
+RI Honig, Dan/T-9442-2018
+OI Honig, Dan/0000-0003-3030-6820
+NR 72
+TC 8
+Z9 8
+U1 2
+U2 7
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PD SUM
+PY 2019
+VL 73
+IS 3
+BP 579
+EP 610
+AR PII S0020818319000122
+DI 10.1017/S0020818319000122
+PG 32
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA IO0GD
+UT WOS:000479056500004
+DA 2021-03-19
+ER
+
+PT J
+AU Doshi, R
+   Kelley, JG
+   Simmons, BA
+AF Doshi, Rush
+   Kelley, Judith G.
+   Simmons, Beth A.
+TI The Power of Ranking: The Ease of Doing Business Indicator and Global
+   Regulatory Behavior
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE World Bank; global performance indicators; rankings; international
+   development; international investment; India; domestic politics;
+   bureaucratic politics; status; social pressure
+AB We argue that the World Bank has successfully marshaled the Ease of Doing Business (EDB) Index to amass considerable influence over business regulations worldwide. The Ease of Doing is a global performance indicator (GPI), and GPIs-especially those that rate and rank states against one another-are intended to package information to influence the views of an audience important to the target, such as foreign investors or voters, thus generating pressures that induce a change in the target's behavior. The World Bank has succeeded in shaping the global regulatory environment even though the bank has no explicit mandate over regulatory policy and despite questions about EDB accuracy and required policy tradeoffs. We show that the EDB has a dominating market share among business climate indicators. We then use media analyses and observational data to show that EDB has motivated state regulatory shifts. States respond to being publicly ranked and some restructure bureaucracies accordingly. Next we explore plausible influence channels for the EDB ranking and use an experiment involving US portfolio managers to build on existing economics research and examine whether the rankings influence investor sentiment within the experiment. Using a case study of India's multiyear interagency effort to rise in the EDB rankings, as well as its decision to create subnational EDB rankings, we bring the strands of the argument together by showing how politicians see the ranking as affecting domestic politics, altering investor sentiment, and engaging bureaucratic reputation. Overall, a wide variety of evidence converges to illustrate the pressures through which the World Bank has used state rankings to achieve its vision of regulatory reform.
+C1 [Doshi, Rush] Brookings Inst, Washington, DC 20036 USA.
+   [Kelley, Judith G.] Duke Sanford Sch Publ Policy, Publ Policy & Polit Sci, Durham, NC USA.
+   [Simmons, Beth A.] Univ Penn, Law Polit Sci & Business Eth, Philadelphia, PA 19104 USA.
+RP Doshi, R (corresponding author), Brookings Inst, Washington, DC 20036 USA.
+EM rdoshi@brookings.edu; Judith.Kelley@duke.edu; simmons3@law.upenn.edu
+NR 36
+TC 15
+Z9 15
+U1 7
+U2 23
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PD SUM
+PY 2019
+VL 73
+IS 3
+BP 611
+EP 643
+AR PII S0020818319000158
+DI 10.1017/S0020818319000158
+PG 33
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA IO0GD
+UT WOS:000479056500005
+DA 2021-03-19
+ER
+
+PT J
+AU Paine, J
+AF Paine, Jack
+TI Ethnic Violence in Africa: Destructive Legacies of Pre-Colonial States
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+DE African politics; civil war; coup d'etat; ethnic politics; historical
+   statehood
+ID CIVIL-WAR; STRATEGIC LOGIC; POWER; CONFLICT; CENTRALIZATION;
+   INSTITUTIONS; TRADE; COUPS; RULE
+AB What explains differential rates of ethnic violence in postcolonial Africa? I argue that ethnic groups organized as a precolonial state (PCS) exacerbated interethnic tensions in their postcolonial country. Insecure leaders in these countries traded off between inclusive coalitions that risked insider coups and excluding other ethnic groups at the possible expense of outsider rebellions. My main hypotheses posit that PCS groups should associate with coups because their historically rooted advantages often enabled accessing power at the center, whereas other ethnic groups in their countries-given strategic incentives for ethnopolitical exclusion-should fight civil wars more frequently than ethnic groups in countries without a PCS group. Analyzing originally compiled data on precolonial African states provides statistical evidence for these implications about civil wars and coups between independence and 2013 across various model specifications. Strikingly, through 1989, thirty of thirty-two ethnic group-level major civil war onsets occurred in countries with a PCS group.
+C1 [Paine, Jack] Univ Rochester, Dept Polit Sci, Rochester, NY 14627 USA.
+RP Paine, J (corresponding author), Univ Rochester, Dept Polit Sci, Rochester, NY 14627 USA.
+EM jackpaine@rochester.edu
+NR 72
+TC 2
+Z9 2
+U1 1
+U2 6
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PD SUM
+PY 2019
+VL 73
+IS 3
+BP 645
+EP 683
+AR PII S0020818319000134
+DI 10.1017/S0020818319000134
+PG 39
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA IO0GD
+UT WOS:000479056500006
+DA 2021-03-19
+ER
+
+PT J
+AU Smith, GL
+AF Smith, Gregory L.
+TI Secret but Constrained: The Impact of Elite Opposition on Covert
+   Operations
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+ID FOREIGN-POLICY SUBSTITUTABILITY; INTERNATIONAL-RELATIONS; PRESIDENTIAL
+   COATTAILS; WAR; PEACE; COSTS; INTERVENTIONS; ESCALATION; DEMOCRACY;
+   POLITICS
+AB Recent international relations scholarship has argued that political elites constrain the use of military force by democracies. Despite the persuasiveness of this research, scholars have largely ignored elite dynamics' ability to constrain the initiation of covert operations. This omission is consequential because scholars of US foreign policy often assume that covert operations serve as a substitute for the overt use of force; secrecy allows leaders to limit information to congressional elites and thus weaken their oversight capabilities. Do elite political dynamics constrain presidents' ability to act secretly or do they affect the overt use of force only? I argue that elite political constraints-particularly opposition from Congress-extend to the president's ability to initiate covert operations. By examining the trade-off between US military force and CIA-initiated covert operations during the Cold War, I find the likelihood that covert operations are initiated decreases significantly during periods of divided government and that there is no distinguishable trade-off between covert operations and overt military force. The results suggest that constraints on covert operations became more uniform across unified and divided government following congressional oversight reforms in 1975 that reduced the information asymmetry between the majority and minority party. These findings have important ramifications for the nascent literature on back-door bargaining and covert signalling. Because democratic leaders frequently face domestic political costs even when acting in secret, covert operations should allow leaders to credibly convey their resolve.
+C1 [Smith, Gregory L.] Ohio State Univ, Dept Polit Sci, Columbus, OH 43210 USA.
+RP Smith, GL (corresponding author), Ohio State Univ, Dept Polit Sci, Columbus, OH 43210 USA.
+EM smith.10305@osu.edu
+OI Smith, Gregory/0000-0002-1985-2882
+NR 60
+TC 1
+Z9 1
+U1 1
+U2 6
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PD SUM
+PY 2019
+VL 73
+IS 3
+BP 685
+EP 707
+DI 10.1017/S0020818319000171
+PG 23
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA IO0GD
+UT WOS:000479056500007
+DA 2021-03-19
+ER
+
+PT J
+AU Honig, D
+   Weaver, C
+AF Honig, Dan
+   Weaver, Catherine
+TI A Race to the Top? The Aid Transparency Index and the Social Power of
+   Global Performance Indicators (vol 73, pg 579, 2019)
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Correction
+RI Honig, Dan/T-9442-2018
+OI Honig, Dan/0000-0003-3030-6820
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 1
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PD SUM
+PY 2019
+VL 73
+IS 3
+BP 709
+EP 711
+DI 10.1017/S0020818319000213
+PG 3
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA IO0GD
+UT WOS:000479056500008
+OA Bronze
+DA 2021-03-19
+ER
+
+PT J
+AU Kelley, JG
+   Simmons, BA
+AF Kelley, Judith G.
+   Simmons, Beth A.
+TI Introduction: The Power of Global Performance Indicators
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Editorial Material
+DE Ratings and rankings; information politics; indicators; indexes;
+   monitoring; performance assessment; global governance; power; soft
+   power; reflexivity; social pressure
+ID POLITICS
+AB In recent decades, IGOs, NGOs, private firms and even states have begun to regularly package and distribute information on the relative performance of states. From the World Bank's Ease of Doing Business Index to the Financial Action Task Force blacklist, global performance indicators (GPIs) are increasingly deployed to influence governance globally. We argue that GPIs derive influence from their ability to frame issues, extend the authority of the creator, and - most importantly - to invoke recurrent comparison that stimulates governments' concerns for their own and their country's reputation. Their public and ongoing ratings and rankings of states are particularly adept at capturing attention not only at elite policy levels but also among other domestic and transnational actors. GPIs thus raise new questions for research on politics and governance globally. What are the social and political effects of this form of information on discourse, policies and behavior? What types of actors can effectively wield GPIs and on what types of issues? In this symposium introduction, we define GPIs, describe their rise, and theorize and discuss these questions in light of the findings of the symposium contributions.
+C1 [Kelley, Judith G.] Duke Sanford Sch Publ Policy, Publ Policy & Polit Sci, Durham, NC 27708 USA.
+   [Simmons, Beth A.] Univ Penn, Law Polit Sci & Business Eth, Philadelphia, PA 19104 USA.
+RP Kelley, JG (corresponding author), Duke Sanford Sch Publ Policy, Publ Policy & Polit Sci, Durham, NC 27708 USA.
+EM Judith.Kelley@duke.edu; simmons3@law.upenn.edu
+FU Institute for Quantitative Social Science at Harvard; Weatherhead Center
+   for International Affairs (WCFIA) at Harvard
+FX We are grateful to the forty-two individuals we interviewed during the
+   summer of 2014 in the policy and advocacy community. In the academic
+   community, we thank the IO editors and authors in this symposium, as
+   well as Angelina Fisher, Laura Henry, Matthew Hoffman, Hyeran Jo, Faradj
+   Koliev, Ranjit Lall, Takaaki Masaki, Melissa Lee, Philip Lipscy, Edmund
+   Malesky, Aila Matanock, Bradley C. Parks, Jordan Roberts, Nancy Green
+   Saraisky, Helena Skagerlind, Thomas Sommerer, Lisa Sundstrom, Jonas
+   Tallberg, and Juan Tellez. We also thank the following discussants at
+   our first conference: Felipe Barrera-Osorio, Dan Drezner, Martha
+   Finnemore, Jeff Frieden, Thomas Gift, Judith Goldstein, Alicia Harley,
+   Connor Huff, Iain Johnston, Robert Keohane, Joshua Kertzer, Lucas Linsi,
+   Elise Le, Christopher Lucas, John Marshall, Sally Merry, Richard
+   Nielsen, Sole Prillaman, Karthik Ramanna, Andon Strezhnev, and Dustin
+   Tingley. We are thankful for International Organization's support to
+   hold a 2016 workshop at Harvard, and to the Weatherhead Center for
+   International Affairs (WCFIA) and Institute for Quantitative Social
+   Science, both at Harvard, for supplemental funding and staff support for
+   the conference. Finally, thanks to APSA for supporting a mini-conference
+   in 2016.
+NR 100
+TC 17
+Z9 17
+U1 2
+U2 5
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PD SUM
+PY 2019
+VL 73
+IS 3
+BP 491
+EP 510
+DI 10.1017/S0020818319000146
+PG 20
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA IO0GD
+UT WOS:000479056500001
+OA Bronze
+DA 2021-03-19
+ER
+
+PT J
+AU Webster, K
+   Chen, C
+   Beardsley, K
+AF Webster, Kaitlyn
+   Chen, Chong
+   Beardsley, Kyle
+TI Conflict, Peace, and the Evolution of Women's Empowerment
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+ID ARMED CONFLICT; GENDER EQUALITY; WAR; SECURITY; REPRESENTATION;
+   PARTICIPATION; DATASET; IMPACT; SEX
+AB How do periods of conflict and peace shape women's empowerment around the world? While existing studies have demonstrated that gender inequalities contribute to the propensity for armed conflict, we consider how the anticipation and realization of armed conflict shape women's opportunities for influence in society. Some scholars have pointed to the role that militarization and threat play in entrenching male dominance, while others have argued that periods of warfare can upend existing gender hierarchical orders. We posit mechanisms by which the preparation for and experiences during war affect change in women's empowerment. We develop and test observable implications using cross-national data from 1900 to 2015. We find that, at least in the short and medium term, warfare can disrupt social institutions and lead to an increase in women's empowerment via mechanisms related to role shifts across society and political shifts catalyzed by war. Reforming institutions and mainstreaming gender during peace processes stand to have important legacies for gender power relations in postconflict societies, though much more may be needed for more permanent change.
+C1 [Webster, Kaitlyn; Chen, Chong; Beardsley, Kyle] Duke Univ, Dept Polit Sci, Durham, NC 27708 USA.
+RP Webster, K (corresponding author), Duke Univ, Dept Polit Sci, Durham, NC 27708 USA.
+EM kaitlyn.webster@duke.edu; chong.chen@duke.edu; kyle.beardsley@duke.edu
+OI Chen, Chong/0000-0001-7481-9172
+NR 88
+TC 7
+Z9 8
+U1 2
+U2 13
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PD SPR
+PY 2019
+VL 73
+IS 2
+BP 255
+EP 289
+AR PII S0020818319000055
+DI 10.1017/S0020818319000055
+PG 35
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA HW5WG
+UT WOS:000466759400001
+DA 2021-03-19
+ER
+
+PT J
+AU McNamee, L
+   Zhang, A
+AF McNamee, Lachlan
+   Zhang, Anna
+TI Demographic Engineering and International Conflict: Evidence from China
+   and the Former USSR
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+ID TERRITORIAL DISPUTES; WAR; DISPLACEMENT; MIGRATION; STATE
+AB When and where do states coercively alter their internal demography? We build a theory that predicts under what conditions states alter the demographic "facts on the ground" by resettling and expelling ethno-national populations. We predict that, under particular scope conditions, states will employ demographic engineering to shore up control over (1) nonnatural frontiers, and (2) areas populated by ethnic minorities who are co-ethnics with elites in a hostile power. We then substantiate our predictions using new subnational data from both China and the USSR. Causally identifying the spatially differential effect of international conflict on demographic engineering via a difference-in-differences design, we find that the Sino-Soviet split (1959-1982) led to a disproportionate increase in the expulsion of ethnic Russians and resettlement of ethnic Han in Chinese border areas lacking a natural border with the USSR, and that resettlement was targeted at areas populated by ethnic Russians. On the Soviet side, we similarly find that the Sino-Soviet split led to a significant increase in expulsion of Chinese and the resettlement of Russians in border areas, and that resettlement was targeted at areas populated by more Chinese. We develop the nascent field of political demography by advancing our theoretical and empirical understanding of when, where, and to whom states seek to effect demographic change. By demonstrating that both ethnic group concentration and dispersion across borders are endogenous to international conflict, our results complicate a large and influential literature linking ethnic demography to conflict.
+C1 [McNamee, Lachlan; Zhang, Anna] Stanford Univ, Dept Polit Sci, Stanford, CA 94305 USA.
+RP McNamee, L (corresponding author), Stanford Univ, Dept Polit Sci, Stanford, CA 94305 USA.
+EM daniel.naurin@jus.uio.no; annazhang@stanford.edu
+RI McNamee, Lachlan/L-7823-2019
+OI McNamee, Lachlan/0000-0002-3063-5846
+NR 82
+TC 2
+Z9 2
+U1 5
+U2 10
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PD SPR
+PY 2019
+VL 73
+IS 2
+BP 291
+EP 327
+AR PII S0020818319000067
+DI 10.1017/S0020818319000067
+PG 37
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA HW5WG
+UT WOS:000466759400002
+OA Bronze
+DA 2021-03-19
+ER
+
+PT J
+AU Nair, G
+   Sambanis, N
+AF Nair, Gautam
+   Sambanis, Nicholas
+TI Violence Exposure and Ethnic Identification: Evidence from Kashmir
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+ID IN-GROUP BIAS; NATION; WAR; ATTITUDES; CONFLICT; LEGACIES; ORIGINS;
+   STATE; AID
+AB This article studies the conditions that lead peripheral minorities to identify with the state, their ethnic group, or neighboring countries. We contribute to research on separatism and irredentism by examining how violence, psychological distance, and national status determine identification. The analysis uses data from a novel experiment that randomized videos of actual violence in a large, representative survey of the Kashmir Valley region in the Indian state of Jammu and Kashmir, an enduring site of separatist and irredentist conflict. We find that a strong regional identity is a counterweight to irredentism, but violent repression by the state can push members of the minority to identify with an irredentist neighbor. Violence increases perceived distance from the nation and reduces national identification. There is suggestive evidence that these effects are concentrated among individuals with attributes that otherwise predict higher levels of identification with the state. Information about integrative institutions and increased national status brought about by economic growth is insufficient to induce national identification in a context where psychological distance from the nation is large.
+C1 [Nair, Gautam] Yale Univ, Dept Polit Sci, New Haven, CT 06520 USA.
+   [Sambanis, Nicholas] Univ Penn, Polit Sci, Philadelphia, PA 19104 USA.
+RP Nair, G (corresponding author), Yale Univ, Dept Polit Sci, New Haven, CT 06520 USA.
+EM gautam.nair@yale.edu; sambanis@upenn.edu
+FU South Asia Studies Council; MacMillan Center; Georg Walter Leitner
+   Political Economy Program at Yale; Yale's MacMillan Center
+FX We are especially grateful to Lauren Pinson for inputs on research
+   design and Aijaz Wani, who helped facilitate the training at Kashmir
+   University, provided comments on the survey instrument, and was our
+   local partner during implementation. Chris Blattman, Thad Dunning, Guy
+   Grossman, Dipin Kaur, Devesh Kapur, Dorothy Kronick, Cathy Lee, Shamika
+   Ravi, Ashutosh Varshney, and Steven Wilkinson provided helpful comments
+   on design, analysis, and implementation. Iba Marwein, Atulesh Shukla,
+   and Bhartendu Trivedi of Morsel Pvt. Ltd. managed the survey in
+   challenging conditions. We thank enumerators and survey respondents for
+   participating in the study. Nair acknowledges funding from the South
+   Asia Studies Council, MacMillan Center, and Georg Walter Leitner
+   Political Economy Program at Yale. Sambanis acknowledges funding from
+   Yale's MacMillan Center. This study received IRB approval under Yale
+   Human Subjects Committee Protocol #1507016145. All views and errors are
+   the authors'.
+NR 66
+TC 4
+Z9 4
+U1 2
+U2 7
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PD SPR
+PY 2019
+VL 73
+IS 2
+BP 329
+EP 363
+AR PII S0020818318000498
+DI 10.1017/S0020818318000498
+PG 35
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA HW5WG
+UT WOS:000466759400003
+DA 2021-03-19
+ER
+
+PT J
+AU Blair, RA
+AF Blair, Robert A.
+TI International Intervention and the Rule of Law after Civil War: Evidence
+   from Liberia
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+ID VIOLENCE; DEMOCRATIZATION; AUTHORITY; RIGHTS; STATES; PEACE; NORMS
+AB What are the effects of international intervention on the rule of law after civil war? Rule of law requires not only that state authorities abide by legal limits on their power, but also that citizens rely on state laws and institutions to adjudicate disputes. Using an original survey and list experiment in Liberia, I show that exposure to the UN Mission in Liberia (UNMIL) increased citizens' reliance on state over nonstate authorities to resolve the most serious incidents of crime and violence, and increased nonstate authorities' reliance on legal over illegal mechanisms of dispute resolution. I use multiple identification strategies to support a causal interpretation of these results, including an instrumental variables strategy that leverages plausibly exogenous variation in the distribution of UNMIL personnel induced by the killing of seven peacekeepers in neighboring Cote d'Ivoire. My results are still detectable two years later, even in communities that report no further exposure to peacekeepers. I also find that exposure to UNMIL did not mitigate and may in fact have exacerbated citizens' perceptions of state corruption and bias in the short term, but that these apparently adverse effects dissipated over time. I conclude by discussing implications of these complex but overall beneficial effects.
+C1 [Blair, Robert A.] Brown Univ, Dept Polit Sci, Providence, RI 02912 USA.
+   [Blair, Robert A.] Brown Univ, Watson Inst Int & Publ Affairs, Providence, RI 02912 USA.
+RP Blair, RA (corresponding author), Brown Univ, Dept Polit Sci, Providence, RI 02912 USA.; Blair, RA (corresponding author), Brown Univ, Watson Inst Int & Publ Affairs, Providence, RI 02912 USA.
+EM robert_blair@brown.edu
+FU National Science FoundationNational Science Foundation (NSF); Humanity
+   United; MacMillan Center for International Affairs at Yale University;
+   Vanguard Charitable Trust
+FX This research was supported by the National Science Foundation, Humanity
+   United, the MacMillan Center for International Affairs at Yale
+   University, and a Vanguard Charitable Trust. For helpful comments I
+   thank Abhit Bhandari, Graeme Blair, Christopher Blattman, Kosuke Imai,
+   Jason Lyall, Steven Rosenzweig, Kevin Russell, Nicholas Sambanis, Steven
+   Wilkinson, participants at the African Politics Working Group at Yale
+   University, participants at the Development Breakfast at Brown
+   University, participants at the Contemporary African Political Economy
+   Research Seminar (CAPERS) at New York University, and two anonymous
+   reviewers. Yuequan Guo, Colombine Peze-Heidsieck, Karla Ganley, and
+   Antonina Rytwinska provided excellent research assistance. Special
+   thanks to Tatiana Neumann.
+NR 67
+TC 7
+Z9 7
+U1 0
+U2 7
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PD SPR
+PY 2019
+VL 73
+IS 2
+BP 365
+EP 398
+AR PII S0020818319000031
+DI 10.1017/S0020818319000031
+PG 34
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA HW5WG
+UT WOS:000466759400004
+DA 2021-03-19
+ER
+
+PT J
+AU Sommerer, T
+   Tallberg, J
+AF Sommerer, Thomas
+   Tallberg, Jonas
+TI Diffusion Across International Organizations: Connectivity and
+   Convergence
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+ID POLICY DIFFUSION; INSTITUTIONAL CHANGE; DISPUTE SETTLEMENT; NETWORK
+   ANALYSIS; HUMAN-RIGHTS; POLITICS; MECHANISMS; EMULATION; SPREAD; TRADE
+AB While extensive research shows that policies and institutions spread across states through processes of diffusion, we know little about diffusion among international organizations (IOs). We develop a novel approach for the study of diffusion among IOs. This approach consists of three components: a theoretical focus on connectivity among IOs as pathways for diffusion; a conceptual differentiation between alternative types of convergence effects; and a methodological strategy combining dyadic and spatial analysis of diffusion. We illustrate the usefulness of this approach through an empirical case: the diffusion of participatory governance arrangements among IOs from 1970 to 2010. The analysis shows that connectivity among IOs contributes to convergence, which typically is manifested through imitation of very specific institutional models. The article's findings have implications both for the study of IOs and for the general study of diffusion.
+C1 [Sommerer, Thomas; Tallberg, Jonas] Stockholm Univ, Dept Polit Sci, Stockholm, Sweden.
+RP Sommerer, T (corresponding author), Stockholm Univ, Dept Polit Sci, Stockholm, Sweden.
+EM thomas.sommerer@statsvet.su.se; jonas.tallberg@statsvet.su.se
+FU European Research CouncilEuropean Research Council (ERC)European
+   Commission; Riksbankens Jubileumsfond
+FX Earlier versions of this article were presented at the 2013 Annual
+   Convention of the International Studies Association in San Francisco,
+   the 2014 Annual Convention of the International Studies Association in
+   Toronto, and at workshops at the University of Gottingen, Lund
+   University, and Stockholm University. For helpful comments and
+   suggestions, we are particularly grateful to Thomas Biersteker, Anja
+   Jetschke, Barbara Koremenos, Gary Marks, Alexander Ovodenko, Duncan
+   Snidal, and the editors and two anonymous reviewers of IO. The research
+   for this article was conducted in the Transaccess project and the
+   Transdemos program at Stockholm University. We gratefully acknowledge
+   the generous funding provided by the European Research Council and
+   Riksbankens Jubileumsfond.
+NR 96
+TC 9
+Z9 9
+U1 5
+U2 13
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PD SPR
+PY 2019
+VL 73
+IS 2
+BP 399
+EP 433
+AR PII S0020818318000450
+DI 10.1017/S0020818318000450
+PG 35
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA HW5WG
+UT WOS:000466759400005
+DA 2021-03-19
+ER
+
+PT J
+AU Fordham, BO
+AF Fordham, Benjamin O.
+TI The Domestic Politics of World Power: Explaining Debates over the United
+   States Battleship Fleet, 1890-91
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+ID ECONOMIC INTERESTS; FOREIGN-POLICY; TRADE; IMPERIALISM; IDEOLOGY;
+   ORIGINS
+AB The United States' 1890-91 decision to begin building a battleship fleet, an important point in its development as a world power, can illuminate the domestic sources of foreign policy ambition. An analysis of roll-call votes in the House of Representatives indicates that socioeconomic divisions arising from industrialization strongly influenced support and opposition to the battleship fleet. This relationship worked mainly through trade policy interests: members of Congress from import-competing states tended to support the effort, while those from export-oriented states tended to oppose it. The patriotic symbolism of battleships at a time of labor unrest also helped motivate support for the program, though evidence of this pattern is less conclusive. Although party affiliation was crucial, it was also partly a function of economic structure, which shaped the two parties' electoral fortunes. The impact of trade interests during this period is a mirror image of what previous research has found concerning the post-World War II era, when export-oriented interests tended to support American global activism and import-competing interests to oppose it. The reason for the difference is the Republican Party's commitment to trade protection, which strongly influenced both the goals of the policy and the identity of its supporters.
+C1 [Fordham, Benjamin O.] SUNY Binghamton, Dept Polit Sci, Binghamton, NY 13902 USA.
+RP Fordham, BO (corresponding author), SUNY Binghamton, Dept Polit Sci, Binghamton, NY 13902 USA.
+EM bfordham@binghamton.edu
+RI Fordham, Benjamin/J-9577-2019
+FU National Science Foundation Political Science Program [SES-1022546]
+FX I thank Michael Colaresi, Brian Crisher, Rex Douglass, Chris Farriss,
+   Erik Gartzke, Patrick James, Katja Kleinberg, Michael Lee, David
+   Lindsey, Carla Martinez Machain, Michael Mousseau, Paul Poast, Mark
+   Souva, William Thompson, and participants in colloquia at Binghamton
+   University and the University of California, San Diego, for comments on
+   earlier versions of this paper. I am especially grateful to Michael
+   Flynn, who has been involved in research related to this project from
+   its beginning, and to Jonathan Markowitz, who talked me into revisiting
+   it. Research for this paper was funded in part by the National Science
+   Foundation Political Science Program through grant SES-1022546.
+NR 75
+TC 5
+Z9 5
+U1 0
+U2 4
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PD SPR
+PY 2019
+VL 73
+IS 2
+BP 435
+EP 468
+AR PII S0020818318000449
+DI 10.1017/S0020818318000449
+PG 34
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA HW5WG
+UT WOS:000466759400006
+DA 2021-03-19
+ER
+
+PT J
+AU Naurin, D
+   Naurin, E
+   Alexander, A
+AF Naurin, Daniel
+   Naurin, Elin
+   Alexander, Amy
+TI Gender Stereotyping and Chivalry in International Negotiations: A Survey
+   Experiment in the Council of the European Union
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Article
+ID SEX-DIFFERENCES; EMPATHY; PERFORMANCE; BEHAVIOR; POWER
+AB Gender stereotypes-stylized expectations of individuals' traits and capabilities based on their gender-may affect the behavior of diplomats and the processes of international negotiations. In a survey experiment in the Council of the European Union, we find that female representatives behaving stereotypically weak and vulnerable may trigger a chivalry reaction among male representatives, increasing the likelihood that the men will agree to support a bargaining proposal from the women. The effect is conditional on the negotiators' cultural background-the chivalry reaction is displayed mainly by diplomats from countries with relatively low levels of gender equality. Our study contributes to the research on nonstandard behavior in international relations, and in particular the expression and reception of emotions in diplomacy. We argue that gender stereotypes may have a moderating impact on decision making based on such intuitive cognitive processes. We also add to the broader negotiation literature, both by showing the pervasiveness of gender stereotyping, and by testing at the elite level the generalizability of claims regarding gender effects derived from laboratory experiments. Overall, our findings demonstrate the importance of bringing gender into the study of international negotiations, where it has been largely and surprisingly ignored.
+C1 [Naurin, Daniel] Univ Oslo, PluriCourts, Polit Sci, Oslo, Norway.
+   [Naurin, Daniel] Univ Gothenburg, Gothenburg, Sweden.
+   [Naurin, Elin; Alexander, Amy] Univ Gothenburg, Polit Sci, Gothenburg, Sweden.
+RP Naurin, D (corresponding author), Univ Oslo, PluriCourts, Polit Sci, Oslo, Norway.; Naurin, D (corresponding author), Univ Gothenburg, Gothenburg, Sweden.
+EM daniel.naurin@jus.uio.no; elin.naurin@pol.gu.se; amy.alexander@pol.gu.se
+FU Swedish Foundation for Humanities and Social Sciences (Riksbankens
+   Jubileumsfond)
+FX Financial support was provided by the Swedish Foundation for Humanities
+   and Social Sciences (Riksbankens Jubileumsfond). We thank the editor and
+   reviewers of IO for their very helpful comments and suggestions, Karin
+   Aggestam for a stimulating and fruitful project collaboration, and
+   Markus Johansson for excellent research assistance.
+NR 68
+TC 3
+Z9 3
+U1 3
+U2 14
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PD SPR
+PY 2019
+VL 73
+IS 2
+BP 469
+EP 488
+AR PII S0020818319000043
+DI 10.1017/S0020818319000043
+PG 20
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA HW5WG
+UT WOS:000466759400007
+OA Green Accepted
+DA 2021-03-19
+ER
+
+PT J
+AU Lipscy, PY
+   Lee, HNK
+AF Lipscy, Phillip Y.
+   Lee, Haillie Na-Kyung
+TI The IMF As a Biased Global Insurance Mechanism: Asymmetrical Moral
+   Hazard, Reserve Accumulation, and Financial Crises (vol 73, pg 35, 2018)
+SO INTERNATIONAL ORGANIZATION
+LA English
+DT Correction
+NR 1
+TC 1
+Z9 1
+U1 0
+U2 2
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0020-8183
+EI 1531-5088
+J9 INT ORGAN
+JI Int. Organ.
+PD SPR
+PY 2019
+VL 73
+IS 2
+BP 489
+EP 489
+AR PII S002081831900002X
+DI 10.1017/S002081831900002X
+PG 1
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA HW5WG
+UT WOS:000466759400008
+DA 2021-03-19
+ER
+
+EF

@@ -32,7 +32,11 @@ load("data/analysis/bib_precords.RData")
 #So Tilly will reguilarly appear alongside Tarrow, while Chenoweth will often appear alongside
 #Skocpol
 
-M <- M_all_p
+M <- M_all_p %>%
+  filter(!is.na(AB) & !is.na(AB) & PY<=2020)
+
+# M <- M %>%
+#   filter(!is.na(AB) & PY!="2020")
 
 NetMatrix <-
   biblioNetwork(M,
@@ -94,7 +98,7 @@ sockeyw$freqsoc <- sockeyw$freqsoc / 710
 allkeyw <- merge(pskeyw, sockeyw, by = "word")
 allkeyw <-
   allkeyw %>% remove_rownames %>% column_to_rownames(var = "word")
-allkeyws <- subset(allkeyw, freqps > .007)
+allkeyws <- subset(allkeyw, freqps > .009)
 allkeyws$Category <- "Non-outcomes"
 allkeyws$Category[rownames(allkeyws) %in% c("ATTITUDES",
                                             "CONSEQUENCES",
@@ -130,7 +134,7 @@ g2 <- ggplot(allkeyws, aes(freqps, freqsoc)) +
   )
 g2
 png(
-  "figures/keywds.png",
+  "figures/keywdsn.png",
   width = 300,
   height = 250,
   units = 'mm',

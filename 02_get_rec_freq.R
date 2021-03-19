@@ -24,7 +24,7 @@ for (i in seq_along(journals_list)) {
   socps_journals <- M_all %>%
     filter(SO %in% jlist)
   
-  MALL <- socps_journals %>%
+  M <- socps_journals %>%
     filter(!is.na(AB),!is.na(PY))
   
   tidy_abs <- M %>%
@@ -48,6 +48,7 @@ for (i in seq_along(journals_list)) {
     na.omit()
   
   gplots[[i]] <- yr_term_counts %>%
+    filter(year <= 2020) %>%
     ggplot(aes(year, (sum_p / year_total) * 100)) +
     geom_point(alpha = 0.8) +
     geom_smooth(
@@ -56,6 +57,7 @@ for (i in seq_along(journals_list)) {
       color = "red",
       alpha = .15
     ) +
+    ylim(0, .2) +
     xlab("Year") +
     ylab("% protest words in journal abstracts") +
     ggtitle("") +
@@ -87,10 +89,13 @@ for (i in seq_along(journals_list)) {
     dplyr::summarise(sum_particles = sum(pword),
                      pct_particles = (sum(pword) / sum(article)) * 100)
   
-  gplotsums[[i]] <- ggplot(MALLsums) +
+  gplotsums[[i]] <- MALLsums %>%
+    filter(PY <= 2020) %>%
+    ggplot() +
     geom_bar(aes(PY, pct_particles), stat = "identity") +
     xlab("Year") +
     ylab("% protest articles") +
+    # ylim(0, 8) +
     ggtitle("") +
     theme_tufte(base_family = "Helvetica") +
     theme(axis.text = element_text(size = 15),
@@ -184,18 +189,28 @@ for (i in seq_along(journals_list)) {
   
   term_counts$pword <- as.integer(grepl("\\bprotest\\b|\\bprotestor\\b|\\bprotestors\\b|\\bsocial movement\\b|\\bsocial movements\\b|\\bcontentious politics\\b", 
                                         x = term_counts$ngram, ignore.case = T))
-  
+
   yr_term_counts <- term_counts %>%
+    extract(PY, "year", convert = TRUE) %>%
+    complete(year, ngram, fill = list(n = 0)) %>%
+    dplyr::group_by(year, shortitle) %>%
+    dplyr::summarise(year_total = sum(n))
+  
+  yr_term_counts_p <- term_counts %>%
     extract(PY, "year", convert = TRUE) %>%
     complete(year, ngram, fill = list(n = 0)) %>%
     dplyr::group_by(year, shortitle) %>%
     dplyr::mutate(year_total = sum(n)) %>%
     dplyr::filter(pword==1) %>%
-    dplyr::summarise(sum_p = sum(n),
-                     year_total= min(year_total)) %>%
+    dplyr::summarise(sum_p = sum(n)) %>%
     na.omit()
+  
+  yr_term_countsm <- left_join(yr_term_counts, yr_term_counts_p, 
+                               by = c("year", "shortitle"))
+  
+  yr_term_countsm$sum_p[is.na(yr_term_countsm$sum_p)] <- 0
 
-  gplotsfac[[i]] <-  yr_term_counts %>%
+  gplotsfac[[i]] <-  yr_term_countsm %>%
     ggplot(aes(year, (sum_p / year_total) * 100)) +
     geom_point(alpha = 0.8) +
     geom_smooth(

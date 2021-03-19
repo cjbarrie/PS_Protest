@@ -13,6 +13,9 @@ for (i in seq_along(file.ls)) {
   M_all <- rbind.fill(M_all, M)
 }
 
+M_all <- M_all %>%
+  distinct(UT, .keep_all = T)
+
 pwords <-
   c(
     "protest",

@@ -1,0 +1,3993 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Mezey, NJ
+AF Mezey, Nancy J.
+TI Presidential Address: Start Spreading the News: Illuminating the Effects
+   of Climate Change as a Social Problem
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE sociology and climate change; presidential address; climate change;
+   anthropogenic causes; climate justice
+AB The theme for the 2019 SSSP meetings is a call to sociologists and social scientists to draw on their sociological roots to illuminate the social in all social problems with an eye to solving those problems. The address encourages sociologists to speak as broadly as possible so that the discipline becomes a central voice in larger public discourses. The 2019 SSSP Presidential Address is a call to focus on what is the largest social problem: climate change. After a brief overview of the science of climate change, the address focuses on the anthropogenic causes of climate change and the reasons why climate change is a social justice issue. Looking specifically at rising sea levels, the address then focuses on New York City as an example of the effects of and some responses to climate change. The address concludes with a discussion of how sociologists can and should draw deeply on the discipline's theoretical roots, empirical tools, and pedagogical skills to illuminate climate change as a social problem.
+C1 [Mezey, Nancy J.] Monmouth Univ, West Long Branch, NJ 07764 USA.
+RP Mezey, NJ (corresponding author), Monmouth Univ, Honors Sch, 400 Cedar Ave, West Long Branch, NJ 07764 USA.
+EM nmezey@monmouth.edu
+FU Monmouth University; Michigan State University; Vassar College; Oxford
+   University Press
+FX The author would like to acknowledge and thank Heather Dillaway, Brooke
+   Kelly, Keumjae Park, Johanna Foster, Hector Delgado, Michele Koontz,
+   Catherine Duckett, and Karen Diehl. Thank you to Monmouth University,
+   Michigan State University, Vassar College, and Oxford University Press
+   for their sponsorship and support. Thank you to the editors of Social
+   Problems for publishing critical work that illuminates a vast range of
+   social problems, including climate change.
+NR 40
+TC 0
+Z9 0
+U1 1
+U2 1
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD NOV
+PY 2020
+VL 67
+IS 4
+BP 605
+EP 615
+DI 10.1093/socpro/spaa009
+PG 11
+WC Sociology
+SC Sociology
+GA OW9KV
+UT WOS:000593197700001
+DA 2021-03-19
+ER
+
+PT J
+AU Smangs, M
+AF Smangs, Mattias
+TI Race, Gender, and the Rape-Lynching Nexus in the US South, 1881-1930
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE racial violence; lynching; boundary-making; event-history analysis;
+   social movements
+ID AMERICAN SOUTH; DEEP SOUTH; DYNAMICS; VIOLENCE; THREAT; STATE
+AB Scholarship has long recognized the centrality of white racial sexual fears in the rhetoric and practice surrounding the lynching of African Americans in the U.S. South in the decades around 1900. The topic has not previously been taken up for systematic study beyond event-level analyses. This article presents theoretical and empirical evidence that whites' intersecting racial and gender concerns converging in racial sexual fears were conducive to lynching related to interracial sex, but not to those unrelated to interracial sex, under certain conditions. The empirical findings, based on lynchings in 11 southern states from 1881-1930, demonstrate that lynchings related to interracial sex were more likely to occur in contexts characterized by higher levels of white female dependents residing with white male householders, higher levels of white female school attendance, and higher levels of adult black male literacy. These findings suggest that interracial sex-related lynching served to recover and retain white men's racial and gender status, which postbellum developments had undermined, by oppressing not only African American men and women but disempowering white women as well. White racial sexual fears during the lynching era should, therefore, be seen as constituting a social force in their own right with long-term consequences for race and gender relations and inequalities.
+C1 [Smangs, Mattias] Yale Univ, Dept Sociol, POB 208265, New Haven, CT 06520 USA.
+RP Smangs, M (corresponding author), Yale Univ, Dept Sociol, POB 208265, New Haven, CT 06520 USA.
+EM mattias.smangs@yale.edu
+NR 49
+TC 0
+Z9 0
+U1 0
+U2 0
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD NOV
+PY 2020
+VL 67
+IS 4
+BP 616
+EP 636
+DI 10.1093/socpro/spz035
+PG 21
+WC Sociology
+SC Sociology
+GA OW9KV
+UT WOS:000593197700002
+DA 2021-03-19
+ER
+
+PT J
+AU Glass, C
+   Cook, A
+AF Glass, Christy
+   Cook, Alison
+TI Pathways to the Glass Cliff: A Risk Tax for Women and Minority Leaders?
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE gender; race; ethnicity; mobility; work organizations; glass cliff
+ID GENDER STEREOTYPES; RACE; DIVERSITY; POSITIONS; INEQUALITY; IDENTITIES;
+   STRATEGIES; WORKPLACE; TOKENISM; STRESS
+AB Do women and racial/ethnic minority leaders pay a risk tax on their way to the top? Theories of the glass cliff have focused on the penalties imposed upon women and minority leaders due to bias and discrimination at the time of appointment to top leadership positions. Much less attention has focused on the strategic agency these leaders exercise in response to bias across the career. This paper advances theory and research on the glass cliff by analyzing the choices, decisions, and priorities of white women and people of color that, across the career, result in their appointment to glass cliff positions. Our analysis relies on in-depth, semi-structured interviews with 33 senior leaders across a range of industries. Our findings suggest that rather than isolated instances of high-risk promotions, glass cliff appointments represent the culmination of a long-term career strategy centered on risk and risk-taking. We find evidence that these leaders pay a significant risk tax in order to achieve upward mobility in their organizations.
+C1 [Glass, Christy; Cook, Alison] Utah State Univ, Logan, UT 84322 USA.
+RP Glass, C (corresponding author), Utah State Univ, Dept Sociol Social Work & Anthropol, 0730 Old Main Hill, Logan, UT 84322 USA.
+EM christy.glass@usu.edu
+NR 84
+TC 2
+Z9 2
+U1 3
+U2 3
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD NOV
+PY 2020
+VL 67
+IS 4
+BP 637
+EP 653
+DI 10.1093/socpro/spz045
+PG 17
+WC Sociology
+SC Sociology
+GA OW9KV
+UT WOS:000593197700003
+DA 2021-03-19
+ER
+
+PT J
+AU Bosk, EA
+AF Bosk, Emily A.
+TI Iron Cage or Paper Cage? The Interplay of Worker Characteristics and
+   Organizational Policy in Shaping Unequal Responses to a Standardized
+   Decision-Making Tool
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE standardization; decision-making; inequality; child welfare; bias
+ID RISK-ASSESSMENT; RACE; GENDER; BLACK; DISCRIMINATION; SOCIOLOGY;
+   JUDGMENT
+AB Studies are largely optimistic about the ability of standardized procedures to constrain decision-makers' biases and produce more equitable results across fields. However, work that embraces standardization as an equalizing force stands in contrast to research on standardization and street-level bureaucrats, which asserts that standardized procedures are not self-actuating and cannot be understood apart from the environments in which they are used. I examine how frontline workers vary in their approach to an actuarial-based tool intended to standardize judgments. In a highly controlled decision-making environment, child welfare workers whose racial and sex characteristics afford them higher status report subverting the tool; conversely, workers in the same position whose ascriptive characteristics yield them lower status in terms of race and sex describe following the rules. In an environment where the same tool is adopted only ceremonially, all workers experience decision-making as unconstrained, regardless of their ascriptive characteristics. This work fills gaps in knowledge about how social status and organizational context intersect to affect rule abidance. Examining these dynamic relationships advances understanding of how organizations reproduce inequality and the limits and potential for standardization to transform social hierarchies.
+C1 [Bosk, Emily A.] Rutgers State Univ, New Brunswick, NJ 08901 USA.
+RP Bosk, EA (corresponding author), Rutgers State Univ, New Brunswick, NJ 08901 USA.
+EM Emily.bosk@ssw.rutgers.edu
+OI Bosk, Emily/0000-0003-2135-3713
+FU National Science Foundation: Law and Social Sciences Division [SES
+   -1323916]; Doris Duke Fellowship for the Promotion of Child Wellbeing;
+   Fahs-Beck Fund for Research and Experimentation
+FX Funding for this work was provided by the National Science Foundation:
+   Law and Social Sciences Division (SES -1323916), The Doris Duke
+   Fellowship for the Promotion of Child Wellbeing, and the Fahs-Beck Fund
+   for Research and Experimentation.
+NR 45
+TC 4
+Z9 4
+U1 1
+U2 1
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD NOV
+PY 2020
+VL 67
+IS 4
+BP 654
+EP 676
+DI 10.1093/socpro/spz028
+PG 23
+WC Sociology
+SC Sociology
+GA OW9KV
+UT WOS:000593197700004
+DA 2021-03-19
+ER
+
+PT J
+AU Streib, J
+   Rochmes, J
+   Arriaga, F
+   Tavares, C
+   Weed, E
+AF Streib, Jessi
+   Rochmes, Jane
+   Arriaga, Felicia
+   Tavares, Carlos
+   Weed, Emi
+TI Writing in Race: Evidence against Employers' Assumptions about Race and
+   Soft Skills
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE race; soft skills; jobs; culture; work
+ID TRANSITION; EMPLOYMENT; SELECTION; COLLEGE; TRENDS
+AB Hiring managers and segments of the American public believe that white, black, and Hispanic job-seekers present distinct soft skills to employers. Sociologists have not tested this belief and provide competing theories about whether it is likely to be true. Structural theories maintain that different resources and networks inhibit racial groups from displaying similar non-technical skills and experiences, while cultural approaches posit that all groups can access and display a variety of soft skills. Based on a content analysis of 1,124 applications that white, black, and Hispanic job-seekers used to apply for the same job, we find little evidence supporting the belief in racial distinctions in soft skills. Instead, white, black, and Hispanic applicants in our sample presented the same top reasons for applying, the same top personal characteristics, the same top college activities, and were equally likely to follow professional norms. We discuss the generalizability of our findings and their implications for theories of access to these skills.
+C1 [Streib, Jessi] Duke Univ, 276 Soc Psych Bldg,Box 90088, Durham, NC 27708 USA.
+   [Rochmes, Jane] Christopher Newport Univ, Newport News, VA 23606 USA.
+   [Arriaga, Felicia] Appalachian State Univ, Boone, NC 28608 USA.
+   [Tavares, Carlos] Lafayette Coll, Easton, PA 18042 USA.
+RP Streib, J (corresponding author), Duke Univ, 276 Soc Psych Bldg,Box 90088, Durham, NC 27708 USA.
+EM jessi.streib@duke.edu
+OI Tavares, Carlos/0000-0001-9888-645X
+NR 52
+TC 0
+Z9 0
+U1 3
+U2 3
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD NOV
+PY 2020
+VL 67
+IS 4
+BP 677
+EP 697
+DI 10.1093/socpro/spz034
+PG 21
+WC Sociology
+SC Sociology
+GA OW9KV
+UT WOS:000593197700005
+DA 2021-03-19
+ER
+
+PT J
+AU Maroto, M
+   Sykes, BL
+AF Maroto, Michelle
+   Sykes, Bryan L.
+TI The Varying Effects of Incarceration, Conviction, and Arrest on Wealth
+   Outcomes among Young Adults
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE social stratification; wealth inequality; criminal justice;
+   incarceration; NLSY97
+ID CRIMINAL-JUSTICE CONTACT; MASS IMPRISONMENT; LIFE-COURSE; INEQUALITY;
+   RACE; HEALTH; PRISON; CRIME; DEBT; DISADVANTAGE
+AB Previous research indicates that incarceration leads to declines in rates of homeownership and net worth, especially among baby boomers, but questions remain as to how other types of criminal justice system contact affect wealth outcomes during the transition to adulthood. Using data from the 1997 National Longitudinal Survey of Youth, we investigate how arrests, convictions, and incarceration influence net worth, financial assets, and debt among young adults. We find that most contact with the criminal justice system limited the ability of young adults to accumulate wealth between the ages of 25 and 30, an especially important time for building life-cycle wealth. Arrests were associated with asset and debt declines of 52-53 percent, and incarceration led to net worth and asset declines of 34 and 76 percent, respectively. These direct effects were also bolstered by the indirect effects of these variables through their relationship with marriage and earnings, especially in the case of incarceration. This study draws attention to how criminal justice system contact affects early adult wealth, thereby setting the stage to influence a host of life course dynamics for individuals and their families.
+C1 [Maroto, Michelle] Univ Alberta, Edmonton, AB, Canada.
+   [Sykes, Bryan L.] Univ Calif Irvine, Irvine, CA USA.
+RP Maroto, M (corresponding author), Univ Alberta, Dept Sociol, 6-23 Tory Bldg, Edmonton, AB T6G 2H4, Canada.
+EM maroto@ualberta.ca
+NR 69
+TC 2
+Z9 2
+U1 1
+U2 1
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD NOV
+PY 2020
+VL 67
+IS 4
+BP 698
+EP 718
+DI 10.1093/socpro/spz023
+PG 21
+WC Sociology
+SC Sociology
+GA OW9KV
+UT WOS:000593197700006
+DA 2021-03-19
+ER
+
+PT J
+AU Gerteis, J
+   Hartmann, D
+   Edgell, P
+AF Gerteis, Joseph
+   Hartmann, Douglas
+   Edgell, Penny
+TI Racial, Religious, and Civic Dimensions of Anti-Muslim Sentiment in
+   America
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE Muslims; race; religion; boundaries; culture
+ID CULTURAL MEMBERSHIP; MORAL BOUNDARIES; ISLAMOPHOBIA; ATTITUDES; RACE;
+   RACIALIZATION; IMMIGRANTS; ISLAM; PREJUDICE; POLITICS
+AB This paper examines anti-Muslim sentiment in America. Existing research has documented rising hostility to Muslims in Western countries, but has been much less clear about what drives such sentiments or exactly what sort of "other" Muslims are understood to be. Our interest is in the cultural construction of Muslims as a problematic or incompatible "other." We explore the extent, content, and correlates of such views. Building from recent work in critical race theory and the study of cultural boundaries in national belonging, we argue that Muslims are distinct in being culturally excluded on religious, racial, and civic grounds at the same time. Using nationally representative survey data with specially designed measures on views of Muslims and other groups, we show that nearly half of Americans embrace some form of anti-Muslim sentiment, and that such views are systematically correlated with social location and with understandings of the nature of American belonging.
+C1 [Gerteis, Joseph; Hartmann, Douglas; Edgell, Penny] Univ Minnesota, Minneapolis, MN 55455 USA.
+RP Gerteis, J (corresponding author), Univ Minnesota, Dept Sociol, 909 Social Sci,267 19th Ave South, Minneapolis, MN 55455 USA.
+EM gerte004@umn.edu
+FU Edelstein Family Foundation; National Science FoundationNational Science
+   Foundation (NSF) [1258926, 1258933]
+FX This work was supported by the Edelstein Family Foundation; and the
+   National Science Foundation [grant numbers 1258926, 1258933]. The
+   authors wish to thank Ryan Steel, Evan Stewart, and Ryan Larson for
+   advice and research assistance.
+NR 101
+TC 1
+Z9 1
+U1 1
+U2 1
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD NOV
+PY 2020
+VL 67
+IS 4
+BP 719
+EP 740
+DI 10.1093/socpro/spz039
+PG 22
+WC Sociology
+SC Sociology
+GA OW9KV
+UT WOS:000593197700007
+OA Bronze
+DA 2021-03-19
+ER
+
+PT J
+AU Hepburn, P
+AF Hepburn, Peter
+TI Work Scheduling for American Mothers, 1990 and 2012
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE family; stratification; maternal labor force participation; work
+   scheduling; demography
+ID CHILD-CARE ARRANGEMENTS; DUAL-EARNER COUPLES; FLEXIBILITY; TIME; JOBS;
+   PARENTS; GROWTH
+AB American working conditions have deteriorated over the last 40 years. One commonly-noted change is the rise of nonstandard and unstable work schedules. Such schedules, especially when held by mothers, negatively affect family functioning and the well-being and development of children; they have implications for the intergenerational transmission of disadvantage. This article describes and compares the working schedules-in terms of type, duration, and variability-of American mothers in 1990 and 2012 in an attempt to assess whether nonstandard and unstable schedules are growing more common. Analyses demonstrate that evening work has increased in prevalence for single mothers but not for their partnered peers. Mothers in both single-mother and two-partner households experienced considerably greater within-week schedule variability and higher likelihood of weekend work in 2012 than they did in 1990. These changes resulted from widespread shifts in the nature of work, especially affecting less educated mothers.
+C1 [Hepburn, Peter] Princeton Univ, Princeton, NJ 08544 USA.
+RP Hepburn, P (corresponding author), Princeton Univ, Dept Sociol, Wallace Hall, Princeton, NJ 08544 USA.
+EM phepburn@princeton.edu
+FU Office of Planning, Research, and Evaluation (Administration for
+   Children and Families, U.S. Department of Health and Human Services)
+   [90YE0183]
+FX I would like to acknowledge the feedback provided on various-in some
+   cases multiple-iterations of this paper by Sandra Smith, Pil Chung,
+   Jennifer Johnson-Hanks, David Harding, Daniel Schneider, Matthew
+   Desmond, Robert Pickett, Sarah Cowan, and Elayne Oliphant. I would like
+   to thank Rupa Datta (NORC) for facilitating access to NSECE data. This
+   research was conducted with support from grant 90YE0183 from the Office
+   of Planning, Research, and Evaluation (Administration for Children and
+   Families, U.S. Department of Health and Human Services).
+NR 57
+TC 0
+Z9 0
+U1 1
+U2 1
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD NOV
+PY 2020
+VL 67
+IS 4
+BP 741
+EP 762
+DI 10.1093/socpro/spz038
+PG 22
+WC Sociology
+SC Sociology
+GA OW9KV
+UT WOS:000593197700008
+DA 2021-03-19
+ER
+
+PT J
+AU Galli, C
+AF Galli, Chiara
+TI The Ambivalent US Context of Reception and the Dichotomous Legal
+   Consciousness of Unaccompanied Minors
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE legal consciousness; immigration law; unaccompanied minors; legal
+   violence; stigma
+ID IMMIGRATION LAW; CONSTRUCTION; YOUTH
+AB This article examines the effects of contradictory U.S. immigration laws on unaccompanied minors from Central America. As children, they are considered deserving of protection, but as undocumented immigrants, they are subjected to state legal violence. Apprehended at the border, they must interact with multiple immigration agencies and finally apply for humanitarian deportation relief. Interactions in these institutional spaces teach youths about U.S. laws and behavioral norms expected of young claimants deemed deserving of humanitarian protection, which are construed in contrast to discourses that stigmatize their co-ethnics as "bad" immigrants. These interactions shape youths' sense of belonging and commonsense understanding of the law or legal consciousness. I argue that the "legal consciousness" of unaccompanied minors is dichotomous and characterized by: (1) a combination of trust and fear in the state; (2) concurrent feelings of deservingness/rights and stigma/subordination; (3) information and misinformation about U.S. laws. This dichotomous consciousness shapes how youths claim belonging and rights in social interactions and in their applications for legal status. To signal their own belonging and deservingness, youths leverage information about their rights and normative notions about desirable teen and migrant behavior. Yet, in the process, they also inadvertently perpetuate stigmas about co-ethnics.
+C1 [Galli, Chiara] Univ Calif Los Angeles, Los Angeles, CA USA.
+RP Galli, C (corresponding author), Univ Calif Los Angeles, Dept Sociol, 264 Haines Hall,376 Portola Plaza, Los Angeles, CA 90024 USA.
+EM cgalli@ucla.edu
+NR 29
+TC 0
+Z9 0
+U1 0
+U2 0
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD NOV
+PY 2020
+VL 67
+IS 4
+BP 763
+EP 781
+DI 10.1093/socpro/spz041
+PG 19
+WC Sociology
+SC Sociology
+GA OW9KV
+UT WOS:000593197700009
+DA 2021-03-19
+ER
+
+PT J
+AU Reyes, AM
+AF Reyes, Adriana M.
+TI Mitigating Poverty through the Formation of Extended Family Households:
+   Race and Ethnic Differences
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE family; poverty; race; ethnicity; living arrangements; extended families
+ID CORESIDENCE; KINSHIP; WEALTH; STAND
+AB In times of hardship, moving in with family is one strategy for alleviating economic deprivation and uncertainty. The ability of the family to buffer against poverty may vary by the resources available to and the economic needs of individuals. I assess how the formation of extended-family households is associated with a move into or out of poverty and how this association varies by race and ethnicity, since economic resources and norms around extended-family households differ. Using longitudinal data that span four years, I estimate linear fixed effects regression models to assess how changes in living arrangements are related to changes in poverty. I find that moving into an extended-family household reduces poverty, especially for the joining family unit. Most of this poverty reduction occurs through a family safety net, with a non-poor family taking in poor family units.
+C1 [Reyes, Adriana M.] Cornell Univ, Ithaca, NY 14853 USA.
+RP Reyes, AM (corresponding author), Cornell Univ, Policy Anal & Management, 3301F MVR Hall, Ithaca, NY 14853 USA.
+EM a.reyes@cornell.edu
+OI Reyes, Adriana/0000-0002-4133-6825
+FU Eunice Kennedy Shriver National Institute of Child Health and Human
+   DevelopmentUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH Eunice Kennedy Shriver National
+   Institute of Child Health & Human Development (NICHD) [R24HD041025];
+   Research and Graduate Studies Office at Penn State University; NIAUnited
+   States Department of Health & Human ServicesNational Institutes of
+   Health (NIH) - USANIH National Institute on Aging (NIA) [T32AG000221]
+FX I would like to acknowledge assistance provided by the Population
+   Research Institute at Penn State University, which is supported by an
+   infrastructure grant by the Eunice Kennedy Shriver National Institute of
+   Child Health and Human Development (R24HD041025) and support from the
+   Research and Graduate Studies Office at the Penn State University. This
+   research was supported in part by an NIA training grant to the
+   Population Studies Center at the University of Michigan (T32AG000221). I
+   would like to thank Melissa Hardy, Molly Martin, and Jennifer Van Hook
+   for their helpful comments on earlier drafts. An earlier version of this
+   manuscript was presented at the 2016 Annual Meetings of the Population
+   Association of America.
+NR 51
+TC 0
+Z9 0
+U1 2
+U2 2
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD NOV
+PY 2020
+VL 67
+IS 4
+BP 782
+EP 799
+DI 10.1093/socpro/spz046
+PG 18
+WC Sociology
+SC Sociology
+GA OW9KV
+UT WOS:000593197700010
+PM 33100409
+OA Green Published
+DA 2021-03-19
+ER
+
+PT J
+AU Carlson, J
+AF Carlson, Jennifer
+TI Police Warriors and Police Guardians: Race, Masculinity, and the
+   Construction of Gun Violence
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE policing; public law enforcement; race; masculinity; gun violence;
+   whiteness; active shootings
+ID MENTAL-ILLNESS; MASS SHOOTINGS; UNITED-STATES; PLACE; WAR;
+   MILITARIZATION; SOCIOLOGY; SUSPICION; WHITENESS; HOMICIDE
+AB This paper draws on 79 in-depth interviews with police chiefs in Arizona, California, and Michigan to advance sociological understandings of race, masculinity, and policing. While the bulk of scholarship on public law enforcement focuses on urban settings, this paper juxtaposes police's perceptions of urban, suburban, and rural gun violence. It details how police chiefs construct criminal gun violence according to two overarching tropes: (1) gang- and drug-related gun violence involving black and brown perpetrators and victims in urban spaces and (2) active shooting-related gun violence involving white perpetrators and victims in suburban and rural spaces. The analysis shows that police understand their own guns in part through reference to these tropes, embracing two racially distinct styles of police masculinity: the "warrior" and the "guardian." Whereas the "warrior" brand of police masculinity emphasizes aggressive enforcement against (black and brown) perpetrators, the "guardian" brand of police masculinity emphasizes assertive protection on behalf of (white) victims. Detailing masculinity as a bifurcated axis along which racialized policing is enacted and amplified, this study broadens scholarly understandings of public law enforcement as a race-making institution and suggests the limitations of police reforms that fail to address whiteness as shaping public law enforcement.
+C1 [Carlson, Jennifer] Univ Arizona, Sch Sociol, Social Sci Bldg, Tucson, AZ 85721 USA.
+RP Carlson, J (corresponding author), Univ Arizona, Sch Sociol, Social Sci Bldg, Tucson, AZ 85721 USA.
+EM jennifercarlson@email.arizona.edu
+FU University of Toronto Connaught Grant; University of California, Irvine
+   Visiting Scholar Fellowship in the Department of Criminology, Law and
+   Society; University of Arizona Social and Behavioral Sciences Small
+   Faculty Grant
+FX Support was provided through the University of Toronto Connaught Grant;
+   the University of California, Irvine Visiting Scholar Fellowship in the
+   Department of Criminology, Law and Society; and the University of
+   Arizona Social and Behavioral Sciences Small Faculty Grant.
+NR 88
+TC 4
+Z9 4
+U1 0
+U2 0
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD AUG
+PY 2020
+VL 67
+IS 3
+BP 399
+EP 417
+DI 10.1093/socpro/spz020
+PG 19
+WC Sociology
+SC Sociology
+GA PY3MS
+UT WOS:000611952100001
+DA 2021-03-19
+ER
+
+PT J
+AU Eschmann, R
+AF Eschmann, Rob
+TI Unmasking Racism: Students of Color and Expressions of Racism in Online
+   Spaces
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE race; racism; higher education; social media; technology
+ID CRITICAL RACE THEORY; MICROAGGRESSIONS; INTERNET; CLIMATE;
+   DISCRIMINATION; REFLECTIONS; SELECTION; ANONYMITY; DILEMMA
+AB Expressions of racism in the post-Civil Rights Era are expected to be more covert than overt and more unconscious than conscious. But some internet-based communication takes place in technological contexts that are not bound by the same norms as face-to-face interactions, and can structure more explicit presentations of racist ideologies. I explore the changing expressions of racism in online spaces and their effects on students of color using in-depth interviews with 27 undergraduate students of color and their reactions to and interpretations of an online, anonymous student forum. I argue that covert racism is unmasked in online environments, and that exposure to unmasked racial ideologies can challenge students' racial worldviews, adaptive coping responses to racism, relationships to White students and institutions, and dominant racial narratives.
+C1 [Eschmann, Rob] Boston Univ, Boston, MA 02215 USA.
+RP Eschmann, R (corresponding author), Boston Univ, Sch Social Work, 264 Bay State Rd, Boston, MA 02215 USA.; Eschmann, R (corresponding author), Boston Univ, Dept Sociol, 264 Bay State Rd, Boston, MA 02215 USA.
+EM rde@bu.edu
+NR 61
+TC 4
+Z9 4
+U1 1
+U2 1
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD AUG
+PY 2020
+VL 67
+IS 3
+BP 418
+EP 436
+DI 10.1093/socpro/spz026
+PG 19
+WC Sociology
+SC Sociology
+GA PY3MS
+UT WOS:000611952100002
+DA 2021-03-19
+ER
+
+PT J
+AU Nicholls, WJ
+AF Nicholls, Walter J.
+TI The Dark Side of Immigrant Integration Policies: Day Laborers in the
+   United States
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE immigration; day labor; local government; integration; illegality
+ID WORKER CENTERS; CITIZENSHIP; ECONOMY
+AB This article uses the case of immigrant day laborers to examine how municipalities develop policies to integrate immigrants. In the 1990s and 2000s, local elected officials adopted integration policies to address the issues raised by the presence of day laborers in their jurisdictions. While first drawing on cases from around the country, the study then homes in on the case of Pasadena, California, to examine the implementation of integration in a moderately liberal city. The results reveal that many officials embraced both disciplinary and punitive tactics, making use of worker centers, aggressive ticketing, and solicitation bans for the purposes of controlling and governing an illegalized population. Some policies institutionalized the subordination of the population and heightened its deportability. The paper complicates the presumed binary between restrictive and integrative policies.
+C1 [Nicholls, Walter J.] Univ Calif Irvine, Dept Urban Planning & Publ Policy, Irvine, CA 92697 USA.
+RP Nicholls, WJ (corresponding author), Univ Calif Irvine, Dept Urban Planning & Publ Policy, Irvine, CA 92697 USA.
+EM wnicholl@uci.edu
+NR 86
+TC 0
+Z9 0
+U1 0
+U2 0
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD AUG
+PY 2020
+VL 67
+IS 3
+BP 437
+EP 451
+DI 10.1093/socpro/spz033
+PG 15
+WC Sociology
+SC Sociology
+GA PY3MS
+UT WOS:000611952100003
+DA 2021-03-19
+ER
+
+PT J
+AU Harris, CT
+   Gruenewald, J
+AF Harris, Casey T.
+   Gruenewald, Jeff
+TI News Media Trends in the Framing of Immigration and Crime, 1990-2013
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE immigration; crime; news media; trends
+ID LOCAL TELEVISION-NEWS; PUBLIC-OPINION; VIOLENT CRIME; RACE;
+   REPRESENTATIONS; LAWBREAKERS; ETHNICITY; COVERAGE; HEALTH; THREAT
+AB Few social problems engender as much public and political debate as the alleged link between immigration and crime. Contrary to the findings of much empirical literature, the majority of the public believe that immigration increases crime and that the foreign born are especially prone to offending. Among many factors, the way prominent news media describe the immigration-crime link may help explain the disconnectedness of scholarship and public opinion over the past several decades. Using a unique database of over 2,200 news stories drawn from among the highest circulation national papers for 1990 through 2013, the current study employs time-series trend analyses to examine the prevalence of different media frames used to explain the immigration-crime link and whether those frames have changed systematically over time. Our results reveal that most immigration-crime news stories describe immigrants as especially crime-prone or as increasing aggregate crime rates. Moreover, this framing has increased in prevalence over time, as have narratives inaccurately describing undocumented immigration as a crime itself, while framing immigrants as victims of crime has declined significantly over the 1990-2013 period. These changes occurred systematically in only some newspapers. We discuss implications for research, policy, and the public engagement of scientific evidence.
+C1 [Harris, Casey T.] Univ Arkansas, Fayetteville, AR 72704 USA.
+   [Gruenewald, Jeff] IUPUI, Indianapolis, IN USA.
+RP Harris, CT (corresponding author), Univ Arkansas, Dept Sociol & Criminol, 211 Old Main, Fayetteville, AR 72704 USA.
+EM caseyh@uark.edu
+NR 73
+TC 2
+Z9 2
+U1 0
+U2 0
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD AUG
+PY 2020
+VL 67
+IS 3
+BP 452
+EP 470
+DI 10.1093/socpro/spz024
+PG 19
+WC Sociology
+SC Sociology
+GA PY3MS
+UT WOS:000611952100004
+DA 2021-03-19
+ER
+
+PT J
+AU Nichols, L
+AF Nichols, Laura
+TI Addressing Exclusion in Organizations: Social Desire Paths and
+   Undocumented Students Attending College
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE immigration; college; social desire path; undocumented students;
+   organizational change
+ID IMMIGRANT; CHALLENGES; TUITION
+AB With data from a national study of a network of 28 private, non-profit colleges in the United States, I show how the individual actions of high school and college staff became collective "social desire paths" to introduce new organizational practices to enroll students who were undocumented. In interviews with staff, four factors emerged as important in enrolling students: (1) the way social desire paths started as ad hoc processes and then were entrenched through the collective and similar responses of staff; (2) identification of financial, administrative, structural, and cultural barriers to inclusion that formed the basis for the development of social desire paths; (3) the way staff innovated paths by reforming current procedures as well as developing new practices; and (4) the role of organizational values in supporting social desire paths. Along with uncovering the processes and practices, I also argue that using a social desire path approach helps researchers and managers detect organizational structures that exclude desired populations, and provides a means by which the actions of "street-level bureaucrats" that become collective can address social problems at the organization level.
+C1 [Nichols, Laura] Santa Clara Univ, Dept Sociol, 500 El Camino Real, Santa Clara, CA 95053 USA.
+RP Nichols, L (corresponding author), Santa Clara Univ, Dept Sociol, 500 El Camino Real, Santa Clara, CA 95053 USA.
+EM LNichols@scu.edu
+NR 41
+TC 0
+Z9 0
+U1 0
+U2 0
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD AUG
+PY 2020
+VL 67
+IS 3
+BP 471
+EP 487
+DI 10.1093/socpro/spz021
+PG 17
+WC Sociology
+SC Sociology
+GA PY3MS
+UT WOS:000611952100005
+DA 2021-03-19
+ER
+
+PT J
+AU Yukich, G
+   Fulton, BR
+   Wood, RL
+AF Yukich, Grace
+   Fulton, Brad R.
+   Wood, Richard L.
+TI Representative Group Styles: How Ally Immigrant Rights Organizations
+   Promote Immigrant Involvement
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE immigration; religion; activism; ally organizations; culture
+ID COMMUNITY; PARTICIPATION; LEGITIMACY; DIVERSITY; MOVEMENTS; STRATEGY;
+   RELIGION; CULTURE; ALLIES
+AB Why are some organizations more successful than others at involving socially diverse groups of people? Previous research emphasizes the role representative leaders play in recruiting diverse constituencies. This study extends that research by analyzing how an organization's group style-its customs that shape everyday interactions-influences constituent involvement by either bridging or reinforcing social divides. Our multi-method approach examines ally immigrant rights organizations to assess the relationship between their group styles and their ability to involve immigrants. Ethnographic data reveal that divergent levels of immigrant involvement in two organizations can be explained by differences in the organizations' group styles-specifically, differences in their religious, class-based, and linguistic practices. Original survey data from a national sample of ally organizations demonstrate the generalizability of our findings. Our analysis shows how having an immigrant-friendly group style can promote immigrant involvement, indicating that an organization's style is associated with its social composition. Having representative leaders from immigrant groups, though positively associated with immigrant involvement, is insufficient for sustaining immigrant involvement; group style can moderate the effect of having representative leaders. This research suggests that organizations seeking to recruit and retain a diverse social base could benefit from cultivating a representative group style.
+C1 [Yukich, Grace] Quinnipiac Univ, Hamden, CT 06518 USA.
+   [Fulton, Brad R.] Indiana Univ, Bloomington, IN 47405 USA.
+   [Wood, Richard L.] Univ New Mexico, Albuquerque, NM 87131 USA.
+RP Yukich, G (corresponding author), Quinnipiac Univ, Dept Sociol, 275 Mt Carmel Ave, Hamden, CT 06518 USA.
+EM grace.yukich@quinnipiac.edu
+FU National Science FoundationNational Science Foundation (NSF); Interfaith
+   Funders; Society for the Scientific Study of Religion; American Society
+   of Association Executives Foundation; Association for Research on
+   Nonprofit Organizations; Voluntary Action via the RGK Center -ARNOVA
+   President's Award
+FX The authors thank the Social Problems editors and anonymous reviewers as
+   well as Paul Lichterman for helpful feedback on the manuscript, and we
+   thank Elisabeth Andrews for her editorial assistance. We also gratefully
+   acknowledge the National Science Foundation for funding that supported
+   the collection of the ethnographic data in this paper. For the national
+   survey study, we appreciate the funding provided by Interfaith Funders,
+   along with funding for data analysis and writing provided by the Society
+   for the Scientific Study of Religion, the American Society of
+   Association Executives Foundation, and the Association for Research on
+   Nonprofit Organizations and Voluntary Action via the RGK Center -ARNOVA
+   President's Award.
+NR 77
+TC 3
+Z9 3
+U1 0
+U2 0
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD AUG
+PY 2020
+VL 67
+IS 3
+BP 488
+EP 506
+DI 10.1093/socpro/spz025
+PG 19
+WC Sociology
+SC Sociology
+GA PY3MS
+UT WOS:000611952100006
+OA Bronze, Green Accepted
+DA 2021-03-19
+ER
+
+PT J
+AU Vijayakumar, G
+AF Vijayakumar, Gowri
+TI Sexual Laborers and Entrepreneurial Women: Articulating Collective
+   Identity in India's HIV/AIDS Response
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE collective identity; social movements; sex work; India; HIV/AIDS
+ID UNITED-STATES; POLITICAL ARTICULATION; SOCIAL-MOVEMENTS; HIV;
+   PREVENTION; COMMUNITY; GLOBALIZATION; WORKERS; QUEER; INTERVENTION
+AB This article uses ethnographic and interview methods to compare two groups of sex workers in Bangalore, both of which formed during the response to the HIV/AIDS epidemic. In this context, donor priorities fundamentally shaped the landscape for sex worker organizations, but the two groups formed very different collective identities. I argue that the content of collective identity is not predetermined by the conditions set by global Northern funding. Instead, I show how collective identity is articulated, in a locally specific process of relating political orientations to local associational fields, within, but not predetermined by, global funding constraints. As each group positioned itself in a distinct local associational field, it articulated a distinct collective identity, the Women's Collective as entrepreneurial women (a more respectable collective identity), and the Union as sexual laborers (a more transgressive one). Articulation unfolded through material as well as symbolic processes, shaping members' life trajectories and their understandings of them. This article complicates accounts of Northern funding and institutional opportunities as predetermining the paths and visions of social movements.
+C1 [Vijayakumar, Gowri] Brandeis Univ, Dept Sociol, MS 071,Pearlman Hall,415 South St, Waltham, MA 02453 USA.
+RP Vijayakumar, G (corresponding author), Brandeis Univ, Dept Sociol, MS 071,Pearlman Hall,415 South St, Waltham, MA 02453 USA.
+EM gowri@brandeis.edu
+FU Social Science Research Council; National Science FoundationNational
+   Science Foundation (NSF)
+FX This article would not have been possible without the support of sex
+   worker organizations and activists in Bangalore. I will always be
+   grateful to them for theorizing with me about the politics of HIV/AIDS.
+   My heartfelt thanks to Raka Ray, Louise Ly, Carter Koppelman, Kate
+   Maich, and Pablo Gaston for reading and commenting on this paper at
+   various stages of its development, as well as the anonymous reviewers.
+   The research presented in this article was conducted with support from
+   the Social Science Research Council and the National Science Foundation.
+NR 103
+TC 0
+Z9 0
+U1 0
+U2 0
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD AUG
+PY 2020
+VL 67
+IS 3
+BP 507
+EP 526
+DI 10.1093/socpro/spz031
+PG 20
+WC Sociology
+SC Sociology
+GA PY3MS
+UT WOS:000611952100007
+DA 2021-03-19
+ER
+
+PT J
+AU Waller, MR
+AF Waller, Maureen R.
+TI Getting the Court in Your Business: Unmarried Parents, Institutional
+   Intersectionality, and Establishing Parenting Time Orders in Family
+   Court
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE family court; parenting time; system avoidance; institutional
+   intersectionality; distrust
+ID PATERNITY ESTABLISHMENT; FATHERS CONTRIBUTIONS; PARTNER FERTILITY; MASS
+   IMPRISONMENT; SYSTEM AVOIDANCE; CRIMINAL-JUSTICE; SUPPORT; CULTURE;
+   TRUST; RACE
+AB The child support program reaches half of poor children in the United States, and recent policy proposals would incorporate parenting time into all initial child support orders. Despite the importance and scope of these proposed changes for unmarried parents, research about how parents interpret the decision to set up parenting time orders in family court is limited. Qualitative evidence from individual and group interviews shows that unmarried mothers and fathers perceive family court through competing frames, leading to strategies of either avoidance or engagement with the court system in certain circumstances. Some parents in the study framed family courts as intrusive and opted to stay away from court to avoid unwanted scrutiny by the child welfare and criminal justice systems. In contrast, other parents framed family courts as protective of their families and sought legal help when their child's custody was ambiguous, their child's safety was threatened, or their status in public programs was at stake. These findings are consistent with research on institutional distrust and avoidance but also suggest heterogeneity in unmarried parents' views of family court as a system that both surveils and safeguards poor families. Findings further demonstrate that unmarried parents view these decisions from a position of institutional intersectionality, or their position at the intersection of multiple state systems that interact with the courts.
+C1 [Waller, Maureen R.] Cornell Univ, Ithaca, NY 14853 USA.
+RP Waller, MR (corresponding author), Cornell Univ, Ithaca, NY 14853 USA.
+EM mrw37@cornell.edu
+FU USDA National Institute of Food and Agriculture (NIFA), Hatch project
+   [NYC-324418]
+FX I would like to thank Eliza Cook, Allison Dwyer Emory, Kimberly Kopko,
+   Nancy Lerner, Margaret McCarthy, Erin McKinley, Nancy Potter, Susan
+   Specter, and Anna Steinkraus. This research was supported by the USDA
+   National Institute of Food and Agriculture (NIFA), Hatch project
+   NYC-324418. Any opinions, findings, conclusions, or recommendations
+   expressed in this publication are those of the author and do not
+   necessarily reflect the view of NIFA or USDA.
+NR 79
+TC 0
+Z9 0
+U1 2
+U2 2
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD AUG
+PY 2020
+VL 67
+IS 3
+BP 527
+EP 545
+DI 10.1093/socpro/spz029
+PG 19
+WC Sociology
+SC Sociology
+GA PY3MS
+UT WOS:000611952100008
+OA Bronze
+DA 2021-03-19
+ER
+
+PT J
+AU Seebruck, R
+   Savage, SV
+AF Seebruck, Ryan
+   Savage, Scott, V
+TI To Promote or Hire? How Racial Processes and Organizational
+   Characteristics Affect Internal Promotions in NCAA Division I College
+   Basketball Coaching
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE racial stratification; racial homophily; relational inequality; internal
+   promotions; college basketball coaching
+ID LABOR-MARKET; RACE; JOB; OPPORTUNITY; DIVERSITY; SELECTION;
+   DETERMINANTS; PERSPECTIVE; DEMOGRAPHY; MOBILITY
+AB We use data from 2008-2013 on the universe of internal promotion opportunities in the labor market of NCAA Division I men's college basketball coaching to examine how race and racial homophily affect the likelihood of internal promotion. We run probit regression analyses from the individual and organizational perspective, offering a robust test of six hypotheses. In line with the relational inequality perspective, we find that the racial match of assistants and head coaches explains discrepancies in internal promotion, with homogeneous white pairings seeing significantly increased odds compared to other racial combinations. In addition, our findings reveal that colleges and universities are more likely to promote internally as the racial composition of the staff more closely matches the race of the outgoing head coach, thereby underscoring how racial processes inform the micro-level interactions that shape organizational behavior.YY
+C1 [Savage, Scott, V] Univ Houston, Houston, TX 77004 USA.
+EM seebruck@email.arizona.edu
+NR 65
+TC 0
+Z9 0
+U1 0
+U2 0
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD AUG
+PY 2020
+VL 67
+IS 3
+BP 546
+EP 564
+DI 10.1093/socpro/spz030
+PG 19
+WC Sociology
+SC Sociology
+GA PY3MS
+UT WOS:000611952100009
+DA 2021-03-19
+ER
+
+PT J
+AU Brewer, M
+AF Brewer, Mackenzie
+TI Household Debt and Children's Risk of Food Insecurity
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE food insecurity; debt; SES; children; Panel Study of Income Dynamics
+   (PSID)
+ID HEALTH; SECURITY; INCOME; RACE; CARE; DETERMINANTS; FAMILIES; HUNGER;
+   ACCESS; CREDIT
+AB Y In the United States, almost one in six households with children cannot access adequate food for a healthy and active lifestyle. Although food insecurity disproportionately affects lower-income households, it remains unclear why some lower-income families are more vulnerable to food insecurity than others. Household unsecured debt, such as debt incurred from credit cards and medical bills, may be an unexplored financial constraint associated with food insecurity. Using data from the 2014 Child Development Supplement (CDS) of the Panel Study of Income Dynamics (PSID), I assess whether unsecured debt, by amount and type of debt, is associated with food insecurity among lower-income households with children (N=1,319). Results indicate that medical debt increases odds of household food insecurity even after accounting for key sociodemographic and economic risk factors, while no relationship exists between other forms of unsecured debt and food insecurity. Moreover, although liquid assets decrease the risk of household food insecurity and attenuate the harmful effects associated with unpaid medical bills, few households have enough liquid assets to mitigate the risks associated with medical debt. Efforts to prevent medical debt may be essential for eliminating food insecurity among lower-income households with children.
+C1 [Brewer, Mackenzie] Baylor Univ, Dept Sociol, One Bear Pl 97326, Waco, TX 76798 USA.
+RP Brewer, M (corresponding author), Baylor Univ, Dept Sociol, One Bear Pl 97326, Waco, TX 76798 USA.
+EM mackenzie_brewer@baylor.edu
+NR 69
+TC 2
+Z9 2
+U1 0
+U2 0
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD AUG
+PY 2020
+VL 67
+IS 3
+BP 565
+EP 584
+DI 10.1093/socpro/spz027
+PG 20
+WC Sociology
+SC Sociology
+GA PY3MS
+UT WOS:000611952100010
+DA 2021-03-19
+ER
+
+PT J
+AU Gazso, A
+   Collins, SB
+   Smith-Carrier, T
+   Smith, C
+AF Gazso, Amber
+   Collins, Stephanie Baker
+   Smith-Carrier, Tracy
+   Smith, Carrie
+TI The Generationing of Social Assistance Receipt and "Welfare Dependency"
+   in Ontario, Canada
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE dependency; discourse; generation; life course; social assistance
+ID INTERSECTIONALITY; DISCOURSE; JUSTICE; WORK
+AB Adopting a life course perspective, we explore, qualitatively, how receipt of social assistance in Ontario is generationally experienced. Data are drawn from a study of family and generational relationships with Ontario Works (OW), which included in-depth interviews with 31 participants who also had a child or parent on social assistance; we drew from three Canadian cities: Hamilton, London, and Toronto, Ontario. Our thematic analysis reveals that generation matters and in ways less confined than the ideation embedded in the discourse of welfare dependency. Through a life course lens, we find that while older and younger kin may concurrently access assistance, any generation's entrance onto it must be understood as varying by social, historical, and structural context, which itself varies over their individual life courses. We define this process as the "generationing" of social assistance receipt. We further reveal how this generationing interacts with gender, race, Indigeneity, and class. We therefore argue that the generationing of social assistance receipt prompts re-conceptualization of taken-for-granted ideation in the discourse of welfare dependency and, thus, is replete with policy implications.YY
+C1 [Gazso, Amber] York Univ, Toronto, ON, Canada.
+   [Collins, Stephanie Baker] McMaster Univ, Hamilton, ON, Canada.
+   [Smith-Carrier, Tracy; Smith, Carrie] Western Univ, Kings Univ Coll, London, ON, Canada.
+RP Gazso, A (corresponding author), York Univ, Dept Sociol, 34 Founders Coll,4700 Keele St, Toronto, ON M3J 1P3, Canada.
+EM agazso@yorku.ca
+NR 59
+TC 0
+Z9 0
+U1 0
+U2 0
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD AUG
+PY 2020
+VL 67
+IS 3
+BP 585
+EP 601
+DI 10.1093/socpro/spz032
+PG 17
+WC Sociology
+SC Sociology
+GA PY3MS
+UT WOS:000611952100011
+DA 2021-03-19
+ER
+
+PT J
+AU Cheng, T
+AF Cheng, Tony
+TI Input without Influence: The Silence and Scripts of Police and Community
+   Relations (vol 67, spz007, 2020)
+SO SOCIAL PROBLEMS
+LA English
+DT Correction
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD AUG
+PY 2020
+VL 67
+IS 3
+BP 602
+EP 602
+DI 10.1093/socpro/spz049
+PG 1
+WC Sociology
+SC Sociology
+GA PY3MS
+UT WOS:000611952100012
+OA Bronze
+DA 2021-03-19
+ER
+
+PT J
+AU Stewart, EA
+   Martinez, R
+   Baumer, EP
+   Gertz, M
+AF Stewart, Eric A.
+   Martinez, Ramiro, Jr.
+   Baumer, Eric P.
+   Gertz, Marc
+TI RETRACTION: The Social Context of Latino Threat and Punitive Latino
+   Sentiment (Retraction of Vol 62, Pg 68, 2015)
+SO SOCIAL PROBLEMS
+LA English
+DT Retraction
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD AUG
+PY 2020
+VL 67
+IS 3
+BP 603
+EP 603
+DI 10.1093/socpro/spz052
+PG 1
+WC Sociology
+SC Sociology
+GA PY3MS
+UT WOS:000611952100013
+OA Bronze
+DA 2021-03-19
+ER
+
+PT J
+AU Stewart, EA
+   Johnson, BD
+   Warren, PY
+   Rosario, JL
+   Hughes, C
+AF Stewart, Eric A.
+   Johnson, Brian D.
+   Warren, Patricia Y.
+   Rosario, Jordyn L.
+   Hughes, Cresean
+TI RETRACTION: The Social Context of Criminal Threat, Victim Race, and
+   Punitive Black and Latino Sentiment (Retraction of Vol 66, Pg 194, 2019)
+SO SOCIAL PROBLEMS
+LA English
+DT Retraction
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD AUG
+PY 2020
+VL 67
+IS 3
+BP 604
+EP 604
+DI 10.1093/socpro/spz051
+PG 1
+WC Sociology
+SC Sociology
+GA PY3MS
+UT WOS:000611952100014
+OA Bronze
+DA 2021-03-19
+ER
+
+PT J
+AU Stuart, F
+AF Stuart, Forrest
+TI Code of the Tweet: Urban Gang Violence in the Social Media Age
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE violence; gangs; social media; context collapse
+ID TWITTER
+AB Academics, criminal justice professionals, and news outlets have warned that gang-associated youth use social media to taunt rivals and trade insults in ways that cause offline retaliation. But there is surprisingly little empirical research investigating how gang-associated youth deploy social media in gang conflicts. Criminal justice professionals routinely overstate the violent effects of social media challenges, which further exacerbates criminalization, racial stereotyping, and social inequality. Drawing from two years of ethnographic fieldwork on Chicago's South Side, this study asks how gang-associated black youth use social media to challenge rivals. Bridging traditional theories of urban violence with emerging media scholarship, I argue that social media disrupt the key impression management practices associated with the "code of the street." Specifically, gang-associated youth exploit social media to publicly invalidate the authenticity of their rivals' performances of toughness, strength, and street masculinity. Challengers do so through "cross referencing," "calling bluffs," and "catching lacking." Each strategy differs in its likelihood to catalyze physical retaliation, which is a function of the amount and depth of counter-evidence necessary to refute a given challenge. These findings carry important implications for addressing urban violence, gangs, and inequality in the social media age.
+C1 [Stuart, Forrest] Stanford Univ, Stanford, CA 94305 USA.
+RP Stuart, F (corresponding author), Stanford Univ, Dept Sociol, 450 Serra Mall,Bldg 120,Room 214, Stanford, CA 94305 USA.
+EM fstuart@stanford.edu
+NR 45
+TC 4
+Z9 4
+U1 3
+U2 8
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD MAY
+PY 2020
+VL 67
+IS 2
+BP 191
+EP 207
+DI 10.1093/socpro/spz010
+PG 17
+WC Sociology
+SC Sociology
+GA LU0DM
+UT WOS:000537434000001
+DA 2021-03-19
+ER
+
+PT J
+AU Smith, SS
+   Broege, NCR
+AF Smith, Sandra Susan
+   Broege, Nora C. R.
+TI Searching for Work with a Criminal Record
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE penal contact; job search; race and ethnicity
+ID JOB-SEARCH; LABOR-MARKET; PRETRIAL DETENTION; ETHNIC-DIFFERENCES;
+   BACKGROUND CHECKS; EMPLOYMENT; CONVICTION; INCARCERATION; IMPACT;
+   UNEMPLOYMENT
+AB People with a criminal record face substantial demand-side employment barriers that have clear implications for whether or not they search for work and what strategies they use. We know relatively little, however, about whether and how penal contact affects patterns of job search and how search patterns affect search success. Using the 2001-2011 waves of the 1997 cohort of the National Longitudinal Survey of Youth (NLSY97), we find that penal contact and penal dispositions-arrest, conviction, and incarceration-reduce odds of job search, decrease the number of search methods job seekers deploy, and direct job seekers away from search methods that are generally more efficient and effective at yielding offers. Further, altered search patterns contribute significantly to post-contact job seekers' lower odds of search success, especially for blacks. Taken together, our findings suggest that job search engagement is another key mechanism linking penal contact and poorer job search outcomes.
+C1 [Smith, Sandra Susan] Univ Calif Berkeley, Berkeley, CA 94720 USA.
+   [Broege, Nora C. R.] Rutgers State Univ, Newark, NJ USA.
+RP Smith, SS (corresponding author), Univ Calif Berkeley, Dept Sociol, 410 Barrows Hall, Berkeley, CA 94720 USA.
+EM sandra_smith@berkeley.edu
+NR 108
+TC 0
+Z9 0
+U1 3
+U2 4
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD MAY
+PY 2020
+VL 67
+IS 2
+BP 208
+EP 232
+DI 10.1093/socpro/spz009
+PG 25
+WC Sociology
+SC Sociology
+GA LU0DM
+UT WOS:000537434000002
+DA 2021-03-19
+ER
+
+PT J
+AU Halushka, JM
+AF Halushka, John M.
+TI The Runaround: Punishment, Welfare, and Poverty Survival after Prison
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE prisoner reentry; urban poverty; poverty governance; ethnography;
+   citizenship
+ID CONSTRUCTION; STATE; RACE
+AB Based on 17 months of ethnographic fieldwork and 45 in-depth interviews with formerly-incarcerated men, this article explores how former prisoners navigate criminal justice and welfare bureaucracies in their daily lives. Formerly-incarcerated men must repeatedly engage with parole, public assistance agencies, transitional housing facilities, and community-based service providers to maintain freedom and access food, shelter, and rehabilitative services. Accessing resources requires the men simultaneously to manage multiple, overlapping entanglements across a fragmented network of bureaucracies. This runaround exacerbates the stress of poverty, breeds distrust of state authorities, and, in some cases, precipitates recidivism. Former prisoners learned how to cope with the runaround by treating systems navigation as a full-time occupation, but these skills did not translate into long-term economic security. Most study participants recurrently cycled between low-wage jobs, transitional housing facilities, and public assistance programs for years after release. This article illustrates the need to theorize prisoner reentry as a process that unfolds across a network of criminal justice and welfare bureaucracies and demonstrates how formerly-incarcerated men experience citizenship not only through coercive encounters with the criminal justice system but also through their simultaneous entanglements with safety-net bureaucracies.
+C1 [Halushka, John M.] San Jose State Univ, San Jose, CA 95192 USA.
+RP Halushka, JM (corresponding author), San Jose State Univ, Dept Justice Studies, One Washington Sq, San Jose, CA 95192 USA.
+EM john.halushka@sjsu.edu
+NR 48
+TC 3
+Z9 3
+U1 1
+U2 1
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD MAY
+PY 2020
+VL 67
+IS 2
+BP 233
+EP 250
+DI 10.1093/socpro/spz018
+PG 18
+WC Sociology
+SC Sociology
+GA LU0DM
+UT WOS:000537434000003
+DA 2021-03-19
+ER
+
+PT J
+AU Kim, ME
+AF Kim, Mimi E.
+TI The Carceral Creep: Gender-Based Violence, Race, and the Expansion of
+   the Punitive State, 1973-1983
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE social movements; domestic violence; intersectionality; carceral state;
+   carceral feminism
+ID BATTERED WOMEN
+AB The development of the feminist anti-domestic violence movement in the United States illustrates the trajectory from a social movement field devoid of carceral involvement to one fully occupied by the agents of crime control. Countering a narrative that often begins with the Violence against Women Act of 1994, this study demonstrates how the roots of carceral feminism extend back to the movement's first decade from 1973 to 1983. This study analyzes data from 60 social movement leaders. The pluralist coalition resulting from a successful lawsuit against the Oakland Police Department, the creation of the victim witness program in San Francisco, and the development of the Community Coordinated Response in Duluth, Minnesota, represent mechanisms of engagement with law enforcement tied to innovative organizational forms. The process called the "carceral creep" describes how early social movement successes against an initially unresponsive criminal justice system evolved into collaborative relationships that altered the autonomy and constitution of initial social movement organizations. The creation of new organizational forms and their replication contributed to today's carceral feminism. These developments were accompanied by persisting gender, race, and class tropes used to justify pro-criminalization strategies and obfuscate impacts on marginalized communities.
+C1 [Kim, Mimi E.] Calif State Univ Long Beach, Long Beach, CA 90840 USA.
+RP Kim, ME (corresponding author), Calif State Univ Long Beach, Sch Social Work, 1250 Bellflower Blvd, Long Beach, CA 90840 USA.
+EM mimi.eunmi.kim@gmail.com
+NR 39
+TC 12
+Z9 11
+U1 0
+U2 1
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD MAY
+PY 2020
+VL 67
+IS 2
+BP 251
+EP 269
+DI 10.1093/socpro/spz013
+PG 19
+WC Sociology
+SC Sociology
+GA LU0DM
+UT WOS:000537434000004
+DA 2021-03-19
+ER
+
+PT J
+AU Weiss, BR
+AF Weiss, Benjamin R.
+TI "Who Can We Tell Survivors to Call?" The Institutionalization of
+   Criminal-Legal Interventions in a Domestic Violence Organization
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE domestic violence; nonprofit organizations; volunteers; police;
+   institutional theory
+ID BATTERED WOMEN; SERVICES; ARREST; DIFFUSION; VICTIMS; POLICE;
+   ISOMORPHISM; ADVOCACY; THERAPY; PROGRAM
+AB Although criminal-legal interventions became accepted as the best response to domestic violence early in the battered women's movement, recent literature suggests that such interventions are often ineffective in reducing rates of violence. Despite this evidence, domestic violence advocates still emphasize criminal-legal interventions over alternatives when working with victims of violence. The author spent thirteen months observing domestic violence advocates in a feminist nonprofit organization to learn how the paradoxical reliance on criminal-legal interventions is reproduced. The paper identifies three mechanisms. First, information on criminal-legal interventions is emphasized more than other interventions in advocate training. Second, nonprofit staff present extreme examples of abuse and their associated criminal-legal interventions while training advocates rather than describing the types of abuse more typically brought to the organization. Finally, staff establish protocols for handling advocates' discontent with criminal-legal interventions which makes further collaboration between volunteers and the police possible. Together, these mechanisms reproduce criminal-legal interventions by limiting advocates' knowledge of the variety of alternative interventions. Practically, this work suggests several ways for advocates to destabilize ineffective organizational practices. Theoretically, the author shows that normative institutions are reproduced not just through socialization and coercion, but also through a lack of alternatives.
+C1 [Weiss, Benjamin R.] Univ Southern Calif, Los Angeles, CA 90089 USA.
+RP Weiss, BR (corresponding author), Univ Southern Calif, Dept Sociol, 851 Downey Way,Hazel & Stanley Hall 314, Los Angeles, CA 90089 USA.
+EM benjamrw@usc.edu
+OI Weiss, Benjamin/0000-0002-7035-1338
+NR 61
+TC 0
+Z9 0
+U1 0
+U2 1
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD MAY
+PY 2020
+VL 67
+IS 2
+BP 270
+EP 285
+DI 10.1093/socpro/spz017
+PG 16
+WC Sociology
+SC Sociology
+GA LU0DM
+UT WOS:000537434000005
+DA 2021-03-19
+ER
+
+PT J
+AU Lerma, V
+   Hamilton, LT
+   Nielsen, K
+AF Lerma, Veronica
+   Hamilton, Laura T.
+   Nielsen, Kelly
+TI Racialized Equity Labor, University Appropriation and Student Resistance
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE racialized equity labor; racialized organizations; diversity work;
+   student activism; institutional Whiteness
+ID DIVERSITY
+AB We coin the term "racialized equity labor" to describe the often uncompensated efforts of people of color to address systematic racism and racial marginalization within organizations. Using a year-long ethnographic and interview study of a majority-minority public university, we focus specifically on the racialized equity labor of college students who, like many faculty and staff of color, often labor to make their campuses comfortable and functional for historically underrepresented populations. We identify a cycle of racialized labor appropriation whereby: 1) people of color identify problems in the racial environment of their organizations and work to solve them; 2) leadership responds by blocking efforts and/or denying issues; 3) external and/or internal pressures force introspection and push leaders to resolve an organizational threat (e.g., to the university's public image of diversity); and finally, 4) leadership appropriates racialized equity labor, and in doing so converts it into a diluted diversity initiative. Those engaged in racialized equity labor may resist appropriation, but the cycle takes a toll on activists. The ways in which organizations respond to racialized equity labor offers insight into the reproduction of racial inequities, despite the hard work of people of color to create meaningful racial change.
+C1 [Lerma, Veronica; Hamilton, Laura T.] Univ Calif Merced, Merced, CA 95343 USA.
+   [Nielsen, Kelly] Cornell Univ, Ithaca, NY 14853 USA.
+RP Lerma, V (corresponding author), Univ Calif Merced, Sch Social Sci Humanities & Arts, 5200 North Lake Rd, Merced, CA 95343 USA.
+EM vlerma@ucmerced.edu
+FU William T. Grant Scholars grant; William T. Grant Scholars Mentoring
+   grant
+FX Direct correspondence to Veronica Lerma, School of Social Sciences,
+   Humanities and Arts, 5200 North Lake Road, University of
+   California-Merced, Merced, CA 95343 (vlerma@ucmerced.edu).We wish to
+   thank Jovita Angel, Ashley Bennett, Maria Duenas, Darkari Finister, Rosa
+   Hernandez, Reginald Nelson, Ana Padilla, Patrick Pascual, and Mayra
+   Ramirez for their research support and insights. This research was
+   supported by a William T. Grant Scholars grant awarded to Laura Hamilton
+   and a William T. Grant Scholars Mentoring grant awarded to Veronica
+   Lerma and Laura Hamilton. Opinions reflect those of the authors and do
+   not necessarily reflect those of the granting agency.
+NR 45
+TC 4
+Z9 4
+U1 1
+U2 1
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD MAY
+PY 2020
+VL 67
+IS 2
+BP 286
+EP 303
+DI 10.1093/socpro/spz011
+PG 18
+WC Sociology
+SC Sociology
+GA LU0DM
+UT WOS:000537434000006
+DA 2021-03-19
+ER
+
+PT J
+AU Reece, RL
+AF Reece, Robert L.
+TI Whitewashing Slavery: Legacy of Slavery and White Social Outcomes
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE slavery; race; ethnicity; boundary formation; reparations; white
+   privilege
+ID RACIAL THREAT; INCOME INEQUALITY; EDUCATION; POVERTY; BLACKS; IMPACT
+AB Legacy of slavery research has branched out into an important new niche in social science research by making empirical connections between the trans-Atlantic slave trade and contemporary social outcomes. However, the vast majority of this research examines black-white inequality or black disadvantage without devoting corresponding attention to the other side of inequality: white advantage. This study expands the legacy of slavery conversation by exploring whether white populations accrue long-term benefits from slave labor. Specifically, I deploy historical understandings of racial boundary formation and theories of durable inequality to argue that white populations in places that relied more heavily on slave labor should experience better social and economic outcomes than white population in places that relied less on slave labor. I test this argument using OLS regression and county-level data from the 1860 United States Census, the 2010-2014 American Community Survey (ACS), and the 2014 United States Department of Agriculture Economic Research Service (USDA ERS). The results support my hypothesis. Historical reliance on slave labor predicts better white outcomes on five of six metrics. I discuss the implications of these findings for race, slavery, whiteness studies, and reparations.
+C1 [Reece, Robert L.] Univ Texas Austin, Austin, TX 78712 USA.
+RP Reece, RL (corresponding author), Univ Texas Austin, Dept Sociol, 305 E 23rd St,A1700,RLP 3-306, Austin, TX 78712 USA.
+EM Robert.L.Reece@gmail.com
+OI Reece, Robert/0000-0002-8627-6029
+NR 58
+TC 3
+Z9 3
+U1 3
+U2 4
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD MAY
+PY 2020
+VL 67
+IS 2
+BP 304
+EP 323
+DI 10.1093/socpro/spz016
+PG 20
+WC Sociology
+SC Sociology
+GA LU0DM
+UT WOS:000537434000007
+DA 2021-03-19
+ER
+
+PT J
+AU Krauz-Lahav, N
+   Kemp, A
+AF Krauz-Lahav, Noa
+   Kemp, Adriana
+TI Elite without Elitism? Boundary Work and the Israeli Elite Philanthropy
+   in a Changing Field of Power
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE economic elites; new philanthropy; boundary work; next generation; field
+   of power
+ID REPRODUCTION; PATHWAYS; GIFT
+AB The crisis of neoliberalism and the upsurge of populist politics have renewed interest in how contemporary economic elites justify their privileged position, trying to be "moral" and "rich" in an era of increasing inequality and an anti-elite climate. We addressed this question through an ethnographic analysis of the socio-cultural life of the heirs of the Israeli economic elite and of the boundary-making processes that philanthropy allows them as they face internal and external challenges. Adopting analytical tools from a cultural process approach to inequality and a contextual approach to elite distinction, we suggest that the heirs generate distinct social and symbolic position within a changing field of power by presenting themselves as an "elite without elitism." This is accomplished through a mutually reinforcing interplay between intra-elite distinctions and "inter-class inconspicuous distinction." We contribute to the current analysis of elite reproduction "beyond Bourdieu" first by pointing at the (re)production of power and difference within the elite, and second by showing that where distinctions are drawn, matters.
+C1 [Krauz-Lahav, Noa; Kemp, Adriana] Tel Aviv Univ, Tel Aviv, Israel.
+RP Krauz-Lahav, N (corresponding author), Tel Aviv Univ, Dept Sociol & Anthropol, Tel Aviv, Israel.
+EM noak2210@gmail.com
+RI Kemp, Adriana/AAH-1835-2021
+NR 55
+TC 0
+Z9 0
+U1 2
+U2 2
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD MAY
+PY 2020
+VL 67
+IS 2
+BP 324
+EP 341
+DI 10.1093/socpro/spz015
+PG 18
+WC Sociology
+SC Sociology
+GA LU0DM
+UT WOS:000537434000008
+DA 2021-03-19
+ER
+
+PT J
+AU Wackenhut, AF
+AF Wackenhut, Arne F.
+TI Revisiting the Egyptian Uprising of 2011: Exploring the Role of
+   Relational Networks within the Cairo-Based Political Opposition
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE Arab Spring; Egypt; January 25; relational networks; social movements
+ID SOCIAL MEDIA; MOVEMENTS; PARTICIPATION; CONTINGENCY; CHALLENGES
+AB Revisiting the Egyptian Uprising of 2011, I argue that strong relational networks linking actors in the broader Cairo-based political opposition-a conglomerate of prodemocracy movement organizations-should be understood as a necessary, albeit insufficient, causal condition for the diffusion of protest. These networks fulfilled two essential functions. 1) They were critical in terms of professionally socializing a new generation of activists-many of whom would become early riser participants during the initial protests on January 25, 2011. 2) The networks allowed for critically important coordination of and mobilization for the protests as they cut across boundaries of individual social and protest movement organizations. Based on 55 semi-structured interviews, I trace the genesis of these relational networks during the first decade of the new millennium, showing how a coalition of actors sought to capitalize on a transnational demonstration effect triggered by the Tunisian Revolution. This group-linked by dense relational networks-then functioned as early risers during the initial stages of the uprising and encouraged other segments of Egyptian society to join the protests and to openly challenge a regime that had often been regarded as impenetrable to popular demands for socio-political change from below.
+C1 [Wackenhut, Arne F.] Univ Gothenburg, Gothenburg, Sweden.
+RP Wackenhut, AF (corresponding author), Univ Gothenburg, Sch Global Studies, Box 700, SE-40530 Gothenburg, Sweden.
+EM arne.wackenhut@globalstudies.gu.se
+OI Wackenhut, Arne Frederik/0000-0001-5509-6132
+FU Swedish Research CouncilSwedish Research CouncilEuropean Commission
+   [2011-18899-86312-39]
+FX I would like to express my gratitude to all of my research participants,
+   who agreed to share both their happiest and saddest memories of 2011 and
+   what came afterwards. Additionally, I wish to thank the three anonymous
+   reviewers who helped me sharpen both my central argument and
+   contribution. Last but not least, I greatly appreciate the constructive
+   feedback from Isabell Schierenbeck and Michael Schulz at the University
+   of Gothenburg who read and commented on an earlier draft of this paper.
+   This work was supported by the Swedish Research Council under Grant
+   2011-18899-86312-39. Please direct correspondence to the author at the
+   University of Gothenburg, School of Global Studies, Box 700, SE-405 30
+   Gothenburg, Sweden; telephone: thorn46 (0) 31 786 5478; email:
+   arne.wackenhut@globalstudies.gu.se.
+NR 58
+TC 0
+Z9 0
+U1 0
+U2 0
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD MAY
+PY 2020
+VL 67
+IS 2
+BP 342
+EP 357
+DI 10.1093/socpro/spz014
+PG 16
+WC Sociology
+SC Sociology
+GA LU0DM
+UT WOS:000537434000009
+DA 2021-03-19
+ER
+
+PT J
+AU Zhelnina, A
+AF Zhelnina, Anna
+TI The Apathy Syndrome: How We Are Trained Not to Care about Politics
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE political apathy; political avoidance; emotions; apathy syndrome;
+   emotional mechanisms
+ID CIVIC ENGAGEMENT; EMOTIONS; SOCIALIZATION; MEMBERSHIP; SOCIOLOGY;
+   ACTIVISM; PROTEST
+AB The role of emotions in social movements and mobilization has been an important focus of recent research, but the emotional mechanisms producing apathy and non-participation remain under studied. This article explores the thinking and feeling processes involved in the production of apolitical attitudes, paying particular attention to their social and cultural context. Cultural norms of appropriateness and emotional expression can hinder or boost the emotions involved in the mobilizing processes. Based on 60 interviews with young people in two Russian cities, collected during and in the aftermath of the anti-regime protests of 2011-12, I explore the apathy syndrome-a combination of emotional mechanisms and cultural norms that produce political apathy. Personal frustrating experiences develop into long-term cynicism and disbelief in the efficacy of collective action, a process exacerbated by the transmission of apathy in families and educational institutions, as well as by cultural norms of appropriate emotions. Cultural cliches and dissociation from others help people cope with the trap and justify inaction.
+C1 [Zhelnina, Anna] CUNY, Grad Ctr, New York, NY 10016 USA.
+   [Zhelnina, Anna] Natl Res Univ Higher Sch Econ, St Petersburg, Russia.
+RP Zhelnina, A (corresponding author), CUNY, Grad Ctr, Sociol Program, 365 5th Ave, New York, NY 10016 USA.
+EM azhelnina@gradcenter.cuny.edu
+RI Zhelnina, Anna/G-2739-2010
+OI Zhelnina, Anna/0000-0001-6558-2281
+NR 58
+TC 1
+Z9 1
+U1 0
+U2 0
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD MAY
+PY 2020
+VL 67
+IS 2
+BP 358
+EP 378
+DI 10.1093/socpro/spz019
+PG 21
+WC Sociology
+SC Sociology
+GA LU0DM
+UT WOS:000537434000010
+DA 2021-03-19
+ER
+
+PT J
+AU Schafer, MH
+   Settels, J
+   Upenieks, L
+AF Schafer, Markus H.
+   Settels, Jason
+   Upenieks, Laura
+TI As Goes the City? Older Americans' Home Upkeep in the Aftermath of the
+   Great Recession
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE Great Recession; cities; aging; household conditions; economic decline
+ID SOCIAL SUPPORT; SELF-NEGLECT; FORECLOSURE; HEALTH; ENVIRONMENT;
+   MORTALITY; DISORDER; WELL; INDIVIDUALS; CRIME
+AB The private home is a crucial site in the aging process, yet the upkeep of this physical space often poses a challenge for community-dwelling older adults. Previous efforts to explain variation in disorderly household conditions have relied on individual-level characteristics, but ecological perspectives propose that home environments are inescapably nested within the dynamic socioeconomic circumstances of surrounding spatial contexts, such as the metro area. We address this ecological embeddedness in the context of the Great Recession, an event in which some U.S. cities saw pronounced and persistent declines across multiple economic indicators while other areas rebounded more rapidly. Panel data (2005-6 and 2010-11) from a national survey of older adults were linked to interviewer home evaluations and city-level economic data. Results from fixed-effects regression support the hypothesis that older adults dwelling in struggling cities experienced an uptick in disorderly household conditions. Findings emphasize the importance of city-specificity when probing effects of a downturn. Observing changes in home upkeep also underscores the myriad ways in which a city's most vulnerable residents- older adults, in particular-are affected by its economic fortunes.
+C1 [Schafer, Markus H.] Univ Toronto, Toronto, ON, Canada.
+   [Settels, Jason] Univ Luxembourg, Luxembourg, Luxembourg.
+   [Upenieks, Laura] Univ Texas San Antonio, San Antonio, TX USA.
+RP Schafer, MH (corresponding author), Univ Toronto, Dept Sociol, 725 Spadina Ave, Toronto, ON M5S 2J4, Canada.
+EM markus.schafer@utoronto.ca
+OI Settels, Jason/0000-0002-2126-0421
+FU National Institute on AgingUnited States Department of Health & Human
+   ServicesNational Institutes of Health (NIH) - USANIH National Institute
+   on Aging (NIA); National Institutes of HealthUnited States Department of
+   Health & Human ServicesNational Institutes of Health (NIH) - USA
+   [R37AG030481, R01AG033903]; Canadian Social Sciences and Humanities
+   Research CouncilSocial Sciences and Humanities Research Council of
+   Canada (SSHRC) [231615]; Ontario Ministry of Research and Innovation
+   Early Researcher AwardMinistry of Research and Innovation, Ontario
+FX Our work benefitted from the thoughtful comments offered by Social
+   Problems reviewers. An earlier version of this paper was presented at
+   the 2018 annual meeting of the American Sociological Association in
+   Philadelphia. Data were made available by the Interuniversity Consortium
+   for Political and Social Research, Ann Arbor, MI. The Consortium bears
+   no responsibility for the analyses or interpretations presented here.
+   The National Social Life, Health and Aging Project is supported by the
+   National Institute on Aging and the National Institutes of Health
+   (R37AG030481; R01AG033903). The content is solely the responsibility of
+   the authors and does not necessarily represent the official views of the
+   National Institutes of Health. This work is supported by the Canadian
+   Social Sciences and Humanities Research Council (Insight Development
+   Grant #231615) and from the Ontario Ministry of Research and Innovation
+   Early Researcher Award. Correspondence should be addressed to Markus
+   Schafer at the Department of Sociology, University of Toronto, Canada,
+   725 Spadina Avenue, M5S2J4; email: markus.schafer@utoronto.ca
+NR 73
+TC 0
+Z9 0
+U1 1
+U2 1
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD MAY
+PY 2020
+VL 67
+IS 2
+BP 379
+EP 397
+DI 10.1093/socpro/spz022
+PG 19
+WC Sociology
+SC Sociology
+GA LU0DM
+UT WOS:000537434000011
+PM 32362689
+OA Green Published
+DA 2021-03-19
+ER
+
+PT J
+AU Oleschuk, M
+AF Oleschuk, Merin
+TI "In Today's Market, Your Food Chooses You": News Media Constructions of
+   Responsibility for Health through Home Cooking
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE food; health; family; consumption; neoliberalism
+ID TIME; OBESITY; TALKING; WORK
+AB This article examines North American national news media's 2015-16 presentation of family meals. Analyzing 326 articles, I identify the ubiquity of a narrative of deterioration, or the presumption that families are replacing meals made from whole, unprocessed ingredients consumed communally around a table, with processed and pre-prepared foods eaten alone or "on the go". In analyzing the construction of responsibility for this deterioration, I find that the sample predominately frames the production of healthy family meals as constrained by a food environment saturated with inexpensive, highly processed food, and dictated by the competing demands of paid work and inflated normative standards. Yet, when differentiating frames that define the social problem from those that offer solutions, I find that individualization prevails in the frames that target solutions. One important exception is media reporting on low-income families, which are framed as facing exceptional structural constraint. Analyzing these frames, I argue that neoliberal ideology that over-emphasizes individual agency and minimizes structural constraint operates in more subtle ways than previous literature suggests-showing some awareness of the difficulty of people's lives, but prescribing solutions that leave individuals responsible for the outcomes. These findings offer implications for understanding dominant cultural values surrounding health and the family meal, as well as the allocation of responsibility for social problems within neoliberalism more broadly.
+C1 [Oleschuk, Merin] Univ Toronto, Dept Sociol, 725 Spadina Ave, Toronto, ON M5S 2J4, Canada.
+RP Oleschuk, M (corresponding author), Univ Toronto, Dept Sociol, 725 Spadina Ave, Toronto, ON M5S 2J4, Canada.
+EM merin.oleschuk@mail.utoronto.ca
+RI Oleschuk, Merin/AAX-8532-2020
+OI Oleschuk, Merin/0000-0002-7536-0292
+FU Social Sciences and Humanities Research Council of Canada (SSHRC)Social
+   Sciences and Humanities Research Council of Canada (SSHRC); Ontario
+   Graduate Scholarship ProgramOntario Graduate Scholarship
+FX The author would like to thank dissertation committee members Jos\ee
+   Johnston, Shyon Baumann, and Melissa Milkie for their guidance and
+   feedback on this project, the journal's editors and anonymous reviewers
+   for their detailed, constructive comments, and Yousaf Shah, Sarah
+   Cappeliez, Alexandra Rodney, Anelyse Weiler, and Tyler Bateman, for
+   their helpful comments on an early draft. Funding was provided by the
+   Social Sciences and Humanities Research Council of Canada (SSHRC) and
+   the Ontario Graduate Scholarship Program.
+NR 69
+TC 2
+Z9 2
+U1 1
+U2 5
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD FEB
+PY 2020
+VL 67
+IS 1
+BP 1
+EP 19
+DI 10.1093/socpro/spz006
+PG 19
+WC Sociology
+SC Sociology
+GA KN8VQ
+UT WOS:000515124000001
+DA 2021-03-19
+ER
+
+PT J
+AU Thomas, M
+   Herring, C
+   Horton, HD
+   Semyonov, M
+   Henderson, L
+   Mason, PL
+AF Thomas, Melvin
+   Herring, Cedric
+   Horton, Hayward Derrick
+   Semyonov, Moshe
+   Henderson, Loren
+   Mason, Patrick L.
+TI Race and the Accumulation of Wealth: Racial Differences in Net Worth
+   over the Life Course, 1989-2009
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE race; inequality; life course; stratification; wealth
+ID PERIOD-COHORT ANALYSIS; CROSS-SECTION SURVEYS; ETHNIC-INEQUALITY;
+   HOUSEHOLD WEALTH; FAMILY-STRUCTURE; BLACK; GAP; DISPARITIES; EARNINGS;
+   DISCRIMINATION
+AB Using data from the 1989-2009 Panel Study of Income Dynamics, this research examines racial differences in wealth accumulation over the life course. We ask: (1) How have racial differences in wealth changed over time? (2) Do racial wealth gaps change over the life course? (3) Are racial gaps in net worth expanding, contracting, or staying the same over time and over the life course? and (4) Do these patterns differ by cohort? The analysis is informed by (1) the declining significance of race and post-racial perspectives; (2) the cumulative effects of discrimination explanation; and (3) the vintage hypothesis. Results show that African Americans' wealth as a percentage of whites' wealth fell in 2009. Results do not support the declining significance of race and post-racial perspectives. Partially consistent with the vintage hypothesis, post-1960s African Americans are relatively better off than are pre-1960s African Americans (compared with whites of the same cohort). Consistent with the cumulative effects of discrimination model, the African American-white wealth gap increases over the life course for each historical period. If current patterns persist, presumed gains made by young African Americans relative to young whites may turn out to be illusory as they progress through the life course.
+C1 [Thomas, Melvin] North Carolina State Univ, Raleigh, NC USA.
+   [Herring, Cedric; Henderson, Loren] Univ Maryland Baltimore Cty, Baltimore, MD 21228 USA.
+   [Horton, Hayward Derrick] SUNY Albany, Albany, NY 12222 USA.
+   [Semyonov, Moshe] Univ Illinois, Chicago, IL 60680 USA.
+   [Semyonov, Moshe] Tel Aviv Univ, Tel Aviv, Israel.
+   [Mason, Patrick L.] Florida State Univ, Tallahassee, FL 32306 USA.
+RP Thomas, M (corresponding author), Dept Sociol & Anthropol, 334 1911 Bldg,Campus Box 8107, Raleigh, NC 27695 USA.
+EM melvin_thomas@ncsu.edu
+OI Semyonov, Moshe/0000-0001-8794-6322
+NR 82
+TC 1
+Z9 1
+U1 0
+U2 7
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD FEB
+PY 2020
+VL 67
+IS 1
+BP 20
+EP 39
+DI 10.1093/socpro/spz002
+PG 20
+WC Sociology
+SC Sociology
+GA KN8VQ
+UT WOS:000515124000002
+DA 2021-03-19
+ER
+
+PT J
+AU Garcia, L
+AF Garcia, Lorena
+TI Language and (Re)Negotiations of Latinx Identity: Latinx Parents'
+   Approaches to Spanish and Bilingualism
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE Latina; o; language; parenting; racial; ethnic identity; social class
+ID SEGMENTED ASSIMILATION; UNITED-STATES; SHIFT; 2ND-GENERATION;
+   PANETHNICITY; TRANSMISSION; ETHNICITY
+AB Little research has accounted for how the adult children of Latinx im/migrants approach Spanish as part of their ethnoracial identity formation and that of their children. Drawing on interviews with middle-class Latinxs who grew up poor or working-class, I consider the role of language in the social construction of ethnoracial identity among Latinxs by exploring the following questions: (1) How do the adult children of Latinx im/migrants understand bilingualism and the relevance of Spanish for Latinx identity? (2) And what are their perspectives on their own children's engagement with Spanish and bilingualism? Findings show that language ideologies and Latinx panethnicity inform the significance they assign to Spanish, including their desire for their children to develop Spanish linguistic skills, as well as their views on their own bilingualism and that of their children. Their experiences with language ideologies suggest that they consider Spanish a form of linguistic capital relevant to claiming a Latinx identity. Latinx panethnicity can be understood as constituting a situational pressure Latinxs negotiate in their approach to Spanish and bilingualism.
+C1 [Garcia, Lorena] Univ Illinois, Dept Sociol, 4112 Behav Sci Bldg MC 312,1007 W Harrison St, Chicago, IL 60607 USA.
+RP Garcia, L (corresponding author), Univ Illinois, Dept Sociol, 4112 Behav Sci Bldg MC 312,1007 W Harrison St, Chicago, IL 60607 USA.
+EM lorena@uic.edu
+FU UIC Institute for Research on Race and Public Policy; UIC Office of
+   Social Science Research
+FX The author is deeply grateful to all the study participants for sharing
+   their experiences and perspectives. The author also wishes to thank
+   Frances Aparicio, Lillian Gorman, Merida Rua, and the editors and
+   anonymous reviewers at Social Problems for their insightful comments and
+   feedback. This project received support from the UIC Institute for
+   Research on Race and Public Policy and the UIC Office of Social Science
+   Research. The author may be reached at the Department of Sociology,
+   University of Illinois at Chicago, 4112 Behavioral Sciences Building (MC
+   312), 1007 W. Harrison Street, Chicago, IL 60607-7140;
+NR 72
+TC 0
+Z9 0
+U1 0
+U2 1
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD FEB
+PY 2020
+VL 67
+IS 1
+BP 40
+EP 55
+DI 10.1093/socpro/spy026
+PG 16
+WC Sociology
+SC Sociology
+GA KN8VQ
+UT WOS:000515124000003
+DA 2021-03-19
+ER
+
+PT J
+AU Mora, GC
+   Okamoto, D
+AF Mora, G. Cristina
+   Okamoto, Dina
+TI Boundary Articulation and Emergent Identities: Asian and Hispanic
+   Panethnicity in Comparison 1970-1980
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE race and ethnicity; panethnicity; categories; collective identity; Asian
+   Americans; Hispanics; Latinos; Latinx
+ID RACIAL BOUNDARIES; CATEGORIZATION; IMMIGRANTS; CONFLICT; BLACKS; LABOR
+AB This article examines how minority leaders articulate emergent group boundaries. We provide the first systematic comparison of the Asian and Hispanic panethnic movements of the 1970s, assessing how pioneering publications developed claims about panethnicity before the identities became widely institutionalized. The findings indicate that despite referring to communities with different histories, discussions about Asian and Hispanic panethnicity displayed strikingly similar discursive patterns. We identify three such analytical patterns - broad definitions, prototypes, and group comparison - and theorize about how they helped to make new Asian and Hispanic boundaries recognizable. In doing so, we develop a new analytical framework for understanding the role of cultural and discursive resources in boundary construction and suggest how it may be applied beyond the cases examined here.
+C1 [Mora, G. Cristina] Univ Calif Berkeley, Dept Sociol, 498 Barrows Hall MC 1980, Berkeley, CA 94720 USA.
+   [Okamoto, Dina] Indiana Univ, Dept Sociol, Ballantine Hall 744,1020 E Kirkwood Ave, Bloomington, IN 47405 USA.
+RP Mora, GC (corresponding author), Univ Calif Berkeley, Dept Sociol, 498 Barrows Hall MC 1980, Berkeley, CA 94720 USA.
+EM cmora@berkeley.edu
+NR 75
+TC 0
+Z9 0
+U1 0
+U2 0
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD FEB
+PY 2020
+VL 67
+IS 1
+BP 56
+EP 76
+DI 10.1093/socpro/spz003
+PG 21
+WC Sociology
+SC Sociology
+GA KN8VQ
+UT WOS:000515124000004
+DA 2021-03-19
+ER
+
+PT J
+AU Dodoo, ND
+   Horne, C
+   Dodoo, FNA
+AF Dodoo, Naa Dodua
+   Horne, Christine
+   Dodoo, F. Nii-Amoo
+TI Do Bridewealth Payments Reduce Female Reproductive Autonomy? Evidence
+   from a Vignette Study in Ghana
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE Africa; bridewealth; gender; marriage; norms
+ID BRIDE-WEALTH; WOMENS EMPOWERMENT; DOUBLE STANDARDS; RECIPROCITY; POWER;
+   MARRIAGE; CONTEXT; ECONOMICS; IMPACT
+AB This study assesses the implications of a central component of African marriage, bridewealth, for norms constraining wives' reproductive autonomy. We treat norms as expectations regarding the reactions of community members to a wife. We hypothesize that bridewealth triggers the application of norms that constrain women's reproductive autonomy and that there are gender differences in those norms. We test our hypotheses using a vignette experiment conducted with male and female participants in Ghana. The results show that participants expected the husband's family and men in the community to react more negatively to a noncompliant wife than the wife's family and women in the community. Whereas men perceived that everyone in the community adhered to bridewealth norms, women expected that men did not adhere to those norms. Rather, female participants expected men to evaluate wives negatively, even for behaviors that are not traditionally associated with bridewealth, suggesting that women live in a more threatening environment than men realize. This study contributes to understanding of the gender dynamics underlying reproductive decision-making in marriage and has implications for the endemic problem of women's not having control over their own fertility.
+C1 [Dodoo, Naa Dodua] Univ Ghana, Reg Inst Populat Studies, Accra, Ghana.
+   [Horne, Christine] Washington State Univ, Dept Sociol, 201 Wilson Short Hall, Pullman, WA 99164 USA.
+   [Dodoo, F. Nii-Amoo] Penn State Univ, University Pk, PA 16802 USA.
+   [Dodoo, F. Nii-Amoo] Univ Ghana, Accra, Ghana.
+RP Horne, C (corresponding author), Washington State Univ, Dept Sociol, 201 Wilson Short Hall, Pullman, WA 99164 USA.
+EM chorne@wsu.edu
+RI Dodoo, Naa Dodua/AAF-4548-2021
+FU Hewlett Foundation [2012-7597]
+FX This research was funded by Hewlett Foundation Grant 2012-7597.
+NR 76
+TC 1
+Z9 1
+U1 0
+U2 0
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD FEB
+PY 2020
+VL 67
+IS 1
+BP 77
+EP 95
+DI 10.1093/socpro/spz008
+PG 19
+WC Sociology
+SC Sociology
+GA KN8VQ
+UT WOS:000515124000005
+DA 2021-03-19
+ER
+
+PT J
+AU Randles, J
+AF Randles, Jennifer
+TI Role Modeling Responsibility: The Essential Father Discourse in
+   Responsible Fatherhood Programming and Policy
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE Family; Inequality; Public Policy; Qualitative Methodology; Race; Class;
+   and Gender
+ID LOW-INCOME FATHERS; GENDER; FAMILY; PERCEPTIONS; INVOLVEMENT;
+   ADOLESCENTS; POVERTY; MEN
+AB Drawing on in-depth interviews and focus groups with 64 poor men of color, this article analyzes how a U.S. federally funded "responsible fatherhood" program transmitted a discourse of paternal essentiality, claiming that fathers as masculine role models uniquely contribute to child development. It reveals how, despite lack of evidence that fathers make indispensable gendered contributions to parenting, the focus on male role modeling resonated for marginalized fathers because it characterized them as essential for children's well-being in their capacity as men, not economic providers. Using an intersectional lens, the promotion of paternal essentiality can be understood as a response to the way gender ideologies and race and class inequalities interact to shape norms of responsible fatherhood that discount men of color living in poverty. This strategy relies, however, on an empirically unsupported rationale for fathers' involvement that individualizes the social problems attributed to "fatherlessness." This case reveals how racism, class exploitation, and patriarchy reciprocally shape government-sponsored fatherhood programming and its impact on marginalized men's parenting identities.
+C1 [Randles, Jennifer] Calif State Univ Fresno, Dept Sociol, 5340 N Campus Dr,M-S SS97, Fresno, CA 93740 USA.
+RP Randles, J (corresponding author), Calif State Univ Fresno, Dept Sociol, 5340 N Campus Dr,M-S SS97, Fresno, CA 93740 USA.
+EM jrandles@csufresno.edu
+FU American Sociological Association Community Action Research Initiative
+   Grant; Family Process Institute Early Career Scholar Grant
+FX This research was generously supported by the American Sociological
+   Association Community Action Research Initiative Grant and the Family
+   Process Institute Early Career Scholar Grant. The author may be reached
+   at the Department of Sociology, 5340 N. Campus Drive, M/S SS97,
+   California State University, Fresno; Fresno, CA 93740-8019;
+NR 51
+TC 1
+Z9 1
+U1 0
+U2 2
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD FEB
+PY 2020
+VL 67
+IS 1
+BP 96
+EP 112
+DI 10.1093/socpro/spy027
+PG 17
+WC Sociology
+SC Sociology
+GA KN8VQ
+UT WOS:000515124000006
+DA 2021-03-19
+ER
+
+PT J
+AU Finkeldey, JG
+   Dennison, CR
+AF Finkeldey, Jessica G.
+   Dennison, Christopher R.
+TI Multilevel Effects of Parental Incarceration on Adult Children's
+   Neighborhood Disadvantage
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE parental incarceration; neighborhood disadvantage; Add Health; mass
+   incarceration; collateral consequences
+ID CRIMINAL-JUSTICE SYSTEM; MATERNAL INCARCERATION; PATERNAL INCARCERATION;
+   RESIDENTIAL-MOBILITY; MASS INCARCERATION; LIFE-COURSE; AFRICAN-AMERICAN;
+   INEQUALITY; FAMILY; IMPRISONMENT
+AB Few studies have considered whether the consequences associated with parental incarceration extend beyond the children who experience the event, and whether the influence of parental incarceration varies by the context in which it occurs. This study investigates the multilevel consequences of parental incarceration by examining the relationship between individual- and neighborhood-level rates of parental, maternal, and paternal incarceration and adult neighborhood disadvantage. We consider the interrelated association between individual- and neighborhood-level parental, maternal, and paternal incarceration and the neighborhood children attain in adulthood. Using data from the National Longitudinal Study of Adolescent to Adult Health, we find that the influence of individual-level parental incarceration, and particularly paternal incarceration, is weaker in contexts where parental incarceration is commonplace.
+C1 [Finkeldey, Jessica G.] SUNY Coll Fredonia, Dept Sociocultural & Justice Sci, Fredonia, NY 14063 USA.
+   [Dennison, Christopher R.] Univ Buffalo SUNY, Buffalo, NY USA.
+RP Finkeldey, JG (corresponding author), SUNY Coll Fredonia, Dept Sociocultural & Justice Sci, Fredonia, NY 14063 USA.
+EM jessica.finkeldey@fredonia.edu
+OI Finkeldey, Jessica/0000-0002-4487-4266
+FU Eunice Kennedy Shriver National Institute of Child Health and Human
+   DevelopmentUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH Eunice Kennedy Shriver National
+   Institute of Child Health & Human Development (NICHD) [P01HD31921];
+   Center for Family and Demographic Research, Bowling Green State
+   University from the Eunice Kennedy Shriver National Institute of Child
+   Health and Human Development [R24HD050959-09]
+FX This research uses data from Add Health, a program project directed by
+   Kathleen Mullan Harris and designed by J. Richard Udry, Peter S.
+   Bearman, and Kathleen Mullan Harris at the University of North Carolina
+   at Chapel Hill, and funded by grant P01HD31921 from the Eunice Kennedy
+   Shriver National Institute of Child Health and Human Development, with
+   cooperative funding from 23 other federal agencies and foundations.
+   Special acknowledgment is due Ronald R. Rindfuss and Barbara Entwisle
+   for assistance in the original design. Information on how to obtain the
+   Add Health data files is available on the Add Health website
+   (http://www.cpc.unc.edu/addhealth).No direct support was received from
+   grant P01-HD31921 for this analysis. This research was supported in part
+   by the Center for Family and Demographic Research, Bowling Green State
+   University, which has core funding from the Eunice Kennedy Shriver
+   National Institute of Child Health and Human Development
+   (R24HD050959-09). The authors wish to thank the editors and anonymous
+   reviewers, as well as Debra Street and Raymond Swisher for thoughtful
+   advice on earlier drafts. Direct correspondence to Jessica Finkeldey,
+   ORCID: https://orcid.org/0000-0002-4487-4266. Department of
+   Sociocultural and Justice Sciences, State University of New York at
+   Fredonia, Fredonia, NY 14063;
+NR 85
+TC 0
+Z9 0
+U1 0
+U2 2
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD FEB
+PY 2020
+VL 67
+IS 1
+BP 113
+EP 130
+DI 10.1093/socpro/spz001
+PG 18
+WC Sociology
+SC Sociology
+GA KN8VQ
+UT WOS:000515124000007
+DA 2021-03-19
+ER
+
+PT J
+AU Herring, C
+   Yarbrough, D
+   Alatorre, LM
+AF Herring, Chris
+   Yarbrough, Dilara
+   Alatorre, Lisa Marie
+TI Pervasive Penality: How the Criminalization of Poverty Perpetuates
+   Homelessness
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE homelessness; poverty governance; criminal justice; community-based
+   research
+ID MENTAL-HEALTH; INCARCERATION
+AB A growing literature examines the extent to which the criminal justice system perpetuates poverty and inequality. This research examines how anti-homeless laws produce various forms of police interactions that fall short of arrest, yet have wide-ranging impacts on the urban poor. Our analysis draws on a citywide survey of currently and recently homeless people, along with 43 in-depth interviews, to examine and reveal the mechanisms through which consistent punitive interactions, including move-along orders, citations, and destruction of property, systematically limit homeless people's access to services, housing, and jobs, while damaging their health, safety, and well-being. Our findings also suggest that anti-homeless laws and enforcement fail to reduce urban disorder, but create instead a spatial churn in which homeless people circulate between neighborhoods and police jurisdictions rather than leaving public space. We argue that these laws and their enforcement, which affected the majority of study participants, constitute a larger process of pervasive penality-consistent punitive interactions with state officials that rarely result in arrest, but that do material and psychological harm. This process not only reproduces homelessness, but also deepens racial, gender, and health inequalities among the urban poor.
+C1 [Herring, Chris] Univ Calif Berkeley, Dept Sociol, 410 Barrows Hall, Berkeley, CA 94720 USA.
+   [Yarbrough, Dilara] San Francisco State Univ, Dept Publ Affairs & Civ Engagement, Criminal Justice Studies Program, 261 HSS Bldg, San Francisco, CA 94132 USA.
+   [Alatorre, Lisa Marie] San Francisco Coalit Homelessness, San Francisco, CA USA.
+RP Herring, C (corresponding author), Univ Calif Berkeley, Dept Sociol, 410 Barrows Hall, Berkeley, CA 94720 USA.
+EM christoph.herring@berkeley.edu; dilara@sfsu.edu
+FU Sociological Initiatives Foundation; Center for Engaged Scholarship; UC
+   Berkeley Center for Human Rights; UC San Diego Center for Global Justice
+FX We also thank Colleen Rivecca, Paul Boden, Tony Sparks, Freja Sonne,
+   Kelley Cutler, Nick Kimura, Shira Noel, Teresa Gowan, Bob Offer-Westort,
+   Doug Ahlers, Marina Fischer, Sarah Rankin, Arefa Vohra, Andy Chu, Gary
+   Lewis, Lt. Michael Nevin, Brenda Meskan, John Murray, Vilaska Nguyen,
+   Leah Rothstein, Karen Shain, Joe Wilson, Dennis Woo, Kelley Winter, and
+   the anonymous reviewers of Social Problems. Our research was supported
+   by the Sociological Initiatives Foundation, UC Berkeley Center for Human
+   Rights, UC San Diego Center for Global Justice, and the Center for
+   Engaged Scholarship.
+NR 63
+TC 10
+Z9 10
+U1 4
+U2 10
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD FEB
+PY 2020
+VL 67
+IS 1
+BP 131
+EP 149
+DI 10.1093/socpro/spz004
+PG 19
+WC Sociology
+SC Sociology
+GA KN8VQ
+UT WOS:000515124000008
+DA 2021-03-19
+ER
+
+PT J
+AU Leverentz, A
+AF Leverentz, Andrea
+TI Beyond Neighborhoods: Activity Spaces of Returning Prisoners
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE activity space; neighborhood; prisoner reentry
+ID ECOLOGICAL NETWORKS; LIFE-COURSE; CRIME; INCARCERATION; TRAJECTORIES;
+   RECIDIVISM; DESISTANCE; CONTEXT
+AB Neighborhood and place are key concerns in prisoner reentry and desistance literature. Residential change may serve as a turning point for those who want to desist from offending or minimize visibility as a "known" offender by law enforcement and neighbors. Yet choices of where to live are often dictated more by limited housing options than by preferred neighborhood characteristics. In addition, people are more or less stably housed upon release, and more or less socially tied to places. Still, much of the established research relies on residential neighborhood as a construct. I apply the concept of activity spaces, or how people use and move about space, to extend our understanding of the meaning of place for returning prisoners. Drawing on repeated semi-structured interviews with men and women returning to the community from a county correctional facility in Boston, I employ a typology of three types of activity spaces that are common among this sample: neighborhood-anchored, utility- or affective-anchored, and unanchored activity spaces. These activity spaces reflected their relationship to place and reflect varying levels of connection to a "neighborhood." I discuss the implications of these patterns for how we think about the impact of neighborhoods and place on reentry.
+C1 [Leverentz, Andrea] Univ Massachusetts, Dept Sociol, 100 Morrissey Blvd, Boston, MA 02125 USA.
+RP Leverentz, A (corresponding author), Univ Massachusetts, Dept Sociol, 100 Morrissey Blvd, Boston, MA 02125 USA.
+EM andrea.leverentz@umb.edu
+OI Leverentz, Andrea/0000-0002-8985-3311
+FU National Science FoundationNational Science Foundation (NSF) [SES
+   1535615]
+FX This project was funded by the National Science Foundation (grant number
+   SES 1322965). I thank Casey Ryan, Audris Campbell, David Copeland,
+   Eileen Kirk, Adam Pittman, and Jennifer Skinnon for their research
+   assistance. Thanks to Sofya Aptekar, John Laub, Sarah Mayorga-Gallo,
+   Jason Rodriquez, Leslie Wang, and anonymous reviewers for helpful
+   feedback on earlier drafts. Earlier versions of this paper were
+   presented at the workshop "Prisoner Reentry and Reintegration: Improving
+   Data Collection and Methodology to Advance Theory and Knowledge" held at
+   Rutgers University Newark and sponsored by the National Science
+   Foundation (SES 1535615), the American Society of Criminology annual
+   meetings, and the American Sociological Association annual meetings.
+   Thanks also to participants in these meetings for their feedback. The
+   author may be reached at the Department of Sociology, University of
+   Massachusetts Boston, 100 Morrissey Boulevard, Boston, MA 02125;
+NR 45
+TC 4
+Z9 4
+U1 2
+U2 3
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD FEB
+PY 2020
+VL 67
+IS 1
+BP 150
+EP 170
+DI 10.1093/socpro/spz005
+PG 21
+WC Sociology
+SC Sociology
+GA KN8VQ
+UT WOS:000515124000009
+DA 2021-03-19
+ER
+
+PT J
+AU Cheng, T
+AF Cheng, Tony
+TI Input without Influence: The Silence and Scripts of Police and Community
+   Relations
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE police and community relations; community meetings; urban policing;
+   participatory governance; poverty governance; social order
+ID LEGAL CYNICISM; VIOLENCE; PARTICIPATION; SURVEILLANCE; POLITICS;
+   JUSTICE; CONTEXT; YOUTH; RACE
+AB Since its establishment in 1993, the Department of Justice's Office of Community-Oriented Policing Services has invested $14 billion into local police departments' efforts to improve community relations. Yet in 2015, the public's confidence in police reached its lowest point since 1993. Drawing on seven years of Chicago Police Board meeting transcripts, this article identifies one mechanism why, despite police investment, community relations can fail to improve. While community meetings where residents present complaints are envisioned as enhancing citizen voice, police replied to 74 percent of complaints with literal silence. When police were not silent, both police and residents repeated identifiable scripts-defined as stylized narratives based on generalized knowledge from typical events-that reflected divergent conceptualizations of community issues. Police use of silence and scripts are examples of "perfunctory policing," where officers superficially comply with procedural requirements of a program or practice, but resist substantive changes in performance-leaving residents to shoulder the consequences of police inaction. As local jurisdictions invest more into closing the gap between the government and public, insufficient analysis into how initiatives are implemented can legitimize decision-making processes that reinforce the pre-existing social order, rendering community interactions more procedurally symbolic than substantively productive.
+C1 [Cheng, Tony] Yale Univ, Dept Sociol, 493 Coll St, New Haven, CT 06510 USA.
+RP Cheng, T (corresponding author), Yale Univ, Dept Sociol, 493 Coll St, New Haven, CT 06510 USA.
+EM tony.cheng@yale.edu
+NR 62
+TC 5
+Z9 5
+U1 1
+U2 5
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD FEB
+PY 2020
+VL 67
+IS 1
+BP 171
+EP 189
+DI 10.1093/socpro/spz007
+PG 19
+WC Sociology
+SC Sociology
+GA KN8VQ
+UT WOS:000515124000010
+DA 2021-03-19
+ER
+
+PT J
+AU Creighton, MJ
+   Wozniak, KH
+AF Creighton, Mathew J.
+   Wozniak, Kevin H.
+TI Are Racial and Educational Inequities in Mass Incarceration Perceived to
+   be a Social Problem? Results from an Experiment
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE mass incarceration; racism; experimental design; social desirability
+   bias; inequality
+ID RACE CARD; DESIRABILITY; CRIME; PREJUDICE; ATTITUDES; LAWBREAKERS;
+   OPINION; SUPPORT; NEWS; BIAS
+AB The disproportionate incarceration of certain groups, racial minorities, and the less educated constitutes a social problem from the perspective of both policy makers and researchers. One aspect that is poorly understood is whether the public is similarly concerned about inequities in mass incarceration. Using a list experiment embedded in a framing experiment, we test for differences in attitudes towards mass incarceration by exploring three frames: race, education, and the United States in global context. We test whether social desirability bias causes people to over-state their concern about mass incarceration when directly queried. We find that mass incarceration is seen as a problem in the United States, whether the issue is framed by race, education, or as a global outlier. The list experiment reveals that public concern about mass incarceration is not quite as great as overtly-expressed opinion would suggest, and the framing experiment indicates that race-neutral frames evoke greater concern about mass incarceration than an emphasis on racial disparities.
+C1 [Creighton, Mathew J.] Univ Coll Dublin, Dublin, Ireland.
+   [Wozniak, Kevin H.] Univ Massachusetts Boston, Boston, MA USA.
+RP Creighton, MJ (corresponding author), Univ Coll Dublin, Sch Sociol, UCD Geary Inst Publ Policy, Dublin 4, Ireland.
+EM creighton@ucd.ie
+RI Creighton, Mathew/P-8302-2018
+OI Creighton, Mathew/0000-0002-1596-6049
+FU Joseph P. Healey Research Grant from the University of Massachusetts
+   Boston
+FX The authors' names are presented alphabetically; they contributed
+   equally. This research was funded with a Joseph P. Healey Research Grant
+   from the University of Massachusetts Boston. Please direct
+   correspondence to the first author at University College Dublin, School
+   of Sociology, UCD Geary Institute for Public Policy, University College
+   Dublin, Belfield, Dublin 4. Ireland; Mathew. creighton@ucd.
+NR 67
+TC 1
+Z9 1
+U1 4
+U2 11
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD NOV
+PY 2019
+VL 66
+IS 4
+BP 485
+EP 502
+DI 10.1093/socpro/spy017
+PG 18
+WC Sociology
+SC Sociology
+GA JP3LN
+UT WOS:000498169100001
+DA 2021-03-19
+ER
+
+PT J
+AU Carter, JS
+   Lippard, C
+   Baird, AF
+AF Carter, J. Scott
+   Lippard, Cameron
+   Baird, Andrew F.
+TI Veiled Threats: Color-Blind Frames and Group Threat in Affirmative
+   Action Discourse
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE affirmative action; color-blind racism; threat; framing; racial
+   attitudes
+ID RACIAL-ATTITUDES; AMICUS-CURIAE; RACE; BELIEFS; IMMIGRATION; OPPOSITION;
+   IDEOLOGY; WHITES; INTERESTS; NEWS
+AB This research examines the way color-blind rhetorical techniques are used by supporters and opponents in legal documents submitted to the latest U.S. Supreme court case on affirmative action. Eduardo Bonilla-Silva posited that color-blind ideology is the dominant racial ideology in the United States. We focused our critical discourse analysis particularly on the use of color-blind frames as described by Bonilla-Silva. This research also assesses how group threat was used within color-blind frames to activate feelings of racial animosity, a distinction from the color-blind frames that act to minimize race. Drawing on data from 184 amicus briefs submitted for 2013 and 2016 and using critical discourse analysis, we found both supporters and opponents used color-blind frames, but that these frames were more prevalent (and distinctively used) in opponents' briefs, where we observed all four of Bonilla-Silva's color-blind frames. We also found the use of threat by opponents to be distinct and prevalent, suggesting that affirmative action was framed as a source of competition that threatened resources held in high regard by white America. We discuss the implications of these findings for the future of affirmative action and make suggestions for future research.
+C1 [Carter, J. Scott] Univ Cent Florida, Orlando, FL 32816 USA.
+   [Lippard, Cameron] Appalachian State Univ, 480 Howard St, Boone, NC 28608 USA.
+   [Baird, Andrew F.] Christopher Newport Univ, Newport News, VA 23606 USA.
+RP Lippard, C (corresponding author), Appalachian State Univ, 480 Howard St, Boone, NC 28608 USA.
+EM lippardcd@appstate.edu
+NR 58
+TC 1
+Z9 1
+U1 1
+U2 7
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD NOV
+PY 2019
+VL 66
+IS 4
+BP 503
+EP 518
+DI 10.1093/socpro/spy020
+PG 16
+WC Sociology
+SC Sociology
+GA JP3LN
+UT WOS:000498169100002
+DA 2021-03-19
+ER
+
+PT J
+AU Solazzo, AL
+AF Solazzo, Alexa L.
+TI Different and Not Equal:The Uneven Association of Race, Poverty, and
+   Abortion Laws on Abortion Timing
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE reproductive health; abortion; intersectionality; multilevel modeling;
+   state laws
+ID HEALTH-SERVICE USE; STRATIFIED REPRODUCTION; UNITED-STATES; RESTRICTIVE
+   LAW; RISK-FACTORS; DISPARITIES; WOMEN; CARE; IMPACT; MORTALITY
+AB The number of regulations surrounding abortion has increased drastically in recent years. It is important to assess how these laws relate to abortion timing, since the cost, safety, and accessibility of abortion varies by how many weeks pregnant a woman is when the procedure occurs. Research examining how state laws relate to abortion timing generally use rates or data from vital statistics; while informative, such methods do not allow researchers to examine how these laws may be disproportionately associated with abortion timing among select groups of women, including poor and nonwhite women. To fill this research gap, I analyze data from the nationally representative 2008 Abortion Patient Survey, with appended information on state laws regarding abortion in 2008. I find that laws requiring second trimester abortions be performed in a hospital and both in-person counselling and waiting periods have different associations with abortion timing based on race and income-to-poverty status. Predicted abortion timing for black and Hispanic women differs based on state laws and their income-to-poverty status, while for white women, models show that the association between state laws and abortion timing is not dependent on their income-to-poverty status. Overall, this research illustrates the relevance of state-level abortion laws for shaping abortion timing among women, highlighting how these relationships differ across racial and socioeconomic groups in the United States.
+C1 [Solazzo, Alexa L.] Harvard TH Chan Sch Publ Hlth, Boston, MA 02115 USA.
+RP Solazzo, AL (corresponding author), Harvard TH Chan Sch Publ Hlth, Dept Epidemiol, 677 Huntington Ave, Boston, MA 02115 USA.
+EM alexa.solazzo@childrens.harvard.edu
+FU Guttmacher Center for Population Research Innovation and Dissemination
+   (NIH)United States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USA [5 R24 HD074034]
+FX The dataset was provided by the Guttmacher Center for Population
+   Research Innovation and Dissemination (NIH grant 5 R24 HD074034).
+NR 86
+TC 3
+Z9 3
+U1 2
+U2 6
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD NOV
+PY 2019
+VL 66
+IS 4
+BP 519
+EP 547
+DI 10.1093/socpro/spy015
+PG 29
+WC Sociology
+SC Sociology
+GA JP3LN
+UT WOS:000498169100003
+DA 2021-03-19
+ER
+
+PT J
+AU Greene, JT
+AF Greene, Joss T.
+TI Categorical Exclusions: How Racialized Gender Regulation Reproduces
+   Reentry Hardship
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE prisoner reentry; gender; race; inequality; organizations
+ID IMPRISONMENT; PEOPLE; BODIES
+AB Since gender organizes key reentry services such as housing, formerly incarcerated people seeking resources must successfully inhabit a gender category. Drawing on seven months of ethnography and 79 interviews with service providers and formerly incarcerated transgender people, I show that these organizational practices of gender categorization are racialized and impact resource access. Most gender-segregated housing programs rely on biology-based definitions of gender. These gender rules create workable options for trans men to stay with women, but bar trans women from women's spaces. Once in gendered housing programs, clients need to navigate gender assessment in interactions. Trans men employed several strategies to establish gendered selves who were easily categorized as either male or female, which allowed them to access stable housing. Gender sanctioning posed a major problem for black trans women. Black trans women were highly scrutinized in women's programs, characterized as illegitimate based on biological definitions of gender, and harassed for any perceived deviation from gender norms. When harassment escalated into conflict, they were expelled from programs. Regulation of black trans women's womanhood led to systematic material deprivation. By understanding the connections between categorical exclusions and exclusion from resources we can better understand the reproduction of reentry hardship and inequality more broadly.
+C1 [Greene, Joss T.] Columbia Univ, New York, NY 10027 USA.
+RP Greene, JT (corresponding author), Columbia Univ, Dept Sociol, 606 W 122nd St, New York, NY 10027 USA.
+EM JTG2129@Columbia.edu
+NR 55
+TC 2
+Z9 2
+U1 1
+U2 4
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD NOV
+PY 2019
+VL 66
+IS 4
+BP 548
+EP 563
+DI 10.1093/socpro/spy023
+PG 16
+WC Sociology
+SC Sociology
+GA JP3LN
+UT WOS:000498169100004
+DA 2021-03-19
+ER
+
+PT J
+AU Sandberg, S
+   Tutenges, S
+AF Sandberg, Sveinung
+   Tutenges, Sebastien
+TI Laughter in Stories of Crime and Tragedy: The Importance of Humor for
+   Marginalized Populations
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE humor; narrative criminology; relief theory; superiority theory;
+   marginalization
+ID SOCIOLOGY; WORK; RESISTANCE; OFFENDERS; OFFICERS; EMOTION; SELVES;
+   FUNNY; JOKES
+AB Humor is essential to social life, but it is often overlooked in the study of crime and other social problems. We introduce and make use of humor theory, emphasizing the theories of superiority and relief. Based on interviews with incarcerated men, we demonstrate how humor is used to criticize authorities, for self-aggrandizement, and to alleviate the pain of tragic experiences. Funny remarks and stories are often ambiguous and evade simple categorization, which may explain why humor is neglected in the study of social problems. We argue that researchers should pay more attention to humor to achieve a fuller understanding of marginalized individuals and their social worlds.
+C1 [Sandberg, Sveinung; Tutenges, Sebastien] Univ Oslo, Oslo, Norway.
+RP Tutenges, S (corresponding author), Univ Oslo, Dept Criminol & Sociol Law, POB 6706,St Olays Plass 5, N-0130 Oslo, Norway.
+EM sebastien.tutenges@jus.uio.no
+OI Tutenges, Sebastien/0000-0002-3038-3634; Sandberg,
+   Sveinung/0000-0002-1639-6164
+NR 85
+TC 3
+Z9 3
+U1 0
+U2 1
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD NOV
+PY 2019
+VL 66
+IS 4
+BP 564
+EP 579
+DI 10.1093/socpro/spy019
+PG 16
+WC Sociology
+SC Sociology
+GA JP3LN
+UT WOS:000498169100005
+DA 2021-03-19
+ER
+
+PT J
+AU Heerwig, JA
+   Murray, J
+AF Heerwig, Jennifer A.
+   Murray, Joshua
+TI The Political Strategies and Unity of the American Corporate Inner
+   Circle: Evidence from Political Donations, 1982-2000
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE corporate elites; political donations; political behavior; inner circle;
+   fractured thesis
+ID DIRECTOR INTERLOCKS; DETERMINANTS; BUSINESS; MONEY; CAPITALISTS;
+   LIBERALISM; BEHAVIOR; MYTH
+AB Recent work has offered competing explanations for the long-term evolution of corporate political action in the United States. In one, scholars have theorized that long-term structural changes in the American political and economic landscape may have radically transformed inter-corporate network structures and changed the political orientation of corporate elites. In another, a small group of corporate elites continues to dominate government policy by advocating for class-wide interests through occupying key positions in government and policy planning groups. We offer new evidence of patterns in and predictors of political strategies among the nation's elite corporate directors. We utilize an original dataset (the Longitudinal Elite Contributor Database) linked with registries of corporate directors and their board memberships. We ask: (1) has the political activity, unity, or pragmatism of the corporate elite declined since 1982; and (2) are individuals who direct multiple firms more pragmatic in their political action? Evidence suggests that corporate elites are more politically active and unified, and continue to exercise pragmatic political strategies vis-a-vis their campaign donations. Using random- and fixed-effects models, we present evidence to suggest that becoming a member of the inner circle has a significant moderating effect on elite political behavior. We offer an alternative mechanism of elite coordination that may help explain the continued political cohesion of the corporate elite.
+C1 [Heerwig, Jennifer A.] SUNY Stony Brook, Stony Brook, NY 11794 USA.
+   [Murray, Joshua] Vanderbilt Univ, 221 Kirkland Hall, Nashville, TN 37235 USA.
+RP Heerwig, JA (corresponding author), SUNY Stony Brook, Dept Sociol, Stony Brook, NY 11794 USA.
+EM jennifer.Heerwig@stonybrook.edu
+FU National Science FoundationNational Science Foundation (NSF);
+   Directorate for Social, Behavioral and Economic Sciences; Russell Sage
+   Foundation
+FX The authors acknowledge and appreciate support from the National Science
+   Foundation, the Directorate for Social, Behavioral and Economic
+   Sciences, and the Russell Sage Foundation. Direct correspondence to
+   Jennifer Heerwig, Department of Sociology, SUNYStonybrook, Stonybrook,
+   NY 11794. Email: Jennifer.Heerwig@stonybrook.edu
+NR 58
+TC 2
+Z9 2
+U1 2
+U2 3
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD NOV
+PY 2019
+VL 66
+IS 4
+BP 580
+EP 608
+DI 10.1093/socpro/spy014
+PG 29
+WC Sociology
+SC Sociology
+GA JP3LN
+UT WOS:000498169100006
+DA 2021-03-19
+ER
+
+PT J
+AU Stephan, R
+AF Stephan, Rita
+TI Not-So-Secret Weapons: Lebanese Women's Rights Activists and Extended
+   Family Networks
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE women's rights activism; informal social networks; extended family
+   networks; Lebanese feminism; Arab feminism
+ID MOVEMENT; BLACK; RACE
+AB This study asks one crucial question: How do Lebanese women apply available social capital and informal social networks to engage in political activism for women's rights? Building on social- and women's-movement theories, I argue that Lebanese feminists do not exclusively operate in the public sphere in their fight for political goals, nor do they privilege only the extra-family space. On the contrary, they engage in political activities by using extended family networks as a form of weak social ties. I construct this argument on the basis of interviews, observations, and analysis of Lebanese feminists' writings. This paper introduces the concept of mahsoubieh as a form of weak social ties generated within connective family networks. Specifically, I examine how elite, intellectual, and middle-class Lebanese women activists use the positive social capital generated by mahsoubieh to gain credibility, diffuse their political stances, and develop countervailing power. Aspects such as the size, reputation, and respectability of their kinship networks aided the Lebanese women in their fight to change the legal structure concerning women's rights and political representation.
+C1 [Stephan, Rita] US Dept State, Middle East Partnership Initiat, Washington, DC 20520 USA.
+RP Stephan, R (corresponding author), North Carolina State Univ, Moise A Khayrallah Ctr Lebanese Diaspora Studies, Raleigh, NC 27695 USA.
+EM rita.stephan@gmail.com
+FU American Association of University Women and PEO International
+FX This research was supported by a grant from American Association of
+   University Women and PEO International. All translations are the
+   author's.
+NR 53
+TC 2
+Z9 2
+U1 0
+U2 0
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD NOV
+PY 2019
+VL 66
+IS 4
+BP 609
+EP 625
+DI 10.1093/socpro/spy025
+PG 17
+WC Sociology
+SC Sociology
+GA JP3LN
+UT WOS:000498169100007
+DA 2021-03-19
+ER
+
+PT J
+AU Thomson, RA
+   Park, JZ
+   Kendall, D
+AF Thomson, Robert A., Jr.
+   Park, Jerry Z.
+   Kendall, Diana
+TI Religious Conservatives and TV News: Are They More Likely to be
+   Religiously Offended?
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE television news; religious offense; evangelicalism; fundamentalism;
+   politics
+ID MEDIA BIAS; PRODUCT DIFFERENTIATION; PERCEPTIONS; POLITICS;
+   EVANGELICALISM; CREDIBILITY; INVOLVEMENT; PORTRAYAL; IDENTITY; TRUST
+AB Partisan selectivity of news media and attitudinal polarization are linked, yet the bulk of research focuses on the role of political attitudes while neglecting religious dispositions. We consider the degree to which both network and cable news media offend viewers in terms of both politics and religion. Using data from the 2010 Baylor Religion Survey, we find that white evangelicals have higher odds than mainline Protestants of reporting taking offense from the evening news, as well as higher odds than religious non-affiliates of being offended by both types of news. The primary divide, however, was between affiliates and non-affiliates, as biblical literalism and religious exclusivism at least partially mediated differences between white evangelicals and mainliners in taking offense from the evening news. Religious service attendance at least partially mediated differences between affiliates and non-affiliates in taking offense from both types of news, but while political conservatism explained differences in being offended by the evening news, it was not a significant predictor of taking offense from cable news. We suggest that this is due to processes of media differentiation that make cable news an equal-opportunity offender.
+C1 [Thomson, Robert A., Jr.] Rice Univ, Houston, TX 77005 USA.
+   [Park, Jerry Z.; Kendall, Diana] Baylor Univ, Waco, TX 76798 USA.
+RP Thomson, RA (corresponding author), Rice Univ, Dept Sociol, 6100 Main St,MS-28, Houston, TX 77005 USA.; Thomson, RA (corresponding author), Rice Univ, Relig & Publ Life Program, 6100 Main St,MS-28, Houston, TX 77005 USA.
+EM bt@rice.edu
+RI Park, Jerry Z./AAB-6923-2020
+NR 66
+TC 2
+Z9 2
+U1 0
+U2 0
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD NOV
+PY 2019
+VL 66
+IS 4
+BP 626
+EP 644
+DI 10.1093/socpro/spy024
+PG 19
+WC Sociology
+SC Sociology
+GA JP3LN
+UT WOS:000498169100008
+DA 2021-03-19
+ER
+
+PT J
+AU Stuart, F
+   Benezra, A
+AF Stuart, Forrest
+   Benezra, Ava
+TI Criminalized Masculinities: How Policing Shapes the Construction of
+   Gender and Sexuality in Poor Black Communities (vol 65, pg 174, 2018)
+SO SOCIAL PROBLEMS
+LA English
+DT Correction
+EM for-reststuart@uchicago.edu
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 1
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD NOV
+PY 2019
+VL 66
+IS 4
+BP 655
+EP 655
+DI 10.1093/socpro/spx037
+PG 1
+WC Sociology
+SC Sociology
+GA JP3LN
+UT WOS:000498169100009
+OA Bronze
+DA 2021-03-19
+ER
+
+PT J
+AU Sutton, A
+   Langenkamp, AG
+   Muller, C
+   Schiller, KS
+AF Sutton, April
+   Langenkamp, Amy G.
+   Muller, Chandra
+   Schiller, Kathryn S.
+TI Who Gets Ahead and Who Falls Behind During the Transition to High
+   School? Academic Performance at the Intersection of Race/Ethnicity and
+   Gender (vol 65, pg 154, 2018)
+SO SOCIAL PROBLEMS
+LA English
+DT Correction
+FU National Institute of Child Health and Human Development (NICHD)United
+   States Department of Health & Human ServicesNational Institutes of
+   Health (NIH) - USANIH Eunice Kennedy Shriver National Institute of Child
+   Health & Human Development (NICHD) [R01 HD040428-02]; National Science
+   FoundationNational Science Foundation (NSF) [REC-0126167]; Eunice
+   Kennedy Shriver NICHDUnited States Department of Health & Human
+   ServicesNational Institutes of Health (NIH) - USANIH Eunice Kennedy
+   Shriver National Institute of Child Health & Human Development (NICHD)
+   [5 R24 HD042849, 5 T32 HD007081]
+FX This research uses data from the AHAA study, which was funded by a grant
+   (R01 HD040428-02, Chandra Muller, PI) from the National Institute of
+   Child Health and Human Development (NICHD) and a grant (REC-0126167,
+   Chandra Muller, PI, and Pedro Reyes, Co-PI) from the National Science
+   Foundation. This research was also supported by Grant 5 R24 HD042849,
+   Population Research Center, and Grant 5 T32 HD007081, Training Program
+   in Population Studies, awarded to the Population Research Center at The
+   University of Texas at Austin by the Eunice Kennedy Shriver NICHD. Any
+   opinions, findings, and recommendations presented here are those of the
+   authors and do not necessarily reflect the views of the granting
+   agencies.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD NOV
+PY 2019
+VL 66
+IS 4
+BP 656
+EP 656
+DI 10.1093/socpro/spy028
+PG 1
+WC Sociology
+SC Sociology
+GA JP3LN
+UT WOS:000498169100010
+PM 31666753
+OA Green Published, Bronze
+DA 2021-03-19
+ER
+
+PT J
+AU Dingeman, K
+AF Dingeman, Katie
+TI Segmented Re/integration: Divergent Post-Deportation Trajectories in El
+   Salvador (vol 65, pg 116, 2018)
+SO SOCIAL PROBLEMS
+LA English
+DT Correction
+EM mdingem@calstatela.edu
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD NOV
+PY 2019
+VL 66
+IS 4
+BP 657
+EP 657
+DI 10.1093/socpro/spy004
+PG 1
+WC Sociology
+SC Sociology
+GA JP3LN
+UT WOS:000498169100011
+OA Bronze
+DA 2021-03-19
+ER
+
+PT J
+AU Sutton, A
+   Langenkamp, AG
+   Muller, C
+   Schiller, KS
+AF Sutton, April
+   Langenkamp, Amy G.
+   Muller, Chandra
+   Schiller, Kathryn S.
+TI Who Gets Ahead and Who Falls Behind During the Transition to High
+   School? Academic Performance at the Intersection of Race/Ethnicity and
+   Gender (vol 65, pg 154, 2018)
+SO SOCIAL PROBLEMS
+LA English
+DT Correction
+EM asutton@ucsd.edu
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD NOV
+PY 2019
+VL 66
+IS 4
+BP 658
+EP 658
+DI 10.1093/socpro/spy006
+PG 1
+WC Sociology
+SC Sociology
+GA JP3LN
+UT WOS:000498169100012
+OA Green Published, Bronze
+DA 2021-03-19
+ER
+
+PT J
+AU Denney, JT
+   Kimbro, RT
+   Sharp, G
+AF Denney, Justin T.
+   Kimbro, Rachel Tolbert
+   Sharp, Gregory
+TI Neighborhoods and Food Insecurity in Households with Young Children: A
+   Disadvantage Paradox? (vol 65, pg 342, 2018)
+SO SOCIAL PROBLEMS
+LA English
+DT Correction
+EM justin.denney@wsu.edu
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD NOV
+PY 2019
+VL 66
+IS 4
+BP 659
+EP 659
+DI 10.1093/socpro/spx033
+PG 1
+WC Sociology
+SC Sociology
+GA JP3LN
+UT WOS:000498169100013
+OA Bronze
+DA 2021-03-19
+ER
+
+PT J
+AU Schildkraut, DJ
+   Jimenez, TR
+   Dovidio, JF
+   Huo, YJ
+AF Schildkraut, Deborah J.
+   Jimenez, Tomas R.
+   Dovidio, John F.
+   Huo, Yuen J.
+TI A Tale of Two States: How State Immigration Climate Affects Belonging to
+   State and Country among Latinos
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE Latinos; immigration; Arizona; New Mexico; identity; belonging
+ID ACCULTURATION; DIVERSITY; IDENTITY; IDENTIFICATION; ENGAGEMENT;
+   AMERICAN; THREAT; TRUST; LAW
+AB This study assesses the impact of different immigrant policy climates on how Latinos feel about themselves, their place in their state and country, and how they think they are viewed by others. Using survey data from Arizona and New Mexico, we find that Latinos in Arizona exhibit lower levels of belonging than Latinos in New Mexico, but their alienation is confined to the state level. We also find that the U.S. born are most sensitive to the state climate. We conclude that policies that delineate outsiders from insiders by immigration status have wide ranging effects that fall prominently on the U.S. born.
+C1 [Schildkraut, Deborah J.] Tufts Univ, Medford, MA 02155 USA.
+   [Jimenez, Tomas R.] Stanford Univ, Stanford, CA 94305 USA.
+   [Dovidio, John F.] Yale Univ, New Haven, CT 06520 USA.
+   [Huo, Yuen J.] Univ Calif Los Angeles, Los Angeles, CA USA.
+RP Schildkraut, DJ (corresponding author), Tufts Univ, Polit Sci, Medford, MA 02155 USA.
+EM deborah.schildkraut@tufts.edu
+FU United Parcel Service Endowment Fund at Stanford University; Russell
+   Sage Foundation
+FX The authors with to thank Anna Boch, Marlene Orozco, and Zachary Shufro
+   for their research assistance and Monica Varsanyi and David Fitzgerald
+   for their feedback. They also wish to thank the United Parcel Service
+   Endowment Fund at Stanford University and the Russell Sage Foundation.
+NR 80
+TC 6
+Z9 6
+U1 0
+U2 0
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD AUG
+PY 2019
+VL 66
+IS 3
+BP 332
+EP 355
+DI 10.1093/socpro/spy008
+PG 24
+WC Sociology
+SC Sociology
+GA JH8ZZ
+UT WOS:000493058100002
+DA 2021-03-19
+ER
+
+PT J
+AU Wong, TK
+   Garcia, AS
+   Valdivia, C
+AF Wong, Tom K.
+   Garcia, Angela S.
+   Valdivia, Carolina
+TI The Political Incorporation of Undocumented Youth
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE international migration; undocumented youth; DACA (Deferred Action for
+   Childhood Arrivals); political participation; organizational membership
+ID CIVIC ENGAGEMENT; PARTICIPATION; LATINO; IMMIGRANTS; MOBILIZATION;
+   EDUCATION; 2ND-GENERATION; NATURALIZATION; SOCIALIZATION; SELECTION
+AB This article develops and empirically tests a model of political incorporation for undocumented youth in the United States, focusing on nonvoting forms of political engagement. Using one of the first nationwide surveys of undocumented millennials between the ages of 18 and 35 ( n 1/4 1,472), we show that (1) undocumented youth express much higher levels of political efficacy and participation than the literature on immigrant political incorporation leads us to expect, (2) membership in organizations that work on immigration-related issues is a main determinant of this sense of political efficacy, and (3) through mediation analysis, that organizational membership (the mediator) influences how political efficacy affects political participation, and not the other way around. The literature on immigrant political incorporation is vast, but precedent studies too often focus on formal acts of political participation, such as naturalization and voting, by those with lawful immigration status. With an analytical focus on youth without lawful immigration status, this article contributes to theoretical and empirical knowledge about how and to what extent undocumented youth become politically active and engaged despite the many obstacles that exist to their formal participation in politics.
+C1 [Wong, Tom K.] Univ Calif San Diego, La Jolla, CA 92093 USA.
+   [Garcia, Angela S.] Univ Chicago, Chicago, IL 60637 USA.
+   [Valdivia, Carolina] Harvard Univ, Cambridge, MA 02138 USA.
+RP Wong, TK (corresponding author), Univ Calif San Diego, Dept Polit Sci, 9500 Gilman Dr, La Jolla, CA 92093 USA.
+EM tomkwong@ucsd.edu
+NR 85
+TC 0
+Z9 0
+U1 1
+U2 5
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD AUG
+PY 2019
+VL 66
+IS 3
+BP 356
+EP 372
+DI 10.1093/socpro/spy009
+PG 17
+WC Sociology
+SC Sociology
+GA JH8ZZ
+UT WOS:000493058100003
+DA 2021-03-19
+ER
+
+PT J
+AU Somashekhar, M
+AF Somashekhar, Mahesh
+TI Neither Here nor There? How the New Geography of Ethnic Minority
+   Entrepreneurship Disadvantages African Americans
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE ethnic economies; immigrant entrepreneurship; black-owned businesses;
+   international migration; race/ethnicity
+ID SMALL-BUSINESS; IMMIGRANT; NETWORKS
+AB Recent research shows that the foreign born utilize both local and long-distance social relationships to become entrepreneurs, affecting immigrants' chances at upward mobility and their contributions to economic development. Scholars have yet to assess how African American entrepreneurs take part in similar types of geographically dispersed business communities. Using multi-level social network analyses and OLS regressions to compare the geography of buyer-supplier ties originating from one immigrant neighborhood and one African American neighborhood in Chicago, this article highlights a unique mechanism that places African Americans at a disadvantage compared to immigrants: a lack of geographic diversity in African American social capital. Immigrant entrepreneurs' social networks, unlike African Americans' networks, connect the foreign born to more people in different places, enabling them to circumvent the limitations of their local communities and accrue more business assets. Contrary to existing research, many foreign-born business owners in this study relied on intra-national rather than local or transnational social ties. These findings challenge researchers to reevaluate the geographic foundations of immigrant and African American entrepreneurship and reexamine how ethnic minority entrepreneurship affects patterns of social stratification and economic development.
+C1 [Somashekhar, Mahesh] Univ Illinois, Chicago, IL 60607 USA.
+RP Somashekhar, M (corresponding author), Univ Illinois, Dept Sociol, 4112 Behav Sci Bldg,1007 West Harrison St MC 312, Chicago, IL 60607 USA.
+EM msoma@uic.edu
+OI Somashekhar, Mahesh/0000-0003-2447-0317
+NR 66
+TC 1
+Z9 1
+U1 3
+U2 7
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD AUG
+PY 2019
+VL 66
+IS 3
+BP 373
+EP 391
+DI 10.1093/socpro/spy010
+PG 19
+WC Sociology
+SC Sociology
+GA JH8ZZ
+UT WOS:000493058100004
+DA 2021-03-19
+ER
+
+PT J
+AU Sanderson, MR
+   Hughes, V
+AF Sanderson, Matthew R.
+   Hughes, Vivian
+TI Race to the Bottom (of the Well): Groundwater in an Agricultural
+   Production Treadmill
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE water; agriculture; treadmill; environment; modernization
+ID CROSS-NATIONAL ANALYSIS; UNEQUAL EXCHANGE; ENVIRONMENTAL DEGRADATION;
+   ECOLOGICAL MODERNIZATION; METABOLIC RIFTS; WORLD-SYSTEM; HIGH-PLAINS;
+   WATER; ECONOMY; DEFORESTATION
+AB Groundwater from the Ogallala-High Plains Aquifer supports one of the most productive agriculture regions in the world. Yet, despite nearly 40 years of policies designed to conserve and sustain this vital resource, the Aquifer continues to be depleted at an unsustainable rate. We integrate propositions from treadmill of production theory and ecological modernization theory to develop a structural model, focusing especially on the role of technological modernization as a key mechanism motivating depletion. A time-sequenced path analysis of all counties in the Ogallala Aquifer region reveals that groundwater depletion has a strong internal momentum characteristic of an agricultural production treadmill. Technological modernization promotes depletion through Jevon's Paradox. Increases in water efficiency-more crop per drop-are associated with less groundwater consumption, but more extensive deployments of irrigation infrastructures overwhelm the beneficial effects of increased water efficiency. An income-subsidy mechanism supports the treadmill dynamic. Agricultural production and increased water efficiency do not influence incomes. Instead, incomes are influenced mainly by expansions of irrigation technologies, which generates subsidies, and this dynamic puts further "spin" on the treadmill. The implications of the findings for theory and policy are discussed.
+C1 [Sanderson, Matthew R.] Kansas State Univ, Manhattan, KS 66506 USA.
+   [Hughes, Vivian] Florida State Univ, Tallahassee, FL 32306 USA.
+RP Sanderson, MR (corresponding author), Kansas State Univ, Dept Sociol, 204 Waters Hall,1603 Old Claflin Pl, Manhattan, KS 66506 USA.
+EM mattrs@ksu.edu
+FU U.S. National Science FoundationNational Science Foundation (NSF)
+   [1313185]; U.S. Department of AgricultureUnited States Department of
+   Agriculture (USDA) [2016-68007-25066]
+FX This work was supported by the U.S. National Science Foundation [award
+   number 1313185]; and the U.S. Department of Agriculture [award number
+   2016-68007-25066].
+NR 86
+TC 1
+Z9 1
+U1 3
+U2 10
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD AUG
+PY 2019
+VL 66
+IS 3
+BP 392
+EP 410
+DI 10.1093/socpro/spy011
+PG 19
+WC Sociology
+SC Sociology
+GA JH8ZZ
+UT WOS:000493058100005
+OA Bronze
+DA 2021-03-19
+ER
+
+PT J
+AU Sweet, PL
+AF Sweet, Paige L.
+TI The Paradox of Legibility: Domestic Violence and Institutional
+   Survivorhood
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE medicalization; domestic violence; identity; gender; sexuality
+ID IMMIGRATION LAW; WOMEN; GENDER; CONSTRUCTION; PROTECTION; VICTIMS;
+   STATE; RACE
+AB Existing literature has demonstrated that victims of domestic violence and rape undergo processes of discipline when they interact with legal structures, transforming themselves into "worthy victims." Intervening in this literature, I show how the medicalization of institutions surrounding domestic violence creates conditions under which women must prove their survivorhood, performing psychological recovery to achieve institutional legibility. Legal and therapeutic institutions create a matrix of demands on women's lives, shaping their practices of survival and performances of self. Through interviews with domestic violence survivors, I show that women engage three strategies of transformation to make themselves credible survivors: (1) extracting domestic violence from their life stories; (2) explaining abuse through "self-esteem;" (3) performing survivorhood through "respectable" motherhood and sexuality. Through these processes, women craft a domestic violence narrative and an institutional performance of survivorhood, both of which allow them to navigate institutional pressures. These therapeutic narratives and performances, however, also rewrite the structural elements of violence into (feminized) accounts of psychological failure and overcoming. Thus, women navigate a paradox when they become survivors: they must tell stories of psychological recovery, even as those stories obfuscate the very infrastructure of violence. It is this disjuncture between individualized narratives of harm and the structural work of survival that I examine in this work. I develop the concept of the "paradox of legibility" to generalize this disjuncture, and to highlight women's labor of making themselves credible amidst structural and institutional constraints.
+C1 [Sweet, Paige L.] Univ Illinois, Chicago, IL 60607 USA.
+RP Sweet, PL (corresponding author), Univ Illinois, Dept Sociol, 1007 W Harrison,MC 312, Chicago, IL 60607 USA.
+EM psweet2@uic.edu
+FU National Science FoundationNational Science Foundation (NSF); Academy of
+   Learned Societies/Mellon Foundation
+FX The author would like to thank Claire Decoteau, Jody Ahlm, Kelly
+   Underman, and Danielle Giffort for their generous comments and advice on
+   this article, as well as the anonymous reviewers at Social Problems.
+   This work was supported by the National Science Foundation and the
+   Academy of Learned Societies/Mellon Foundation.
+NR 56
+TC 2
+Z9 2
+U1 0
+U2 1
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD AUG
+PY 2019
+VL 66
+IS 3
+BP 411
+EP 427
+DI 10.1093/socpro/spy012
+PG 17
+WC Sociology
+SC Sociology
+GA JH8ZZ
+UT WOS:000493058100006
+OA Bronze
+DA 2021-03-19
+ER
+
+PT J
+AU Becker, JH
+AF Becker, Jacob H.
+TI Within-Neighborhood Dynamics: Disadvantage, Collective Efficacy, and
+   Homicide Rates in Chicago
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE homicide; neighborhood dynamics; collective efficacy; GWR; Chicago
+ID SOCIAL DISORGANIZATION THEORY; VIOLENT CRIME; COMMUNITY STRUCTURE;
+   SPATIAL DYNAMICS; LEGAL CYNICISM; VICTIMIZATION; ORGANIZATION;
+   DEPRIVATION; DIRECTIONS; MULTILEVEL
+AB Research on neighborhood structural conditions like concentrated disadvantage and crime largely focuses on between-neighborhood differences; for example, places with more disadvantage are expected to experience higher homicide rates. However, empirical research often does not consider within-neighborhood dynamics of structural stability and change. Furthermore, several recent studies have found cross-sectional associations between structural variables and crime outcomes can vary significantly across units, violating a key assumption of global modeling strategies. The current work explores if and how historical changes in disadvantage influence neighborhood collective efficacy and homicide rates, net of the level of disadvantage at a given time point. Collective efficacy theoretically mediates the relationship between conditions and crime, and is hypothesized to be the mechanism through which structural change influences homicide rates. It is also hypothesized that spatial variation in cross-sectional associations between disadvantage and social outcomes can be explained by accounting for within-neighborhood changes in disadvantage. Using a sample of Chicago neighborhoods and ordinary least squares and geographically weighted regression models, I find that within-neighborhood changes in disadvantage significantly predict neighborhood collective efficacy, though the effects of this change on homicide rates are not completely mediated by collective efficacy. Within-neighborhood change completely accounts for spatial variation in cross- sectional associations, offering one explanation of prior research findings. Within-neighborhood structural changes appear to disrupt collective efficacy and contribute to higher homicide rates than predicted by the level of disadvantage alone.
+C1 [Becker, Jacob H.] Oakland Univ, 518 Varner Hall, Rochester, MI 48309 USA.
+RP Becker, JH (corresponding author), Oakland Univ, 518 Varner Hall, Rochester, MI 48309 USA.
+EM jhbecker@oakland.edu
+OI Becker, Jacob/0000-0003-4274-7834
+NR 56
+TC 1
+Z9 1
+U1 0
+U2 0
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD AUG
+PY 2019
+VL 66
+IS 3
+BP 428
+EP 447
+DI 10.1093/socpro/spy013
+PG 20
+WC Sociology
+SC Sociology
+GA JH8ZZ
+UT WOS:000493058100007
+DA 2021-03-19
+ER
+
+PT J
+AU Howell, J
+   Elliott, JR
+AF Howell, Junia
+   Elliott, James R.
+TI Damages Done: The Longitudinal Impacts of Natural Hazards on Wealth
+   Inequality in the United States
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE wealth inequality; social inequality; natural hazards; disasters; FEMA
+   aid
+ID TOP 1 PERCENT; VULNERABILITY; KATRINA; RACE
+AB This study investigates a largely ignored contributor to wealth inequality in the United States: damages from natural hazards, which are expected to increase substantially in coming years. Instead of targeting a specific large-scale disaster and assessing how different sub-populations recover, we begin with a nationally representative sample of respondents from the restricted, geocoded Panel Study of Income Dynamics. We follow them through time (1999-2013) as hazard damages of varying scales accrue in the counties where they live. This design synthesizes the longitudinal, population-centered approach common in stratification research with a broad hazard-centered focus that extends beyond disasters to integrate ongoing environmental dynamics more centrally into the production of social inequality. Results indicate that as local hazard damages increase, so does wealth inequality, especially along lines of race, education, and homeownership. At any given level of local damage, the more aid an area receives from the Federal Emergency Management Agency, the more this inequality grows. These findings suggest that two defining social problems of our day - wealth inequality and rising natural hazard damages - are dynamically linked, requiring new lines of research and policy making in the future.
+C1 [Howell, Junia] Univ Pittsburgh, Pittsburgh, PA 15260 USA.
+   [Elliott, James R.] Rice Univ, Houston, TX 77251 USA.
+RP Howell, J (corresponding author), Univ Pittsburgh, Dept Sociol, 2421 Wesley Posvar Hall,230 South Bouquet St, Pittsburgh, PA 15260 USA.
+EM JuniaHowell@pitt.edu
+OI Howell, Junia/0000-0003-4631-7225
+NR 41
+TC 28
+Z9 28
+U1 5
+U2 8
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD AUG
+PY 2019
+VL 66
+IS 3
+BP 448
+EP 467
+DI 10.1093/socpro/spy016
+PG 20
+WC Sociology
+SC Sociology
+GA JH8ZZ
+UT WOS:000493058100008
+OA Bronze
+DA 2021-03-19
+ER
+
+PT J
+AU Valdez, A
+   Nowotny, KM
+   Zhao, QW
+   Cepeda, A
+AF Valdez, Avelardo
+   Nowotny, Kathryn M.
+   Zhao, Qian-Wei
+   Cepeda, Alice
+TI Interpersonal Partner Relationships, Bonds to Children, and Informal
+   Social Control among Persistent Male Offenders
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE crime; partners; informal social control; Mexican Americans; offenders
+ID ADOLESCENT ROMANTIC RELATIONSHIPS; RELATIONSHIP QUALITY; LIFE-COURSE;
+   DRUG-USE; CRIME; DESISTANCE; MARRIAGE; AMERICAN; COHABITATION;
+   TRANSITION
+AB This qualitative study applied a life course framework to characterize the nature of interpersonal partner relationships of Mexican American young adult men affiliated with street gangs during their adolescence. Data come from a 15-year longitudinal mixed-method cohort study conducted in San Antonio, Texas. We analyzed semi-structured interviews conducted with a subsample (n = 40) during the course of three face-to-face sessions to explore the men's motivations, aspirations, and goals to lead conventional lives, despite their criminal justice involvement. Specifically, we focus on the complex nature of maintaining ties to children, the navigation of complicated family structures, the processes of seeking partners with economic resources, and on partnerships with criminal and delinquent partners. We document the complex interpersonal nature of these relationships as men contend with serial incarceration and their desires and motivations to desist from criminal behavior.
+C1 [Valdez, Avelardo; Zhao, Qian-Wei; Cepeda, Alice] Univ Southern Calif, Los Angeles, CA USA.
+   [Nowotny, Kathryn M.] Univ Miami, Coral Gables, FL 33124 USA.
+RP Valdez, A (corresponding author), Univ Southern Calif, Sch Social Work, 1150 S Olive St,Suite 1400, Los Angeles, CA 90007 USA.
+EM avelardv@usc.edu
+OI Zhao, Qianwei/0000-0001-8065-831X
+FU National Institutes of Health, the National Institute on Drug Abuse
+   [R01DA023857]
+FX This work was supported by the National Institutes of Health, the
+   National Institute on Drug Abuse [R01DA023857]. The research contained
+   in this document was coordinated in part by the Texas Department of
+   Criminal Justice (616-RM10). The contents of this document reflect the
+   views of the authors and do not necessarily reflect the views or
+   policies of the Texas Department of Criminal Justice.
+NR 65
+TC 2
+Z9 2
+U1 1
+U2 4
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD AUG
+PY 2019
+VL 66
+IS 3
+BP 468
+EP 483
+DI 10.1093/socpro/spy018
+PG 16
+WC Sociology
+SC Sociology
+GA JH8ZZ
+UT WOS:000493058100009
+PM 31354176
+OA Green Published
+DA 2021-03-19
+ER
+
+PT J
+AU Fernandez, LA
+AF Fernandez, Luis A.
+TI Presidential Address: Abolitionist Approaches to Social Problems
+SO SOCIAL PROBLEMS
+LA English
+DT Editorial Material
+ID PATTERN; LIMITS
+C1 [Fernandez, Luis A.] No Arizona Univ, Flagstaff, AZ 86011 USA.
+RP Fernandez, LA (corresponding author), No Arizona Univ, Flagstaff, AZ 86011 USA.
+EM LUIS.FERNANDEZ@nau.edu
+NR 50
+TC 0
+Z9 0
+U1 0
+U2 1
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD AUG
+PY 2019
+VL 66
+IS 3
+BP 321
+EP 331
+DI 10.1093/socpro/spz012
+PG 11
+WC Sociology
+SC Sociology
+GA JH8ZZ
+UT WOS:000493058100001
+DA 2021-03-19
+ER
+
+PT J
+AU Reynolds, C
+AF Reynolds, Celene
+TI The Mobilization of Title IX across US Colleges and Universities,
+   1994-2014
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE gender; higher education; law and society; legal mobilization; sex
+   discrimination; Title IX
+ID LEGAL MOBILIZATION; GENDER; RACE; CONTEXT; WOMEN; DISCRIMINATION;
+   EXPLANATIONS; RIGHTS; IMPACT; SEX
+AB Title IX has been widely recognized as a crucial step toward gender equality in America. Yet, it remains unclear how the law actually functions, particularly how it has been used in response to gender disparities in higher education. This article provides the first systematic analysis of how Title IX has been mobilized at the postsecondary level. Drawing on new data acquired through seven Freedom of Information Act requests, I analyze all resolved Title IX complaints filed with the Office for Civil Rights against four-year nonprofit colleges and universities from 1994 to 2014. I find that the mobilization of Title IX has changed both in frequency and in kind during this period. Filings started to rise after 2000 and exploded after 2009, while sexual harassment complaints nearly equaled academic and athletic filings for the first time in 2014. Private, more selective institutions as well as schools located in states with more women serving in state legislatures face a disproportionate number of complaints relative to enrollment, indicating the importance of institutional context to legal mobilization.
+C1 [Reynolds, Celene] Yale Univ, New Haven, CT USA.
+RP Reynolds, C (corresponding author), Yale Univ, Dept Sociol, POB 208265, New Haven, CT 06520 USA.
+EM celene.reynolds@yale.edu
+FU National Science FoundationNational Science Foundation (NSF)
+   [SES-1539872]; Horowitz Foundation for Social Policy
+FX The author wishes to thank Julia Adams, Rene Almeling, Emily Erikson,
+   Lloyd Grieger, Marissa King, Vida Maralani, Michael Weaver, Christopher
+   Wildeman, Tom Tyler, and the anonymous reviewers. Research for this
+   article was supported by the National Science Foundation (SES-1539872)
+   and the Horowitz Foundation for Social Policy.
+NR 89
+TC 5
+Z9 5
+U1 0
+U2 1
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD MAY
+PY 2019
+VL 66
+IS 2
+BP 245
+EP 273
+DI 10.1093/socpro/spy005
+PG 29
+WC Sociology
+SC Sociology
+GA IT0TE
+UT WOS:000482559100004
+DA 2021-03-19
+ER
+
+PT J
+AU Beyerlein, K
+   Sikkink, D
+   Hernandez, E
+AF Beyerlein, Kraig
+   Sikkink, David
+   Hernandez, Edwin
+TI Citizenship, Religion, and Protest: Explaining Latinos' Differential
+   Participation in the 2006 Immigrant Rights Marches
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE religion; social movements; immigration; citizenship; protest
+ID MOBILIZATION; IDENTITY; INSPIRATION; ATTITUDES; CONTEXT; OPIATE
+AB Does religion promote or deter political activism? Most arguments and evidence on this question do not account for variation by social position. We argue that for the 2006 spring immigrant rights marches understanding the influence of religion on participation requires a careful assessment of the relationship between various dimensions of religion and the risks, barriers, and motivations that are rooted in citizenship status of potential participants. Dimensions that enhance efficacy are important for overcoming the participation obstacles that noncitizens faced. In contrast, dimensions that contributed to solidarity, opportunities, and framing fostered citizens' mobilization. Our findings from the Pew Hispanic Center and the Pew Forum on Religion and Public Life national survey of Latinos are consistent with the view that Charismatic identity and a salient personal religious faith were sources of empowerment that inspired noncitizen participation. Conversely, the emphasis on "law and order" of the biblical literalist as well as the pietistic orientation of a faith marked by personal prayer hindered marching among Latino noncitizens. Catholic and mainline Protestant traditions and a close association between faith and politics influenced citizen protest but not noncitizen involvement. Integration into congregations activated for immigrant rights and involvement in congregation-based volunteerism encouraged participation for both citizens and noncitizens.
+C1 [Beyerlein, Kraig; Sikkink, David; Hernandez, Edwin] Univ Notre Dame, Notre Dame, IN 46556 USA.
+RP Beyerlein, K (corresponding author), Univ Notre Dame, Dept Sociol, 4044 Jenkins & Nanovic Halls, Notre Dame, IN 46556 USA.
+EM kbeyerl1@nd.edu
+NR 82
+TC 1
+Z9 1
+U1 0
+U2 0
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD MAY
+PY 2019
+VL 66
+IS 2
+BP 163
+EP 193
+DI 10.1093/socpro/spx047
+PG 31
+WC Sociology
+SC Sociology
+GA IT0TE
+UT WOS:000482559100001
+DA 2021-03-19
+ER
+
+PT J
+AU Stewart, EA
+   Johnson, BD
+   Warren, PY
+   Rosario, JL
+   Hughes, C
+AF Stewart, Eric A.
+   Johnson, Brian D.
+   Warren, Patricia Y.
+   Rosario, Jordyn L.
+   Hughes, Cresean
+TI The Social Context of Criminal Threat, Victim Race, and Punitive Black
+   and Latino Sentiment
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE criminal threat; victim race; punitive sentiment; social control;
+   victim-offender dyads
+ID POLICE FORCE SIZE; MINORITY THREAT; RACIAL DISPARITIES; DEATH-PENALTY;
+   CAPITAL-PUNISHMENT; VIOLENT CRIME; FEAR; PERCEPTIONS; ETHNICITY;
+   NEIGHBORHOOD
+AB A well-established body of research focuses on the relationship between criminal threat and the exercise of formal social control, and a largely separate literature examines the effects of victim race in criminal punishment. Despite their close association, few attempts have been made to integrate these related lines of empirical inquiry in the sociology of punishment. In this article, we address this issue by examining relationships among criminal threat, victim race, and punitive sentiment toward black and Latino defendants. We analyze nationally representative survey data that include both subjective and objective measures of criminal threat, and we incorporate unique information on victim/offender dyads to test research questions about the that role victim race plays in the formation of anti-black and anti-Latino sentiment in the criminal justice system. The results indicate that both subjective perceptions of criminal threat and minority population growth are significantly related to punitiveness among whites, and that punitive sentiment is enhanced in situations that involve minority offenders and white victims. Moreover, we show that aggregate indicators of racial threat strongly condition the effect of victim race on punitive attitudes. Implications of these findings are discussed in relation to racial group threat theories and current perspectives on the exercise of state-sponsored social control.
+C1 [Stewart, Eric A.; Warren, Patricia Y.; Rosario, Jordyn L.] Florida State Univ, Tallahassee, FL 32306 USA.
+   [Johnson, Brian D.] Univ Maryland, College Pk, MD 20742 USA.
+   [Hughes, Cresean] Univ Delaware, Newark, DE 19716 USA.
+RP Stewart, EA (corresponding author), Florida State Univ, Coll Criminol & Criminal Justice, Eppes Hall,112 S Copeland St, Tallahassee, FL 32306 USA.
+EM estewart2@fsu.edu
+NR 118
+TC 3
+Z9 3
+U1 0
+U2 3
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD MAY
+PY 2019
+VL 66
+IS 2
+BP 194
+EP 221
+DI 10.1093/socpro/spy003
+PG 28
+WC Sociology
+SC Sociology
+GA IT0TE
+UT WOS:000482559100002
+OA Bronze
+DA 2021-03-19
+ER
+
+PT J
+AU Meuleman, B
+   Abts, K
+   Slootmaeckers, K
+   Meeusen, C
+AF Meuleman, Bart
+   Abts, Koen
+   Slootmaeckers, Koen
+   Meeusen, Cecil
+TI Differentiated Threat and the Genesis of Prejudice: Group-Specific
+   Antecedents of Homonegativity, Islamophobia, Anti-Semitism, and
+   Anti-Immigrant Attitudes
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE generalized prejudice; anti-Semitism; homonegativity; Islamophobia;
+   differentiated threat approach
+ID SOCIAL-DOMINANCE ORIENTATION; RIGHT-WING AUTHORITARIANISM; OUTGROUP
+   ATTITUDES; GAY MEN; POPULATIONS; DIMENSIONS; LESBIANS; POSITION;
+   RELIGION; EUROPE
+AB In this article, we argue that an exclusive focus on the generalized aspect of prejudice limits understanding of the structure and genesis of prejudice towards particular outgroups. In order to conceptualize the specific nature of particular prejudices, we propose the differentiated threat approach. This framework postulates that different outgroups challenge diverse realistic and symbolic interests, and that these outgroup specific threats affect various socioeconomic strata and cultural groups differentially. The differentiated threat approach is applied to analyse majority-group Belgians' attitudes towards immigrants, Muslims, Jews, and homosexuals. The results show that a common denominator of prejudice can be distinguished, but that the prejudices towards the various outgroups contain substantively relevant unique components that are influenced by socio-demographic and attitudinal predictors in diverging ways. Gender traditionalism is found to reinforce Homonegativity and temper Islamophobia at the same time. Feelings of relative deprivation are more strongly related to Islamophobia than to other forms of prejudice, and are unrelated to homonegativity. Religious involvement plays a more decisive role in the formation of anti-Semitism and Homonegativity than it does in the other forms of prejudice. Anti-immigration attitudes show a class gradient that is absent in attitudes towards other outgroups. Our results evidence that the concrete realization of attitudes towards a specific outgroup cannot be understood without paying attention to structural and contextual factors, such as social positions, the nature of intergroup relations, power balances, and elite discourses.
+C1 [Meuleman, Bart; Abts, Koen; Slootmaeckers, Koen; Meeusen, Cecil] Univ Leuven, Leuven, Belgium.
+   [Slootmaeckers, Koen] City Univ London, London, England.
+RP Meuleman, B (corresponding author), Pk Str 45,Box 3601, B-3000 Leuven, Belgium.
+EM bart.meuleman@kuleuven.be
+RI Abts, Koen/AAG-9331-2019
+OI Abts, Koen/0000-0001-8546-8347; Slootmaeckers, Koen/0000-0002-1189-5095
+FU KU Leuven research councilKU Leuven [OT/13/30]; Belgian National
+   Lottery; National Science Foundation FWO-Vlaanderen [ZKC6622-Asp/13]
+FX This study was made possible by grants from KU Leuven research council
+   (OT/13/30), the Belgian National Lottery, and the National Science
+   Foundation FWO-Vlaanderen (Grant Number ZKC6622-Asp/13).
+NR 65
+TC 12
+Z9 12
+U1 5
+U2 15
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD MAY
+PY 2019
+VL 66
+IS 2
+BP 222
+EP 244
+DI 10.1093/socpro/spy002
+PG 23
+WC Sociology
+SC Sociology
+GA IT0TE
+UT WOS:000482559100003
+OA Green Accepted
+DA 2021-03-19
+ER
+
+PT J
+AU Tach, L
+   Halpern-Meekin, S
+   Edin, K
+   Amorim, M
+AF Tach, Laura
+   Halpern-Meekin, Sarah
+   Edin, Kathryn
+   Amorim, Mariana
+TI "As Good as Money in the Bank": Building a Personal Safety Net with the
+   Earned Income Tax Credit
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE economic insecurity; economic mobility; social policy; qualitative and
+   mixed methods
+ID INSTABILITY; INEQUALITY; TIME; CONSEQUENCES; INSECURITY; HOUSEHOLDS;
+   MOBILITY; CHILDREN; SAVINGS
+AB The public safety net has increasingly functioned as a system that rewards work, but many low-wage workers now face a double bind: unstable incomes and volatile expenses. We ask how low-wage workers make resource allocation decisions under conditions of uncertainty by examining how they spend and save their tax refunds. Using data from in-depth interviews with a sample of 115 lower-income working families, we find that more than three quarters of families experienced an income or expense shock in the past three years. Although many had aspirations for upward mobility, the insecurity of daily life meant they devoted most of their refund dollars to creating a personal safety net to cushion against income and expense shocks. What appeared to be distinct types of allocations often had the same underlying rationale goal of improving a family's economic security in the near term. By saving, purchasing durable goods, stockpiling household staples, and paying off debts to kin and creditors at tax refund time, families leveraged their tax refund dollars into multiple forms of self-insurance. Respondents held aspirations for upward mobility that correspond strongly with those of middle-class Americans, but they did not feel they had the luxury of setting aside resources for long-term mobility goals given the instability and insecurity of their work and family lives. Instead, they invested their refunds in more precautionary ways. What might be viewed as current consumption by outsiders was actually a form of in-kind investment that occurred outside the purview of the formal banking system.
+C1 [Tach, Laura; Amorim, Mariana] Cornell Univ, 253 Martha van Rensselaer Hall, Ithaca, NY 14853 USA.
+   [Halpern-Meekin, Sarah] Univ Wisconsin, Madison, WI USA.
+   [Edin, Kathryn] Princeton Univ, Princeton, NJ 08544 USA.
+RP Tach, L (corresponding author), Cornell Univ, 253 Martha van Rensselaer Hall, Ithaca, NY 14853 USA.
+EM lauratach@cornell.edu
+FU Ford Foundation
+FX The authors thank the Ford Foundation for funding the data collection.
+   Previous versions of this article were presented at the annual meetings
+   of the American Sociological Association and the Association for Public
+   Policy Analysis and Management in 2014.
+NR 68
+TC 5
+Z9 5
+U1 1
+U2 5
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD MAY
+PY 2019
+VL 66
+IS 2
+BP 274
+EP 293
+DI 10.1093/socpro/spy001
+PG 20
+WC Sociology
+SC Sociology
+GA IT0TE
+UT WOS:000482559100005
+DA 2021-03-19
+ER
+
+PT J
+AU Budig, MJ
+   Hodges, MJ
+   England, P
+AF Budig, Michelle J.
+   Hodges, Melissa J.
+   England, Paula
+TI Wages of Nurturant and Reproductive Care Workers: Individual and Job
+   Characteristics, Occupational Closure, and Wage-Equalizing Institutions
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE care work; wage penalty; occupational closure; human capital; gender
+ID LABOR; EARNINGS; GENDER; RACE; PAY; INEQUALITY; PENALTIES; UNIONS;
+   SKILLS; PAID
+AB Despite the work's social importance, nurturant and reproductive care workers earn less than others with comparable human capital and work demands. We explore three broad questions related to pay for care work. First, we examine nurturant and reproductive care penalties together to investigate what mechanisms produce the lower wages for these workers. Second, we examine how occupational closure through education credentials and licensing requirements creates varying returns to care work. Finally, we explore the roles of wage equalizing institutions-labor unions and government sector care provision-in reducing wage disparities associated with care work. Using the 1979-2012 waves of the National Longitudinal Survey of Youth (NLSY) and fixed-effects regression models, we find that selection on stable factors and human capital differences explain much of the lower wages for reproductive workers, but none of the low wages of nurturant workers. However, compared to non-care workers, college-educated nurturant care workers receive lower returns to work experience, suggesting limitations in how much learning can increase efficiency in care work, given the labor intensive, face-to-face nature of much of it. Occupational closure matters: care jobs with the highest educational and licensing requirements pay a wage bonus, while less closed care occupations incur a penalty. Wage equalizing institutions have both floor and ceiling effects on care worker wages that mitigate care penalties for selected workers: women reproductive workers and women in low-education/high-licensing occupations. More consistently, ceiling effects of these institutions lower the wages of otherwise higher paid care workers: nurturant and high-education/high licensing occupations.
+C1 [Budig, Michelle J.] Univ Massachusetts, Amherst, MA 01003 USA.
+   [Hodges, Melissa J.] Villanova Univ, Villanova, PA 19085 USA.
+   [England, Paula] NYU, New York, NY 10003 USA.
+RP Budig, MJ (corresponding author), Univ Massachusetts, Dept Sociol, 10th Floor,Thompson Hall,200 Hicks Way, Amherst, MA 01003 USA.
+EM budig@soc.umass.edu
+FU Russell Sage Foundation
+FX The authors thank the Russell Sage Foundation for its support of this
+   research. We also thank Nancy Folbre, Naomi Gerstel, Pilar
+   Gonalons-Pons, and Joya Misra for comments on earlier versions of this
+   article, along with the anonymous reviewers for Social Problems.
+NR 37
+TC 5
+Z9 5
+U1 1
+U2 5
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD MAY
+PY 2019
+VL 66
+IS 2
+BP 294
+EP 319
+DI 10.1093/socpro/spy007
+PG 26
+WC Sociology
+SC Sociology
+GA IT0TE
+UT WOS:000482559100006
+DA 2021-03-19
+ER
+
+PT J
+AU Mencken, FC
+   Froese, P
+AF Mencken, F. Carson
+   Froese, Paul
+TI Gun Culture in Action
+SO SOCIAL PROBLEMS
+LA English
+DT Article; Proceedings Paper
+CT Annual Meeting of the Society-for-the-Scientific-Study-of-Religion
+CY 2014
+CL Indianapolis, IN
+SP Soc Sci Study Relig
+DE gun control; gun culture; culture in action; gun empowerment; race and
+   guns
+ID SOUTHERN SUBCULTURE; FIREARMS OWNERSHIP; VIOLENCE; ATTITUDES; CRIME;
+   RACE; MASCULINITY; PROTECTION; HOMICIDE; POLITICS
+AB Exploring the symbolic meaning of guns in the United States may be one the best ways to approach theoretical questions concerning the effect of "culture in action" because it focuses on a single object-the gun-which brims with symbolic power far beyond its physical utility. Using data from the Baylor Religion Surveys (Wave 4), we investigate the extent to which guns empower gun owners morally and emotionally. We also investigate the diversity of gun owners. We find a wide range of gun empowerment among gun owners, and that this relationship is related to gender, race, religiosity, political views, gun use, and economic distress. Our findings also indicate that Americans' attachment to guns is not explained entirely by regional, religious, or political cultures. Instead, we demonstrate that white men in economic distress find comfort in guns as a means to reestablish a sense of individual power and moral certitude. Gun empowerment, in turn, affects opinions about gun action and policy.
+C1 [Mencken, F. Carson; Froese, Paul] Baylor Univ, Waco, TX 76798 USA.
+RP Mencken, FC (corresponding author), Baylor Univ, Dept Sociol, One Bear Pl 97326, Waco, TX 76798 USA.
+EM Carson_Mencken@Baylor.edu
+NR 96
+TC 27
+Z9 27
+U1 0
+U2 13
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD FEB
+PY 2019
+VL 66
+IS 1
+BP 3
+EP 27
+DI 10.1093/socpro/spx040
+PG 25
+WC Sociology
+SC Sociology
+GA IO1XL
+UT WOS:000479175100002
+DA 2021-03-19
+ER
+
+PT J
+AU Auyero, J
+   Hernandez, M
+   Stitt, ME
+AF Auyero, Javier
+   Hernandez, Maricarmen
+   Stitt, Mary Ellen
+TI Grassroots Activism in the Belly of the Beast: A Relational Account of
+   the Campaign Against Urban Fracking in Texas
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE fracking; social movements; relational sociology; environmental justice;
+   risk
+ID NATURAL-GAS DEVELOPMENT; SOCIAL-MOVEMENTS; SHALE; RISK; IMPACTS;
+   POLITICS; OUTCOMES; PERCEPTIONS; EXTRACTION; QUALITY
+AB This article offers a relational account of the emergence, development, and impact of a social movement against urban fracking in Denton, Texas. It highlights the role played by the interactions between grassroots activism, local officials, and other stakeholders in the political construction of shared understandings of environmental risk. Drawing upon scholarship on risk perceptions and on social movement outcomes, the article argues that as a result of relationships of conflict and cooperation between activists, officials, residents, and oil and gas industry representatives, a field of opinion about the potential (negative) impacts of fracking emerged. It shows that grassroots, face-to-face, joint action played a key role in the campaign to ban fracking. Localized collective action should be at the front and center of social scientific examinations of shared understandings of environmental danger.
+C1 [Auyero, Javier; Hernandez, Maricarmen; Stitt, Mary Ellen] Univ Texas Austin, Austin, TX 78712 USA.
+RP Auyero, J (corresponding author), Univ Texas Austin, Dept Sociol, 305 E 23rd St CLA 3-306, Austin, TX 78712 USA.
+EM auyero@austin.utexas.edu
+RI Chamernik, Conner/AAG-5421-2021
+FU College of Liberal Arts; Population Research Center at UT-Austin
+FX Funding for this project was provided by the College of Liberal Arts and
+   the Population Research Center at UT-Austin.
+NR 136
+TC 2
+Z9 2
+U1 4
+U2 7
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD FEB
+PY 2019
+VL 66
+IS 1
+BP 28
+EP 50
+DI 10.1093/socpro/spx035
+PG 23
+WC Sociology
+SC Sociology
+GA IO1XL
+UT WOS:000479175100003
+DA 2021-03-19
+ER
+
+PT J
+AU Lewin, PG
+AF Lewin, Philip G.
+TI "Coal is Not Just a Job, It's a Way of Life": The Cultural Politics of
+   Coal Production in Central Appalachia
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE hegemony; coal; environmental justice; Appalachia; culture
+ID ADDICTIVE ECONOMIES; WEST-VIRGINIA; DESTRUCTION; IDENTITY; GENDER
+AB Since beginning operations in Central Appalachia, coal producers have economically exploited residents and exposed them to severe health risks associated with pollution. Despite causing these problems, the industry enjoys vigorous popular support. Drawing on nine months of immersive ethnography in "Shale County," this article examines why many Appalachians endorse the coal industry despite its negative externalities. I find that Appalachia's subordinate relationship to the rest of the nation plays a profound role in conditioning the region's pro-industry, anti-environmental views. Many Appalachians feel like the federal government neglects them, and like urban America, devalues them. Drawing upon Antonio Gramsci's theory of hegemony, I show how the coal industry capitalizes upon these feelings by promoting coal heritage-a carefully curated cultural construction that emphasizes selective aspects of Appalachian history while erasing those that challenge its domination. Coal heritage, I show, conveys environmentalism as an attack on Appalachians' right to economic opportunity, their role in the national division of labor, and their moral worth. It frames industry representatives, on the other hand, as guardians of regional interests and values.
+C1 [Lewin, Philip G.] Florida Atlantic Univ, Boca Raton, FL 33431 USA.
+RP Lewin, PG (corresponding author), Florida Atlantic Univ, Dept Sociol, Culture & Soc Bldg,Rm 253,777 Glades Rd, Boca Raton, FL 33431 USA.
+EM lewinp@fau.edu
+NR 46
+TC 21
+Z9 21
+U1 3
+U2 10
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD FEB
+PY 2019
+VL 66
+IS 1
+BP 51
+EP 68
+DI 10.1093/socpro/spx030
+PG 18
+WC Sociology
+SC Sociology
+GA IO1XL
+UT WOS:000479175100004
+DA 2021-03-19
+ER
+
+PT J
+AU Davidson, DJ
+AF Davidson, Debra J.
+TI The Effort Factor: An Adjustment to our Understanding of
+   Social-Ecological Metabolism in the Era of Peak Oil
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE critical realism; environmental sociology; effort factor;
+   socioecological relations; fossil fuels
+ID ENVIRONMENT; EMISSIONS; SOCIOLOGY; CANADA
+AB The size of our ecological footprint is often attributed to those social processes governing the consumption of material resources, reflecting the tendency within sociology to pay far more attention to our social constructions of nature, and our effects on nature, but far less attention to natural processes themselves. However, our level of ecological disruption is, more precisely, a function of the effort required to exploit natural resources and convert them into the things we value for use and exchange. As the quality of those resources declines in response to historic exploitation, effort increases, and hence so does our ecological impact, a tendency that interacts with social processes to produce emergent outcomes. This effort factor constitutes an important but largely overlooked feature of social-ecological metabolic relations, one that can offer fruitful opportunities for advances in scholarship in environmental sociology, and for environmental monitoring and mediation efforts by states and civil societies. The effort factor constitutes an important causal mechanism in our socioecological relations, the effects of which are best conceived through the lens of critical realism. This article offers a conceptual elaboration of the effort factor, and a case study analysis with reference to the historical development of oil, with particular emphasis on Alberta, Canada, which highlights the disruptive tendencies embodied in our current fossil fuel-dependent socioeconomic systems.
+C1 [Davidson, Debra J.] Univ Alberta, Edmonton, AB, Canada.
+RP Davidson, DJ (corresponding author), Univ Alberta, Dept Resource Econ & Environm Sociol, Edmonton, AB T6G 2H1, Canada.
+EM debra.davidson@ualberta.ca
+NR 66
+TC 1
+Z9 1
+U1 2
+U2 4
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD FEB
+PY 2019
+VL 66
+IS 1
+BP 69
+EP 85
+DI 10.1093/socpro/spx031
+PG 17
+WC Sociology
+SC Sociology
+GA IO1XL
+UT WOS:000479175100005
+DA 2021-03-19
+ER
+
+PT J
+AU Mize, TD
+AF Mize, Trenton D.
+TI Doing Gender by Criticizing Leaders: Public and Private Displays of
+   Status
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE gender; leadership; status; experimental design; subordinates
+ID STATUS INCONGRUITY; GLASS ESCALATOR; SEX-DIFFERENCES; MEN; BACKLASH;
+   STEREOTYPES; PREJUDICE; WOMEN
+AB Previous work shows that stereotypes influence women's ability to attain and act in leadership positions, however much less work has examined the role that gendered expectations and stereotypes might play for subordinate behavior and how this might reinforce the gender leadership gap. Drawing on theories of gender and status, I predict gender differences in responses to-and behavior in-subordinate roles. In a series of experimental studies I find that men are more publicly critical of leaders and more willing to undermine leaders than are women. In two studies I find that men are more publicly critical in both high and low status subordinate roles, and under both men and women leaders. In a third study, I find that men and women do not differ in their private behavior or evaluations of a leader and that gender differences in subordinate behavior and evaluations only arise in publicly visible evaluations, behavior, and criticism. Gender differences in public behavior and evaluation may be due to men exaggerating their criticism to restore a threatened sense of status or masculinity, or due to women tempering their criticism due to gender stereotypes that discourage assertive and critical behavior for women. Either explanation suggests that men and women perform gendered expectations in public and behave in ways that can disadvantage women leaders.
+C1 [Mize, Trenton D.] Purdue Univ, W Lafayette, IN 47907 USA.
+RP Mize, TD (corresponding author), Purdue Univ, Dept Sociol, 700 W State St, W Lafayette, IN 47907 USA.
+EM tmize@purdue.edu
+NR 43
+TC 2
+Z9 2
+U1 0
+U2 7
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD FEB
+PY 2019
+VL 66
+IS 1
+BP 86
+EP 107
+DI 10.1093/socpro/spx032
+PG 22
+WC Sociology
+SC Sociology
+GA IO1XL
+UT WOS:000479175100006
+DA 2021-03-19
+ER
+
+PT J
+AU Sosnaud, B
+AF Sosnaud, Benjamin
+TI Inequality in Infant Mortality: Cross-State Variation and Medical System
+   Institutions
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE infant mortality; inequality; institutions; health disparities; United
+   States
+ID LOW-BIRTH-WEIGHT; NEONATAL INTENSIVE-CARE; SELF-RATED HEALTH; INCOME
+   INEQUALITY; UNITED-STATES; SOCIOECONOMIC DISPARITIES; FUNDAMENTAL
+   CAUSES; WELFARE-STATE; TECHNOLOGICAL-INNOVATION; POSTNEONATAL MORTALITY
+AB This article examines variation in the association between maternal education and infant mortality across the 50 U.S. states. An analysis of 22,967,018 Vital Statistics records from 1997-2002, reveals evidence of dramatic cross-state differences. In some states, infants born to mothers with less than 12 years of schooling are more than twice as likely to die as infants of mothers with 4 years of college or more. Other states see far more equality between these groups. I then evaluate two components of state medical systems that are predicted to be associated with this variation in the magnitude of inequalities in infant mortality: neonatal intensive care units and primary care physician supply. More widespread availability of neonatal intensive care is associated with reduced inequalities in infant mortality. In contrast, the supply of primary care is linked to slightly larger differences in infant mortality between mothers with low and high education.
+C1 [Sosnaud, Benjamin] Trinity Univ, San Antonio, TX USA.
+RP Sosnaud, B (corresponding author), Trinity Univ, Dept Sociol & Anthropol, San Antonio, TX 78212 USA.
+EM bsosnaud@trinity.edu
+NR 90
+TC 1
+Z9 1
+U1 0
+U2 1
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD FEB
+PY 2019
+VL 66
+IS 1
+BP 108
+EP 127
+DI 10.1093/socpro/spx034
+PG 20
+WC Sociology
+SC Sociology
+GA IO1XL
+UT WOS:000479175100007
+DA 2021-03-19
+ER
+
+PT J
+AU Gurusami, S
+AF Gurusami, Susila
+TI Motherwork Under the State: The Maternal Labor of Formerly Incarcerated
+   Black Women
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE mothering; race; gender; incarceration; reentry
+ID REENTRY; CHILDREN; RACE
+AB Although Black mothers are disproportionately represented among formerly incarcerated mothers in the United States, existing research has largely neglected to document the challenges they face in resuming their parenting roles after prison or jail. This study addresses this gap using 18 months of participant observations with formerly incarcerated Black women to examine how state surveillance under post-release supervision and child welfare services shapes and constrains formerly incarcerated Black women's mothering practices. The study develops a typology of three context-specific strategies these women employ to anticipate, react to, and cope with state interventions that threaten their mothering: collective motherwork, hypervigilant motherwork, and crisis motherwork. These findings suggest that contrary to popular constructions of formerly incarcerated Black women as negligent mothers, they navigate multiple, overlapping sources of violence to protect their children. Yet, the labor of navigating the state structures that put their children at risk often placed these women in conflict with the state. This paradox suggests the state criminalizes the maternal labor of formerly incarcerated Black women and that these state logics are used to justify state intervention in Black women's post-incarceration parenting.
+C1 [Gurusami, Susila] Univ Calif Riverside, Riverside, CA 92521 USA.
+RP Gurusami, S (corresponding author), Univ Calif Riverside, Dept Sociol, 1334 Watkins Hall, Riverside, CA 92521 USA.
+EM susila@ucr.edu
+NR 59
+TC 15
+Z9 15
+U1 0
+U2 1
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD FEB
+PY 2019
+VL 66
+IS 1
+BP 128
+EP 143
+DI 10.1093/socpro/spx045
+PG 16
+WC Sociology
+SC Sociology
+GA IO1XL
+UT WOS:000479175100008
+DA 2021-03-19
+ER
+
+PT J
+AU Fitzmaurice, C
+   Schor, JB
+AF Fitzmaurice, Connor
+   Schor, Juliet B.
+TI Homemade Matters: Logics of Opposition in a Failed Food Swap
+SO SOCIAL PROBLEMS
+LA English
+DT Article
+DE money; inequality; evaluation; circuits of commerce; sharing economy
+ID DISTINCTION; IDENTITIES; MOVEMENT
+AB A rich literature on commensuration and standards of evaluation has yielded important findings on how items are valued. Over the course of a two-year ethnography, we witnessed one effort to create a new economic practice-a monthly swap of "homemade food"-start promisingly but ultimately fail as participants were unable to reach consensus on valuations. They rejected each other's offerings on numerous grounds, including proximity to industrial food, packaging, and excess "artisanal-ness" and alterity, forcing participants to "thread the needle" in search of acceptable qualities. Multiple or competing logics can be reconciled with clear institutional definitions, by using money, or via relational work. In our site, none of these mechanisms were operative. Instead, a multivalent alternative identity biased toward oppositional criteria impeded valuations and robust exchange. We believe this problem is common to a larger class of organizations that define themselves in opposition to the dominant market.
+C1 [Fitzmaurice, Connor] Boston Univ, Boston, MA USA.
+   [Schor, Juliet B.] Boston Coll, Chestnut Hill, MA 02167 USA.
+RP Fitzmaurice, C (corresponding author), Boston Univ, Dept Sociol, 96-100 Cummington St, Boston, MA 02215 USA.
+EM fitzmauc@bu.edu
+NR 61
+TC 1
+Z9 1
+U1 0
+U2 2
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD FEB
+PY 2019
+VL 66
+IS 1
+BP 144
+EP 161
+DI 10.1093/socpro/spx046
+PG 18
+WC Sociology
+SC Sociology
+GA IO1XL
+UT WOS:000479175100009
+DA 2021-03-19
+ER
+
+PT J
+AU Linders, A
+   Wright, E
+AF Linders, Annulla
+   Wright, Earl
+TI Editorial
+SO SOCIAL PROBLEMS
+LA English
+DT Editorial Material
+C1 [Linders, Annulla; Wright, Earl] Univ Cincinnati, Cincinnati, OH 45221 USA.
+RP Linders, A (corresponding author), Univ Cincinnati, Cincinnati, OH 45221 USA.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0037-7791
+EI 1533-8533
+J9 SOC PROBL
+JI Soc. Probl.
+PD FEB
+PY 2019
+VL 66
+IS 1
+BP 1
+EP 2
+DI 10.1093/socpro/spy029
+PG 2
+WC Sociology
+SC Sociology
+GA IO1XL
+UT WOS:000479175100001
+DA 2021-03-19
+ER
+
+EF

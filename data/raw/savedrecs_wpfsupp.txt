@@ -1,0 +1,2111 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU De Micheli, D
+AF De Micheli, David
+TI RACIAL RECLASSIFICATION AND POLITICAL IDENTITY FORMATION
+SO WORLD POLITICS
+LA English
+DT Article
+DE Brazil; education; identity politics; Latin America; race
+ID AFFIRMATIVE-ACTION; CANDIDATE RACE; TIME-SERIES; BRAZIL; BLACK;
+   INEQUALITY; DISCRIMINATION; CLASSIFICATION; REPRESENTATION; CONSTRUCTION
+AB This article leverages a phenomenon of racial reclassification in Brazil to shed new light on the processes of identity politicization. Conventional wisdom tells us that race mixture, fluid racial boundaries, and stigmatized blackness lead Brazilians to change their racial identifications-to reclassify-toward whiteness. But in recent years, Brazilians have demonstrated a newfound tendency to reclassify toward blackness. The author argues that this sudden reversal is the unintended consequence of state-led educational expansion for the lower classes. Educational expansion has increased the exposure of newly mobile citizens to information, social networks, and the labor market, leading many to develop racialized political identities and choose blackness. The author develops and tests this argument by drawing on in-depth interview data, systematic analyses of national survey and longitudinal census data, and original survey experiments. This article contributes a novel account of identity politicization and emphasizes the interaction between social structures and citizenship institutions in these processes.
+C1 [De Micheli, David] Univ Utah, Polit Sci & Ethn Studies, Salt Lake City, UT 84112 USA.
+RP De Micheli, D (corresponding author), Univ Utah, Polit Sci & Ethn Studies, Salt Lake City, UT 84112 USA.
+EM david.demicheli@utah.edu
+FU National Science FoundationNational Science Foundation (NSF);
+   Fulbright-Hays Foundation; Cornell University's Mario Einaudi Center for
+   International Studies, Center for the Study of Inequality, and
+   Department of Government
+FX Original data collection was supported by the National Science
+   Foundation and the Fulbright-Hays Foundation, as well as Cornell
+   University's Mario Einaudi Center for International Studies, Center for
+   the Study of Inequality, and Department of Government.
+NR 121
+TC 0
+Z9 0
+U1 1
+U2 1
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0043-8871
+EI 1086-3338
+J9 WORLD POLIT
+JI World Polit.
+PD JAN
+PY 2021
+VL 73
+IS 1
+BP 1
+EP 51
+DI 10.1017/S0043887120000179
+PG 51
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA PT6NS
+UT WOS:000608730800001
+DA 2021-03-19
+ER
+
+PT J
+AU Parkinson, SE
+AF Parkinson, Sarah E.
+TI PRACTICAL IDEOLOGY IN MILITANT ORGANIZATIONS
+SO WORLD POLITICS
+LA English
+DT Article
+DE civil war; ethnography; gossip; ideology; insurgency; Middle East;
+   nonstate actors; rebel organizations; rumor
+ID CIVIL-WAR; SEXUAL VIOLENCE; EMOTIONS; SOCIALIZATION; MOBILIZATION;
+   REBELLION; NETWORKS; RAPE
+AB Ideology shapes militant recruitment, organization, and conflict behavior. Existing research assumes doctrinal consistency, top-down socialization of adherents, and clear links between formal ideology and political action. But it has long been recognized that ideological commitments do not flow unaltered from overarching cleavages or elite narratives; they are uneven, contingent, fraught with tension, and often ambivalent. What work does ideology do in militant groups if it is not deeply studied, internalized, or sincerely believed? How can scholars explain collective commitment, affinity, and behavioral outcomes among militants who clearly associate themselves with a group, but who may not consistently (or ever) be true believers or committed ideologues? I argue that practical ideologies-sets of quotidian principles, ideas, and social heuristics that reflect relational worldviews rather than specific published political doctrines, positions, platforms, or plans-play a key role in militant socialization through everyday practices. Ethnographic evidence gained from fieldwork among Palestinians in Lebanon demonstrates how militants and affiliates render ideas about ideological closeness and distance accessible through emotional, intellectual, and moral appeals. This approach reaffirms the role of discourse and narrative in creating informal mechanisms of militant socialization without expressly invoking formal doctrine.
+C1 [Parkinson, Sarah E.] Johns Hopkins Univ, Polit Sci & Int Studies, Baltimore, MD 21218 USA.
+RP Parkinson, SE (corresponding author), Johns Hopkins Univ, Polit Sci & Int Studies, Baltimore, MD 21218 USA.
+EM sparkinson@jhu.edu
+OI Parkinson, Sarah/0000-0003-0789-2040
+FU Social Science Research Council's International Dissertation Research
+   Fellowship and Dissertation Proposal Development Fellowship; Palestinian
+   American Research Center; National Science FoundationNational Science
+   Foundation (NSF)
+FX The Social Science Research Council's International Dissertation
+   Research Fellowship and Dissertation Proposal Development Fellowship,
+   the Palestinian American Research Center, and the National Science
+   Foundation's Graduate Research Fellowship generously funded extensive
+   fieldwork.
+NR 88
+TC 0
+Z9 0
+U1 1
+U2 1
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0043-8871
+EI 1086-3338
+J9 WORLD POLIT
+JI World Polit.
+PD JAN
+PY 2021
+VL 73
+IS 1
+BP 52
+EP 81
+DI 10.1017/S0043887120000180
+PG 30
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA PT6NS
+UT WOS:000608730800002
+DA 2021-03-19
+ER
+
+PT J
+AU Sarbahi, A
+AF Sarbahi, Anoop
+TI THE STRUCTURE OF RELIGION, ETHNICITY, AND INSURGENT MOBILIZATION
+   EVIDENCE FROM INDIA
+SO WORLD POLITICS
+LA English
+DT Article
+DE colonialism; ethnicity; insurgency; religion; religious missions; social
+   networks
+ID CONFLICT; PARTICIPATION; VARIABLES; NETWORKS; TIES
+AB This article problematizes the social structure of ethnic groups to account for variation in insurgent mobilization within and across ethnic groups. Relying on network-based approaches to social structure, it argues that insurgent mobilization is constrained by the structural connectivity of the ethnic group, a measure of the extent to which subethnic communities-neighborhoods, villages, clans, and tribes-are socially connected internally and with each other. In agrarian societies, structural connectivity is traced to religion. On the basis of unique data on rebel recruitment from the Mizo insurgency in India and microlevel variations in changes associated with the spread of Christianity among Mizos, the author demonstrates that enhanced structural connectivity resulting from a network of highly centralized churches and institutions under the Welsh Presbyterian Mission significantly bolstered insurgent recruitment. Semistructured interviews of Mizo insurgents and ethnographic evidence from the neighboring Meitei and Naga ethnic insurgencies further support the argument and the casual mechanism.
+C1 [Sarbahi, Anoop] Univ Minnesota Twin Cities, Polit Sci, Minneapolis, MN 55455 USA.
+RP Sarbahi, A (corresponding author), Univ Minnesota Twin Cities, Polit Sci, Minneapolis, MN 55455 USA.
+EM sarbahi@umn.edu
+FU University of MinnesotaUniversity of Minnesota System
+FX I am grateful for the financial support from the Grant-in-Aid (GIA)
+   program at the University of Minnesota.
+NR 122
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0043-8871
+EI 1086-3338
+J9 WORLD POLIT
+JI World Polit.
+PD JAN
+PY 2021
+VL 73
+IS 1
+BP 82
+EP 127
+DI 10.1017/S0043887120000222
+PG 46
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA PT6NS
+UT WOS:000608730800003
+DA 2021-03-19
+ER
+
+PT J
+AU Brutger, R
+AF Brutger, Ryan
+TI THE POWER OF COMPROMISE Proposal Power, Partisanship, and Public Support
+   in International Bargaining
+SO WORLD POLITICS
+LA English
+DT Article
+DE audience costs; compromise; diplomacy; international cooperation;
+   international negotiation; proposal
+ID DOMESTIC AUDIENCE COSTS; FOREIGN-POLICY BELIEFS; POLITICAL CONSERVATISM;
+   OPINION; INSTITUTIONS; REPUTATION; IMPACT; ELITES; PEACE; WAR
+AB In an era of increasingly public diplomacy, conventional wisdom assumes that leaders who compromise damage their reputations and lose the respect of their constituents, which undermines the prospects for international peace and cooperation. This article challenges this assumption and tests how leaders can negotiate compromises and avoid paying domestic approval and reputation costs. Drawing on theories of individuals' core values, psychological processes, and partisanship, the author argues that leaders reduce or eliminate domestic public constraints by exercising proposal power and initiating compromises. Employing survey experiments to test how public approval and perceptions of reputation respond to leaders' strategies across security and economic issues, the author finds attitudes toward compromise are conditioned by the ideology of the audience and leader, with audiences of liberals being more supportive of compromise. In the US case, this results in Republican presidents having greater leeway to negotiate compromises. The article's contributions suggest that leaders who exercise proposal power have significant flexibility to negotiate compromise settlements in international bargaining.
+C1 [Brutger, Ryan] Univ Calif Berkeley, Dept Polit Sci, Berkeley, CA 94720 USA.
+RP Brutger, R (corresponding author), Univ Calif Berkeley, Dept Polit Sci, Berkeley, CA 94720 USA.
+EM brutger@berkeley.edu
+FU Princeton's Center for International Security Studies; Fund for
+   Experimental Social Sciences; Neihaus Center for Globalization and
+   Governance; Mamdouha S. Bobst Center for Peace and Justice
+FX I thank Princeton's Center for International Security Studies, the Fund
+   for Experimental Social Sciences, the Neihaus Center for Globalization
+   and Governance, and the Mamdouha S. Bobst Center for Peace and Justice
+   for financial support for this research.
+NR 91
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0043-8871
+EI 1086-3338
+J9 WORLD POLIT
+JI World Polit.
+PD JAN
+PY 2021
+VL 73
+IS 1
+BP 128
+EP 166
+DI 10.1017/S0043887120000192
+PG 39
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA PT6NS
+UT WOS:000608730800004
+DA 2021-03-19
+ER
+
+PT J
+AU Jervis, R
+   Yarhi-Milo, K
+   Casler, D
+AF Jervis, Robert
+   Yarhi-Milo, Keren
+   Casler, Don
+TI REDEFINING THE DEBATE OVER REPUTATION AND CREDIBILITY IN INTERNATIONAL
+   SECURITY PROMISES AND LIMITS OF NEW SCHOLARSHIP
+SO WORLD POLITICS
+LA English
+DT Review
+DE credibility; foreign policy; leaders; perception; psychology;
+   reputation; signaling
+ID POLITICAL-INSTITUTIONS; LEADERS; COSTS; COMMUNICATION; DIPLOMACY;
+   THREATS; MATTER; US
+AB A wave of recent scholarship has breathed new life into the study of reputation and credibility in international politics. In this review article, the authors welcome this development while offering a framework for evaluating collective progress, a series of related critiques, and a set of suggestions for future research. The article details how the books under review represent an important step toward consensus on the importance of reputation in world politics, elucidating scope conditions for when reputational inferences are likely to be most salient. The authors argue that despite the significant accomplishments of recent studies, the scholarly record remains thin on the psychology of the perceiver and is instead focused on situational factors at the expense of dispositional variables and is rather myopically oriented toward reputation for resolve to the exclusion of other important types. Despite its contributions, the new literature still falls short of a full explanation for how actors draw inferences about reputation. These remaining theoretical challenges demand scholarly attention and suggest a role for psychology in filling some of the gaps.
+C1 [Jervis, Robert] Columbia Univ, Int Polit, Dept Polit Sci, New York, NY 10027 USA.
+   [Jervis, Robert; Yarhi-Milo, Keren] Columbia Univ, Sch Int & Publ Affairs, New York, NY 10027 USA.
+   [Yarhi-Milo, Keren] Columbia Univ, War & Peace Studies, Dept Polit Sci, New York, NY 10027 USA.
+   [Casler, Don] Columbia Univ, Polit Sci, New York, NY 10027 USA.
+RP Jervis, R (corresponding author), Columbia Univ, Int Polit, Dept Polit Sci, New York, NY 10027 USA.; Jervis, R (corresponding author), Columbia Univ, Sch Int & Publ Affairs, New York, NY 10027 USA.
+EM rlj1@columbia.edu; ky218@columbia.edu; dpc2128@columbia.edu
+NR 99
+TC 0
+Z9 0
+U1 1
+U2 1
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0043-8871
+EI 1086-3338
+J9 WORLD POLIT
+JI World Polit.
+PD JAN
+PY 2021
+VL 73
+IS 1
+BP 167
+EP 203
+DI 10.1017/S0043887120000246
+PG 37
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA PT6NS
+UT WOS:000608730800005
+DA 2021-03-19
+ER
+
+PT J
+AU Ding, I
+AF Ding, Iza
+TI Performative Governance
+SO WORLD POLITICS
+LA English
+DT Article
+DE bureaucracy; China; environment; governance; performativity; pollution;
+   the state
+ID ENVIRONMENTAL-PROTECTION; ECONOMIC-DEVELOPMENT; PROCEDURAL JUSTICE;
+   CHINA; LEGITIMACY; STATE; DEMOCRACY; SUPPORT; RESPONSIVENESS;
+   BUREAUCRACY
+AB The state often struggles to meet citizens' demands but confronts strong public pressure to do so. What does the state do when public expectations exceed its actual governing capacity? This article shows that the state can respond by engaging in performative governance-the theatrical deployment of language, symbols, and gestures to foster an impression of good governance among citizens. Performative governance should be distinguished from other types of state behavior, such as inertia, paternalism, and the substantive satisfaction of citizens' demands. The author illustrates this concept in the realm of environmental governance in China. Given the severity of China's environmental pollution, the resulting public outcry, and the logistical and political challenges involved in solving the problem, how can the state redeem itself? Ethnographic evidence from participant observation at a municipal environmental protection bureau reveals that when bureaucrats are confronted with the dual burdens of low state capacity and high public scrutiny, they engage in performative governance to assuage citizens' complaints. This study draws attention to the double meaning of "performance" in political contexts, and the essential distinction between the substantive and the theatrical.
+C1 [Ding, Iza] Univ Pittsburgh, Polit Sci, Pittsburgh, PA 15260 USA.
+RP Ding, I (corresponding author), Univ Pittsburgh, Polit Sci, Pittsburgh, PA 15260 USA.
+EM yud30@pitt.edu
+NR 103
+TC 0
+Z9 0
+U1 6
+U2 6
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0043-8871
+EI 1086-3338
+J9 WORLD POLIT
+JI World Polit.
+PD OCT
+PY 2020
+VL 72
+IS 4
+BP 525
+EP 556
+AR PII S0043887120000131
+DI 10.1017/S0043887120000131
+PG 32
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA NX0SK
+UT WOS:000575429000001
+DA 2021-03-19
+ER
+
+PT J
+AU Lachapelle, J
+   Levitsky, S
+   Way, LA
+   Casey, AE
+AF Lachapelle, Jean
+   Levitsky, Steven
+   Way, Lucan A.
+   Casey, Adam E.
+TI Social Revolution and Authoritarian Durability
+SO WORLD POLITICS
+LA English
+DT Article
+DE authoritarian durability; authoritarianism; comparative politics; regime
+   change; revolution
+ID BREAKDOWN; ORIGINS; PARTY; DEPENDENCE; DEMOCRACY; DATASET
+AB This article explores the causes of authoritarian durability. Why do some authoritarian regimes survive for decades, often despite severe crises, while others collapse quickly, even absent significant challenges? Based on an analysis of all authoritarian regimes between 1900 and 2015, the authors argue that regimes founded in violent social revolution are especially durable. Revolutionary regimes, such as those in Russia, China, Cuba, and Vietnam, endured for more than half a century in the face of strong external pressure, poor economic performance, and large-scale policy failures. The authors develop and test a theory that accounts for such durability using a novel data set of revolutionary regimes since 1900. The authors contend that autocracies that emerge out of violent social revolution tend to confront extraordinary military threats, which lead to the development of cohesive ruling parties and powerful and loyal security apparatuses, as well as to the destruction of alternative power centers. These characteristics account for revolutionary regimes' unusual longevity.
+C1 [Lachapelle, Jean] Univ Gothenburg, Varieties Democracy Inst, Gothenburg, Sweden.
+   [Levitsky, Steven] Harvard Univ, Dept Govt, Latin Amer Studies, Cambridge, MA 02138 USA.
+   [Way, Lucan A.] Univ Toronto, Polit Sci, Toronto, ON, Canada.
+   [Casey, Adam E.] Univ Michigan, Weiser Ctr Emerging Democracies, Ann Arbor, MI 48109 USA.
+RP Lachapelle, J (corresponding author), Univ Gothenburg, Varieties Democracy Inst, Gothenburg, Sweden.
+EM jean.lachapelle@gu.se; levitsky@gov.harvard.edu; lucan.way@utoronto.ca;
+   aecasey@umich.edu
+RI Lachapelle, Jean/ABI-2271-2020; Lachapelle, Jean/ABI-2270-2020
+OI Lachapelle, Jean/0000-0002-2596-5912; 
+NR 122
+TC 0
+Z9 0
+U1 10
+U2 10
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0043-8871
+EI 1086-3338
+J9 WORLD POLIT
+JI World Polit.
+PD OCT
+PY 2020
+VL 72
+IS 4
+BP 557
+EP 600
+AR PII S0043887120000106
+DI 10.1017/S0043887120000106
+PG 44
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA NX0SK
+UT WOS:000575429000002
+DA 2021-03-19
+ER
+
+PT J
+AU Guriev, S
+   Treisman, D
+AF Guriev, Sergei
+   Treisman, Daniel
+TI The Popularity of Authoritarian Leaders A Cross-National Investigation
+SO WORLD POLITICS
+LA English
+DT Article
+DE authoritarianism; censorship; dictatorship; public opinion
+ID PRIME MINISTERIAL APPROVAL; GOVERNING PARTY SUPPORT; PUBLIC-OPINION;
+   PRESIDENTIAL APPROVAL; ECONOMIC-REFORM; WAR; CENSORSHIP; ELECTIONS;
+   DYNAMICS; VIOLENCE
+AB How do citizens in authoritarian states feel about their leaders? While some dictators rule through terror, others seem genuinely popular. Using the Gallup World Poll's panel of more than one hundred-forty countries in 2006-2016, the authors show that the drivers of political approval differ across regime types. Although brutal repression in overt dictatorships could cause respondents to falsify their preferences, in milder informational autocracies, greater repression actually predicts lower approval. In autocracies as in democracies, economic performance matters and citizens' economic perceptions, while not perfectly accurate, track objective indicators. Dictators also benefit from greater perceived public safety, but the authors find no such effect in democracies. Covert censorship of the media and the Internet is associated with higher approval in autocracies-in particular, in informational ones-but ratings fall when citizens recognize censorship. In informational autocracies, executive elections trigger a ratings surge if there is leader turnover, but, unlike in democracies, reelected autocrats enjoy little honeymoon.
+C1 [Guriev, Sergei] Sci Po, Econ, Paris, France.
+   [Treisman, Daniel] Univ Calif Los Angeles, Polit Sci, Los Angeles, CA 90024 USA.
+   [Treisman, Daniel] Natl Bur Econ Res, Cambridge, MA 02138 USA.
+RP Guriev, S (corresponding author), Sci Po, Econ, Paris, France.
+EM sergei.guriev@sciencespo.fr; treisman@polisci.ucla.edu
+NR 82
+TC 0
+Z9 0
+U1 10
+U2 10
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0043-8871
+EI 1086-3338
+J9 WORLD POLIT
+JI World Polit.
+PD OCT
+PY 2020
+VL 72
+IS 4
+BP 601
+EP 638
+AR PII S0043887120000167
+DI 10.1017/S0043887120000167
+PG 38
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA NX0SK
+UT WOS:000575429000003
+DA 2021-03-19
+ER
+
+PT J
+AU Beramendi, P
+   Stegmueller, D
+AF Beramendi, Pablo
+   Stegmueller, Daniel
+TI The Political Geography of the Eurocrisis
+SO WORLD POLITICS
+LA English
+DT Article
+DE eurozone crisis; political integration; preferences; redistribution
+ID EUROPEAN INTEGRATION; ECONOMIC-CRISIS; CAPITALISM; VARIETIES; INFERENCE;
+   RISK
+AB The European Union provided a mixed response to the 2008 financial crisis. On the one hand, it refused to pursue fiscal integration through a common budget; on the other, it introduced significant transfers between countries that were designed to produce financial stabilization. The authors analyze this response as the outcome of democratic constraints on EU leaders. Given the EU's current institutional structure, citizens' preferences pose a binding constraint on what leaders can do as these preferences limit the scope of risk-pooling among members and the degree of political tolerance for different courses of action. The authors show that citizens' preferences reflect differences in the geography of income, production regimes, and institutional organization. The heterogeneity of constituencies' redistribution preferences combined with a diverse economic geography helps to explain why political constraints on national governments prevent them from engaging in further fiscal integration. By contrast, externalities among member states shift the preferences of citizens who may experience negative effects and make international redistribution politically feasible. The authors analyze these two mechanisms and present novel empirical results on the determinants of preferences for fiscal integration and international redistribution in the aftermath of the eurocrisis.
+C1 [Beramendi, Pablo; Stegmueller, Daniel] Duke Univ, Polit Sci, Durham, NC 27706 USA.
+RP Beramendi, P (corresponding author), Duke Univ, Polit Sci, Durham, NC 27706 USA.
+EM pablo.beramendi@duke.edu; daniel.stegmueller@duke.edu
+FU National Research Foundation of KoreaNational Research Foundation of
+   Korea [NRF-2017S1A3A2066657]
+FX This research was supported by the National Research Foundation of
+   Korea, #NRF-2017S1A3A2066657.
+NR 94
+TC 0
+Z9 0
+U1 9
+U2 9
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0043-8871
+EI 1086-3338
+J9 WORLD POLIT
+JI World Polit.
+PD OCT
+PY 2020
+VL 72
+IS 4
+BP 639
+EP 678
+AR PII S0043887120000118
+DI 10.1017/S0043887120000118
+PG 40
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA NX0SK
+UT WOS:000575429000004
+DA 2021-03-19
+ER
+
+PT J
+AU Costalli, S
+   Moro, FN
+   Ruggeri, A
+AF Costalli, Stefano
+   Moro, Francesco Niccolo
+   Ruggeri, Andrea
+TI The Logic of Vulnerability and Civilian Victimization Shifting Front
+   Lines in Italy (1943-1945)
+SO WORLD POLITICS
+LA English
+DT Article
+DE civil war; civilian victimization; counterinsurgency; Italy; World War
+   II
+ID INDISCRIMINATE VIOLENCE; WAR; COUNTERINSURGENCY; COSTS
+AB What causes civilian victimization in conventional civil wars and in conventional wars that experience insurgencies? The authors argue that a key driver of civilian victimization is the vulnerability of the incumbent forces, specifically when the conflict's front line is shifting. Vulnerability is a function of informational and logistical challenges: when the front line is moving, incumbents face increased informational uncertainty and unstable supply chains that augment their vulnerability. Thus, incumbents will increase the use of civilian victimization in response to a scarcity of high-quality information on the location and identity of insurgents, to limit possible information leaks, and to contain supply disruption and logistics support to adversaries. The authors support their argument using matched difference-in-differences analyses of original subnational data on Nazi-Fascist violence in World War II Italy (1943-1945) and qualitative evidence.
+C1 [Costalli, Stefano] Univ Florence, Dept Polit & Social Sci, Polit Sci, Florence, Italy.
+   [Moro, Francesco Niccolo] Univ Bologna, Dept Polit & Social Sci, Polit Sci, Bologna, Italy.
+   [Moro, Francesco Niccolo] Johns Hopkins Univ, Sch Adv Int Studies, Int Relat, Europe Campus, Baltimore, MD 21218 USA.
+   [Ruggeri, Andrea] Univ Oxford, Polit Sci & Int Relat, Oxford, England.
+   [Ruggeri, Andrea] Univ Oxford, Ctr Int Studies, Oxford, England.
+   [Ruggeri, Andrea] Brasenose Coll, Polit, Oxford, England.
+RP Costalli, S (corresponding author), Univ Florence, Dept Polit & Social Sci, Polit Sci, Florence, Italy.
+EM stefano.costalli@unifi.it; francesco.moro4@unibo.it;
+   andrea.ruggeri@politics.ox.ac.uk
+OI Moro, Francesco Niccolo'/0000-0001-7656-5153
+NR 79
+TC 0
+Z9 0
+U1 2
+U2 2
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0043-8871
+EI 1086-3338
+J9 WORLD POLIT
+JI World Polit.
+PD OCT
+PY 2020
+VL 72
+IS 4
+BP 679
+EP 718
+AR PII S004388712000012X
+DI 10.1017/S004388712000012X
+PG 40
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA NX0SK
+UT WOS:000575429000005
+DA 2021-03-19
+ER
+
+PT J
+AU Idler, A
+AF Idler, Annette
+TI The Logic of Illicit Flows in Armed Conflict Explaining Variation in
+   Violent Nonstate Group Interactions in Colombia
+SO WORLD POLITICS
+LA English
+DT Article
+DE civil war; Colombia; drug trafficking; intrastate conflict; Latin
+   America; organized crime; security studies
+ID CIVIL-WARS; COMPETITION; STRATEGIES; ECONOMY; POWER; RULE
+AB Why is there variation in how violent nonstate groups interact in armed conflict? Where armed conflict and organized crime converge in unstable regions worldwide, these groups sometimes enter cooperative arrangements with opposing groups. Within the same unstable setting, violent nonstate groups forge stable, long-term relations with each other in some regions, engage in unstable, short-term arrangements in others, and dispute each other elsewhere. Even though such paradoxical arrangements have intensified and perpetuated war, extant theories on group interactions that focus on territory and motivations overlook their concurrent character. Challenging the literature that focuses on conflict dynamics alone, the author argues that the spatial distribution of illicit flows influences how these interactions vary. By mapping cocaine supply chain networks, the author shows that long-term arrangements prevail at production sites, whereas short-term arrangements cluster at trafficking nodes. The article demonstrates through process tracing how the logic of illicit flows produces variation in the groups' cooperative arrangements. This multiyear, multisited study includes over six hundred interviews in and about Colombia's remote, war-torn borderlands.
+C1 [Idler, Annette] Pembroke Coll, Changing Character War Ctr, Cambridge, England.
+   [Idler, Annette] Univ Oxford, Dept Polit & Int Relat, Oxford, England.
+   [Idler, Annette] Harvard Univ, Weatherhead Ctr Int Affairs, Cambridge, MA 02138 USA.
+RP Idler, A (corresponding author), Pembroke Coll, Changing Character War Ctr, Cambridge, England.; Idler, A (corresponding author), Univ Oxford, Dept Polit & Int Relat, Oxford, England.; Idler, A (corresponding author), Harvard Univ, Weatherhead Ctr Int Affairs, Cambridge, MA 02138 USA.
+EM annette.idler@pmb.ox.ac.uk
+OI Idler, Annette Iris/0000-0002-3747-5558
+FU Drugs, Security and Democracy Fellowship Program; Universidad de Los
+   Andes; Open Society Foundations; International Development Research
+   Centre, Ottawa, Canada; University of Oxford's Higher Education
+   Innovation Fund allocation; UK Global Challenges Research Fund
+FX The research for this study was partly supported by the Drugs, Security
+   and Democracy Fellowship Program administered by the Social Science
+   Research Council and the Universidad de Los Andes in cooperation with
+   and with funds provided by the Open Society Foundations and the
+   International Development Research Centre, Ottawa, Canada. This research
+   also arises from activities funded by the University of Oxford's Higher
+   Education Innovation Fund allocation. It further benefitted from the UK
+   Global Challenges Research Fund and the Research Council UK's
+   Partnership for Conflict, Crime, and Security Research.
+NR 122
+TC 0
+Z9 0
+U1 11
+U2 11
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0043-8871
+EI 1086-3338
+J9 WORLD POLIT
+JI World Polit.
+PD JUL
+PY 2020
+VL 72
+IS 3
+BP 335
+EP 376
+AR PII S0043887120000040
+DI 10.1017/S0043887120000040
+PG 42
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA MM5TS
+UT WOS:000550219500001
+DA 2021-03-19
+ER
+
+PT J
+AU Tellez, JF
+   Wibbels, E
+   Krishna, A
+AF Tellez, Juan Fernando
+   Wibbels, Erik
+   Krishna, Anirudh
+TI Local Order, Policing, and Bribes Evidence from India
+SO WORLD POLITICS
+LA English
+DT Article
+DE bribes; India; informality; policing; slums
+ID ECONOMIC INCENTIVES
+AB Day-to-day policing represents a fundamental interface between citizens and states. Yet even in the most capable states, local policing varies enormously from one community to the next. The authors seek to understand this variation and in doing so make three contributions: First, they conceptualize communities and individuals as networks more or less capable of demanding high-quality policing. Second, they present original survey data and semistructured interviews on local policing from over one hundred sixty slums, eight thousand households, and one hundred seventy informal neighborhood leaders in India that contribute to the nascent empirical work on comparative policing and order. Third, they find evidence that well-connected individuals and densely connected neighborhoods express greater confidence in and satisfaction with local policing. Critically, these differences do not appear to be a function of a lower propensity for local conflict but rather of an increased capacity to leverage neighborhood leaders to mediate relations with the police. The combination of analytics and empirics in this article provides insight into the conditions under which individuals and communities experience the police as expropriators of rents or neutral providers of order.
+C1 [Tellez, Juan Fernando] Univ South Carolina, Polit Sci, Columbia, SC 29208 USA.
+   [Wibbels, Erik] Duke Univ, Polit Sci, Durham, NC 27706 USA.
+   [Wibbels, Erik] Duke Univ, DevLab Duke, Durham, NC 27706 USA.
+   [Krishna, Anirudh] Duke Univ, Publ Policy & Polit Sci, Durham, NC 27706 USA.
+RP Tellez, JF (corresponding author), Univ South Carolina, Polit Sci, Columbia, SC 29208 USA.
+EM tellezj@mailbox.sc.edu; e.wibbels@duke.edu; ak30@duke.edu
+FU Omidyar Network; International Growth Centre; Jana Urban Foundation
+FX The authors would like to thank Pablo Beramendi, Emily Rains, Jeremy
+   Spater, Andy Baker, participants of the APSA 2018 Annual Meeting panel
+   "The Informal Sector and the State," and members of the Duke Political
+   Economy Working Group for valuable feedback on earlier drafts of this
+   article. We would also like to thank the editors of World Politics and
+   three anonymous reviewers whose comments and suggestions greatly
+   improved the manuscript. Last, we would like to thank the Omidyar
+   Network, International Growth Centre, and Jana Urban Foundation for
+   support in making this research possible.
+NR 50
+TC 0
+Z9 0
+U1 7
+U2 7
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0043-8871
+EI 1086-3338
+J9 WORLD POLIT
+JI World Polit.
+PD JUL
+PY 2020
+VL 72
+IS 3
+BP 377
+EP 410
+AR PII S0043887120000064
+DI 10.1017/S0043887120000064
+PG 34
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA MM5TS
+UT WOS:000550219500002
+DA 2021-03-19
+ER
+
+PT J
+AU Casey, AE
+AF Casey, Adam E.
+TI The Durability of Client Regimes Foreign Sponsorship and Military
+   Loyalty, 1946-2010
+SO WORLD POLITICS
+LA English
+DT Article
+DE authoritarian durability; civil-military relations; foreign
+   interventions; Cold War; great power foreign policy; alliances; military
+   coups; coup prevention
+ID AUTHORITARIANISM; REPRESSION
+AB Conventional wisdom holds that great power patrons prop up client dictatorships. But this is generally assumed rather than systematically analyzed. This article provides the first comprehensive analysis of the relationship between foreign sponsorship and authoritarian regime survival, using an original data set of all autocratic client regimes in the postwar period. The results demonstrate that patronage from Western powers-the United States, France, and the United Kingdom-is not associated with client regime survival. Rather, it's only Soviet sponsorship that reduced the risk of regime collapse. The author explains this variation by considering the effects of foreign sponsorship on the likelihood of military coups d'etat. He argues that the Soviet Union directly aided its clients by imposing a series of highly effective coup prevention strategies. By contrast, the US and its allies didn't provide such aid, leaving regimes vulnerable to military overthrow.
+C1 [Casey, Adam E.] Univ Michigan, Weiser Ctr Emerging Democracies, Ann Arbor, MI 48109 USA.
+RP Casey, AE (corresponding author), Univ Michigan, Weiser Ctr Emerging Democracies, Ann Arbor, MI 48109 USA.
+EM aecasey@umich.edu
+NR 100
+TC 1
+Z9 1
+U1 7
+U2 7
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0043-8871
+EI 1086-3338
+J9 WORLD POLIT
+JI World Polit.
+PD JUL
+PY 2020
+VL 72
+IS 3
+BP 411
+EP 447
+AR PII S0043887120000039
+DI 10.1017/S0043887120000039
+PG 37
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA MM5TS
+UT WOS:000550219500003
+DA 2021-03-19
+ER
+
+PT J
+AU Busemeyer, MR
+   Thelen, K
+AF Busemeyer, Marius R.
+   Thelen, Kathleen
+TI Institutional Sources of Business Power
+SO WORLD POLITICS
+LA English
+DT Article
+DE business power; charter schools; comparative political economy;
+   corporatism; education; education reform; historical institutionalism;
+   institutional business power; policy feedback; venture philanthropists
+ID SWEDISH WELFARE SERVICES; SOCIAL-POLICY; POLITICS; PHILANTHROPY; UBER
+AB Recent years have seen a revival of debates about the role of business and the sources of business power in postindustrial political economies. Scholarly accounts commonly distinguish between structural sources of business power, connected to its privileged position in capitalist economies, and instrumental sources, related to direct forms of lobbying by business actors. The authors argue that this distinction overlooks an important third source of business power, which they conceptualize as institutional business power. Institutional business power results when state actors delegate public functions to private business actors. Over time, through policy feedback and lock-in effects, institutional business power contributes to an asymmetrical dependence of the state on the continued commitment of private business actors. This article elaborates the theoretical argument behind this claim, providing empirical examples of growing institutional business power in education in Germany, Sweden, and the United States.
+C1 [Busemeyer, Marius R.] Univ Konstanz, Polit Sci, Constance, Germany.
+   [Busemeyer, Marius R.] Univ Konstanz, Excellence Cluster Polit Inequal, Constance, Germany.
+   [Thelen, Kathleen] MIT, Polit Sci, Cambridge, MA 02139 USA.
+   [Thelen, Kathleen] Max Planck Inst Study Soc, Cologne, Germany.
+RP Busemeyer, MR (corresponding author), Univ Konstanz, Polit Sci, Constance, Germany.; Busemeyer, MR (corresponding author), Univ Konstanz, Excellence Cluster Polit Inequal, Constance, Germany.
+EM marius.busemeyer@uni-konstanz.de; kthelen@mit.edu
+FU Excellence Cluster "The Politics of Inequality [EXC 2035/1]
+FX Research by Marius Busemeyer was supported with funding from the
+   Excellence Cluster "The Politics of Inequality," grant no. EXC 2035/1.
+NR 75
+TC 0
+Z9 0
+U1 8
+U2 11
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0043-8871
+EI 1086-3338
+J9 WORLD POLIT
+JI World Polit.
+PD JUL
+PY 2020
+VL 72
+IS 3
+BP 448
+EP 480
+AR PII S004388712000009X
+DI 10.1017/S004388712000009X
+PG 33
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA MM5TS
+UT WOS:000550219500004
+DA 2021-03-19
+ER
+
+PT J
+AU Mazur, K
+AF Mazur, Kevin
+TI Networks, Informal Governance, and Ethnic Violence in a Syrian City
+SO WORLD POLITICS
+LA English
+DT Article
+DE contentious politics; ethnicity; informality; networks; Syria;
+   urbanization
+ID MOBILIZATION; CONFLICT
+AB In cross-national studies, ethnic exclusion is robustly associated with the onset of violent challenge to incumbent regimes. But significant variation remains at the subnational level-not all members of an excluded ethnic group join in challenge. This article accounts for intra-ethnic group variation in terms of the network properties of local communities, nested within ethnic groups, and the informal ties that regimes forge to some segments of the ethnically excluded population. Mobilization within an excluded ethnic group is most likely among local communities where members are densely linked to one another and lack network access to state-controlled resources. Drawing on a case study of the Syrian city of Homs in the 2011 uprising, this article demonstrates how the Syrian regime's strategies of managing the Sunni population of Homs shaped patterns of challenge. On the one hand, the state's toleration of spontaneous settlements on the city's periphery helped to reproduce dense network ties. On the other hand, the regime's informal bargains with customary leaders instrumentalized those ties to manage local populations. These bargains could not withstand the regime's use of violence against challengers, which meant that these same local networks became crucial factors in impelling and sustaining costly antiregime mobilization.
+C1 [Mazur, Kevin] Northwestern Univ, Evanston, IL 60208 USA.
+RP Mazur, K (corresponding author), Northwestern Univ, Evanston, IL 60208 USA.
+EM kevin.a.mazur@gmail.com
+NR 87
+TC 0
+Z9 0
+U1 5
+U2 6
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0043-8871
+EI 1086-3338
+J9 WORLD POLIT
+JI World Polit.
+PD JUL
+PY 2020
+VL 72
+IS 3
+BP 481
+EP 524
+AR PII S0043887120000052
+DI 10.1017/S0043887120000052
+PG 44
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA MM5TS
+UT WOS:000550219500005
+DA 2021-03-19
+ER
+
+PT J
+AU Kosec, K
+   Mogues, T
+AF Kosec, Katrina
+   Mogues, Tewodaj
+TI Decentralization Without Democracy
+SO WORLD POLITICS
+LA English
+DT Article
+DE Agricultural services; autocracy; decentralization; democracy;
+   productive services; public goods; public investment; social services;
+   water services
+ID FISCAL DECENTRALIZATION; ECONOMIC-PERFORMANCE; GREEN-REVOLUTION;
+   PUBLIC-SERVICES; GOVERNMENT; COMPETITION; FEDERALISM; ETHIOPIA; HEALTH;
+   FRAGMENTATION
+AB Increasingly, decentralization is being adopted by countries in which assumptions made by formal models of decentralization, such as electoral accountability and population mobility, fail to hold. How does decentralization affect public service delivery in such contexts? The authors exploit the partial rollout of decentralization in the autocratic context of Ethiopia and use a spatial regression discontinuity design to identify its effects. Decentralization improves delivery of productive services, specifically, agricultural services, but has no effect on social services, specifically, drinking water services. This finding is consistent with a model in which local leaders have superior information about the public investments that will deliver the greatest returns and they are incentivized by decentralization to maximize citizens' production-on which rents depend-rather than citizens' utility. These findings shed light on nonelectoral mechanisms through which decentralization affects public goods provision and help to explain decentralization's mixed effects in many nondemocratic settings.
+C1 [Kosec, Katrina; Mogues, Tewodaj] IFPRI, Washington, DC 20005 USA.
+   [Kosec, Katrina] Johns Hopkins Univ, Baltimore, MD 21218 USA.
+RP Kosec, K (corresponding author), IFPRI, Washington, DC 20005 USA.; Kosec, K (corresponding author), Johns Hopkins Univ, Baltimore, MD 21218 USA.
+EM k.kosec@cgiar.org; tmogues@imf.org
+OI Mogues, Tewodaj/0000-0002-3816-8445
+FU CGIAR Research Program on Policies, Institutions, and Markets
+FX This research is part funded by the CGIAR Research Program on Policies,
+   Institutions, and Markets, led by the International Food Policy Research
+   Institute.
+NR 107
+TC 0
+Z9 0
+U1 7
+U2 12
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0043-8871
+EI 1086-3338
+J9 WORLD POLIT
+JI World Polit.
+PD APR
+PY 2020
+VL 72
+IS 2
+BP 165
+EP 213
+AR PII S0043887120000027
+DI 10.1017/S0043887120000027
+PG 49
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA LD5MJ
+UT WOS:000526073600001
+DA 2021-03-19
+ER
+
+PT J
+AU Long, T
+AF Long, Tom
+TI Historical Antecedents and Post-World War II Regionalism in the Americas
+SO WORLD POLITICS
+LA English
+DT Article
+DE collective defense; collective security; conversion; critical junctures;
+   historical institutionalism; Inter-American Treaty of Reciprocal
+   Assistance; Latin America; layering; multilateralism; nato; Organization
+   of American States; regionalism; regional security; Rio Treaty; Rio Pact
+ID NO NATO; ORIGINS; AGENDA; ASIA; INSTITUTIONALISM; MULTILATERALISM;
+   ALLIANCE; SECURITY; ORDER; POWER
+AB After World War II, the US-led international security order exhibited substantial regional variation. Explaining this variation has been central to the debate over why is there no nato in Asia. But this debate overlooks the emergence of multilateral security arrangements between the United States and Latin American countries during the same critical juncture. These inter-American institutions are puzzling considering the three factors most commonly used to explain divergence between nato and Asia: burden-sharing, external threats, and collective identity. These conditions fail to explain contemporaneous emergence of inter-American security multilateralism. Although the postwar inter-American system has been characterized as the solidification of US dominance, at the time of its framing, Latin American leaders judged the inter-American system as their best bet for maintaining beneficial US involvement in the Western Hemisphere while reinforcing voice opportunities for weaker states and imposing institutional constraints on US unilateralism. Drawing on multinational archival research, the author advances a historical institutionalist account. Shared historical antecedents of regionalism shaped the range of choices for Latin American and US leaders regarding the desirability and nature of new regional institutions while facilitating institutional change through mechanisms of layering and conversion during this critical juncture.
+C1 [Long, Tom] Univ Warwick, Dept Polit & Int Studies, Coventry, W Midlands, England.
+   [Long, Tom] Ctr Invest & Docencia Econ, Mexico City, DF, Mexico.
+RP Long, T (corresponding author), Univ Warwick, Dept Polit & Int Studies, Coventry, W Midlands, England.; Long, T (corresponding author), Ctr Invest & Docencia Econ, Mexico City, DF, Mexico.
+EM T.Long.1@warwick.ac.uk
+OI Long, Tom/0000-0002-5864-2941
+FU British Academy/Leverhulme Trust; Truman Library Institute; Fulbright US
+   Scholars Program
+FX Research for this article was conducted under grants from the British
+   Academy/Leverhulme Trust, Truman Library Institute, and Fulbright US
+   Scholars Program.
+NR 81
+TC 0
+Z9 0
+U1 4
+U2 5
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0043-8871
+EI 1086-3338
+J9 WORLD POLIT
+JI World Polit.
+PD APR
+PY 2020
+VL 72
+IS 2
+BP 214
+EP 253
+AR PII S0043887119000194
+DI 10.1017/S0043887119000194
+PG 40
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA LD5MJ
+UT WOS:000526073600002
+OA Green Accepted
+DA 2021-03-19
+ER
+
+PT J
+AU Elkjaer, MA
+   Iversen, T
+AF Elkjaer, Mads Andreas
+   Iversen, Torben
+TI The Political Representation of Economic Interests Subversion of
+   Democracy or Middle-Class Supremacy?
+SO WORLD POLITICS
+LA English
+DT Article
+DE democracy; economic interests; globalization; inequality; power;
+   redistribution; representation; welfare state
+ID POLICY PREFERENCES; SOCIAL-POLICY; REDISTRIBUTION; INSTITUTIONS;
+   INEQUALITY; CITIZENS
+AB Rising inequality has caused concerns that democratic governments are no longer responding to majority demands, an argument the authors label the subversion of democracy model (sdm). The sdm comes in two forms: one uses public opinion data to show that policies are strongly biased toward the preferences of the rich; the other uses macrolevel data to show that governments aren't responding to rising inequality. This article critically reassesses the sdm, points to potential biases, and proposes solutions that suggest a different interpretation of the data, which the authors label the representative democracy model (rdm). After testing the sdm against the rdm on public opinion data and on a new data set on fiscal policy, they find that middle-class power has remained remarkably strong over time, even as inequality has risen. The authors conclude that the rich have little influence on redistributive policies, and that the democratic state is apparently not increasingly constrained by global capital.
+C1 [Elkjaer, Mads Andreas] Univ Oxford, Dept Polit & Int Relat, Oxford, England.
+   [Elkjaer, Mads Andreas] Univ Oxford Nuffield Coll, Oxford, England.
+   [Iversen, Torben] Harvard Univ, Polit Econ, Cambridge, MA 02138 USA.
+RP Elkjaer, MA (corresponding author), Univ Oxford, Dept Polit & Int Relat, Oxford, England.; Elkjaer, MA (corresponding author), Univ Oxford Nuffield Coll, Oxford, England.
+EM mads.elkjaer@politics.ox.ac.uk; iversen@fas.harvard.edu
+NR 73
+TC 2
+Z9 2
+U1 4
+U2 8
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0043-8871
+EI 1086-3338
+J9 WORLD POLIT
+JI World Polit.
+PD APR
+PY 2020
+VL 72
+IS 2
+BP 254
+EP 290
+AR PII S0043887119000224
+DI 10.1017/S0043887119000224
+PG 37
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA LD5MJ
+UT WOS:000526073600003
+DA 2021-03-19
+ER
+
+PT J
+AU Nugent, ER
+AF Nugent, Elizabeth R.
+TI The Psychology of Repression and Polarization
+SO WORLD POLITICS
+LA English
+DT Article
+DE Egypt; identity politics; mixed methods; polarization; repression;
+   Tunisia
+ID SOCIAL IDENTITY; INTERGROUP; IDEOLOGY; CATEGORIZATION; SIMILARITY;
+   MODERATION; DYNAMICS
+AB How does political polarization occur under repressive conditions? Drawing on psychological theories of social identity, the author posits that the nature of repression drives polarization. Repression alters group identities, changing the perceived distance between groups and ultimately shaping the level of affective and preference polarization between them through differentiation processes. The author tests the proposed causal relationship using mixed-method data and analysis.The results of a laboratory experiment reveal that exposure to a targeted repression prime results in greater in-group identification and polarization between groups, whereas exposure to a widespread prime results in decreased levels of these same measurements. The effect of the primes appears to be mediated through group identification. Case-study evidence of polarization between political opposition groups that were differently repressed in Egypt and Tunisia reinforces these results. The findings have implications for understanding how polarization, as conditioned by repression, may alter the likelihood of the cooperative behavior among opposition actors necessary for the success of democratic politics.
+C1 [Nugent, Elizabeth R.] Yale Univ, Dept Polit Sci, New Haven, CT 06520 USA.
+RP Nugent, ER (corresponding author), Yale Univ, Dept Polit Sci, New Haven, CT 06520 USA.
+EM elizabeth.nugent@yale.edu
+FU Fund for Experimental Social Sciences; Mamdouha S. Bobst Center for
+   Peace and Justice at Princeton University; Foundations of Human Behavior
+   Initiative at Harvard University
+FX The Fund for Experimental Social Sciences and the Mamdouha S. Bobst
+   Center for Peace and Justice at Princeton University, and the
+   Foundations of Human Behavior Initiative at Harvard University provided
+   the financial support that made this research possible.
+NR 124
+TC 3
+Z9 4
+U1 9
+U2 14
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0043-8871
+EI 1086-3338
+J9 WORLD POLIT
+JI World Polit.
+PD APR
+PY 2020
+VL 72
+IS 2
+BP 291
+EP 334
+AR PII S0043887120000015
+DI 10.1017/S0043887120000015
+PG 44
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA LD5MJ
+UT WOS:000526073600004
+DA 2021-03-19
+ER
+
+PT J
+AU Chacon, ML
+   Jensen, JL
+AF Chacon, Mario L.
+   Jensen, Jeffrey L.
+TI Democratization, De Facto Power, and Taxation: Evidence from Military
+   Occupation during Reconstruction
+SO WORLD POLITICS
+LA English
+DT Article
+DE democratization; elites; military occupation; redistribution
+ID VOTING FRANCHISE; SIZE; INEQUALITY; GOVERNMENT; ORIGINS
+AB How important is the enforcement of political rights in new democracies? The authors use the enfranchisement of the emancipated slaves following the American Civil War to study this question. Critical to their strategy, black suffrage was externally enforced by the United States Army in ten Southern states during Reconstruction. The authors employ a triple-difference model to estimate the joint effect of enfranchisement and its enforcement on taxation. They find that counties with greater black-population shares that were occupied by the military levied higher taxes compared to similar nonoccupied counties. These counties later experienced a comparatively greater decline in taxation after the troops were withdrawn. The authors also demonstrate that in occupied counties, black politicians were more likely to be elected and political murders by white supremacist groups occurred less frequently. The findings provide evidence on the key role of federal troops in limiting elite capture by force during this period.
+C1 [Chacon, Mario L.; Jensen, Jeffrey L.] New York Univ Abu Dhabi, Social Sci Div, Polit Sci, Abu Dhabi, U Arab Emirates.
+RP Chacon, ML (corresponding author), New York Univ Abu Dhabi, Social Sci Div, Polit Sci, Abu Dhabi, U Arab Emirates.
+EM mario.chacon@nyu.edu; jeffrey.jensen@nyu.edu
+NR 58
+TC 0
+Z9 0
+U1 4
+U2 21
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0043-8871
+EI 1086-3338
+J9 WORLD POLIT
+JI World Polit.
+PD JAN
+PY 2020
+VL 72
+IS 1
+BP 1
+EP 46
+AR PII S0043887119000157
+DI 10.1017/S0043887119000157
+PG 46
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA JX4RY
+UT WOS:000503724600001
+DA 2021-03-19
+ER
+
+PT J
+AU Grossman, S
+AF Grossman, Shelby
+TI The Politics of Order in Informal Markets: Evidence from Lagos
+SO WORLD POLITICS
+LA English
+DT Article
+DE development; Nigeria; private governance; political economy; sub-Saharan
+   Africa; trade; West Africa
+ID CIVIL-SOCIETY; INSTITUTIONS; ECONOMICS; PROPERTY
+AB Property rights are important for economic exchange, but in many parts of the world, they are not publicly guaranteed. Private market associations can fill this gap by providing an institutional structure to enforce agreements, but with this power comes the ability to extort from group members. Under what circumstances do private associations provide a stable environment for economic activity? The author uses survey data collected from 1,179 randomly sampled traders across 199 markets in Lagos, Nigeria, and finds that markets maintain institutions to support trade not in the absence of government, but rather in response to active government interference. The author argues that associations develop protrade policies when threatened by politicians they perceive to be predatory and when the organizations can respond with threats of their own. The latter is easier when traders are not competing with one another. To maintain this balance of power, an association will not extort; it needs trader support to maintain the credibility of its threats to mobilize against predatory politicians.
+C1 [Grossman, Shelby] Stanford Internet Observ, Stanford, CA 94305 USA.
+RP Grossman, S (corresponding author), Stanford Internet Observ, Stanford, CA 94305 USA.
+EM shelbygrossman@gmail.com
+FU Centre for Economic Policy Research's Private Enterprise Development in
+   Low-Income Countries initiative
+FX The survey was funded by the Centre for Economic Policy Research's
+   Private Enterprise Development in Low-Income Countries initiative and
+   approved under irb #14-4609.
+NR 42
+TC 1
+Z9 1
+U1 2
+U2 19
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0043-8871
+EI 1086-3338
+J9 WORLD POLIT
+JI World Polit.
+PD JAN
+PY 2020
+VL 72
+IS 1
+BP 47
+EP 79
+AR PII S0043887119000121
+DI 10.1017/S0043887119000121
+PG 33
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA JX4RY
+UT WOS:000503724600002
+OA Green Published
+DA 2021-03-19
+ER
+
+PT J
+AU Johnson, M
+AF Johnson, Marcus
+TI Electoral Discrimination: The Relationship between Skin Color and Vote
+   Buying in Latin America
+SO WORLD POLITICS
+LA English
+DT Article
+DE discrimination; Latin America; race and ethnicity; skin color; vote
+   buying
+ID MACHINE POLITICS; RACE; CLIENTELISM; ETHNICITY; CLASSIFICATION;
+   IDENTIFICATION; DETERMINANTS; MANIPULATION; CITIZENSHIP; HANDOUTS
+AB Under what conditions do elections produce racially discriminatory outcomes? This article proposes electoral discrimination as an electoral mechanism for racial marginalization in indigenous and Afro-descendant Latin America. Electoral discrimination occurs when voters are mobilized under differential terms of electoral inclusion based on their observable characteristics. Using the 2010-2014 rounds of the AmericasBarometer and a conjoint experiment, the author finds that skin color is a robust predictor of vote buying across countries in the region with large, visible black and indigenous populations. A significant portion of the relationship between skin color and vote buying is due to the disproportionate impacts of race-neutral targeting criteria on dark-skinned voters. Observed differences in wealth, political and civic engagement, partisanship, political interest, interpersonal trust, and geography together explain a portion of the skin color-client gap, although the individual contribution of each of these factors differs by country. In addition, the author finds an independent relationship between skin color and vote buying over and above these race-neutral factors. The argument and findings in this article speak broadly to the consequences of electoral mobilization in ethnoracially stratified states in Latin America and beyond.
+C1 [Johnson, Marcus] CUNY, Baruch Coll, Polit Sci, New York, NY 10021 USA.
+RP Johnson, M (corresponding author), CUNY, Baruch Coll, Polit Sci, New York, NY 10021 USA.
+EM johnson@baruch.cuny.edu
+FU Princeton Research in Experimental Social Science Workshop; Bobst Center
+   for Peace and Justice at Princeton University
+FX Grants from the Princeton Research in Experimental Social Science
+   Workshop and the Bobst Center for Peace and Justice at Princeton
+   University supported the field research and data collection for this
+   project.
+NR 95
+TC 0
+Z9 0
+U1 1
+U2 20
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0043-8871
+EI 1086-3338
+J9 WORLD POLIT
+JI World Polit.
+PD JAN
+PY 2020
+VL 72
+IS 1
+BP 80
+EP 120
+AR PII S0043887119000145
+DI 10.1017/S0043887119000145
+PG 41
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA JX4RY
+UT WOS:000503724600003
+DA 2021-03-19
+ER
+
+PT J
+AU Cronin-Furman, K
+AF Cronin-Furman, Kate
+TI Human Rights Half Measures: Avoiding Accountability in Postwar Sri Lanka
+SO WORLD POLITICS
+LA English
+DT Article
+DE compliance; human rights; hypocrisy; mass atrocities; Sri Lanka;
+   transitional justice; United Nations Human Rights Council
+ID INTERNATIONAL HUMAN-RIGHTS; POLITICS; TREATIES; IMPACT; POWER; SHAME
+AB Why do repressive states create human rights institutions that cost them money and political capital but fail to silence international criticism? The academic literature assumes that states engaging in disingenuous human rights behavior are hoping to persuade (or deceive) liberal Western states and international advocates. But if human rights promoters in the West are the target audience for the creation of these half measures institutions, the strategy appears puzzlingly miscalculated. It reveals that the repressive state is sensitive to international opinion, and often results in increased pressure. The author argues that states engaging in human rights half measures are playing to a different, previously overlooked audience: swing states that can act as veto points on multilateral efforts to enforce human rights. The article illustrates these dynamics with a case study of Sri Lanka's response to international pressure for postwar justice. The author shows that although the creation of a series of weak investigative commissions was prompted by pressure from Western governments and ngos, it was not an attempt to satisfy or hoodwink these actors. Instead, it was part of a coalition-blocking strategy to convince fellow developing states on the UN Human Rights Council to oppose the creation of an international inquiry and to give them the political cover to do so.
+C1 [Cronin-Furman, Kate] UCL, Dept Polit Sci, Human Rights, London, England.
+RP Cronin-Furman, K (corresponding author), UCL, Dept Polit Sci, Human Rights, London, England.
+EM k.cronin-furman@ucl.ac.uk
+FU National Science Foundation Doctoral Dissertation Research Improvement
+   Grant [1324123]; Advanced Consortium on Cooperation, Conflict, and
+   Complexity at Columbia University's Earth Institute
+FX Research was funded by a National Science Foundation Doctoral
+   Dissertation Research Improvement Grant (award ID 1324123), and by the
+   Advanced Consortium on Cooperation, Conflict, and Complexity at Columbia
+   University's Earth Institute.
+NR 121
+TC 3
+Z9 3
+U1 3
+U2 14
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0043-8871
+EI 1086-3338
+J9 WORLD POLIT
+JI World Polit.
+PD JAN
+PY 2020
+VL 72
+IS 1
+BP 121
+EP 163
+AR PII S0043887119000182
+DI 10.1017/S0043887119000182
+PG 43
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA JX4RY
+UT WOS:000503724600004
+DA 2021-03-19
+ER
+
+PT J
+AU Ang, M
+   Nalepa, M
+AF Ang, Milena
+   Nalepa, Monika
+TI Can Transitional Justice Improve the Quality of Representation in New
+   Democracies?
+SO WORLD POLITICS
+LA English
+DT Article
+DE blackmail; Global Transitional Justice Dataset; quality of
+   representation; transitional justice
+ID WITCH-HUNT; LUSTRATION; ACCOUNTABILITY; POLITICS; LEGACIES; MEMORY;
+   TRUTH; STATE; RULE
+AB Can transitional justice enhance democratic representation in countries recovering from authoritarian rule? The authors argue that lustration, a policy that reveals secret collaboration with the authoritarian regime, can prevent former authoritarian elites from extorting policy concessions from past collaborators who have been elected as politicians in the new regime. Absent lustration, former elites can threaten to reveal information about past collaboration unless the politicians implement policies these elites desire. In this way, lustration policies enable politicians to avoid blackmail and to be responsive to their constituents, improving the quality of representation. The authors show that whether lustration enhances representation depends on its severity and the extent to which dissidents-turned-politicians would suffer if the skeletons in their closets were revealed. The authors also find that the potential to blackmail politicians increases as the ideological distance between authoritarian elites and politicians decreases. They test this theory with original data from the Global Transitional Justice Dataset, which spans eighty-four countries that transitioned to democracy since 1946.
+C1 [Ang, Milena] Univ Chicago, Soc Fellows, Chicago, IL 60637 USA.
+   [Nalepa, Monika] Univ Chicago, Polit Sci, Chicago, IL 60637 USA.
+RP Ang, M (corresponding author), Univ Chicago, Soc Fellows, Chicago, IL 60637 USA.
+EM milenaang@uchicago.edu; mnalepa@uchicago.edu
+OI Nalepa, Monika/0000-0003-2344-3405
+FU National Science FoundationNational Science Foundation (NSF) [1658170];
+   Center for International Social Science Research Faculty Grant
+FX This research was supported by the National Science Foundation (award
+   no. 1658170) and a Center for International Social Science Research
+   Faculty Grant.
+NR 70
+TC 1
+Z9 1
+U1 2
+U2 12
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0043-8871
+EI 1086-3338
+J9 WORLD POLIT
+JI World Polit.
+PD OCT
+PY 2019
+VL 71
+IS 4
+BP 631
+EP 666
+AR PII S0043887119000066
+DI 10.1017/S0043887119000066
+PG 36
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA IX8MY
+UT WOS:000485942800001
+DA 2021-03-19
+ER
+
+PT J
+AU Lazarev, E
+AF Lazarev, Egor
+TI Laws in Conflict: Legacies of War, Gender, and Legal Pluralism in
+   Chechnya
+SO WORLD POLITICS
+LA English
+DT Article
+DE conflict; legal pluralism; women's empowerment
+ID CIVIL-WAR; INDISCRIMINATE VIOLENCE; POLITICAL VIOLENCE; RULE; JUSTICE;
+   MICRO
+AB How do legacies of conflict affect choices between state and nonstate legal institutions? This article studies this question in Chechnya, where state law coexists with Sharia and customary law. The author focuses on the effect of conflict-induced disruption of gender hierarchies because the dominant interpretations of religious and customary norms are discriminatory against women. The author finds that women in Chechnya are more likely than men to rely on state law and that this gender gap in legal preferences and behavior is especially large in more-victimized communities. The author infers from this finding that the conflict created the conditions for women in Chechnya to pursue their interests through state law-albeit not without resistance. Women's legal mobilization has generated a backlash from the Chechen government, which has attempted to reinstate a patriarchal order. The author concludes that conflict may induce legal mobilization among the weak and that gender may become a central cleavage during state-building processes in postconflict environments.
+C1 [Lazarev, Egor] Univ Toronto, Dept Polit Sci, Toronto, ON, Canada.
+   [Lazarev, Egor] Harvard Acad Int & Area Studies, Cambridge, MA 02138 USA.
+RP Lazarev, E (corresponding author), Univ Toronto, Dept Polit Sci, Toronto, ON, Canada.; Lazarev, E (corresponding author), Harvard Acad Int & Area Studies, Cambridge, MA 02138 USA.
+EM egor.lazarev@utoronto.ca
+NR 88
+TC 0
+Z9 0
+U1 3
+U2 7
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0043-8871
+EI 1086-3338
+J9 WORLD POLIT
+JI World Polit.
+PD OCT
+PY 2019
+VL 71
+IS 4
+BP 667
+EP 709
+AR PII S0043887119000133
+DI 10.1017/S0043887119000133
+PG 43
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA IX8MY
+UT WOS:000485942800002
+DA 2021-03-19
+ER
+
+PT J
+AU Frye, T
+   Reuter, OJ
+   Szakonyi, D
+AF Frye, Timothy
+   Reuter, Ora John
+   Szakonyi, David
+TI Vote Brokers, Clientelist Appeals, and Voter Turnout: Evidence from
+   Russia and Venezuela
+SO WORLD POLITICS
+LA English
+DT Article
+DE autocracy; clientelism; mobilization; Russia; Venezuela; voting
+ID MACHINE POLITICS; ELECTORAL HANDOUTS; FIELD EXPERIMENT; FORMAL MODEL;
+   NETWORKS; MOBILIZATION; ORGANIZATION; EXPECTATIONS; ETHNICITY; LINKAGES
+AB Modern clientelist exchange is typically carried out by intermediaries-party activists, employers, local strongmen, traditional leaders, and the like. Politicians use such brokers to mobilize voters, yet little about their relative effectiveness is known. The authors argue that broker effectiveness depends on their leverage over clients and their ability to monitor voters. They apply their theoretical framework to compare two of the most common brokers worldwide, party activists and employers, arguing the latter enjoy numerous advantages along both dimensions. Using survey-based framing experiments in Venezuela and Russia, the authors find voters respond more strongly to turnout appeals from employers than from party activists. To demonstrate mechanisms, the article shows that vulnerability to job loss and embeddedness in workplace social networks make voters more responsive to clientelist mobilization by their bosses. The results shed light on the conditions most conducive to effective clientelism and highlight broker type as important for understanding why clientelism is prevalent in some countries but not others.
+C1 [Frye, Timothy] Columbia Univ, Dept Polit Sci, New York, NY 10027 USA.
+   [Frye, Timothy] Higher Sch Econ, Int Ctr Study Inst, Moscow, Russia.
+   [Reuter, Ora John] Univ Wisconsin, Polit Sci, Madison, WI 53706 USA.
+   [Reuter, Ora John; Szakonyi, David] Higher Sch Econ, Moscow, Russia.
+   [Szakonyi, David] George Washington Univ, Polit Sci, Washington, DC 20052 USA.
+   [Szakonyi, David] Harvard Univ, Cambridge, MA 02138 USA.
+RP Frye, T (corresponding author), Columbia Univ, Dept Polit Sci, New York, NY 10027 USA.; Frye, T (corresponding author), Higher Sch Econ, Int Ctr Study Inst, Moscow, Russia.
+EM tmf2@columbia.edu; reutero@uwm.edu; dszakonyi@email.gwu.edu
+FU Russian Academic Excellence Project '5-100'Ministry of Education and
+   Science, Russian FederationProject 5-100, Ministry of Education and
+   Science, Russian Federation; US National Science FoundationNational
+   Science Foundation (NSF) [1322732]; University of Wisconsin-Milwaukee's
+   Research Growth Initiative
+FX This article was prepared within the framework of the hse University
+   Basic Research Program and funded by the Russian Academic Excellence
+   Project '5-100'. It was also funded by the US National Science
+   Foundation (award number 1322732 "Collaborative Research: Voter
+   Mobilization and Electoral Subversion in the Workplace"), and a grant
+   from the University of Wisconsin-Milwaukee's Research Growth Initiative.
+NR 77
+TC 1
+Z9 1
+U1 2
+U2 7
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0043-8871
+EI 1086-3338
+J9 WORLD POLIT
+JI World Polit.
+PD OCT
+PY 2019
+VL 71
+IS 4
+BP 710
+EP 746
+AR PII S0043887119000078
+DI 10.1017/S0043887119000078
+PG 37
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA IX8MY
+UT WOS:000485942800003
+DA 2021-03-19
+ER
+
+PT J
+AU Daly, SZ
+AF Daly, Sarah Zukerman
+TI Voting for Victors: Why Violent Actors Win Postwar Elections
+SO WORLD POLITICS
+LA English
+DT Article
+DE civil war; conflict; elections; electoral violence; El Salvador;
+   emotions; Latin America; mixed methods; parties; peace; political
+   legacies; postwar; rebels; security; strongmen; successor parties;
+   transitional justice; victims; violence; voters
+ID CIVIL-WAR; POLITICAL VIOLENCE; ARMED GROUPS; DEMOCRACY; CONFLICT;
+   SUPPORT; IMPACT; LEGACY; CRIME; VICTIMIZATION
+AB Why do citizens elect political actors who have perpetrated violence against the civilian population? Despite their use of atrocities, political parties with deep roots in the belligerent organizations of the past win postwar democratic elections in countries around the world. This article uses new, cross-national data on postwar elections globally between 1970 and 2010, as well as voting, survey, archival, and interview data from El Salvador. It finds that belligerents' varied electoral success after wars can be explained not by their wartime levels of violence or use of electoral coercion, but by the distribution of military power at the end of conflict. It argues that militarily stronger belligerents are able to claim credit for peace, which translates into a reputation for competence on the provision of security. This enables them to own the security valence issue, which tends to crosscut cleavages, and to appeal to swing voters. The stronger belligerents' provision of security serves to offset and justify their use of atrocities, rendering their election rational. This article sheds light on political life after episodes of violence. It also contributes to understanding security voting and offers insights into why people vote in seemingly counterintuitive ways.
+C1 [Daly, Sarah Zukerman] Columbia Univ, Polit Sci, New York, NY 10027 USA.
+RP Daly, SZ (corresponding author), Columbia Univ, Polit Sci, New York, NY 10027 USA.
+EM sd2623@columbia.edu
+FU Carnegie Corporation of New York; United States Institute of Peace;
+   Kellogg Institute for International Studies at the University of Notre
+   Dame; Institute for Scholarship in the Liberal Arts at the University of
+   Notre Dame; Faculty Research Support Program at the University of Notre
+   Dame
+FX I acknowledge funding from the Carnegie Corporation of New York, United
+   States Institute of Peace, and Kellogg Institute for International
+   Studies, Institute for Scholarship in the Liberal Arts, and the Faculty
+   Research Support Program at the University of Notre Dame.
+NR 182
+TC 2
+Z9 2
+U1 4
+U2 16
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0043-8871
+EI 1086-3338
+J9 WORLD POLIT
+JI World Polit.
+PD OCT
+PY 2019
+VL 71
+IS 4
+BP 747
+EP 805
+AR PII S0043887119000091
+DI 10.1017/S0043887119000091
+PG 59
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA IX8MY
+UT WOS:000485942800004
+DA 2021-03-19
+ER
+
+PT J
+AU Vogler, JP
+AF Vogler, Jan P.
+TI Imperial Rule, the Imposition of Bureaucratic Institutions, and their
+   Long-Term Legacies
+SO WORLD POLITICS
+LA English
+DT Article
+DE administrative culture; Austria; Austria-Hungary; bureaucratic
+   efficiency; bureaucratic organization; centralization; colonial origins;
+   competitiveness of recruitment; corruption; culture and institutions;
+   decentralization; developing countries; direct rule; Eastern Europe;
+   empires; external imposition of institutions; foreign rule; German
+   Empire; imperial legacies; indirect rule; institutional persistence;
+   long nineteenth century; meritocracy; modern bureaucracy; path
+   dependence; patronage; perceptions of public institutions; Poland;
+   Prussia; public administration; public sector recruitment; Russia; state
+   building; state capacity
+ID CIVIL-SERVICE; COLONIAL LEGACIES; PUBLIC-SECTOR; PATH; CORRUPTION;
+   HISTORY; TRANSMISSION; PATRONAGE; BRITISH; TRUST
+AB Significant variation in the institutions and efficiency of public bureaucracies across countries and regions are observed. These differences could be partially responsible for divergence in the effectiveness of policy implementation, corruption levels, and economic development. Do imperial legacies contribute to the observed variation in the organization of public administrations? Historical foreign rule and colonization have been shown to have lasting effects on legal systems, political institutions, and trade in former controlled territories. Imperial legacies could also explain variations in the performance of public administrations. The author uses the case of Poland to investigate the long-term effects of foreign rule on bureaucratic systems. Historically, Poland was split between three imperial powers with very different public administrations: Prussia, Austria, and Russia. Statistical analyses of original data collected through a survey of more than 650 Polish public administrations suggest that some present-day differences in the organization and efficiency of bureaucracies are due to imperial legacies.
+C1 [Vogler, Jan P.] Univ Virginia, Woodrow Wilson Dept Polit, Charlottesville, VA 22903 USA.
+RP Vogler, JP (corresponding author), Univ Virginia, Woodrow Wilson Dept Polit, Charlottesville, VA 22903 USA.
+EM jv2mc@virginia.edu
+FU Duke University Graduate School [2117145]
+FX The Duke University Graduate School provided generous funding for this
+   research project (award number 2117145).
+NR 143
+TC 0
+Z9 0
+U1 2
+U2 13
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0043-8871
+EI 1086-3338
+J9 WORLD POLIT
+JI World Polit.
+PD OCT
+PY 2019
+VL 71
+IS 4
+BP 806
+EP 863
+AR PII S004388711900008X
+DI 10.1017/S004388711900008X
+PG 58
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA IX8MY
+UT WOS:000485942800005
+DA 2021-03-19
+ER
+
+PT J
+AU Nathan, NL
+AF Nathan, Noah L.
+TI Electoral Consequences of Colonial Invention: Brokers, Chiefs, and
+   Distribution in Northern Ghana
+SO WORLD POLITICS
+LA English
+DT Article
+DE Africa; brokers; clientelism; colonialism; distributive politics; Ghana;
+   traditional chiefs
+ID CLIENTELISM; POLITICS; LAND
+AB This article studies the effects of traditional chiefs-a common type of broker-on voters' ability to extract state resources from politicians. Using original data from Northern Ghana, the author shows that chieftaincy positions invented by colonial authorities are especially prone to capture, leaving voters worse off compared both to more accountable chiefs whose authority dates to the precolonial period and to voters who lack formal chiefs who can serve as brokers. The latter comparison exploits exogenous assignment of ethnic groups to the colonial invention of chieftaincy in the late nineteenth century. The findings suggest that whether voters benefit from brokers amidst clientelistic electoral competition depends on the accountability relationship between brokers and their clients.
+C1 [Nathan, Noah L.] Univ Michigan, Polit Sci, Ann Arbor, MI 48109 USA.
+RP Nathan, NL (corresponding author), Univ Michigan, Polit Sci, Ann Arbor, MI 48109 USA.
+EM nlnathan@umich.edu
+NR 67
+TC 3
+Z9 3
+U1 0
+U2 9
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0043-8871
+EI 1086-3338
+J9 WORLD POLIT
+JI World Polit.
+PD JUL
+PY 2019
+VL 71
+IS 3
+BP 417
+EP 456
+DI 10.1017/S0043887119000030
+PG 40
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA ID6XO
+UT WOS:000471825700001
+DA 2021-03-19
+ER
+
+PT J
+AU Barber, B
+   Miller, C
+AF Barber, Benjamin
+   Miller, Charles
+TI Propaganda and Combat Motivation: Radio Broadcasts and German Soldiers'
+   Performance in World War II
+SO WORLD POLITICS
+LA English
+DT Article
+DE authoritarianism; collective action; ideology; military effectiveness
+ID VOTING-BEHAVIOR; NAZI; TELEVISION; ARMY; RISE; NATIONALISM; COHESION;
+   HITLER; MEDIA
+AB What explains combat motivation in warfare? Scholars argue that monitoring, material rewards, and punishment alone are insufficient explanations. Further, competing ideological accounts of motivation are also problematic because ideas are difficult to operationalize and measure. To solve this puzzle, the authors combine extensive information from World War II about German soldiers' combat performance with data about conditionally exogenous potential exposure to Nazi radio propaganda. They find evidence that soldiers with higher potential exposure to propaganda were more likely to be decorated for valor even after controlling for individual socioeconomic factors, home district characteristics like urbanization, and proxies for combat exposure.
+C1 [Barber, Benjamin] IE Business Sch, Dept Strategy, Madrid, Spain.
+   [Miller, Charles] Australian Natl Univ, Sch Polit & Int Relat, Int Relat, Canberra, ACT, Australia.
+RP Barber, B (corresponding author), IE Business Sch, Dept Strategy, Madrid, Spain.
+EM benjamin.barber@ie.edu; miller@anu.edu.au
+OI Miller, Charles/0000-0001-6484-8906; Barber IV,
+   Benjamin/0000-0001-6388-1464
+FU Spanish Ministry of Economy and Competitiveness; European Regional
+   Development Fund (ERDF)European Commission [ECO2016-77205-P]
+FX This research was partially funded by the Spanish Ministry of Economy
+   and Competitiveness and by the European Regional Development Fund (ERDF)
+   Grant no. ECO2016-77205-P.
+NR 87
+TC 0
+Z9 0
+U1 1
+U2 14
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0043-8871
+EI 1086-3338
+J9 WORLD POLIT
+JI World Polit.
+PD JUL
+PY 2019
+VL 71
+IS 3
+BP 457
+EP 502
+AR PII S0043887118000345
+DI 10.1017/S0043887118000345
+PG 46
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA ID6XO
+UT WOS:000471825700002
+DA 2021-03-19
+ER
+
+PT J
+AU Betz, T
+   Pond, A
+AF Betz, Timm
+   Pond, Amy
+TI Foreign Financing and the International Sources of Property Rights
+SO WORLD POLITICS
+LA English
+DT Article
+DE foreign direct investment; globalization; international finance;
+   international investment agreements; international political economy;
+   investor-state dispute settlement; mergers and acquisitions; political
+   risk; property rights; stock and bond issues
+ID BILATERAL INVESTMENT TREATIES; POLITICAL-ECONOMY;
+   MULTINATIONAL-CORPORATIONS; DOMESTIC INSTITUTIONS; SUPPLY CHAINS;
+   EXPROPRIATION; PROTECTION; COMPETITION; REGIME; FIRMS
+AB How do firms protect themselves against infringements of their property rights by their own government? The authors develop a theory based on international law and joint asset ownership with foreign firms. Investment agreements protect the assets of foreign firms but are not available to domestic firms. This segmentation of the property rights environment creates a rationale for international financial relationships between firms. By forming financial relationships with foreign firms, domestic firms gain indirect coverage from the property rights available to foreign firms under investment agreements. If a government is less likely to violate the property rights of covered foreign firms, it is also less likely to violate property rights for assets held jointly by domestic and foreign firms. This article presents systematic evidence from data on the activities of firms in countries that have investment agreements with the United States. International financial relationships between firms, through mergers and acquisitions as well as through bond and equity issues, are more common where property rights are weak. The theory suggests a political logic to the fragmentation of firm-ownership stakes across jurisdictions, offers an institutional explanation of international financial flows, and identifies new distributional consequences of international law.
+C1 [Betz, Timm; Pond, Amy] Texas A&M Univ, Polit Sci, College Stn, TX 77843 USA.
+RP Betz, T (corresponding author), Texas A&M Univ, Polit Sci, College Stn, TX 77843 USA.
+EM timm.betz@tamu.edu; apond@tamu.edu
+RI Pond, Amy/AAC-3108-2021; Betz, Timm/I-1696-2019
+OI Pond, Amy/0000-0002-6908-2791; Betz, Timm/0000-0001-5632-2832
+NR 93
+TC 5
+Z9 5
+U1 1
+U2 12
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0043-8871
+EI 1086-3338
+J9 WORLD POLIT
+JI World Polit.
+PD JUL
+PY 2019
+VL 71
+IS 3
+BP 503
+EP 541
+DI 10.1017/S0043887119000017
+PG 39
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA ID6XO
+UT WOS:000471825700003
+DA 2021-03-19
+ER
+
+PT J
+AU Paine, J
+AF Paine, Jack
+TI Democratic Contradictions in European Settler Colonies
+SO WORLD POLITICS
+LA English
+DT Article
+DE colonialism; democracy; European settlers; institutions
+ID COLONIALISM; LEGACY; ORIGINS; SPANISH
+AB How did political institutions emerge and evolve under colonial rule? This article studies a key colonial actor and establishes core democratic contradictions in European settler colonies. Although European settlers' strong organizational position enabled them to demand representative political institutions, the first hypothesis qualifies their impulse for electoral representation by positing the importance of a metropole with a representative tradition. Analyzing new data on colonial legislatures in 144 colonies between the seventeenth and twentieth centuries shows that only British settler colonies-emanating from a metropole with representative institutions-systematically exhibited early elected legislative representation. The second hypothesis highlights a core democratic contradiction in colonies that established early representative institutions. Applying class-based democratization theories predicts perverse institutional evolution-resisted enfranchisement and contestation backsliding-because sizable European settler minorities usually composed an entrenched landed class. Evidence on voting restrictions and on legislature disbandment from Africa, the British Caribbean, and the US South supports these implications and rejects the Dahlian path from competitive oligarchy to full democracy.
+C1 [Paine, Jack] Univ Rochester, Polit Sci, Rochester, NY 14627 USA.
+RP Paine, J (corresponding author), Univ Rochester, Polit Sci, Rochester, NY 14627 USA.
+EM jackpaine@rochester.edu
+NR 79
+TC 1
+Z9 1
+U1 2
+U2 10
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0043-8871
+EI 1086-3338
+J9 WORLD POLIT
+JI World Polit.
+PD JUL
+PY 2019
+VL 71
+IS 3
+BP 542
+EP 585
+AR PII S0043887119000029
+DI 10.1017/S0043887119000029
+PG 44
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA ID6XO
+UT WOS:000471825700004
+DA 2021-03-19
+ER
+
+PT J
+AU Petrova, MH
+AF Petrova, Margarita H.
+TI Naming and Praising in Humanitarian Norm Development
+SO WORLD POLITICS
+LA English
+DT Article
+DE altercasting; cluster munitions; developing states; humanitarian norms;
+   land mines; naming and praising; NGO; norm cascades; weapon prohibitions
+ID HUMAN-RIGHTS; UNITED-NATIONS; FOREIGN-POLICY; CONVENTION; COMMITMENT;
+   IDENTITIES; LEGITIMACY; HYPOCRISY; WEAPONS; MODELS
+AB To examine the early development of humanitarian norm cascades, the author focuses on the processes that led to the adoption of the 1997 Mine Ban Treaty and the 2008 Convention on Cluster Munitions. Even though major military powers like the United States, Russia, and China opposed these initiatives, the latter set in motion quick norm cascades that brought about international legal norms stigmatizing land mines and cluster munitions. It is conventionally asserted that international norms emerge either due to great power backing or despite great power opposition, but the author argues that new norms can also take off because of great power opposition. When ngos and leading states actively foster normative change, a particular type of norm cascade is engineered-one generated by different mechanisms and starting earlier than postulated in the literature. Early norm cascading is driven not by emulation of peers and ngo naming and shaming of laggard states, but rather by leadership aspirations and naming and praising.
+C1 [Petrova, Margarita H.] IBEI, Master Program Int Secur, Barcelona, Spain.
+RP Petrova, MH (corresponding author), IBEI, Master Program Int Secur, Barcelona, Spain.
+EM mpetrova@ibei.org
+RI Petrova, Margarita H./Y-3135-2018
+FU German Marshall Fund of the United States; Marie Curie Intra-European
+   FellowshipEuropean Commission [MEIF-CT-2006-039741]
+FX I gratefully acknowledge the support from a research fellowship by the
+   German Marshall Fund of the United States and a Marie Curie
+   Intra-European Fellowship (MEIF-CT-2006-039741).
+NR 107
+TC 2
+Z9 2
+U1 1
+U2 9
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0043-8871
+EI 1086-3338
+J9 WORLD POLIT
+JI World Polit.
+PD JUL
+PY 2019
+VL 71
+IS 3
+BP 586
+EP 630
+DI 10.1017/S004388711800031X
+PG 45
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA ID6XO
+UT WOS:000471825700005
+DA 2021-03-19
+ER
+
+PT J
+AU Cirone, A
+   Van Coppenolle, B
+AF Cirone, Alexandra
+   Van Coppenolle, Brenda
+TI BRIDGING THE GAP Lottery-Based Procedures in Early Parliamentarization
+SO WORLD POLITICS
+LA English
+DT Article
+DE committees; France; legislative politics; lottery
+ID PRIVATE MEMBERS BILLS; REGIME CHANGE; POLITICS; PARTIES; CAREERS; EUROPE
+AB How is the use of political lotteries related to party development? This article discusses the effects of a lottery-based procedure used to distribute committee appointments that was once common across legislatures in nineteenth-century Europe. The authors analyze the effects of a political lottery in budget committee selection in the French Third Republic using a microlevel data set of French deputies from 1877 to 1914. They argue that the adoption and benefit of lottery-based procedures were to prevent the capture of early institutions by party factions or groups of self-interested political elites. The authors find that partial randomization of selection resulted in the appointment of young, skilled, middle-class deputies at the expense of influential elites. When parties gained control of committee assignments in 1910, selection once again favored elites and loyal party members. The authors link lottery-based procedures to party development by showing that cohesive parties were behind the institutional reform that ultimately dismantled this selection process. Lottery-based procedures thus played a sanitizing role during the transformation of emerging parliamentary groups into unified, cohesive political parties.
+C1 [Cirone, Alexandra] Cornell Univ, Dept Govt, Ithaca, NY 14853 USA.
+   [Van Coppenolle, Brenda] Leiden Univ, Polit Sci, Leiden, Netherlands.
+RP Cirone, A (corresponding author), Cornell Univ, Dept Govt, Ithaca, NY 14853 USA.
+EM aec287@cornell.edu; b.k.s.van.coppenolle@fsw.leidenuniv.nl
+OI Cirone, Alexandra/0000-0003-3283-1119
+NR 77
+TC 3
+Z9 3
+U1 0
+U2 8
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0043-8871
+EI 1086-3338
+J9 WORLD POLIT
+JI World Polit.
+PD APR
+PY 2019
+VL 71
+IS 2
+BP 197
+EP 235
+DI 10.1017/S0043887118000291
+PG 39
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA HR8BE
+UT WOS:000463379400001
+DA 2021-03-19
+ER
+
+PT J
+AU Hope, D
+   Martelli, A
+AF Hope, David
+   Martelli, Angelo
+TI THE TRANSITION TO THE KNOWLEDGE ECONOMY, LABOR MARKET INSTITUTIONS, AND
+   INCOME INEQUALITY IN ADVANCED DEMOCRACIES
+SO WORLD POLITICS
+LA English
+DT Article
+DE ICT; income inequality; industrial relations; information and
+   communications technology; knowledge economy; labor market institutions;
+   technological change; wage inequality
+ID TOP 1 PERCENT; WAGE INEQUALITY; TECHNOLOGICAL-CHANGE; POLITICAL-ECONOMY;
+   SETTING INSTITUTIONS; PRODUCTIVITY GROWTH; JOB POLARIZATION; POWER
+   RESOURCES; UNITED-STATES; LONG-RUN
+AB The transition from Fordism to the knowledge economy in the world's advanced democracies was underpinned by the revolution in information and communications technology (ICT). The introduction and rapid diffusion of ICT pushed up wages for college-educated workers with complementary skills and allowed top managers and ems to reap greater rewards for their own talents. Despite these common pressures, income inequality did not rise to the same extent everywhere; income in the Anglo-Saxon countries remains particularly unequally distributed. To shed new light on this puzzle, the authors carry out a panel data analysis of eighteen OECD countries between 1970 and 2007. Their analysis stands apart from the existing empirical literature by taking a comparative perspective. The article examines the extent to which the relationship between the knowledge economy and income inequality is influenced by national labor market institutions. The authors find that the expansion of knowledge employment is positively associated with both the 90/10 wage ratio and the income share of the top 1 percent, but that these effects are mitigated by the presence of strong labor market institutions, such as coordinated wage bargaining, strict employment protection legislation, high union density, and high collective bargaining coverage. The authors provide robust evidence against the argument that industrial relations systems are no longer important safeguards of wage solidarity in the knowledge economy.
+C1 [Hope, David] Kings Coll London, Dept Polit Econ, London, England.
+   [Hope, David] London Sch Econ & Polit Sci, Int Inequal Inst, London, England.
+   [Martelli, Angelo] London Sch Econ European Inst, London, England.
+RP Hope, D (corresponding author), Kings Coll London, Dept Polit Econ, London, England.; Hope, D (corresponding author), London Sch Econ & Polit Sci, Int Inequal Inst, London, England.
+EM david.hope@kcl.ac.uk; a.martelli@lse.ac.uk
+RI David Hope  Assistant Professor, Department of Political
+   Economy/ABC-1159-2020
+OI David Hope  Assistant Professor, Department of Political
+   Economy/0000-0002-4649-5833
+NR 142
+TC 3
+Z9 3
+U1 5
+U2 37
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0043-8871
+EI 1086-3338
+J9 WORLD POLIT
+JI World Polit.
+PD APR
+PY 2019
+VL 71
+IS 2
+BP 236
+EP 288
+DI 10.1017/S0043887118000333
+PG 53
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA HR8BE
+UT WOS:000463379400002
+OA Green Accepted
+DA 2021-03-19
+ER
+
+PT J
+AU Paik, C
+   Vechbanyongratana, J
+AF Paik, Christopher
+   Vechbanyongratana, Jessica
+TI PATH TO CENTRALIZATION AND DEVELOPMENT Evidence from Siam
+SO WORLD POLITICS
+LA English
+DT Article
+DE centralization; colonialism; historical institutions; long-term
+   development; public goods provision; Southeast Asia; Thailand
+ID PROPERTY-RIGHTS; STATE CAPACITY; INSTITUTIONS; LEGACIES; ORIGINS; JAPAN;
+   CHINA; ASIA
+AB This article investigates the role of colonial pressure on state centralization and its relationship to subsequent development by analyzing the influence of Western colonial threats on Siam's internal political reform. Unlike other countries in the region, Siam remained independent by adopting geographical administrative boundaries and incorporating its traditional governance structures into a new, centralized governance system. The authors find that the order in which areas were integrated into the centralized system depended on the interaction between precentralization political structures and proximity to British and French territorial claims. The authors show that areas centralized early in the process had higher levels of infrastructure investment and public goods provision at the time the centralization process was completed in 1915 than those centralized later in the process. They also show that early centralization during the Western colonial era continued to be strongly associated with higher levels of public goods provision and economic development, and that this relationship persists today.
+C1 [Paik, Christopher] New York Univ Abu Dhabi, Polit Sci, Div Social Sci, Abu Dhabi, U Arab Emirates.
+   [Vechbanyongratana, Jessica] Chulalongkorn Univ, Fac Econ, Bangkok, Thailand.
+RP Paik, C (corresponding author), New York Univ Abu Dhabi, Polit Sci, Div Social Sci, Abu Dhabi, U Arab Emirates.
+EM christopher.paik@nyu.edu; jessica.v@chula.ac.th
+OI Vechbanyongratana, Jessica/0000-0003-2345-7962; Paik,
+   Christopher/0000-0002-5835-9804
+NR 68
+TC 3
+Z9 3
+U1 1
+U2 11
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0043-8871
+EI 1086-3338
+J9 WORLD POLIT
+JI World Polit.
+PD APR
+PY 2019
+VL 71
+IS 2
+BP 289
+EP 331
+DI 10.1017/S0043887118000321
+PG 43
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA HR8BE
+UT WOS:000463379400003
+DA 2021-03-19
+ER
+
+PT J
+AU Christensen, D
+   Nguyen, M
+   Sexton, R
+AF Christensen, Darin
+   Mai Nguyen
+   Sexton, Renard
+TI STRATEGIC VIOLENCE DURING DEMOCRATIZATION Evidence from Myanmar
+SO WORLD POLITICS
+LA English
+DT Article
+ID REGIME TRANSITION; CONFLICT; BURMA; COMBAT; STATE
+AB Democratic transitions are often followed by conflict. This article explores one explanation: the military's strategic use of violence to retain control of economically valuable regions. The authors uncover this dynamic in Myanmar, a country transitioning from four decades of military rule. Fearing that the new civilian government will assert authority over jade mining, the military initiated violence in mining townships. Using geocoded data on conflict and jade mines, the authors find evidence for this strategic use of violence. As Myanmar started to transition in 2011, conflicts instigated by the military in'ademining areas sharply rose. The article also addresses alternative explanations, including a shift in the military s strategy, colocation of mines and military headquarters, commodity prices, opposition to a controversial dam, and trends specific to Kachin State. With implications beyond Myanmar, the authors argue that outgoing generals can use instability to retain rents where plausible challengers to state authority provide a pretense for violence.
+C1 [Christensen, Darin] Univ Calif Los Angeles, Publ Policy & Polit Sci, Los Angeles, CA 90095 USA.
+   [Mai Nguyen] Emory Univ, Inst Quantitat Theory & Methods, Atlanta, GA 30322 USA.
+   [Sexton, Renard] Emory Univ, Dept Polit Sci, Atlanta, GA USA.
+RP Christensen, D (corresponding author), Univ Calif Los Angeles, Publ Policy & Polit Sci, Los Angeles, CA 90095 USA.
+EM darinc@luskin.ucla.edu; mai.truc.nguyen@emory.edu;
+   renard.sexton@emory.edu
+OI Sexton, Renard/0000-0003-1876-7923
+NR 80
+TC 6
+Z9 6
+U1 2
+U2 12
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0043-8871
+EI 1086-3338
+J9 WORLD POLIT
+JI World Polit.
+PD APR
+PY 2019
+VL 71
+IS 2
+BP 332
+EP 366
+DI 10.1017/S0043887118000308
+PG 35
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA HR8BE
+UT WOS:000463379400004
+DA 2021-03-19
+ER
+
+PT J
+AU Chandra, K
+   Garcia-Ponce, O
+AF Chandra, Kanchan
+   Garcia-Ponce, Omar
+TI WHY ETHNIC SUBALTERN-LED PARTIES CROWD OUT ARMED ORGANIZATIONS
+   Explaining Maoist Violence in India
+SO WORLD POLITICS
+LA English
+DT Article
+DE civil war; clientelism; ethnic parties; India; left; Maoist; parties;
+   patronage; violence
+ID CIVIL-WAR; CONFLICT; RESOURCES; REPRESENTATION; INSURGENCY; QUOTAS;
+   INSTITUTIONS; COMPETITION; GEOGRAPHY; POLITICS
+AB This article asks why some Indian districts experience chronic Maoist violence while others do not. The answer helps to explain India's Maoist civil war, which is the product of the accumulation of violence in a few districts, as well as to generate a new hypothesis about the causes of civil war more generally. The authors argue that, other things equal, the emergence of subaltern-led parties at the critical juncture before armed organizations enter crowds them out: the stronger the presence of subaltern-led political parties in a district at this juncture, the lower the likelihood of experiencing chronic armed violence subsequently. They develop their argument through field research and test its main prediction using an original, district-level data set on subaltern incorporation and Maoist violence in India between 1967 and 2008. The article contributes a new, party-based explanation to the literatures on both civil war and Maoist violence in India. It also introduces new district-level data on the Maoist movement and on the incorporation of subaltern ethnic groups by political parties in India.
+C1 [Chandra, Kanchan] NYU, Polit, New York, NY 10003 USA.
+   [Chandra, Kanchan] New York Univ, Polit, Abu Dhabi, U Arab Emirates.
+   [Garcia-Ponce, Omar] Univ Calif Davis, Polit Sci, Davis, CA 95616 USA.
+RP Chandra, K (corresponding author), NYU, Polit, New York, NY 10003 USA.; Chandra, K (corresponding author), New York Univ, Polit, Abu Dhabi, U Arab Emirates.
+EM kanchan.chandra@gmail.com; omar.garciaponce@gmail.com
+FU National Science FoundationNational Science Foundation (NSF) [0924602]
+FX Data collection was partially funded by National Science Foundation
+   award #0924602.
+NR 125
+TC 2
+Z9 2
+U1 0
+U2 7
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0043-8871
+EI 1086-3338
+J9 WORLD POLIT
+JI World Polit.
+PD APR
+PY 2019
+VL 71
+IS 2
+BP 367
+EP 416
+DI 10.1017/S004388711800028X
+PG 50
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA HR8BE
+UT WOS:000463379400005
+DA 2021-03-19
+ER
+
+PT J
+AU Jones, CW
+AF Jones, Calvert W.
+TI ADVISER TO THE KING Experts, Rationalization, and Legitimacy
+SO WORLD POLITICS
+LA English
+DT Article
+DE Arab world; authoritarianism; bureaucracy; consultants; expert advisers;
+   expertise; experts; Gulf monarchies; governance; leadership; Middle
+   East; monarchy; political legitimacy
+ID TECHNOCRATS
+AB Do experts rationalize and legitimize authoritarian governance? Although research on expert actors in contexts of democracy and international governance is now extensive, scholarly work on their role in authoritarian settings remains limited. This article helps open the black box of authoritarian decision-making by investigating expert advisers in the Arab Gulf monarchies, where ruling elites have enlisted them from top universities and global consulting firms. Qualitative fieldwork combined with three experiments casts doubt on both the rationalization and legitimacy hypotheses and also generates new insights surrounding unintended consequences. On rationalization, the evidence suggests that experts contribute to perverse cycles of overconfidence among authoritarian ruling elites, thereby enabling a belief in state-building shortcuts. On legitimacy, the experiments demonstrate a backfire effect, with experts reducing public support for reform. The author makes theoretical contributions by suggesting important and heretofore unrecognized conflicts and trade-offs across experts' potential for rationalizing vis-a-vis legitimizing.
+C1 [Jones, Calvert W.] Univ Maryland, Dept Govt & Polit, College Pk, MD 20742 USA.
+RP Jones, CW (corresponding author), Univ Maryland, Dept Govt & Polit, College Pk, MD 20742 USA.
+EM cwjones@umd.edu
+RI Jones, Calvert/AAX-3443-2020
+OI Jones, Calvert/0000-0002-8238-3337
+NR 90
+TC 1
+Z9 1
+U1 0
+U2 15
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0043-8871
+EI 1086-3338
+J9 WORLD POLIT
+JI World Polit.
+PD JAN
+PY 2019
+VL 71
+IS 1
+BP 1
+EP 43
+DI 10.1017/S0043887118000217
+PG 43
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA HF8TZ
+UT WOS:000454516400001
+OA Bronze
+DA 2021-03-19
+ER
+
+PT J
+AU Gonzalez, Y
+AF Gonzalez, Yanilda
+TI THE SOCIAL ORIGINS OF INSTITUTIONAL WEAKNESS AND CHANGE Preferences,
+   Power, and Police Reform in Latin America
+SO WORLD POLITICS
+LA English
+DT Article
+DE bureaucracy; institutional change; Latin America; police; reform;
+   state-society relations
+ID DEMOCRATIZATION; SOCIETY; RULE; LAW
+AB Despite historic increases in crime and violence, Latin America's police forces are characterized by long periods of institutional weakness punctuated by rare, sweeping reforms. To understand these patterns of institutional continuity and change, the author applies the concept of structural power, demonstrating how police leverage their control of coercion to constrain the policy options available to politicians. Within this constrained policy space, politicians choosing between continuity and reform assess societal preferences for police reform and patterns of political competition. Under fragmented societal preferences, irrespective of political competition, reform brings little electoral gain and risks alienating a powerful bureaucracy. Preference fragmentation thus favors the persistence of institutional weakness. When societal preferences converge and a robust political opposition threatens incumbents, politicians face an electoral counterweight to the structural power of police, making reform likely. Using evidence from periods of continuity and reform in Argentina, Brazil, and Colombia, the author traces both outcomes to shifts in societal preferences and political opposition. Despite the imperative to address citizens' demands by building state capacity in security provision, these cases show that police reform is often rendered electorally disadvantageous.
+C1 [Gonzalez, Yanilda] Univ Chicago, Sch Social Serv Adm, Chicago, IL 60637 USA.
+RP Gonzalez, Y (corresponding author), Univ Chicago, Sch Social Serv Adm, Chicago, IL 60637 USA.
+EM yanilda@uchicago.edu
+NR 115
+TC 4
+Z9 5
+U1 2
+U2 19
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0043-8871
+EI 1086-3338
+J9 WORLD POLIT
+JI World Polit.
+PD JAN
+PY 2019
+VL 71
+IS 1
+BP 44
+EP 87
+DI 10.1017/S004388711800014X
+PG 44
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA HF8TZ
+UT WOS:000454516400002
+DA 2021-03-19
+ER
+
+PT J
+AU Grigorescu, A
+   Baser, C
+AF Grigorescu, Alexandru
+   Baser, Caglayan
+TI THE CHOICE BETWEEN INTERGOVERNMENTALISM AND NONGOVERNMENTALISM
+   Projecting Domestic Preferences to Global Governance
+SO WORLD POLITICS
+LA English
+DT Article
+DE domestic preferences; global governance; government activism; ideology;
+   intergovernmentalism; international organizations; nongovernmentalism;
+   nongovernmental organizations
+ID ORGANIZATIONS; COOPERATION; IDEOLOGY; POLICY; PEACE
+AB This article seeks to explain when governments are more likely to take an intergovernmental approach to resolving global collective problems rather than step back and encourage (or simply allow) nongovernmental actors to become the main global governors. The authors suggest that an important factor driving this choice is the domestic ideological leanings of powerful states toward greater or lesser government activism. Such ideologies connect domestic preferences to international ones. They also lead to the establishment of domestic institutions that, in turn, facilitate the emergence of international organizations. Using these arguments, the authors develop a set of inferences regarding the likelihood that governments will establish and join intergovernmental organizations. The authors test their hypotheses through a study of global governance in the education realm, and also apply a series of statistical analyses covering developments in all issue-areas over the last century and a half.
+C1 [Grigorescu, Alexandru; Baser, Caglayan] Loyola Univ Chicago, Polit Sci, Chicago, IL 60660 USA.
+   [Baser, Caglayan] Univ Illinois, Urbana, IL 61801 USA.
+RP Grigorescu, A (corresponding author), Loyola Univ Chicago, Polit Sci, Chicago, IL 60660 USA.
+EM agrigor@luc.edu; ccetin@luc.edu
+NR 81
+TC 0
+Z9 0
+U1 0
+U2 10
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0043-8871
+EI 1086-3338
+J9 WORLD POLIT
+JI World Polit.
+PD JAN
+PY 2019
+VL 71
+IS 1
+BP 88
+EP 125
+DI 10.1017/S0043887118000151
+PG 38
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA HF8TZ
+UT WOS:000454516400003
+DA 2021-03-19
+ER
+
+PT J
+AU Bendor, J
+   Shapiro, JN
+AF Bendor, Jonathan
+   Shapiro, Jacob N.
+TI HISTORICAL CONTINGENCIES IN THE EVOLUTION OF STATES AND THEIR MILITARIES
+SO WORLD POLITICS
+LA English
+DT Article
+DE conflict; international relations; military operations; war
+ID POLITICAL-SCIENCE; INNOVATION; CRISIS; WAR
+AB Historians and some scholars of international relations have long argued that historical contingencies play a critical role in the evolution of the international system, but have not explained whether they do so to a greater extent than in other domains or why such differences may exist. The authors address these lacunae by identifying stable differences between war and other policy domains that render the evolution of the international system more subject to chance events than those other domains. The selection environment of international politics has produced tightly integrated organizations (militaries) as the domain's key players to a much greater degree than other policy domains. Because there are few players, no law of large numbers holds, and because militaries are tightly integrated, microshocks can reverberate up to macro-organizational levels. The anarchic character of the international system amplifies the impact of these shocks. The authors explore these phenomena in a range of historical examples.
+C1 [Bendor, Jonathan] Stanford Grad Sch Business, Polit Econ & Org, Stanford, CA 94305 USA.
+   [Shapiro, Jacob N.] Princeton Univ, Polit & Int Affairs, Princeton, NJ 08544 USA.
+   [Shapiro, Jacob N.] Princeton Univ, Empir Studies Conflict Project, Princeton, NJ 08544 USA.
+RP Bendor, J (corresponding author), Stanford Grad Sch Business, Polit Econ & Org, Stanford, CA 94305 USA.
+EM jonathan.bendor@stanford.edu; jns@princeton.edu
+NR 102
+TC 0
+Z9 0
+U1 0
+U2 7
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0043-8871
+EI 1086-3338
+J9 WORLD POLIT
+JI World Polit.
+PD JAN
+PY 2019
+VL 71
+IS 1
+BP 126
+EP 161
+DI 10.1017/S0043887118000229
+PG 36
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA HF8TZ
+UT WOS:000454516400004
+DA 2021-03-19
+ER
+
+PT J
+AU Feldmann, M
+AF Feldmann, Magnus
+TI GLOBAL VARIETIES OF CAPITALISM
+SO WORLD POLITICS
+LA English
+DT Review
+DE East Asia; Eastern Europe; global capitalism; institutional analysis;
+   Latin America; market institutions; political economy of development;
+   varieties of capitalism
+ID POLITICAL-ECONOMY; INSTITUTIONAL CHANGE; MARKET ECONOMIES; BUSINESS
+   GROUPS; STATE; FAMILY; RISE; COMPLEMENTARITIES; GOVERNANCE; SYSTEMS
+AB This article analyzes the prospects for globalizing the varieties of capitalism (VOC) debate. It identifies and compares firm-centered, governance-centered, and state-centered approaches to extending the debate on capitalist diversity, and discusses the distinctive contributions of each approach as well as the trade-offs between them. The author draws on three agenda-setting volumes that engage with the VOC framework and study capitalist diversity in three regions not usually covered by this literature: Latin America, East and Southeast Asia, and East Central Europe. As these regions play an increasingly important role in the world economy, this article examines what the books imply about the current state of knowledge about global VOC. The author argues that the extension of the VOC debate to these parts of the world is important for advancing the understanding of economic institutions; the approach can reinvigorate research on capitalist diversity and the institutional foundations of economic development in the current era of globalization.
+C1 [Feldmann, Magnus] Univ Bristol, Sch Sociol Polit & Int Studies, Polit, Bristol, Avon, England.
+RP Feldmann, M (corresponding author), Univ Bristol, Sch Sociol Polit & Int Studies, Polit, Bristol, Avon, England.
+EM m.feldmann@bristol.ac.uk
+OI Feldmann, Magnus/0000-0002-8481-3193
+NR 94
+TC 7
+Z9 7
+U1 4
+U2 24
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0043-8871
+EI 1086-3338
+J9 WORLD POLIT
+JI World Polit.
+PD JAN
+PY 2019
+VL 71
+IS 1
+BP 162
+EP 196
+DI 10.1017/S0043887118000230
+PG 35
+WC International Relations; Political Science
+SC International Relations; Government & Law
+GA HF8TZ
+UT WOS:000454516400005
+OA Green Accepted
+DA 2021-03-19
+ER
+
+EF
