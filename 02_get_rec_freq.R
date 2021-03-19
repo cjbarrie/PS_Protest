@@ -24,51 +24,31 @@ for (i in seq_along(journals_list)) {
   socps_journals <- M_all %>%
     filter(SO %in% jlist)
   
-  M <- socps_journals %>%
-    filter(!is.na(AB))
+  MALL <- socps_journals %>%
+    filter(!is.na(AB),!is.na(PY))
   
   tidy_abs <- M %>%
     unnest_tokens(ngram, AB, token = "ngrams", n = 2)
-  
-  tidy_abs$pword1 <-
-    grepl("\\bprotest\\b", tidy_abs$ngram, ignore.case = T)
-  tidy_abs$pword2 <-
-    grepl("\\bprotestor\\b", tidy_abs$ngram, ignore.case = T)
-  tidy_abs$pword3 <-
-    grepl("\\bprotestors\\b", tidy_abs$ngram, ignore.case = T)
-  tidy_abs$pword4 <-
-    grepl("\\bsocial movement\\b", tidy_abs$ngram, ignore.case = T)
-  tidy_abs$pword5 <-
-    grepl("\\bsocial movements\\b", tidy_abs$ngram, ignore.case = T)
-  tidy_abs$pword6 <-
-    grepl("\\bcontentious politics\\b", tidy_abs$ngram, ignore.case = T)
-  
-  tidy_abs$pword <- ifelse(
-    tidy_abs$pword1 == T |
-      tidy_abs$pword2 == T |
-      tidy_abs$pword3 == T |
-      tidy_abs$pword4 == T |
-      tidy_abs$pword5 == T |
-      tidy_abs$pword6 == T,
-    1,
-    0
-  )
-  
-  tidy_abs$ngram[tidy_abs$pword == 1] <- "pword"
   
   term_counts <- tidy_abs %>%
     dplyr::group_by(PY) %>%
     dplyr::count(ngram, sort = TRUE)
   
+  term_counts$pword <- as.integer(grepl("\\bprotest\\b|\\bprotestor\\b|\\bprotestors\\b|\\bsocial movement\\b|\\bsocial movements\\b|\\bcontentious politics\\b", 
+                                          x = term_counts$ngram, ignore.case = T))
+  
   yr_term_counts <- term_counts %>%
     extract(PY, "year", convert = TRUE) %>%
     complete(year, ngram, fill = list(n = 0)) %>%
-    group_by(year) %>%
-    mutate(year_total = sum(n))
+    dplyr::group_by(year) %>%
+    dplyr::mutate(year_total = sum(n)) %>%
+    dplyr::filter(pword==1) %>%
+    dplyr::summarise(sum_p = sum(n),
+                     year_total= min(year_total)) %>%
+    na.omit()
   
   gplots[[i]] <- yr_term_counts %>%
-    filter(ngram  == "pword") %>%
-    ggplot(aes(year, (n / year_total) * 100)) +
+    ggplot(aes(year, (sum_p / year_total) * 100)) +
     geom_point(alpha = 0.8) +
     geom_smooth(
       method = "lm",
@@ -98,34 +78,11 @@ for (i in seq_along(journals_list)) {
   MALL <- socps_journals %>%
     filter(!is.na(AB),!is.na(PY))
   
-  MALL$protest <- grepl("\\bprotest\\b", MALL$AB, ignore.case = T)
-  MALL$protests <- grepl("\\bprotests\\b", MALL$AB, ignore.case = T)
-  MALL$protestor <-
-    grepl("\\bprotestor\\b", MALL$AB, ignore.case = T)
-  MALL$protestors <-
-    grepl("\\bprotestors\\b", MALL$AB, ignore.case = T)
-  #note there are no obs. for protestor and protestors so can remove
-  MALL$sm <-
-    grepl("\\bsocial movement\\b", MALL$AB, ignore.case = T)
-  MALL$sms <-
-    grepl("\\bsocial movements\\b", MALL$AB, ignore.case = T)
-  MALL$cp <-
-    grepl("\\bcontentious politics\\b", MALL$AB, ignore.case = T)
-  
-  MALL$protestb <- MALL$protest * 1
-  MALL$protestsb <- MALL$protests * 1
-  MALL$smb <- MALL$sm * 1
-  MALL$smsb <- MALL$sms * 1
-  MALL$cpb <- MALL$cp * 1
-  
-  MALL$pword <-
-    ifelse(MALL$protestb + MALL$protestsb + MALL$smb + MALL$smsb + MALL$cpb >
-             0,
-           1,
-           0)
-  
-  MALL$article <- 1
+  MALL$pword <- as.integer(grepl("\\bprotest\\b|\\bprotestor\\b|\\bprotestors\\b|\\bsocial movement\\b|\\bsocial movements\\b|\\bcontentious politics\\b", 
+                                        x = MALL$AB, ignore.case = T))
+
   MALLsums <- MALL %>%
+    dplyr::mutate(article = 1) %>%
     dplyr::group_by(PY) %>%
     dplyr::summarise(sum_particles = sum(pword),
                      pct_particles = (sum(pword) / sum(article)) * 100)
@@ -135,7 +92,6 @@ for (i in seq_along(journals_list)) {
     xlab("Year") +
     ylab("% protest articles") +
     ggtitle("") +
-    scale_x_discrete(breaks = c(2000, 2005, 2010, 2020)) +
     theme_tufte(base_family = "Helvetica") +
     theme(axis.text = element_text(size = 15),
           axis.title = element_text(size = 15))
@@ -222,46 +178,25 @@ for (i in seq_along(journals_list)) {
   tidy_abs <- M %>%
     unnest_tokens(ngram, AB, token = "ngrams", n = 2)
   
-  tidy_abs$pword1 <-
-    grepl("\\bprotest\\b", tidy_abs$ngram, ignore.case = T)
-  tidy_abs$pword2 <-
-    grepl("\\bprotestor\\b", tidy_abs$ngram, ignore.case = T)
-  tidy_abs$pword3 <-
-    grepl("\\bprotestors\\b", tidy_abs$ngram, ignore.case = T)
-  tidy_abs$pword4 <-
-    grepl("\\bsocial movement\\b", tidy_abs$ngram, ignore.case = T)
-  tidy_abs$pword5 <-
-    grepl("\\bsocial movements\\b", tidy_abs$ngram, ignore.case = T)
-  tidy_abs$pword6 <-
-    grepl("\\bcontentious politics\\b", tidy_abs$ngram, ignore.case = T)
-  
-  tidy_abs$pword <- ifelse(
-    tidy_abs$pword1 == T |
-      tidy_abs$pword2 == T |
-      tidy_abs$pword3 == T |
-      tidy_abs$pword4 == T |
-      tidy_abs$pword5 == T |
-      tidy_abs$pword6 == T,
-    1,
-    0
-  )
-  
-  tidy_abs$ngram[tidy_abs$pword == 1] <- "pword"
-  
   term_counts <- tidy_abs %>%
     dplyr::group_by(PY, shortitle) %>%
     dplyr::count(ngram, sort = TRUE)
   
+  term_counts$pword <- as.integer(grepl("\\bprotest\\b|\\bprotestor\\b|\\bprotestors\\b|\\bsocial movement\\b|\\bsocial movements\\b|\\bcontentious politics\\b", 
+                                        x = term_counts$ngram, ignore.case = T))
+  
   yr_term_counts <- term_counts %>%
     extract(PY, "year", convert = TRUE) %>%
     complete(year, ngram, fill = list(n = 0)) %>%
-    group_by(year) %>%
-    mutate(year_total = sum(n))
-  
+    dplyr::group_by(year, shortitle) %>%
+    dplyr::mutate(year_total = sum(n)) %>%
+    dplyr::filter(pword==1) %>%
+    dplyr::summarise(sum_p = sum(n),
+                     year_total= min(year_total)) %>%
+    na.omit()
+
   gplotsfac[[i]] <-  yr_term_counts %>%
-    filter(ngram  == "pword") %>%
-    ggplot(aes(year, (n / year_total) * 100)) +
-    #geom_bar(stat = "identity", alpha =.8) +
+    ggplot(aes(year, (sum_p / year_total) * 100)) +
     geom_point(alpha = 0.8) +
     geom_smooth(
       method = "lm",
@@ -284,6 +219,7 @@ for (i in seq_along(journals_list)) {
 }
 
 psbyart <- gplotsfac[[1]]
+psbyart
 png(
   "figures/psbyart.png",
   width = 400,
@@ -315,53 +251,37 @@ for (i in seq_along(journals_list)) {
   socps_journals <- M_all %>%
     filter(SO %in% jlist)
   
-  M <- socps_journals %>%
+  MALL <- socps_journals %>%
     filter(!is.na(AB),!is.na(PY))
   
-  M$shortitle[M$SO == "AMERICAN JOURNAL OF POLITICAL SCIENCE"] <-
+  MALL$shortitle[MALL$SO == "AMERICAN JOURNAL OF POLITICAL SCIENCE"] <-
     "AJPS"
-  M$shortitle[M$SO == "AMERICAN JOURNAL OF SOCIOLOGY"] <-  "AJS"
-  M$shortitle[M$SO == "AMERICAN POLITICAL SCIENCE REVIEW"] <-
+  MALL$shortitle[MALL$SO == "AMERICAN JOURNAL OF SOCIOLOGY"] <-  "AJS"
+  MALL$shortitle[MALL$SO == "AMERICAN POLITICAL SCIENCE REVIEW"] <-
     "APSR"
-  M$shortitle[M$SO == "AMERICAN SOCIOLOGICAL REVIEW"] <-  "ASR"
-  M$shortitle[M$SO == "BRITISH JOURNAL OF POLITICAL SCIENCE"] <-
+  MALL$shortitle[MALL$SO == "AMERICAN SOCIOLOGICAL REVIEW"] <-  "ASR"
+  MALL$shortitle[MALL$SO == "BRITISH JOURNAL OF POLITICAL SCIENCE"] <-
     "BJPS"
-  M$shortitle[M$SO == "BRITISH JOURNAL OF SOCIOLOGY"] <-  "BJS"
-  M$shortitle[M$SO == "COMPARATIVE POLITICAL STUDIES"] <-  "CPS"
-  M$shortitle[M$SO == "INTERNATIONAL ORGANIZATION"] <-  "IO"
-  M$shortitle[M$SO == "EUROPEAN SOCIOLOGICAL REVIEW"] <-  "ESR"
-  M$shortitle[M$SO == "JOURNAL OF POLITICS"] <-  "JOP"
-  M$shortitle[M$SO == "SOCIAL FORCES"] <-  "SF"
-  M$shortitle[M$SO == "SOCIAL PROBLEMS"] <-  "SP"
-  M$shortitle[M$SO == "SOCIOLOGICAL METHODS & RESEARCH"] <-  "SMR"
-  M$shortitle[M$SO == "WORLD POLITICS"] <-  "WP"
+  MALL$shortitle[MALL$SO == "BRITISH JOURNAL OF SOCIOLOGY"] <-  "BJS"
+  MALL$shortitle[MALL$SO == "COMPARATIVE POLITICAL STUDIES"] <-  "CPS"
+  MALL$shortitle[MALL$SO == "INTERNATIONAL ORGANIZATION"] <-  "IO"
+  MALL$shortitle[MALL$SO == "EUROPEAN SOCIOLOGICAL REVIEW"] <-  "ESR"
+  MALL$shortitle[MALL$SO == "JOURNAL OF POLITICS"] <-  "JOP"
+  MALL$shortitle[MALL$SO == "SOCIAL FORCES"] <-  "SF"
+  MALL$shortitle[MALL$SO == "SOCIAL PROBLEMS"] <-  "SP"
+  MALL$shortitle[MALL$SO == "SOCIOLOGICAL METHODS & RESEARCH"] <-  "SMR"
+  MALL$shortitle[MALL$SO == "WORLD POLITICS"] <-  "WP"
   
-  M$protest <- grepl("\\bprotest\\b", M$AB, ignore.case = T)
-  M$protests <- grepl("\\bprotests\\b", M$AB, ignore.case = T)
-  M$protestor <- grepl("\\bprotestor\\b", M$AB, ignore.case = T)
-  M$protestors <- grepl("\\bprotestors\\b", M$AB, ignore.case = T)
-  #note there are no obs. for protestor and protestors so can remove
-  M$sm <- grepl("\\bsocial movement\\b", M$AB, ignore.case = T)
-  M$sms <- grepl("\\bsocial movements\\b", M$AB, ignore.case = T)
-  M$cp <- grepl("\\bcontentious politics\\b", M$AB, ignore.case = T)
+  MALL$pword <- as.integer(grepl("\\bprotest\\b|\\bprotestor\\b|\\bprotestors\\b|\\bsocial movement\\b|\\bsocial movements\\b|\\bcontentious politics\\b", 
+                                 x = MALL$AB, ignore.case = T))
   
-  M$protestb <- M$protest * 1
-  M$protestsb <- M$protests * 1
-  M$smb <- M$sm * 1
-  M$smsb <- M$sms * 1
-  M$cpb <- M$cp * 1
-  
-  M$pword <-
-    ifelse(M$protestb + M$protestsb + M$smb + M$smsb + M$cpb > 0, 1, 0)
-  
-  M$article <- 1
-  
-  Msums <- M %>%
+  MALLsums <- MALL %>%
+    dplyr::mutate(article = 1) %>%
     dplyr::group_by(PY, shortitle) %>%
     dplyr::summarise(sum_particles = sum(pword),
                      pct_particles = (sum(pword) / sum(article)) * 100)
   
-  gplotsfacall[[i]] <- ggplot(Msums) +
+  gplotsfacall[[i]] <- ggplot(MALLsums) +
     geom_bar(aes(PY, pct_particles), stat = "identity") +
     xlab("Year") +
     ylab("% protest articles") +

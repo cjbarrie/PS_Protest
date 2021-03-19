@@ -1,5 +1,6 @@
 library(tidyverse)
 library(bibliometrix)
+library(tidytext)
 
 ################
 load("data/analysis/bib_records_supp.RData")
@@ -8,10 +9,6 @@ tidy_kwds <- M_all_supp %>%
   select(AU, TI, SO, PY, ID) %>%
   mutate(kwd = tolower(ID)) %>%
   unnest_tokens(word, kwd, token = stringr::str_split, pattern = "; ")
-
-outcomes <- c("attitudes", "consequences", "outcomes", "public-opinion", "impact")
-
-tidy_kwds$outcomes <- ifelse(tidy_kwds$word %in% outcomes, 1, 0)
 
 term_counts <- tidy_kwds %>%
   dplyr::group_by(PY) %>%
