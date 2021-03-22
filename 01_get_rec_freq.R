@@ -6,14 +6,26 @@ library(ggthemes)
 library(cowplot)
 library(scales)
 
-################  ALL POLITICAL SCIENCE
+################  PROTEST WORDS PER ABSTRACT
 
 load("data/analysis/bib_records.RData")
-# load("data/analysis/bib_precords.RData")
 
 journals <- unique(M_all$SO)
 psjournals <- journals[c(1, 3, 5, 7, 9, 10, 14)]
 socjournals <- setdiff(journals, psjournals)
+
+pwords <-
+  c(
+    "protest",
+    "protests",
+    "protestor",
+    "protestors",
+    "social movement",
+    "social movements",
+    "contentious politics"
+  )
+pwords <- paste0("\\b", pwords, "\\b",  collapse = "|")
+
 
 journals_list <- list(psjournals, socjournals)
 gplots <- list()
@@ -34,7 +46,7 @@ for (i in seq_along(journals_list)) {
     dplyr::group_by(PY) %>%
     dplyr::count(ngram, sort = TRUE)
   
-  term_counts$pword <- as.integer(grepl("\\bprotest\\b|\\bprotestor\\b|\\bprotestors\\b|\\bsocial movement\\b|\\bsocial movements\\b|\\bcontentious politics\\b", 
+  term_counts$pword <- as.integer(grepl(pwords, 
                                           x = term_counts$ngram, ignore.case = T))
   
   yr_term_counts <- term_counts %>%
@@ -57,7 +69,7 @@ for (i in seq_along(journals_list)) {
       color = "red",
       alpha = .15
     ) +
-    ylim(0, .2) +
+    ylim(0, .25) +
     xlab("Year") +
     ylab("% protest words in journal abstracts") +
     ggtitle("") +
@@ -80,8 +92,8 @@ for (i in seq_along(journals_list)) {
   MALL <- socps_journals %>%
     filter(!is.na(AB),!is.na(PY))
   
-  MALL$pword <- as.integer(grepl("\\bprotest\\b|\\bprotestor\\b|\\bprotestors\\b|\\bsocial movement\\b|\\bsocial movements\\b|\\bcontentious politics\\b", 
-                                        x = MALL$AB, ignore.case = T))
+  MALL$pword <- as.integer(grepl(pwords, 
+                                 x = MALL$AB, ignore.case = T))
 
   MALLsums <- MALL %>%
     dplyr::mutate(article = 1) %>%
@@ -95,7 +107,6 @@ for (i in seq_along(journals_list)) {
     geom_bar(aes(PY, pct_particles), stat = "identity") +
     xlab("Year") +
     ylab("% protest articles") +
-    # ylim(0, 8) +
     ggtitle("") +
     theme_tufte(base_family = "Helvetica") +
     theme(axis.text = element_text(size = 15),
@@ -150,35 +161,33 @@ dev.off()
 
 #facetting by journal
 
+M_all$shortitle[M_all$SO == "AMERICAN JOURNAL OF POLITICAL SCIENCE"] <-
+  "AJPS"
+M_all$shortitle[M_all$SO == "AMERICAN JOURNAL OF SOCIOLOGY"] <-  "AJS"
+M_all$shortitle[M_all$SO == "AMERICAN POLITICAL SCIENCE REVIEW"] <-
+  "APSR"
+M_all$shortitle[M_all$SO == "AMERICAN SOCIOLOGICAL REVIEW"] <-  "ASR"
+M_all$shortitle[M_all$SO == "BRITISH JOURNAL OF POLITICAL SCIENCE"] <-
+  "BJPS"
+M_all$shortitle[M_all$SO == "BRITISH JOURNAL OF SOCIOLOGY"] <-  "BJS"
+M_all$shortitle[M_all$SO == "COMPARATIVE POLITICAL STUDIES"] <-  "CPS"
+M_all$shortitle[M_all$SO == "INTERNATIONAL ORGANIZATION"] <-  "IO"
+M_all$shortitle[M_all$SO == "EUROPEAN SOCIOLOGICAL REVIEW"] <-  "ESR"
+M_all$shortitle[M_all$SO == "JOURNAL OF POLITICS"] <-  "JOP"
+M_all$shortitle[M_all$SO == "SOCIAL FORCES"] <-  "SF"
+M_all$shortitle[M_all$SO == "SOCIAL PROBLEMS"] <-  "SP"
+M_all$shortitle[M_all$SO == "SOCIOLOGICAL METHODS & RESEARCH"] <-  "SMR"
+M_all$shortitle[M_all$SO == "WORLD POLITICS"] <-  "WP"
+
 journals_list <- list(psjournals, socjournals)
 gplotsfac <- list()
 
 for (i in seq_along(journals_list)) {
   jlist <- journals_list[[i]]
   
-  socps_journals <- M_all %>%
-    filter(SO %in% jlist)
-  
-  M <- socps_journals %>%
-    filter(!is.na(AB))
-  
-  M$shortitle[M$SO == "AMERICAN JOURNAL OF POLITICAL SCIENCE"] <-
-    "AJPS"
-  M$shortitle[M$SO == "AMERICAN JOURNAL OF SOCIOLOGY"] <-  "AJS"
-  M$shortitle[M$SO == "AMERICAN POLITICAL SCIENCE REVIEW"] <-
-    "APSR"
-  M$shortitle[M$SO == "AMERICAN SOCIOLOGICAL REVIEW"] <-  "ASR"
-  M$shortitle[M$SO == "BRITISH JOURNAL OF POLITICAL SCIENCE"] <-
-    "BJPS"
-  M$shortitle[M$SO == "BRITISH JOURNAL OF SOCIOLOGY"] <-  "BJS"
-  M$shortitle[M$SO == "COMPARATIVE POLITICAL STUDIES"] <-  "CPS"
-  M$shortitle[M$SO == "INTERNATIONAL ORGANIZATION"] <-  "IO"
-  M$shortitle[M$SO == "EUROPEAN SOCIOLOGICAL REVIEW"] <-  "ESR"
-  M$shortitle[M$SO == "JOURNAL OF POLITICS"] <-  "JOP"
-  M$shortitle[M$SO == "SOCIAL FORCES"] <-  "SF"
-  M$shortitle[M$SO == "SOCIAL PROBLEMS"] <-  "SP"
-  M$shortitle[M$SO == "SOCIOLOGICAL METHODS & RESEARCH"] <-  "SMR"
-  M$shortitle[M$SO == "WORLD POLITICS"] <-  "WP"
+  M <- M_all %>%
+    filter(SO %in% jlist,
+           !is.na(AB),!is.na(PY))
   
   tidy_abs <- M %>%
     unnest_tokens(ngram, AB, token = "ngrams", n = 2)
@@ -187,7 +196,7 @@ for (i in seq_along(journals_list)) {
     dplyr::group_by(PY, shortitle) %>%
     dplyr::count(ngram, sort = TRUE)
   
-  term_counts$pword <- as.integer(grepl("\\bprotest\\b|\\bprotestor\\b|\\bprotestors\\b|\\bsocial movement\\b|\\bsocial movements\\b|\\bcontentious politics\\b", 
+  term_counts$pword <- as.integer(grepl(pwords, 
                                         x = term_counts$ngram, ignore.case = T))
 
   yr_term_counts <- term_counts %>%
@@ -263,34 +272,14 @@ gplotsfacall <- list()
 for (i in seq_along(journals_list)) {
   jlist <- journals_list[[i]]
   
-  socps_journals <- M_all %>%
-    filter(SO %in% jlist)
+  M <- M_all %>%
+    filter(SO %in% jlist,
+           !is.na(AB),!is.na(PY))
   
-  MALL <- socps_journals %>%
-    filter(!is.na(AB),!is.na(PY))
+  M$pword <- as.integer(grepl(pwords, 
+                                 x = M$AB, ignore.case = T))
   
-  MALL$shortitle[MALL$SO == "AMERICAN JOURNAL OF POLITICAL SCIENCE"] <-
-    "AJPS"
-  MALL$shortitle[MALL$SO == "AMERICAN JOURNAL OF SOCIOLOGY"] <-  "AJS"
-  MALL$shortitle[MALL$SO == "AMERICAN POLITICAL SCIENCE REVIEW"] <-
-    "APSR"
-  MALL$shortitle[MALL$SO == "AMERICAN SOCIOLOGICAL REVIEW"] <-  "ASR"
-  MALL$shortitle[MALL$SO == "BRITISH JOURNAL OF POLITICAL SCIENCE"] <-
-    "BJPS"
-  MALL$shortitle[MALL$SO == "BRITISH JOURNAL OF SOCIOLOGY"] <-  "BJS"
-  MALL$shortitle[MALL$SO == "COMPARATIVE POLITICAL STUDIES"] <-  "CPS"
-  MALL$shortitle[MALL$SO == "INTERNATIONAL ORGANIZATION"] <-  "IO"
-  MALL$shortitle[MALL$SO == "EUROPEAN SOCIOLOGICAL REVIEW"] <-  "ESR"
-  MALL$shortitle[MALL$SO == "JOURNAL OF POLITICS"] <-  "JOP"
-  MALL$shortitle[MALL$SO == "SOCIAL FORCES"] <-  "SF"
-  MALL$shortitle[MALL$SO == "SOCIAL PROBLEMS"] <-  "SP"
-  MALL$shortitle[MALL$SO == "SOCIOLOGICAL METHODS & RESEARCH"] <-  "SMR"
-  MALL$shortitle[MALL$SO == "WORLD POLITICS"] <-  "WP"
-  
-  MALL$pword <- as.integer(grepl("\\bprotest\\b|\\bprotestor\\b|\\bprotestors\\b|\\bsocial movement\\b|\\bsocial movements\\b|\\bcontentious politics\\b", 
-                                 x = MALL$AB, ignore.case = T))
-  
-  MALLsums <- MALL %>%
+  MALLsums <- M %>%
     dplyr::mutate(article = 1) %>%
     dplyr::group_by(PY, shortitle) %>%
     dplyr::summarise(sum_particles = sum(pword),

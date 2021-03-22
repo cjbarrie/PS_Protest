@@ -22,3 +22,26 @@ M_all <- M_all %>%
   distinct(UT, .keep_all = T)
 
 save(M_all, file = "data/analysis/bib_records.RData")
+
+# get protest articles
+
+pwords <-
+  c(
+    "protest",
+    "protests",
+    "protestor",
+    "protestors",
+    "social movement",
+    "social movements",
+    "contentious politics"
+  )
+pwords <- paste0("\\b", pwords, "\\b",  collapse = "|")
+
+M_all_p <- M_all %>%
+  mutate(abstract = tolower(AB),
+         particle = as.integer(grepl(pwords, 
+                                     x = abstract, ignore.case = T))) %>%
+  filter(particle == 1)
+
+save(M_all_p, file = "data/analysis/bib_precords.RData")
+write_csv(M_all_p, "data/output/particles.csv")
