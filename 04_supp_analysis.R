@@ -1,6 +1,7 @@
 library(tidyverse)
 library(bibliometrix)
 library(tidytext)
+library(ggthemes)
 
 ################
 load("data/analysis/bib_records_supp.RData")
@@ -14,7 +15,7 @@ term_counts <- tidy_kwds %>%
   dplyr::group_by(PY) %>%
   dplyr::count(word, sort = TRUE)
 
-term_counts$outword <- as.integer(grepl("attitudes|consequences|outcomes|public-opinion|impact", 
+term_counts$outword <- as.integer(grepl("\\battitudes\\b|\\bconsequences\\b|\\boutcomes\\b|\\bpublic-opinion\\b|\\bimpact\\b", 
                                              x = term_counts$word))
 
 yr_term_counts <- term_counts %>%
@@ -34,4 +35,4 @@ ggplot(yr_term_counts, aes(year, sum_out / year_total, group=1)) +
   ylab("% outcome-related words") +
   scale_y_continuous(labels = scales::percent_format(),
                      expand = c(0, 0), limits = c(0, NA)) +
-  theme_tufte(base_family = "Helvetica") 
+  theme_tufte(base_family = "Helvetica")

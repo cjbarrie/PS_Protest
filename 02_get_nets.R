@@ -12,25 +12,8 @@ library(cowplot)
 library(data.table)
 library(xtable)
 
-
 ################
 load("data/analysis/bib_precords.RData")
-
-#co-citation of references: Co-citation of two articles occurs when both are cited in a third
-#article. Thus, co-citation is the counterpart of bibliographic coupling (Aria and Cuccurullo 2013).
-#Below we get a network plot using the Fruchterman-Reingold layout. It is clustered into three
-#communtiies when we specify an n of 150 (the number of vertices we plot). Here, it is
-#using the cluster = "walktrap" option from Pascal Pons, Matthieu Latapy: Computing communities
-#in large networks using random walks, http://arxiv.org/abs/physics/0512106. This splits into
-#clusters using node betweeness centrality on the basis of a random walk technique. Basically
-#this takes the top 150 most frequently cited articles, splits these into 3 clusters
-#and then sized node proportional to in-degree/degree-centrality. The edges link two bibliographic entries that are
-#are both cited in a third article (i.e., one of our ~400 articles). This network therefore
-#picks up both network centrality (number of edges flowing into article) and common
-#types of co-citation, which helps visualize clustered communities of co-citations.  In plain
-#English, citations are clustered alongside other citations that often appear in the same paper.
-#So Tilly will reguilarly appear alongside Tarrow, while Chenoweth will often appear alongside
-#Skocpol
 
 M <- M_all_p %>%
   filter(!is.na(AB) & !is.na(AB) & PY<=2020)
@@ -76,29 +59,27 @@ journals <- unique(M$SO)
 psjournals <- journals[c(1, 3,5,7,9,10,14)]
 socjournals <- setdiff(journals, psjournals)
 
-MALL <- M
-
-MpsALL <- MALL %>%
+MpsALL <- M %>%
   filter(SO %in% psjournals)
-MsocALL <- MALL %>%
+MsocALL <- M %>%
   filter(SO %in% socjournals)
 
 results <- biblioAnalysis(MpsALL, sep = ";")
 S <- summary(object = results, k = 10, pause = FALSE)
 pskeyw <- as.data.frame(results$ID)
 colnames(pskeyw) <- c("word", "freqps")
-pskeyw$freqps <- pskeyw$freqps / 397
+pskeyw$freqps <- pskeyw$freqps / nrow(pskeyw)
 
 results <- biblioAnalysis(MsocALL, sep = ";")
 S <- summary(object = results, k = 10, pause = FALSE)
 sockeyw <- as.data.frame(results$ID)
 colnames(sockeyw) <- c("word", "freqsoc")
-sockeyw$freqsoc <- sockeyw$freqsoc / 710
+sockeyw$freqsoc <- sockeyw$freqsoc / nrow(sockeyw)
 
 allkeyw <- merge(pskeyw, sockeyw, by = "word")
 allkeyw <-
   allkeyw %>% remove_rownames %>% column_to_rownames(var = "word")
-allkeyws <- subset(allkeyw, freqps > .009)
+allkeyws <- subset(allkeyw, freqps > .006)
 allkeyws$Category <- "Non-outcomes"
 allkeyws$Category[rownames(allkeyws) %in% c("ATTITUDES",
                                             "CONSEQUENCES",
