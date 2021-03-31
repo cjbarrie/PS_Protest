@@ -1,0 +1,3239 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Runciman, WG
+AF Runciman, WG
+TI The diffusion of Christianity in the third century AD as a case-study in
+   the theory of cultural selection (I)
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+ID EVOLUTION; COOPERATION
+AB Explanation of the growth of Christianity in the third century Roman Empire has long been controversial. However, recent game-theoretic research shows how a strategy of unconditional altruism such as Christianity formally enjoined can, under certain conditions, resist invasion by defectors, free-riders and cheats. It is accordingly plausible to suggest that in the particular environment of the third century Empire this uniquely distinguishing feature of Christianity accounts for much of its otherwise surprising degree of success.
+C1 Univ Cambridge Trinity Coll, Cambridge CB2 1TQ, England.
+RP Runciman, WG (corresponding author), Univ Cambridge Trinity Coll, Cambridge CB2 1TQ, England.
+EM wgr@wgrunciman.u-net.com
+NR 54
+TC 14
+Z9 14
+U1 0
+U2 3
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0003-9756
+EI 1474-0583
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2004
+VL 45
+IS 1
+BP 3
+EP +
+PG 20
+WC Sociology
+SC Sociology
+GA 871WU
+UT WOS:000225168100001
+DA 2021-03-31
+ER
+
+PT J
+AU Arjomand, SA
+AF Arjomand, SA
+TI Coffeehouses, guilds and oriental despotism government and civil society
+   in late 17th to early 18th century Istanbul and Isfahan, and as seen
+   from Paris and London
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article; Proceedings Paper
+CT Conference on Civil Society - Europe Encountering the Other
+CY JUN 12-14, 2003
+CL Maison Sci Homme, Paris, FRANCE
+HO Maison Sci Homme
+AB Montesquieu popularized the notion of Oriental Despotism as the type of government pertaining to a lawless society based on the equality of subjects in fear and powerlessness. It typified Europe's Other in the age of absolutism. This essay does not examine the idea of total despotic power directly but rather the assumption of the absence of law and its guarantee of a sphere of civil autonomy and agency which will anachronistically be called "civil society". While substantiating the emergence of a public sphere around coffee-houses, the growth of guilds on the basis of customary law and the development of educational and philanthropic endowments on the basis of the law of waqf we also take the opportunity to compare the civic and educational institutions of the Ottoman and Safavid empires in the 17(th) and early 18(th) centuries.
+C1 SUNY Stony Brook, Dept Sociol, Stony Brook, NY 11794 USA.
+RP Arjomand, SA (corresponding author), SUNY Stony Brook, Dept Sociol, Stony Brook, NY 11794 USA.
+EM sarjoman@notes.cc.sunnysb.edu
+NR 43
+TC 13
+Z9 13
+U1 0
+U2 10
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0003-9756
+EI 1474-0583
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2004
+VL 45
+IS 1
+BP 23
+EP +
+DI 10.1017/S0003975604001377
+PG 21
+WC Sociology
+SC Sociology
+GA 871WU
+UT WOS:000225168100002
+DA 2021-03-31
+ER
+
+PT J
+AU Merckle, P
+AF Merckle, P
+TI Utopia or "social science"? - Reception of the works of Charles Fourier
+   in the 19th century
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA French
+DT Article
+AB How the history of ideas can be modelled by certain unfair interventions is the major purpose of this paper. The case study concerns Charles Fourier (1776-1837) whose writings have been largely ignored by sociology but who holds a relatively significant position in works dealing with the history of socialism or the utopist tradition. For more than a century, Fourier's reception resulted on the one hand from Marx and Engels, who opposed utopist socialism and scientific socialism, and on the other hand from Durkheim, who opposed sociology and socialism.
+C1 ENS, Lettres & Sci Humaines, Lyon, France.
+RP Merckle, P (corresponding author), ENS, Lettres & Sci Humaines, Lyon, France.
+EM Pierre.Merckle@ens.lsh.fr
+NR 54
+TC 1
+Z9 1
+U1 0
+U2 9
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4211 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2004
+VL 45
+IS 1
+BP 45
+EP +
+PG 37
+WC Sociology
+SC Sociology
+GA 871WU
+UT WOS:000225168100003
+DA 2021-03-31
+ER
+
+PT J
+AU Lannoy, P
+   Ruwet, C
+AF Lannoy, P
+   Ruwet, C
+TI The class and the field - Influence of G. Simmel and W.I. Thomas on
+   Robert Park's "La Ville"
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA French
+DT Review
+ID CHICAGO SCHOOL; SOCIOLOGY; THOMAS,WILLIAM,ISAAC; PSYCHOLOGY; ORIGINS
+AB According to sociological tradition, "The City", Robert Park's pioneering work written in 1915, was largely influenced by Georg Simmel "Die Grossstadte und das Geistesleben". At that time, Park was working with W.I. Thomas in the domain of inter-ethnic relations. A careful analysis of these three authors shows that "Race psychology", a paper written by Thomas in 1912, was much more influential for Park than was Simmel.
+C1 Fonds Natl Rech Sci, Brussels, Belgium.
+   Univ Catholique Louvain, B-3001 Louvain, Belgium.
+RP Lannoy, P (corresponding author), Fonds Natl Rech Sci, Brussels, Belgium.
+EM lannoy@anso.ucl.ac.be; coline_ruwet@hotmail.com
+NR 112
+TC 1
+Z9 1
+U1 0
+U2 5
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4211 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2004
+VL 45
+IS 1
+BP 81
+EP +
+PG 33
+WC Sociology
+SC Sociology
+GA 871WU
+UT WOS:000225168100004
+DA 2021-03-31
+ER
+
+PT J
+AU Van Parijs, P
+AF Van Parijs, P
+TI Europe's linguistic challenge
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+ID LANGUAGE
+AB The irreversible adoption of English as Europe's lingua franca raises at least four serious issues of linguistic justice: unequal language-based economic rents, unequal share in the burden of language learning, unequal capacity to influence, and unequal respect for the associated identifies. In each case, the nature of the problem is spelt out and solutions are proposed, on the background of an analysis of the micro-mechanisms that underlie the dynamics of secondary language learning and multilingual interaction.
+C1 Catholic Univ Louvain, Chaire Hoover Eth Econ & Sociale, B-1348 Louvain, Belgium.
+RP Van Parijs, P (corresponding author), Catholic Univ Louvain, Chaire Hoover Eth Econ & Sociale, B-1348 Louvain, Belgium.
+EM vanparijs@etes.ucl.ac.be
+NR 44
+TC 32
+Z9 32
+U1 0
+U2 3
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0003-9756
+EI 1474-0583
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2004
+VL 45
+IS 1
+BP 113
+EP +
+PG 44
+WC Sociology
+SC Sociology
+GA 871WU
+UT WOS:000225168100005
+DA 2021-03-31
+ER
+
+PT J
+AU Przeworski, A
+AF Przeworski, A
+TI The last instance: Are institutions the primary cause of economic
+   development? (I)
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article; Proceedings Paper
+CT Meeting on Institutions, Behavior and Outcomes
+CY MAR 12-14, 2003
+CL Sao Paulo, BRAZIL
+ID INCOME-DISTRIBUTION; INEQUALITY; GROWTH; DEMOCRACY; WORLD
+AB "That institutions affect the performance of economies is hardly controversial. That the differential performance of economies over time is fundamentally influenced by the way institutions evolve is also not controversial".
+C1 NYU, Dept Polit, New York, NY USA.
+RP Przeworski, A (corresponding author), NYU, Dept Polit, New York, NY USA.
+EM adam.przeworski@nyu.edu
+NR 82
+TC 52
+Z9 54
+U1 0
+U2 18
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0003-9756
+EI 1474-0583
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2004
+VL 45
+IS 2
+BP 165
+EP +
+DI 10.1017/S0003975604001419
+PG 25
+WC Sociology
+SC Sociology
+GA 893YM
+UT WOS:000226757000001
+DA 2021-03-31
+ER
+
+PT J
+AU Loison, L
+AF Loison, L
+TI The welfare family in Portugal - Facing the consequences of unemployment
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA Portuguese
+DT Article
+AB The article deals with family solidarities and the grey economy in modes of resistance against poverty and social isolation, in unemployment situations in Portugal. We examine the strategies used by these social groups in order to fight against the economic and social effects of unemployment. We then analyse the social norms structuring the mobilisation of family cooperation and activities on the labour black market. Finally, we conclude by underfining the positive effects and disadvantages of these compensations on the experience of unemployment.
+C1 IEP Grenoble, CERAT, PACTE, Grenoble, France.
+RP Loison, L (corresponding author), IEP Grenoble, CERAT, PACTE, Grenoble, France.
+EM Laurence.Loison@iep.upmf-grenoble.fr
+NR 21
+TC 1
+Z9 1
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4211 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2004
+VL 45
+IS 2
+BP 189
+EP +
+PG 18
+WC Sociology
+SC Sociology
+GA 893YM
+UT WOS:000226757000002
+DA 2021-03-31
+ER
+
+PT J
+AU Ruane, J
+   Todd, J
+AF Ruane, J
+   Todd, J
+TI The roots of intense ethnic conflict may not in fact be ethnic:
+   Categories, communities and path dependence
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+AB This article criticizes two theoretical approaches to ethnicity and ethnic conflict. One emphasizes the intense solidarity generated by the ethnic bond and explains this in terms of a deep, quasi-kin feeling. The other emphasizes the contingency and situatedness of ethnic feeling and the fluctuating character of ethnic "groupness". We adopt an alternative strategy, locating ethnicity as one factor among many, which may form a path-dependent self-reproductive system generating communal opposition and ethnic conflict.
+C1 Natl Univ Ireland Univ Coll Cork, Dept Sociol, Cork, Ireland.
+   Natl Univ Ireland Univ Coll Dublin, Dept Polit, Dublin 4, Ireland.
+RP Ruane, J (corresponding author), Natl Univ Ireland Univ Coll Cork, Dept Sociol, Cork, Ireland.
+EM j.ruane@ucc.ie; Jennifer.todd@ucd.ie
+RI Todd, Jennifer/AAJ-3395-2020
+OI Todd, Jennifer/0000-0003-4023-9553
+NR 78
+TC 40
+Z9 40
+U1 0
+U2 5
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0003-9756
+EI 1474-0583
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2004
+VL 45
+IS 2
+BP 209
+EP +
+DI 10.1017/S0003975604001432
+PG 25
+WC Sociology
+SC Sociology
+GA 893YM
+UT WOS:000226757000003
+DA 2021-03-31
+ER
+
+PT J
+AU Kurasawa, F
+AF Kurasawa, F
+TI A cosmopolitanism from below: Alternative globalization and the creation
+   of a solidarity without bounds
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article; Proceedings Paper
+CT Annual Meeting of the International-Social-Theory-Consortium
+CY JUN, 2004
+CL Toronto, CANADA
+SP Int Social Theory Consortium
+AB This paper aims to demonstrate that cosmopolitanism should be understood as a transnational mode of practice, whereby actors construct bonds of mutual commitment and reciprocity across borders through public discourse and sociopolitical struggle. This practice-oriented perspective allows us to question three of the main assumptions imbedded within most frameworks theorizing global solidarity, namely cultural homogenization, political fragmentation, and social thinness. To illustrate my argument, I draw upon examples taken from the alternative globalization movement.
+C1 York Univ, Dept Sociol, Toronto, ON M3J 2R7, Canada.
+RP Kurasawa, F (corresponding author), York Univ, Dept Sociol, Toronto, ON M3J 2R7, Canada.
+EM kurasawa@yorku.ca
+NR 67
+TC 74
+Z9 75
+U1 0
+U2 14
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0003-9756
+EI 1474-0583
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2004
+VL 45
+IS 2
+BP 233
+EP +
+DI 10.1017/S0003975604001444
+PG 24
+WC Sociology
+SC Sociology
+GA 893YM
+UT WOS:000226757000004
+DA 2021-03-31
+ER
+
+PT J
+AU Pollack, D
+AF Pollack, D
+TI Support for democracy in Eastern and Western Germany: an attempt to
+   explain the differences
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+AB This paper raises the question to what extent of East Germans support the political system in which they live. Have people who lived for decades under authoritarian conditions been able to develop a democratic culture? Or are their mind-sets and attitudes still influenced by the effects of GDR socialization with its socialist values and ideals? The paper argues that the peculiarities of the political culture in East Germany are less attributable to effects of GDR socialization than to current differences in the economic situation between East and West Germany.
+EM pollack@euv-frankfurt-o.de
+NR 18
+TC 4
+Z9 4
+U1 0
+U2 8
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4211 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2004
+VL 45
+IS 2
+BP 257
+EP +
+PG 18
+WC Sociology
+SC Sociology
+GA 893YM
+UT WOS:000226757000005
+DA 2021-03-31
+ER
+
+PT J
+AU Azmanova, A
+AF Azmanova, A
+TI The mobilisation of the European Left in the early 21(st) century (I)
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+ID REALIGNMENT; ELECTION; VALUES
+AB This study discerns peculiarities in the electoral mobilisation in EU member states in recent years and examines the effect of current social transformations on political discourse and voting behaviour. The overall change is traced to the emergence of opportunity-vs-risk vectors of political identification, challenging the capital vs labour dynamics of conflict. The decline in electoral support for traditional Left parties is attributed to the failure of the European Left to adjust to this realignment.
+C1 Free Univ Brussels, Vesalius Coll, Inst Etud Polit, Paris, France.
+RP Azmanova, A (corresponding author), Free Univ Brussels, Vesalius Coll, Inst Etud Polit, Paris, France.
+EM azmanova@skynet.be
+NR 49
+TC 11
+Z9 11
+U1 0
+U2 1
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4211 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2004
+VL 45
+IS 2
+BP 273
+EP +
+PG 35
+WC Sociology
+SC Sociology
+GA 893YM
+UT WOS:000226757000006
+DA 2021-03-31
+ER
+
+PT J
+AU Swedberg, R
+AF Swedberg, R
+TI What bas been accomplished in new economic sociology and where is it
+   heading?
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article; Proceedings Paper
+CT Conference on Economics of Convention
+CY DEC 11-13, 2003
+CL Paris, FRANCE
+ID MARKET TRANSITION; SOCIAL-STRUCTURE; NETWORKS; EMBEDDEDNESS; INEQUALITY;
+   WEALTH
+AB WHEN ACADEMIC SOCIOLOGY was founded around 1900, the idea of creating an economic sociology played an important role in the plans of Durkheim, Weber et al. (I). Durkheim, for example, proposed sociologie economique as one of the key areas of the new science of sociology, and Weber assigned Wirtschaftssoziologie a place of honor in Economy and Society (Durkheim [1909] 1978; Weber [1921-1922] 1978, pp. 63-211). The reason for the idea that a topic such as economic sociology was needed had much to do with the way that economics around this time ignored the role of institutions and social relations. The Battle of the Methods, which went on around this time, also helped to accentuate the analytical dimension of 19(th) century economics and assign its empirical part to the historians. In any case, the development of economic sociology after the founding generation in sociology was very meager, despite some important exceptions by scholars such as Schumpeter, Polanyi and Parsons-Smelser (e.g. Swedberg 2003b, PP. 1-31). It was not until the mid-1980s that economic sociology again caught the imagination of the sociologists, and the so-called "new economic sociology" came into being, primarily as a result of the work of people such as Mark Granovetter, Harrison White and Viviana Zelizer. It was now suggested that all economic actions are "embedded", that markets can be conceptualized as "social structures", and that economic actions do not only have a rational component but also a social-cultural one (e.g. Granovetter 1985; White 1981; Zelizer 1999). These and similar ideas soon led to a flourishing economic sociology, and it is primarily the last decade of its accomplishments to which this article is devoted.
+C1 Cornell Univ, Dept Sociol, Ithaca, NY 14853 USA.
+RP Swedberg, R (corresponding author), Cornell Univ, Dept Sociol, Ithaca, NY 14853 USA.
+EM rs328@cornell.edu
+NR 80
+TC 17
+Z9 17
+U1 1
+U2 15
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0003-9756
+EI 1474-0583
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2004
+VL 45
+IS 3
+BP 317
+EP +
+DI 10.1017/S000397560400147X
+PG 15
+WC Sociology
+SC Sociology
+GA 922GV
+UT WOS:000228825700001
+DA 2021-03-31
+ER
+
+PT J
+AU Faist, T
+AF Faist, T
+TI Towards a political sociology of transnationalization. The state of the
+   art in migration research
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Review
+ID BORDERS
+AB The transnational turn in international migration research since the early 1990s has sparked vigorous debates among migration scholars. Yet the political aspects of transnational migration have been under-studied when compared to social, cultural and economic processes. This is particularly astonishing because the very term transnational suggests the importance of national borders and nationally-bound polities as opportunities and restrictions of exchange, reciprocity, solidarity and hierarchical control for processes involving non-state actors to varying degrees. The goal of this analysis is to take stock of some developments in the general study of transnationalization and treat the aspects of politics, policy and polity as a specific case of this broader conceptual and empirical effort. This effort also identities questions for further research and offers methodological venues for the study of transnationalism arising out of international migration.
+C1 Univ Bielefeld, Fac Sociol, D-4800 Bielefeld, Germany.
+RP Faist, T (corresponding author), Univ Bielefeld, Fac Sociol, D-4800 Bielefeld, Germany.
+EM thomas.faist@uni-bielefeld.de
+NR 109
+TC 27
+Z9 29
+U1 0
+U2 10
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0003-9756
+EI 1474-0583
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2004
+VL 45
+IS 3
+BP 331
+EP +
+DI 10.1017/S0003975604001481
+PG 37
+WC Sociology
+SC Sociology
+GA 922GV
+UT WOS:000228825700002
+DA 2021-03-31
+ER
+
+PT J
+AU Makropoulos, M
+AF Makropoulos, M
+TI Contingency aspects of theoretical semantics of the modernity
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA German
+DT Article
+C1 Univ Erfurt, Max Weber Kolleg Kultur & Sozialwissensch Studien, Wissensch Mitarbeiter, Erfurt, Germany.
+RP Makropoulos, M (corresponding author), Univ Erfurt, Max Weber Kolleg Kultur & Sozialwissensch Studien, Wissensch Mitarbeiter, Erfurt, Germany.
+NR 78
+TC 12
+Z9 12
+U1 0
+U2 1
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0003-9756
+EI 1474-0583
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2004
+VL 45
+IS 3
+BP 369
+EP 399
+PG 31
+WC Sociology
+SC Sociology
+GA 922GV
+UT WOS:000228825700003
+DA 2021-03-31
+ER
+
+PT J
+AU Hann, C
+AF Hann, C
+TI Eurasia in the perspective of Jack Goody
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Review
+C1 Max Planck Inst Ethnol Forsch, Halle Saale, Germany.
+RP Hann, C (corresponding author), Max Planck Inst Ethnol Forsch, Halle Saale, Germany.
+EM hann@eth.mpg.de
+NR 2
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4211 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2004
+VL 45
+IS 3
+BP 403
+EP 410
+PG 8
+WC Sociology
+SC Sociology
+GA 922GV
+UT WOS:000228825700004
+DA 2021-03-31
+ER
+
+PT J
+AU Laitin, DD
+AF Laitin, DD
+TI Integration of research and theory in the perspective of John Goldthorpe
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Review
+C1 Stanford Univ, Stanford, CA 94305 USA.
+RP Laitin, DD (corresponding author), Stanford Univ, Stanford, CA 94305 USA.
+EM dlaitin@stanford.edu
+NR 7
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4211 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2004
+VL 45
+IS 3
+BP 411
+EP 416
+PG 6
+WC Sociology
+SC Sociology
+GA 922GV
+UT WOS:000228825700005
+DA 2021-03-31
+ER
+
+PT J
+AU Brewer, JD
+AF Brewer, JD
+TI Putting C. Wright Mills in his place
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+C1 Univ Aberdeen, Dept Sociol, Aberdeen, Scotland.
+RP Brewer, JD (corresponding author), Univ Aberdeen, Dept Sociol, Aberdeen, Scotland.
+EM j.brewer@abdn.ac.uk
+NR 10
+TC 0
+Z9 0
+U1 0
+U2 1
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4211 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2004
+VL 45
+IS 3
+BP 417
+EP 422
+PG 6
+WC Sociology
+SC Sociology
+GA 922GV
+UT WOS:000228825700006
+DA 2021-03-31
+ER
+
+PT J
+AU Haines, VA
+AF Haines, VA
+TI Sociology's heritage
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+C1 Univ Calgary, Calgary, AB, Canada.
+RP Haines, VA (corresponding author), Univ Calgary, Calgary, AB, Canada.
+EM haines@ucalagary.ca
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4211 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2004
+VL 45
+IS 3
+BP 423
+EP 426
+PG 4
+WC Sociology
+SC Sociology
+GA 922GV
+UT WOS:000228825700007
+DA 2021-03-31
+ER
+
+PT J
+AU Chibber, V
+AF Chibber, V
+TI The return of imperialism to social science
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+C1 NYU, Dept Sociol, New York, NY USA.
+RP Chibber, V (corresponding author), NYU, Dept Sociol, 550 1St Ave, New York, NY USA.
+EM vivek.chibber@nyu.edu
+NR 16
+TC 5
+Z9 5
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4211 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2004
+VL 45
+IS 3
+BP 427
+EP 441
+PG 15
+WC Sociology
+SC Sociology
+GA 922GV
+UT WOS:000228825700008
+DA 2021-03-31
+ER
+
+PT J
+AU Hollstein, B
+AF Hollstein, B
+TI A common world?
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA French
+DT Article
+C1 Univ Erfurt, Max Weber Kolleg Kultur & Sozialwissensch Studien, Erfurt, Germany.
+RP Hollstein, B (corresponding author), Univ Erfurt, Max Weber Kolleg Kultur & Sozialwissensch Studien, Erfurt, Germany.
+EM bettina.hollstein@uni-erfurt.de
+RI Hollstein, Bettina/AAF-1926-2020
+NR 6
+TC 0
+Z9 0
+U1 0
+U2 1
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4211 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2004
+VL 45
+IS 3
+BP 443
+EP 446
+PG 4
+WC Sociology
+SC Sociology
+GA 922GV
+UT WOS:000228825700009
+DA 2021-03-31
+ER
+
+PT J
+AU Wade, RH
+AF Wade, RH
+TI Modernization and private interests
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+C1 Univ London London Sch Econ & Polit Sci, London WC2A 2AE, England.
+RP Wade, RH (corresponding author), Univ London London Sch Econ & Polit Sci, Houghton St, London WC2A 2AE, England.
+EM r.wade@lse.ac.uk
+NR 2
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0003-9756
+EI 1474-0583
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2004
+VL 45
+IS 3
+BP 447
+EP 451
+PG 5
+WC Sociology
+SC Sociology
+GA 922GV
+UT WOS:000228825700010
+DA 2021-03-31
+ER
+
+PT J
+AU Root, M
+AF Root, M
+TI Interpretation updated
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+C1 Univ Minnesota, Dept Philosophy, Minneapolis, MN 55455 USA.
+RP Root, M (corresponding author), Univ Minnesota, Dept Philosophy, Minneapolis, MN 55455 USA.
+EM Mdroot@umn.edu
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4211 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2004
+VL 45
+IS 3
+BP 453
+EP 457
+PG 5
+WC Sociology
+SC Sociology
+GA 922GV
+UT WOS:000228825700011
+DA 2021-03-31
+ER
+
+PT J
+AU Papilloud, C
+AF Papilloud, C
+TI Unpublished text introduced by Christian Papilloud
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA French
+DT Editorial Material
+AB Marcel Mauss never provides us with his conception of politics as he conceives it as a scientific. However, this relationship would have been clear for the scholars who dealt with his life and works. The unpublished text that we present will not only enlighten this shadow zone. It also presents the idea of politics cultivated by Mauss as the scientific he was in the last moments of his intellectual life.
+C1 Univ Bielefeld, Fac Sociol, D-4800 Bielefeld, Germany.
+RP Papilloud, C (corresponding author), Univ Bielefeld, Fac Sociol, D-4800 Bielefeld, Germany.
+NR 10
+TC 0
+Z9 0
+U1 0
+U2 2
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4221 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2003
+VL 44
+IS 1
+BP 3
+EP +
+PG 25
+WC Sociology
+SC Sociology
+GA 716JQ
+UT WOS:000185025400001
+DA 2021-03-31
+ER
+
+PT J
+AU Randeria, S
+AF Randeria, S
+TI Cunning states and unaccountable international institutions: Legal
+   plurality, social movements and rights of local communities to common
+   property resources
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+AB The paper analyses the new architecture of global governance which is characterised by unaccountable international institutions and scattered sovereignties. It examines the dilemmas of civil society actors (social movements and NGOs) involved in protecting the rights of local communities through strategic issue-based alliances with the state or the World Bank, whose legitimacy they question in other contexts. The cunning state remains a central actor in selectively transposing neoliberal policies to the national terrain and capitalises on its perceived weakness in order to render itself unaccountable to its citizens. The argument draws on empirical material from India around conflicts over the patenting of genetic resources, biodiversity conservation, forced displacement and privatisation of common property resources.
+C1 Cent European Univ, Dept Sociol Social Anthropol, Berlin, Germany.
+   Social Sci Ctr, Berlin, Germany.
+RP Randeria, S (corresponding author), Cent European Univ, Dept Sociol Social Anthropol, Berlin, Germany.
+NR 31
+TC 28
+Z9 29
+U1 0
+U2 4
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4221 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2003
+VL 44
+IS 1
+BP 27
+EP +
+PG 36
+WC Sociology
+SC Sociology
+GA 716JQ
+UT WOS:000185025400002
+DA 2021-03-31
+ER
+
+PT J
+AU Goody, J
+AF Goody, J
+TI The 'Civilising Process' in Ghana
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+AB Norbert Elias went to Ghana as Professor of Sociology for two years. Nevertheless he continued to refer to its inhabitants, despite their rural development, as naturvolk which the civilising process had not touched. That process apparently took off in Europe at the time of the Renaissance and never reached the Third World. The Ghanaians had different kinds of super-ego which did not restrain their behaviour in the same way as Europeans. The lack of restraint is shown in blood sacrifice and in their art, which gives a more direct expression of feeling. Elias' observations were necessarily superficial as he did not carry out fieldwork or learn any languages. He employed them simply to bolster the themes he had developed in a European context rather than using them to modify those themes.
+C1 Univ Cambridge St Johns Coll, Cambridge CB2 1TP, England.
+RP Goody, J (corresponding author), Univ Cambridge St Johns Coll, Cambridge CB2 1TP, England.
+NR 9
+TC 12
+Z9 13
+U1 0
+U2 1
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4221 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2003
+VL 44
+IS 1
+BP 61
+EP +
+DI 10.1017/S000397560300119X
+PG 14
+WC Sociology
+SC Sociology
+GA 716JQ
+UT WOS:000185025400003
+DA 2021-03-31
+ER
+
+PT J
+AU Davis, DS
+   Lu, HL
+AF Davis, DS
+   Lu, HL
+TI Property in transition: Conflicts over ownership in post-socialist
+   Shanghai
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+ID MARKET TRANSITION; URBAN CHINA; TRANSFORMATION; REDISTRIBUTION; SYSTEM;
+   STATE
+AB Disaggregating property rights into abstract bundles of rights over the use, control, and alienation of property facilitates the systematic comparison of property regimes across time and space. However, because these analytic distinctions ignore the criteria by which individuals choose among competing claims of ownership, they cannot capture the moral reasoning that ultimately institutionalizes a property regime. Using focus group debates over competing claims of ownership to newly privatized urban real estate, this essay identifies four grounded logics of entitlement by which Shanghai residents determine just claims in one post-socialist property regime: a logic of family justice, a logic of state regulation, a logic of the market, and a logic of the family estate. Of note is that the primary criteria by which individuals decided among different logics of entitlement were the rules of the property regime at the time the dwelling first became the family home rather than differences attributable to societal inequalities tied to distinctions of gender, generation or occupation.
+C1 Yale Univ, Dept Sociol, New Haven, CT 06520 USA.
+   Shanghai Acad Social Sci, Inst Sociol, Shanghai, Peoples R China.
+RP Davis, DS (corresponding author), Yale Univ, Dept Sociol, New Haven, CT 06520 USA.
+NR 41
+TC 15
+Z9 15
+U1 0
+U2 6
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4221 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2003
+VL 44
+IS 1
+BP 77
+EP +
+DI 10.1017/S0003975603001206
+PG 24
+WC Sociology
+SC Sociology
+GA 716JQ
+UT WOS:000185025400004
+DA 2021-03-31
+ER
+
+PT J
+AU Lun, Z
+AF Lun, Z
+TI The intellectual, power and the idea of democracy in China
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA French
+DT Article
+AB New political legitimacy is the sticking point of Chinese modernity, which has puzzled Chinese intellectuals for centuries. Since Mao's death in 1976, the debate about the necessity, conditions, and strategy of democratization in China has taken place among scholars of all factions and tendencies. However, only the process of reform provides the possibility discuss of such sensitive questioning; however only eventual democratization could help us carry this process through.
+C1 EHESS, Ctr Anal & Intervent Sociol, CADIS, Paris, France.
+RP Lun, Z (corresponding author), EHESS, Ctr Anal & Intervent Sociol, CADIS, Paris, France.
+NR 30
+TC 0
+Z9 0
+U1 0
+U2 3
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4221 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2003
+VL 44
+IS 1
+BP 100
+EP +
+PG 32
+WC Sociology
+SC Sociology
+GA 716JQ
+UT WOS:000185025400005
+DA 2021-03-31
+ER
+
+PT J
+AU Bodnar, J
+AF Bodnar, J
+TI Roquefort vs Big Mac: Globalization and its others
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+AB Being an 'antiglobahzationist' comes easy as a political label but as a theoretical endeavor, it is more difficult. Globalization encompasses a bundle of meanings. The paper disentangles some of the multiple implications of globalization and its purported enemies through the Big Mac-Roquefort opposition; it examines the taste differential of the two products, their symbolism and their stakes in the construction of ethnic, cultural and class identities. The simplistic opposition between globalization and its enemies is reinterpreted in the context of commercialization, Americanization, democratization, high-and mass-culture and-consumption, only to be cast in the age-old tensions of modernity.
+C1 Cent European Univ, Budapest, Hungary.
+RP Bodnar, J (corresponding author), Cent European Univ, Budapest, Hungary.
+NR 8
+TC 11
+Z9 11
+U1 0
+U2 5
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4221 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2003
+VL 44
+IS 1
+BP 133
+EP +
+PG 13
+WC Sociology
+SC Sociology
+GA 716JQ
+UT WOS:000185025400006
+DA 2021-03-31
+ER
+
+PT J
+AU Harper, S
+AF Harper, S
+TI Changing families as European societies age
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+ID PREMARITAL COHABITATION; MARITAL DISRUPTION; MATTER
+AB The trends towards falling fertility and mortality and increasing longevity, which have led to the demographic ageing of all Western industrialized societies, have not occurred in isolation. More specifically, we are also seeing a combination of forces which are resulting in the ageing of some life transitions. While public and legal institutions may be lowering the age threshold into fall legal adulthood , individuals themselves are choosing to delay many of those transitions which demonstrate a commitment to full adulthood. This shift from a high-mortality/ high-fertility society to a low-mortality/low-fertility society and the ageing of family transitions within these societies have significant implications for both family structure and kinship roles. Drawing on recent demo-graphic figures for the European Union, this paper highlights the impact of these main trends on individuals and families.
+C1 Univ Oxford, Oxford Inst Ageing, Dept Sociol, Oxford OX1 2JD, England.
+RP Harper, S (corresponding author), Univ Oxford, Oxford Inst Ageing, Dept Sociol, Oxford OX1 2JD, England.
+EM sarah.harper@sociology.ox.ac.uk
+OI Harper, Sarah/0000-0001-8248-7016
+NR 62
+TC 18
+Z9 23
+U1 1
+U2 5
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4211 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2003
+VL 44
+IS 2
+BP 155
+EP +
+DI 10.1017/S0003975603001231
+PG 31
+WC Sociology
+SC Sociology
+GA 816VI
+UT WOS:000221137000001
+DA 2021-03-31
+ER
+
+PT J
+AU Swain, N
+AF Swain, N
+TI Social capital and its uses
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+AB The article attempts to assess the use and usefulness of the concept of 'social capital'. First, it assesses its differing conceptual uses in the works of four key writers, Pierre Bourdieu, Gary S. Becker, James S. Coleman and Robert D. Putnam, identifying broadly a problematic 'social capital as social fact' perspective associated with Putnam, and a more promising 'contacts with influential people' approach that can be derived from Bourdieu. It then considers the practical uses already made of the former approach in the development studies literature, before addressing sone of the analytical problems associated with applying the latter in a policy enviroment. Finally, it takes three short examples from research in rural Central and Eastern Europe to illustrate how the concept can be used to both analyse social relations and suggest policy priorities. The article's conclusion is that 'social capital' of the bourdieu-derived kind can be useful, work-a-day concept in social analysis.
+C1 Univ Liverpool, Ctr Cent & Eastern European Studies, Liverpool L69 3BX, Merseyside, England.
+RP Swain, N (corresponding author), Univ Liverpool, Ctr Cent & Eastern European Studies, Liverpool L69 3BX, Merseyside, England.
+EM swain@slav.hokudai.ac.jp
+NR 1
+TC 21
+Z9 22
+U1 0
+U2 14
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4211 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2003
+VL 44
+IS 2
+BP 185
+EP +
+DI 10.1017/S0003975603001243
+PG 30
+WC Sociology
+SC Sociology
+GA 816VI
+UT WOS:000221137000002
+DA 2021-03-31
+ER
+
+PT J
+AU Leroy, M
+AF Leroy, M
+TI Taxpayer sociology and tax evasion
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA French
+DT Article
+ID PUBLIC-OPINION; FISCAL SOCIOLOGY; TAXATION; ATTITUDES; BEHAVIOR; STATE;
+   ATTRIBUTION; IMPACT; REVOLT; SWEDEN
+AB This article of fiscal sociology suggests an analytical review of the corpus of models and data relative to the avoidance (legal or not) of the tax so as to establish a cognitive theory of the rationality of the taxpayer. It aspires also to catch the attention of the sociologists for this promising field of research, through still neglected. On the basis of labelling theory of the deviance, of the tax revolt history and fiscal (social) psychology, the rational approach of the taxpayers insists on the importance of the concrete cognitive relation towards tax to explain the phenomena of tax avoidance (or not). It consists both in underlining the limits of the self-interest standard model and in emphasizing the political dimension of the taxation to give credence to the reality of a citizen's conception about the fair taxation ('contribudon-tax') of the fiscal State in a given context.
+C1 CNRS, GRALE, GIS, CRDT, F-75700 Paris, France.
+RP Leroy, M (corresponding author), CNRS, GRALE, GIS, CRDT, F-75700 Paris, France.
+EM marc.leroy@univ.-reims.fr
+NR 98
+TC 1
+Z9 1
+U1 2
+U2 14
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4211 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2003
+VL 44
+IS 2
+BP 213
+EP +
+PG 33
+WC Sociology
+SC Sociology
+GA 816VI
+UT WOS:000221137000003
+DA 2021-03-31
+ER
+
+PT J
+AU Misztal, BA
+   Freundlieb, D
+AF Misztal, BA
+   Freundlieb, D
+TI The sociology of philosophies: a global theory of intellectual change
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Book Review
+ID KNOWLEDGE
+C1 Univ Leicester, Dept Sociol, Leicester LE1 7RH, Leics, England.
+   Griffith Univ, Sch Humanities, Nathan, Qld 4111, Australia.
+RP Misztal, BA (corresponding author), Univ Leicester, Dept Sociol, Leicester LE1 7RH, Leics, England.
+EM bm50@le.a.c.uk; D.Freundliebd@mailbox.gu.edu.au
+NR 45
+TC 2
+Z9 2
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0003-9756
+EI 1474-0583
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2003
+VL 44
+IS 2
+BP 247
+EP 269
+DI 10.1017/S0003975603001267
+PG 23
+WC Sociology
+SC Sociology
+GA 816VI
+UT WOS:000221137000004
+DA 2021-03-31
+ER
+
+PT J
+AU Kolm, SC
+AF Kolm, SC
+TI The mythe of owner ship: Taxes and justice
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Book Review
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4211 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2003
+VL 44
+IS 2
+BP 271
+EP 272
+PG 2
+WC Sociology
+SC Sociology
+GA 816VI
+UT WOS:000221137000005
+DA 2021-03-31
+ER
+
+PT J
+AU Burrage, M
+AF Burrage, M
+TI Tocqueville: Between two worlds: the making of political and theoretical
+   life
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Book Review
+C1 Univ London London Sch Econ & Polit Sci, Dept Sociol, London WC2A 2AE, England.
+RP Burrage, M (corresponding author), Univ London London Sch Econ & Polit Sci, Dept Sociol, London WC2A 2AE, England.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4211 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2003
+VL 44
+IS 2
+BP 273
+EP 278
+PG 6
+WC Sociology
+SC Sociology
+GA 816VI
+UT WOS:000221137000006
+DA 2021-03-31
+ER
+
+PT J
+AU Dunn, J
+AF Dunn, J
+TI No other way 1945-1991
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Book Review
+C1 Kings Coll, Cambridge, England.
+RP Dunn, J (corresponding author), Kings Coll, Cambridge, England.
+EM jmd24@cam.ac.uk
+NR 11
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0003-9756
+EI 1474-0583
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2003
+VL 44
+IS 2
+BP 279
+EP 283
+PG 5
+WC Sociology
+SC Sociology
+GA 816VI
+UT WOS:000221137000007
+DA 2021-03-31
+ER
+
+PT J
+AU Henaff, M
+AF Henaff, M
+TI Religious ethics, gift exchange and capitalism
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+AB This study intends to reread Max Weber's Protestant Ethic with the following question in mind: where is the Catholic ethic with respect to "the spirit of capitalism"? The few short comments that Weber makes on this topic nevertheless suggest an interesting notion which he had developed in earlier texts, i.e., the "religious ethic of brotherhood". I intend to show here that this notion could be further illuminated by the findings of the anthropology of gift giving since Marcel Mauss. This would enable us to understand how the problem of grace, so central to the debate between Protestants and Catholics, is linked to the history of the transformations in the gift giving practices; we will also discover that this problem was at the origin of the schism. While such a hypothesis leads to a different reading of Weber, it is confirmed by a work of the historian B. Clavero which brings out the complex links that existed in 16(th) century Catholic Spain between the order of business and that of charity. Besides the antagonism that has marked the two Christian traditions in the West, what seems to be at issue is the way in which economic practices weight on the social bond. These questions invite us to rethink the connections between them.
+C1 Univ Calif San Diego, San Diego, CA 92103 USA.
+RP Henaff, M (corresponding author), Univ Calif San Diego, San Diego, CA 92103 USA.
+EM mhenaff@ucsd.edu
+NR 36
+TC 12
+Z9 12
+U1 0
+U2 6
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0003-9756
+EI 1474-0583
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2003
+VL 44
+IS 3
+BP 293
+EP +
+PG 33
+WC Sociology
+SC Sociology
+GA 819KI
+UT WOS:000221313400001
+DA 2021-03-31
+ER
+
+PT J
+AU Assayag, J
+AF Assayag, J
+TI Spectral secularism religion, politics and democracy in India
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+ID HISTORY
+AB Everyone invokes secularism in India. So the spectrum of secularism is very large. However, it is rather the spectral ideas of "majority" (hindus) and "minoritics" (Muslims, Christians) conceived in demographic (rather than political) terms which characterizes the discussion of this question. The insistence of Hindu nationalists on emphasizing that they are the majority tend to blur the difference between Hindu identity and Indian identity, coextensive with the territory of India. This concept, moreover, serves them in their legitimating of the democratic system insofar as the arithmetical rule is a first principle of this political regime. In the name of a secularism founded on the idea of the greater number (and also the supposed ideal of immemorial Hindu tolerance) India must be governed in accordance with demographic fact defined in religious terms. One of the paradoxical consequence of this "majoritarianism" is the development of "majority minority complex" of the Hindus and the increasing hate and violence (against Muslims and Christians). Today, the Hindu nationalism programme effectively dominates public debate. Its partisans has succeeded in discriminating between "friends" and "foes", those inside and those outside, those whom one holds dear and those whom one pillories on the basis of a real or imaginary menace weighing upon autochthony, culture, religion and race, and the national (state) sovereignty.
+C1 CNRS, Maison Francaise Oxford, CEIAS, EHESS, Paris, France.
+RP Assayag, J (corresponding author), CNRS, Maison Francaise Oxford, CEIAS, EHESS, Paris, France.
+NR 90
+TC 1
+Z9 1
+U1 0
+U2 3
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0003-9756
+EI 1474-0583
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2003
+VL 44
+IS 3
+BP 325
+EP +
+PG 34
+WC Sociology
+SC Sociology
+GA 819KI
+UT WOS:000221313400002
+DA 2021-03-31
+ER
+
+PT J
+AU Goodin, RE
+AF Goodin, RE
+TI Democratic accountability: The distinctiveness of the third sector
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article; Proceedings Paper
+CT Conference on the Crisis of Governance
+CY APR, 2003
+CL Harvard Univ, Cambridge, MA
+HO Harvard Univ
+ID EPISTEMIC COMMUNITIES; INSTITUTIONS; GOVERNANCE; ALTRUISM; NETWORKS;
+   MARKETS; AGE
+AB Each of the main sectors of society-the state, the market and the voluntary non-profit sector-is characterized by a distinctive accountability regime, focusing on a different subject of accountability (actions, results and intentions, respectively) and a different mechanism of accountability (hierarchy, competition and cooperative networking, respectively). Those different regimes can complement one another, enhancing the democratic accountability of the system overall. They can also undercut one another, if their differences are not respected. Bringing the Third Sector under a market-style accountability regime, through "public-private partnerships" based on competitive tendering, undermines the distinctive contribution that the Third Sector might make.
+C1 Australian Natl Univ, Canberra, ACT, Australia.
+RP Goodin, RE (corresponding author), Australian Natl Univ, Canberra, ACT, Australia.
+RI Goodin, Robert/G-7707-2011
+NR 112
+TC 60
+Z9 61
+U1 0
+U2 31
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0003-9756
+EI 1474-0583
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2003
+VL 44
+IS 3
+BP 359
+EP +
+PG 39
+WC Sociology
+SC Sociology
+GA 819KI
+UT WOS:000221313400003
+DA 2021-03-31
+ER
+
+PT J
+AU Favell, A
+AF Favell, A
+TI Games without frontiers? Questioning the transnational social power of
+   migrants in Europe
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article; Proceedings Paper
+CT Conference of the European-Consortium-of-Sociological-Research
+CY SEP, 1999
+CL Obernai, FRANCE
+ID CITIES; STATE
+AB This paper asks whether it is possible to study "elite" professional migrants in Europe with the same concepts and theories being used to explain the incorporation and/or integration of "ethnic" (i.e., non European) migrants in Europe; that is, in terms of their social mobility and social power in their new host countries. While globalisation may in theory make it easier for these professional migrants to transfer their "social capital" to other national contexts, observations of the personal and professional trajectories of European professional migrants in Brussels-particularly their difficulties establishing a true social power in a foreign national suggests that theorists often overstate their arguments about "global cities" and the decline of the nation-state, at least as far as Europe is concerned. The paper links these empirical concerns with theoretical issues arising from the work of Bourdieu, Mann, Coleman, Castells and Portes, aiming to build a bridge between current work in ethnic and migration studies and core current issues in social theory.
+C1 Univ Calif Los Angeles, Los Angeles, CA 90024 USA.
+RP Favell, A (corresponding author), Univ Calif Los Angeles, Los Angeles, CA 90024 USA.
+EM afavell@soc.ucla.edu
+NR 97
+TC 32
+Z9 32
+U1 1
+U2 8
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0003-9756
+EI 1474-0583
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2003
+VL 44
+IS 3
+BP 397
+EP +
+DI 10.1017/S0003975603001334
+PG 32
+WC Sociology
+SC Sociology
+GA 819KI
+UT WOS:000221313400004
+DA 2021-03-31
+ER
+
+PT J
+AU Joppke, C
+AF Joppke, C
+TI Citizenship between De- and Re-ethnicization
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+AB This article discusses some contemporary transformations of citizenship across Western states, with a special emphasis on Europe. It is argued that citizenship is subject to counter-vailing "de-" and "re-ethnicization" pressures, the first pushing toward incorporating immigrants, the second toward retaining des with emigrants abroad. While grounded in the dual nature of the modern state as a territorial and ethnic unit, and reinforced by contemporary globalizing and transnationalizing processes, de- and re-ethnicization are identifiable projects of the political left and right, respectively. Which trend prevails is then a simple function of who has the political majority.
+C1 Univ British Columbia, Dept Anthropol & Sociol, Vancouver, BC V5Z 1M9, Canada.
+RP Joppke, C (corresponding author), Univ British Columbia, Dept Anthropol & Sociol, Vancouver, BC V5Z 1M9, Canada.
+EM joppke@interchange.ubc.ca
+NR 39
+TC 98
+Z9 102
+U1 0
+U2 11
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4211 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2003
+VL 44
+IS 3
+BP 429
+EP +
+DI 10.1017/S0003975603001346
+PG 31
+WC Sociology
+SC Sociology
+GA 819KI
+UT WOS:000221313400005
+DA 2021-03-31
+ER
+
+PT J
+AU Elster, J
+AF Elster, J
+TI Transitional justice in the French restorations
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+AB The study of transitional justice-trials, purges and reparations after regime transitions-is emerging as a vital field of scholarship. Virtually all writings on the topic, however, are limited in two ways. First, they tend to focus on the twentieth century. Second, they usually limit themselves to transitions to democracy. In this article I transcend these limitations by considering transitional justice in the restoration of the Bourbon monarchy with an analytical framework for the study of transitional justice. I discuss the 1814 and 1815 restorations, with main emphasis on the political constraints on transitional justice that followed from the fact that these were negotiated transitions. I consider public and private retribution, before turning to the issues of restitution and compensation.
+C1 Columbia Univ, Dept Polit Sci, New York, NY 10027 USA.
+RP Elster, J (corresponding author), Columbia Univ, Dept Polit Sci, New York, NY 10027 USA.
+EM je70@POP.columbia.edu
+NR 36
+TC 0
+Z9 0
+U1 0
+U2 4
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0003-9756
+EI 1474-0583
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2003
+VL 44
+IS 3
+BP 459
+EP +
+PG 28
+WC Sociology
+SC Sociology
+GA 819KI
+UT WOS:000221313400006
+DA 2021-03-31
+ER
+
+PT J
+AU Peters, B
+AF Peters, B
+TI A new look at 'National Identity'
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+ID GERMANY; CITIZENSHIP; CHARACTER; FRANCE; STATE
+AB 'COLLECTIVE IDENTITY' and 'national identity' have become widely used and heavily contested concepts, both in various social sciences and in general public discourse (Brubaker, Cooper 2000). Many general criticisms of the term 'collective identity' refer to its connotations of wholeness, unity, homogeneity, and continuity or permanence (Niethammer 2000). These criticisms can be avoided, however, if we use a more inclusive empirical conception of collective and national identity. Many affirmative understandings of collective identity, on the other hand, draw too close a parallel with certain conceptions of individual identity, and fill the term collective identity with problematic normative or evaluative content. Identity is then used as a 'success' term (it is good if you have it, bad if you don't). For the sake of analytical clarity, however, it seems useful to understand the term in a more open and analytical way and to keep normative evaluations separately.
+   This is equally true for certain uses of 'national identity'. There is a notorious typology of 'conceptions of nationhood', which opposes 'ethnocultural' conceptions to political or 'civic' conceptions of nationhood. This typology carries a heavy normative load, favoring civic identities over the others. It is also used for explanatory purposes. Analytically, however, the typology is unsatisfactory, as are the normative and explanatory applications. A more multidimensional analysis of elements of national identity would be useful, clarifying some, possible meanings of 'ethnic', 'cultural' and 'political' in this context. More recently, there-have also been some criticisms of the typology and its normative connotations (Yack 1996; Brown 1999; Nielsen 1996-97). I want to take these criticisms somewhat further and give them a stronger conceptual foundation.
+C1 Univ Bremen, Bremen, Germany.
+RP Peters, B (corresponding author), Univ Bremen, Bremen, Germany.
+NR 65
+TC 17
+Z9 17
+U1 0
+U2 14
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4221 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2002
+VL 43
+IS 1
+BP 3
+EP 32
+PG 30
+WC Sociology
+SC Sociology
+GA 573LV
+UT WOS:000176832300001
+DA 2021-03-31
+ER
+
+PT J
+AU Hinrichs, K
+AF Hinrichs, K
+TI Do the old exploit the young? Is enfranchising children a good idea?
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article; Proceedings Paper
+CT Conference on Old and New Social Inequalities - What Challenges for
+   Welfare States
+CY SEP 06-09, 2001
+CL UNIV OVIEDO, OVIEDO, SPAIN
+HO UNIV OVIEDO
+C1 Univ Bremen, Bremen, Germany.
+RP Hinrichs, K (corresponding author), Univ Bremen, Bremen, Germany.
+NR 72
+TC 14
+Z9 14
+U1 0
+U2 2
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0003-9756
+EI 1474-0583
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2002
+VL 43
+IS 1
+BP 35
+EP 58
+PG 24
+WC Sociology
+SC Sociology
+GA 573LV
+UT WOS:000176832300002
+DA 2021-03-31
+ER
+
+PT J
+AU Merkel, W
+AF Merkel, W
+TI Social justice and the three worlds of welfare capitalism
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+C1 Univ Heidelberg, Heidelberg, Germany.
+RP Merkel, W (corresponding author), Univ Heidelberg, Bergheimer Str 58, Heidelberg, Germany.
+NR 57
+TC 11
+Z9 12
+U1 0
+U2 4
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4221 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2002
+VL 43
+IS 1
+BP 59
+EP 91
+PG 33
+WC Sociology
+SC Sociology
+GA 573LV
+UT WOS:000176832300003
+DA 2021-03-31
+ER
+
+PT J
+AU Eickelman, DF
+   Salvatore, A
+AF Eickelman, DF
+   Salvatore, A
+TI The public sphere and Muslim identities
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article; Proceedings Paper
+CT European-American Young Scholars Summer Institute on Public Spheres and
+   Muslim Societies
+CY JUL, 2001
+CL BERLIN, GERMANY
+ID ISLAM
+AB WASAHINGTON policy makers acknowledged a new sense of public in the Muslim-majority and Arab worlds even before the September II, 2001 terrorist attacks. For them, it is called the 'Arab street',
+   a new phenomenon Of public accountability, which we have seldom had to factor into our projections of Arab behavior in the past. The information revolution, and particularly the daily dose of uncensored television coming out of local TV stations like al-Jazira and international coverage by CNN and others, is shaping public opinion, which, in turn, is pushing Arab governments to respond. We don't know, and the leaders themselves don't know, how that pressure will impact on Arab policy in the future (Walker 2001; see also Tenet 2001).
+   The use of the term 'street', rather than 'public sphere' or 'public', imputes passivity or a propensity to easy manipulation and implies a lack of formal or informal leadership. Nonetheless, this use of 'street' shows how policy makers now acknowledge that authoritarian and single-party states also have 'publics' that they must take into account.
+C1 Dartmouth Coll, Hanover, NH 03755 USA.
+   Humboldt Univ, Berlin, Germany.
+RP Eickelman, DF (corresponding author), Dartmouth Coll, Hanover, NH 03755 USA.
+OI Salvatore, Armando/0000-0002-6718-7717
+NR 55
+TC 47
+Z9 47
+U1 0
+U2 3
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0003-9756
+EI 1474-0583
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2002
+VL 43
+IS 1
+BP 92
+EP 115
+DI 10.1017/S0003975602001030
+PG 24
+WC Sociology
+SC Sociology
+GA 573LV
+UT WOS:000176832300004
+OA Green Published
+DA 2021-03-31
+ER
+
+PT J
+AU Aguiar, F
+   de Francisco, A
+AF Aguiar, F
+   de Francisco, A
+TI Rationality and identity: A critique of Alessandro Pizzorno
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+AB THE QUESTION of personal identity is both complex and highly important. Universally famous literary characters-Tartuffe and Quixote, Faust and Mr Hyde, Robinson and Torquemada-exhibit or suffer from problems of personal identity that writers have happily exploited for creative purposes. In numerous works of literature, the hero-or antihero-either displays all the signs of a split personality or evolves into another person. Identity, of course, is not just a favourite theme in literature, but also has been, and still is, an important object of philosophical and scientific enquiry and analysis, attracting the attention of philosophers of the mind and cognitive psychologists, as well as neuro-physiologists and even experts in artificial intelligence. At the same time, even if largely in isolation from the latest developments in these fields, contemporary moral and political philosophers have also been drawn to this question. From the communitarian, and later republican, critique, to liberalism, the question of the self and its identity has been considered a crucial element of the current debates on 'identity politics', and one, moreover, with decisive moral and political consequences. Equally, the question of individual and social identity has long attracted the attention of social scientists. Indeed, with the end of the old certainties regarding the importance of social structures, and the centrality traditionally assigned to class, attention has now shifted to all sorts of competing sources of identity, from nation to race, from gender to sexual preferences, and from religion to club. All these sources of identity make up a rich kaleidoscope of phobias and loyalties, which help tell individuals who they are in an increasingly polymorphic and decentralised social world; one which is increasingly less organised around traditional categories such as work, profession or class. Interest in this whole area is such that there are now numerous 'Identitary' theories of human behaviour that are presented as alternatives-it was only a matter of time before they emerged-to rational choice theory, the dominant paradigm in the social sciences over the last two decades. One such alternative to rational choice theory, and undoubtedly one of the most influential in Europe at least, is that elaborated by the Italian sociologist Alessandro Pizzorno. Yet despite Pizzorno's influence, we consider that his treatment of the crucial question of identity is far from convincing. In this article we merely seek to justify this assertion.
+   In order to do so, we first outline Pizzorno's critique of rational choice theory and his conception of identity as a string of selves. In the second part of the text we offer a detailed analysis and critique of the Italian sociologist's theoretical position. Finally, we focus on, and try to clarify, some of the key methodological aspects of rational choice theory, which in our opinion Pizzorno misinterprets.
+C1 CSIC, Cordoba, Spain.
+   Univ Complutense, E-28040 Madrid, Spain.
+RP Aguiar, F (corresponding author), CSIC, Cordoba, Spain.
+NR 22
+TC 8
+Z9 8
+U1 0
+U2 8
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4221 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2002
+VL 43
+IS 1
+BP 119
+EP 131
+DI 10.1017/S0003975602001042
+PG 13
+WC Sociology
+SC Sociology
+GA 573LV
+UT WOS:000176832300005
+DA 2021-03-31
+ER
+
+PT J
+AU Palonen, K
+AF Palonen, K
+TI Rehabilitating the politician on a neglected genre in political
+   theorizing
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+AB TO A CONSIDERABLE extent, politics is what politicians do and say, wrote J.D.B. Miller in an inaugural lecture at Leicester University in 1958, recommending the study of politicians political scientists (Miller 1958, 16). Here, I move on the level of the second order discussion and study what has been said about politicians within the perspective of conceptual history. The apologies of politicians form a genre of literature-perhaps a parody of both the Fiirstenspiegel and the 'statesman'-biographies-that is unduly neglected by political theorists and intellectual historians.
+   I have two objectives in this article: to historically identify the genre and to use some examples in order to analyze the strategies of rhetorical redescription (in the sense of Quentin Skinner 1996, 1999) as styles of the apologies of politicians.
+   My thesis is that the genre of the apologies of the ideal type of politician has only arisen as a response to the massive body of literature against the professional politicians of the late 19th century Whereas the lamentations of politicians are legion, there are not very many more systematic examples of the defences of politicians. As a response to this derogatory literature, the apologies of the politician also provide LIS with one of the best sources for studying the activity-concept of politics. Max Weber's Politik als Beruf (1919) in a sense both originates and transcends the genre.
+C1 Univ Jyvaskyla, Jyvaskyla, Finland.
+RP Palonen, K (corresponding author), Univ Jyvaskyla, Jyvaskyla, Finland.
+NR 48
+TC 1
+Z9 1
+U1 0
+U2 3
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0003-9756
+EI 1474-0583
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2002
+VL 43
+IS 1
+BP 132
+EP 153
+PG 22
+WC Sociology
+SC Sociology
+GA 573LV
+UT WOS:000176832300006
+DA 2021-03-31
+ER
+
+PT J
+AU Brubaker, R
+AF Brubaker, R
+TI Ethnicity without groups
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article; Proceedings Paper
+CT Conference of the Working-Group-on-Ethnicity-and-Nationalism
+CY JAN 13, 2001
+CL UNIV CALIF LOS ANGELES, LOS ANGELES, CA
+SP Working Grp Ethnicity & Nationalism
+HO UNIV CALIF LOS ANGELES
+C1 Univ Calif Los Angeles, Los Angeles, CA 90024 USA.
+RP Brubaker, R (corresponding author), Univ Calif Los Angeles, Los Angeles, CA 90024 USA.
+NR 88
+TC 540
+Z9 555
+U1 2
+U2 47
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0003-9756
+EI 1474-0583
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2002
+VL 43
+IS 2
+BP 163
+EP 189
+DI 10.1017/S0003975602001066
+PG 27
+WC Sociology
+SC Sociology
+GA 633WY
+UT WOS:000180308700001
+OA Bronze
+DA 2021-03-31
+ER
+
+PT J
+AU Wilterdink, N
+AF Wilterdink, N
+TI The sociogenesis of postmodernism
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+C1 Univ Amsterdam, NL-1012 WX Amsterdam, Netherlands.
+RP Wilterdink, N (corresponding author), Univ Amsterdam, NL-1012 WX Amsterdam, Netherlands.
+NR 67
+TC 6
+Z9 6
+U1 0
+U2 3
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4221 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2002
+VL 43
+IS 2
+BP 190
+EP 216
+PG 27
+WC Sociology
+SC Sociology
+GA 633WY
+UT WOS:000180308700002
+DA 2021-03-31
+ER
+
+PT J
+AU Wimmer, A
+   Schiller, NG
+AF Wimmer, A
+   Schiller, NG
+TI Methodological nationalism and the study of migration
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+ID ASSIMILATION; RETURN; VIEW
+C1 Univ Calif Los Angeles, Los Angeles, CA 90024 USA.
+   Univ New Hampshire, Durham, NC USA.
+   Max Planck Inst Social Anthropol, Halle An Der Saale, Germany.
+RP Wimmer, A (corresponding author), Univ Calif Los Angeles, Los Angeles, CA 90024 USA.
+NR 100
+TC 74
+Z9 77
+U1 0
+U2 14
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2002
+VL 43
+IS 2
+BP 217
+EP 240
+DI 10.1017/S000397560200108X
+PG 24
+WC Sociology
+SC Sociology
+GA 633WY
+UT WOS:000180308700003
+DA 2021-03-31
+ER
+
+PT J
+AU Ottow, R
+AF Ottow, R
+TI A model of political analysis
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA German
+DT Review
+ID FOUCAULT; SOCIETY; SELF
+C1 Humboldt Univ, D-1086 Berlin, Germany.
+RP Ottow, R (corresponding author), Humboldt Univ, D-1086 Berlin, Germany.
+NR 132
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4221 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2002
+VL 43
+IS 2
+BP 241
+EP 269
+PG 29
+WC Sociology
+SC Sociology
+GA 633WY
+UT WOS:000180308700004
+DA 2021-03-31
+ER
+
+PT J
+AU Holmes, L
+AF Holmes, L
+TI Social sciences and market transitions
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Book Review
+C1 Univ Melbourne, Melbourne, Vic, Australia.
+RP Holmes, L (corresponding author), Univ Melbourne, Melbourne, Vic, Australia.
+NR 3
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4221 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2002
+VL 43
+IS 2
+BP 273
+EP 283
+PG 11
+WC Sociology
+SC Sociology
+GA 633WY
+UT WOS:000180308700005
+DA 2021-03-31
+ER
+
+PT J
+AU Lautman, J
+AF Lautman, J
+TI French viewpoints on capitalism
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA French
+DT Book Review
+C1 Univ Aix Marseille 1, Aix En Provence, France.
+RP Lautman, J (corresponding author), Univ Aix Marseille 1, Aix En Provence, France.
+NR 5
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4221 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2002
+VL 43
+IS 2
+BP 284
+EP 292
+PG 9
+WC Sociology
+SC Sociology
+GA 633WY
+UT WOS:000180308700006
+DA 2021-03-31
+ER
+
+PT J
+AU Joppke, C
+   Rosenhek, Z
+AF Joppke, C
+   Rosenhek, Z
+TI Contesting ethnic immigration: Germany and Israel compared
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+ID ARAB CITIZENS; STATES; DEMOCRACY; POLITICS
+AB After World War 11, Israel and Germany adopted curiously similar policies of ethnic immigration, accepting as immigrants only putative co-ethnics. The objective of this article is to account for the main variation between the two cases, the resilience of Jewish immigration in Israel, and the demise of ethnic-German immigration in Get many. The very fact of divergent outcomes casts doubt on conventional accounts of ethnic immigration, which see the latter as deriving from an ethnic (as against civic) definition of nationhood. We point instead to the possibility of 'liberal' and 'restrictive' contention surrounding ethnic immigration, and argue that for historical and geopolitical reasons the political space for such contention has been more constricted in Israel than in Germany.
+C1 European Univ Inst, Florence, Italy.
+   Hebrew Univ Jerusalem, IL-91905 Jerusalem, Israel.
+RP Joppke, C (corresponding author), European Univ Inst, Florence, Italy.
+RI Rosenhek, Zeev/J-3187-2019
+OI Rosenhek, Zeev/0000-0001-8739-7378
+NR 68
+TC 38
+Z9 38
+U1 0
+U2 3
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4221 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2002
+VL 43
+IS 3
+BP 301
+EP +
+DI 10.1017/S0003975602001121
+PG 36
+WC Sociology
+SC Sociology
+GA 636DW
+UT WOS:000180440100001
+DA 2021-03-31
+ER
+
+PT J
+AU Adair-Toteff, C
+AF Adair-Toteff, C
+TI Max Weber's mysticism
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+AB For much of his life Weber favored the rational activity of the ascetic in contrast to the irrational passivity of the mystic. However, Weber developed a growing interest in mysticism both in the East and the West. Johannes Tauler and his teacher Meister Eckhart offered Weber glimpses of the western mystic's beliefs. Perhaps in Weber's last years, religion and mysticism moved from being merely intellectual interests to something more significant and personal.
+C1 Mississippi State Univ, Mississippi State, MS 39762 USA.
+RP Adair-Toteff, C (corresponding author), Mississippi State Univ, Mississippi State, MS 39762 USA.
+NR 55
+TC 10
+Z9 10
+U1 0
+U2 4
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4221 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2002
+VL 43
+IS 3
+BP 339
+EP +
+PG 17
+WC Sociology
+SC Sociology
+GA 636DW
+UT WOS:000180440100002
+DA 2021-03-31
+ER
+
+PT J
+AU Riley, AT
+AF Riley, AT
+TI The sacred calling of intellectual labor in mystic and ascetic
+   Durkheimianism
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+AB This article explores the Durkheimian engagement with the sacred as intricately enmeshed in a personal search for meaning in intellectual labor. By situating the intellectual work of Durkheim, Mauss, Hubert and Hertz in their personal quests for the sacred, we uncover two kinds of Durkheiman thought on the sacred and two 'species' of Durkheimian intellectual. Weber's categories of religious experience, the mystic and the ascetic, frame this rethinking of the meaning of Durkheimian theory.
+C1 Bucknell Univ, Lewisburg, PA 17837 USA.
+RP Riley, AT (corresponding author), Bucknell Univ, Lewisburg, PA 17837 USA.
+NR 46
+TC 1
+Z9 1
+U1 0
+U2 1
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4221 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2002
+VL 43
+IS 3
+BP 354
+EP +
+PG 33
+WC Sociology
+SC Sociology
+GA 636DW
+UT WOS:000180440100003
+DA 2021-03-31
+ER
+
+PT J
+AU Eve, M
+AF Eve, M
+TI Is friendship a sociological topic?
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+AB Sociologists have shown little interest in friendship. The rather fragmentary empirical work which does exist on friendship in modern society paradoxically tends to confirm the impression that the subject is of marginal importance; for friendship emerges from much research as a relationship which provides emotional support and small services but little else. Admittedly, there is also evidence indicating links with more classical sociological themes-such as access to jobs. But this evidence is often seen as representing 'exceptional' circumstances. Thus, among an immigrant group, friendship des may be seen as particular to the culture from which immigrants come; among an elite group, the importance of friendship ties may be seen as peculiar to that elite circle. We can talk of a genuine 'paradigm' of modern society as being based on relatively impersonal relations. The paper maintains that if friendship is approached differently, it emerges as of more central and 'structural' interest. What is required is a shift on bboth theoretical and methodological levels. Sociology needs to shift its theoretical perspective and recognize that people articulate their values, enact their strategies, develop their language in facc-to-face groups, not as isolated individuals. In terms of empirical research, what is needed are methods capable of tracing these groupings. This is difficult at present because most sociological methods rely heavily on data collected on individuals and their attributes.
+C1 Univ Turin, Turin, Italy.
+RP Eve, M (corresponding author), Univ Turin, Turin, Italy.
+RI Eve, Michael/ABI-1311-2020
+NR 61
+TC 26
+Z9 26
+U1 0
+U2 3
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0003-9756
+EI 1474-0583
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2002
+VL 43
+IS 3
+BP 386
+EP +
+DI 10.1017/S0003975602001157
+PG 26
+WC Sociology
+SC Sociology
+GA 636DW
+UT WOS:000180440100004
+DA 2021-03-31
+ER
+
+PT J
+AU Pahl, R
+AF Pahl, R
+TI Towards a more significant sociology of friendship
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+AB Eve's polemic on the relatively insignificant contribution of sociological studies of friendship to the central concerns of the discipline has some force. However, he weakens his case in three main ways. Firstly, his over-reliance on Giddens to demonstrate the contrast in the importance of personalistic relations between 'traditional' and 'late-modern' societies. See for example Allan Silver. Secondly, Eve's contention that there is an over-reliance on dyadic relationships in the study of friendship is becoming outdated, as demonstrated in the major ESRC project 'Rethinking Friendship'. Thirdly, Eve underestimates the importance of analyses of friendship in contemporary sociological studies of stratification and power. For example, the so-called velvet revolution of 1989 in Eastern Europe were fuelled by the friend-based organisation of radically dissident intellectuals.
+NR 39
+TC 15
+Z9 15
+U1 0
+U2 2
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4221 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2002
+VL 43
+IS 3
+BP 410
+EP +
+PG 16
+WC Sociology
+SC Sociology
+GA 636DW
+UT WOS:000180440100005
+DA 2021-03-31
+ER
+
+PT J
+AU Popitz, H
+AF Popitz, H
+TI Social norms
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA German
+DT Article
+NR 11
+TC 1
+Z9 1
+U1 0
+U2 8
+PU CAMBRIDGE UNIV PRESS
+PI PORT CHESTER
+PA 110 MIDLAND AVE, PORT CHESTER, NY 10573-9863 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2001
+VL 42
+IS 1
+BP 7
+EP 20
+PG 14
+WC Sociology
+SC Sociology
+GA 429TV
+UT WOS:000168533800001
+DA 2021-03-31
+ER
+
+PT J
+AU Przeworski, A
+   Wallerstein, M
+AF Przeworski, A
+   Wallerstein, M
+TI Popular sovereignty, State autonomy, and private property
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Review
+ID WELFARE; TAXES; SIZE; GOVERNMENT; POLICY
+NR 127
+TC 0
+Z9 0
+U1 0
+U2 5
+PU CAMBRIDGE UNIV PRESS
+PI PORT CHESTER
+PA 110 MIDLAND AVE, PORT CHESTER, NY 10573-9863 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2001
+VL 42
+IS 1
+BP 21
+EP 65
+PG 45
+WC Sociology
+SC Sociology
+GA 429TV
+UT WOS:000168533800002
+DA 2021-03-31
+ER
+
+PT J
+AU Dahrendorf, R
+AF Dahrendorf, R
+TI On some problems of the sociological theory of revolution
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA German
+DT Article
+NR 29
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI PORT CHESTER
+PA 110 MIDLAND AVE, PORT CHESTER, NY 10573-9863 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2001
+VL 42
+IS 1
+BP 66
+EP 75
+PG 10
+WC Sociology
+SC Sociology
+GA 429TV
+UT WOS:000168533800003
+DA 2021-03-31
+ER
+
+PT J
+AU De Heusch, L
+AF De Heusch, L
+TI Ethnicity: Vicissitudes of a concept
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA French
+DT Article
+C1 Free Univ Brussels, Brussels, Belgium.
+RP De Heusch, L (corresponding author), Free Univ Brussels, 808 Route Lennik, Brussels, Belgium.
+NR 34
+TC 0
+Z9 0
+U1 0
+U2 2
+PU CAMBRIDGE UNIV PRESS
+PI PORT CHESTER
+PA 110 MIDLAND AVE, PORT CHESTER, NY 10573-9863 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2001
+VL 42
+IS 1
+BP 79
+EP 100
+PG 22
+WC Sociology
+SC Sociology
+GA 429TV
+UT WOS:000168533800004
+DA 2021-03-31
+ER
+
+PT J
+AU Testart, A
+AF Testart, A
+TI Pawning people: Comparative sociology of an institution
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA French
+DT Article
+C1 Univ Paris 10, F-92001 Nanterre, France.
+RP Testart, A (corresponding author), Univ Paris 10, F-92001 Nanterre, France.
+NR 74
+TC 0
+Z9 0
+U1 0
+U2 1
+PU CAMBRIDGE UNIV PRESS
+PI PORT CHESTER
+PA 110 MIDLAND AVE, PORT CHESTER, NY 10573-9863 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2001
+VL 42
+IS 1
+BP 101
+EP 130
+PG 30
+WC Sociology
+SC Sociology
+GA 429TV
+UT WOS:000168533800005
+DA 2021-03-31
+ER
+
+PT J
+AU Leach, E
+AF Leach, E
+TI The legitimacy of Solomon - Some structural aspects of Old Testament
+   history
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+NR 32
+TC 1
+Z9 1
+U1 0
+U2 1
+PU CAMBRIDGE UNIV PRESS
+PI PORT CHESTER
+PA 110 MIDLAND AVE, PORT CHESTER, NY 10573-9863 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2001
+VL 42
+IS 1
+BP 131
+EP 174
+PG 44
+WC Sociology
+SC Sociology
+GA 429TV
+UT WOS:000168533800006
+DA 2021-03-31
+ER
+
+PT J
+AU Czwartosz, Z
+AF Czwartosz, Z
+TI On queueing
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+NR 3
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI PORT CHESTER
+PA 110 MIDLAND AVE, PORT CHESTER, NY 10573-9863 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2001
+VL 42
+IS 1
+BP 177
+EP 185
+PG 9
+WC Sociology
+SC Sociology
+GA 429TV
+UT WOS:000168533800007
+DA 2021-03-31
+ER
+
+PT J
+AU Varese, F
+AF Varese, F
+TI Is Sicily the future of Russia? Private protection and the rise of the
+   Russian Mafia
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Review
+RI Varese, Federico/K-6627-2012
+NR 116
+TC 1
+Z9 1
+U1 0
+U2 3
+PU CAMBRIDGE UNIV PRESS
+PI PORT CHESTER
+PA 110 MIDLAND AVE, PORT CHESTER, NY 10573-9863 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2001
+VL 42
+IS 1
+BP 186
+EP 220
+PG 35
+WC Sociology
+SC Sociology
+GA 429TV
+UT WOS:000168533800008
+DA 2021-03-31
+ER
+
+PT J
+AU Hemerijck, A
+   Visser, J
+AF Hemerijck, A
+   Visser, J
+TI The Dutch Model: An obvious candidate for the 'third way'?
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+C1 Erasmus Univ, Rotterdam, Netherlands.
+   Univ Amsterdam, Amsterdam, Netherlands.
+RP Hemerijck, A (corresponding author), Erasmus Univ, Rotterdam, Netherlands.
+NR 18
+TC 1
+Z9 1
+U1 0
+U2 6
+PU CAMBRIDGE UNIV PRESS
+PI PORT CHESTER
+PA 110 MIDLAND AVE, PORT CHESTER, NY 10573-9863 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2001
+VL 42
+IS 1
+BP 221
+EP 239
+PG 19
+WC Sociology
+SC Sociology
+GA 429TV
+UT WOS:000168533800009
+DA 2021-03-31
+ER
+
+PT J
+AU Fleischmann, E
+AF Fleischmann, E
+TI From Weber to Nietzsche
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA French
+DT Article
+NR 64
+TC 1
+Z9 1
+U1 1
+U2 3
+PU CAMBRIDGE UNIV PRESS
+PI PORT CHESTER
+PA 110 MIDLAND AVE, PORT CHESTER, NY 10573-9863 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2001
+VL 42
+IS 1
+BP 243
+EP 291
+PG 49
+WC Sociology
+SC Sociology
+GA 429TV
+UT WOS:000168533800010
+DA 2021-03-31
+ER
+
+PT J
+AU Moss, D
+AF Moss, D
+TI The gift of repentance: a Maussian perspective on twenty years of
+   pentimento in Italy
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+AB The influence of Marcel Mauss' study The Gift has largely been confined to the study of the circulation of goods and the social relations in which their transfer is embedded. One of Mauss' principal aims, however, was to show the political importance of gift-giving in averting the recourse to violence. In this paper, his approach to the offering, receiving and reciprocating of gifts is used to analyse the phenomenon of Pentiniento - the exchange of confessions for reduced sentences by terrorists and mafiosi which has become a central feature of the effort to combat organised violence in Italy since 1980.
+C1 Griffith Univ, Nathan, Qld 4111, Australia.
+RP Moss, D (corresponding author), Griffith Univ, Nathan, Qld 4111, Australia.
+NR 67
+TC 4
+Z9 4
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0003-9756
+EI 1474-0583
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2001
+VL 42
+IS 2
+BP 297
+EP +
+DI 10.1017/S000397560100100X
+PG 36
+WC Sociology
+SC Sociology
+GA 446DX
+UT WOS:000169498600001
+OA Green Published
+DA 2021-03-31
+ER
+
+PT J
+AU Cohen, D
+AF Cohen, D
+TI The rhetoric of justice: strategies of reconciliation and revenge in the
+   restoration of Athenian democracy in 403 BC
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+ID 410-399-BC; LAWS
+AB This paper examines from a comparative perspective the first historically documented case of transitional justice: the restoration of the Athenian democracy in 403 BC It analyzes in particular the rhetoric of amnesty, justice, reconciliation and revenge and the discursive strategies informing the prosecutions and litigation which followed the transition. Comparison of the Athenian experience with modern situations of transitional justice helps to identify key features which made the Athenian reconciliation so successful.
+C1 Univ Calif Berkeley, Berkeley, CA 94720 USA.
+RP Cohen, D (corresponding author), Univ Calif Berkeley, Berkeley, CA 94720 USA.
+NR 12
+TC 8
+Z9 9
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI PORT CHESTER
+PA 110 MIDLAND AVE, PORT CHESTER, NY 10573-9863 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2001
+VL 42
+IS 2
+BP 335
+EP +
+PG 23
+WC Sociology
+SC Sociology
+GA 446DX
+UT WOS:000169498600002
+DA 2021-03-31
+ER
+
+PT J
+AU Schiemann, JW
+AF Schiemann, JW
+TI Explaining Hungary's powerful Constitutional Court: a bargaining
+   approach
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+ID TRANSITION; EUROPE; OPPOSITION; DEMOCRACY
+AB Chosen during its negotiated transition to democracy in 1989, Hungary's Constitutional Court has emerged as one of the most powerful institutions of its kind. Drawing on round table transcripts and interviews with key participants, this paper presents a bargaining model of institutional choice that demonstrates how the greater patience of the opposition parties forced the ruling party to make significant concessions that increased the authority and independence of the court.
+C1 Columbia Univ, New York, NY 10027 USA.
+RP Schiemann, JW (corresponding author), Columbia Univ, New York, NY 10027 USA.
+NR 55
+TC 4
+Z9 4
+U1 0
+U2 1
+PU CAMBRIDGE UNIV PRESS
+PI PORT CHESTER
+PA 110 MIDLAND AVE, PORT CHESTER, NY 10573-9863 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2001
+VL 42
+IS 2
+BP 357
+EP +
+PG 35
+WC Sociology
+SC Sociology
+GA 446DX
+UT WOS:000169498600003
+DA 2021-03-31
+ER
+
+PT J
+AU Peretti-Watel, P
+AF Peretti-Watel, P
+TI Driving: A subject for sociological research?
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA French
+DT Article
+ID ROAD
+AB Car driving has received little attention from sociologists. Existing analyses highlight the irrationality of drivers, victims of an 'illusion of control', a 'bias of optimism' or influenced by social and cultural factors. Using qualitative and quantitative information this article suggests a new perspective, in which driving is regarded as a 'social activity' (in the Weberian sense) and it is presumed that drivers operate on a cognitive rationality.
+C1 INSEE, CREST, Lab Sociol Quantitat, Malakoff, France.
+RP Peretti-Watel, P (corresponding author), INSEE, CREST, Lab Sociol Quantitat, Malakoff, France.
+RI Peretti-Watel, Patrick/P-4535-2017
+NR 70
+TC 1
+Z9 1
+U1 0
+U2 1
+PU CAMBRIDGE UNIV PRESS
+PI PORT CHESTER
+PA 110 MIDLAND AVE, PORT CHESTER, NY 10573-9863 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2001
+VL 42
+IS 2
+BP 391
+EP +
+PG 39
+WC Sociology
+SC Sociology
+GA 446DX
+UT WOS:000169498600004
+DA 2021-03-31
+ER
+
+PT J
+AU Joppke, C
+AF Joppke, C
+TI Multicultural citizenship: A critique
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+ID RIGHTS
+AB This article discusses the theory and practice of multicultural citizenship in liberal states. Regarding theory, I point to the shortcomings of both 'radical' and 'liberal' approaches to justify minority rights. Regarding practice, the state-centered notion of multicultural citizenship deflects from the decentered accommodation of multicultural minority claims in functionnally differentiated societies. It also runs counter to a trend toward de-ethnicization in liberal states, in which the cultural impositions of the majority on minority groups are growing thin, thus removing the case for minority rights.
+C1 European Univ Inst, Florence, Italy.
+RP Joppke, C (corresponding author), European Univ Inst, Florence, Italy.
+NR 37
+TC 26
+Z9 26
+U1 0
+U2 7
+PU CAMBRIDGE UNIV PRESS
+PI PORT CHESTER
+PA 110 MIDLAND AVE, PORT CHESTER, NY 10573-9863 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2001
+VL 42
+IS 2
+BP 431
+EP +
+DI 10.1017/S0003975601001047
+PG 18
+WC Sociology
+SC Sociology
+GA 446DX
+UT WOS:000169498600005
+DA 2021-03-31
+ER
+
+PT J
+AU Kamali, M
+AF Kamali, M
+TI Civil society and Islam: A sociological perspective
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+AB Recent political developments in Iran, Turkey, Egypt and Algeria, among others, suggest the possible emergence of an indigenous Islamic path of democratic formation. However, the conventional western interpretations, of religion, and in particular of Islam, leave little room for the recognition of the actual, complex development of such Islamic countries. Defining Islam and modernity as two more or less incompatible phenomena fails to recognize the potentialities of developing modern democratic Islamic societies with their cultural elements and particularities. Many Muslim countries themselves fail to see or are unwilling to recognize their own civil societies and them dynamic potentialities and to accept, in Locke's term, 'the sovereignty of civil society'. Although the notion of a traditional civil society in the Islamic countries is controversial, I contend that neither individualism nor democratic institutions have been or are necessary for a civil society to exist. The basis of a civil society is the existence of influential civil groups and their institutions that can, through established mechanisms counterbalance state power. Analyzing civil society in Muslim countries requires that we recognize Islam not only as a religion, but also as a political theory and the major source of a legitimization of political power.
+C1 Uppsala Univ, Uppsala, Sweden.
+RP Kamali, M (corresponding author), Uppsala Univ, Uppsala, Sweden.
+NR 62
+TC 22
+Z9 22
+U1 0
+U2 16
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4221 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2001
+VL 42
+IS 3
+BP 457
+EP +
+PG 27
+WC Sociology
+SC Sociology
+GA 507CZ
+UT WOS:000173010500001
+DA 2021-03-31
+ER
+
+PT J
+AU Raynaud, D
+AF Raynaud, D
+TI Network effects in pre-institutional science: The case of optics in the
+   Middle Ages
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA French
+DT Article
+C1 Univ Pierre Mendes, Grenoble, France.
+RP Raynaud, D (corresponding author), Univ Pierre Mendes, Grenoble, France.
+RI Raynaud, Dominique/AAE-3754-2021
+NR 51
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4221 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2001
+VL 42
+IS 3
+BP 483
+EP 505
+PG 23
+WC Sociology
+SC Sociology
+GA 507CZ
+UT WOS:000173010500002
+DA 2021-03-31
+ER
+
+PT J
+AU Bronner, G
+AF Bronner, G
+TI The question of rationality: Between sociology and economics
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA French
+DT Article
+C1 Univ Nancy 2, F-54001 Nancy, France.
+RP Bronner, G (corresponding author), Univ Nancy 2, F-54001 Nancy, France.
+NR 36
+TC 1
+Z9 1
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4221 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2001
+VL 42
+IS 3
+BP 509
+EP 525
+PG 17
+WC Sociology
+SC Sociology
+GA 507CZ
+UT WOS:000173010500003
+DA 2021-03-31
+ER
+
+PT J
+AU Rose-Ackerman, S
+AF Rose-Ackerman, S
+TI Trust, honesty and corruption: reflection on the state-building process
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+ID UNOFFICIAL ACTIVITY; RECIPROCITY; VIETNAM
+AB Honesty and trust affect the functioning of the state and the markets and, conversely, the quality of formal rules and institutions has an impact on interpersonal trust. This paper organizes and critiques research on the relationship between trust and government; it stresses the mutual interaction between trust and democracy and the impact of corruption. Given this contexts the concluding section discusses the transition process in post-socialist countries, highlighting the tensions between interpersonal trust and trust in public institutions.
+C1 Yale Univ, Sch Law, New Haven, CT 06520 USA.
+RP Rose-Ackerman, S (corresponding author), Yale Univ, Sch Law, New Haven, CT 06520 USA.
+NR 72
+TC 69
+Z9 70
+U1 1
+U2 15
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4221 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2001
+VL 42
+IS 3
+BP 526
+EP +
+DI 10.1017/S0003975601001084
+PG 46
+WC Sociology
+SC Sociology
+GA 507CZ
+UT WOS:000173010500004
+DA 2021-03-31
+ER
+
+PT J
+AU Manin, B
+AF Manin, B
+TI Montesquien - The republic and commerce
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA French
+DT Article
+C1 Inst Etud Polit Paris, Paris, France.
+   NYU, New York, NY USA.
+RP Manin, B (corresponding author), Inst Etud Polit Paris, Paris, France.
+NR 14
+TC 8
+Z9 8
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4221 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2001
+VL 42
+IS 3
+BP 573
+EP 602
+PG 30
+WC Sociology
+SC Sociology
+GA 507CZ
+UT WOS:000173010500005
+DA 2021-03-31
+ER
+
+PT J
+AU Runciman, WG
+AF Runciman, WG
+TI Can there be a Nietzschean sociology?
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+C1 Trinity Coll, Cambridge, England.
+RP Runciman, WG (corresponding author), Trinity Coll, Cambridge, England.
+NR 23
+TC 5
+Z9 5
+U1 0
+U2 2
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH STREET, NEW YORK, NY 10011-4211 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2000
+VL 41
+IS 1
+BP 3
+EP 21
+PG 19
+WC Sociology
+SC Sociology
+GA 341DL
+UT WOS:000088575700001
+DA 2021-03-31
+ER
+
+PT J
+AU Emigh, RJ
+AF Emigh, RJ
+TI Forms of property rights or class capacities - The example of Tuscan
+   sharecropping
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article; Proceedings Paper
+CT 92nd Annual Meeting of the American-Sociological-Association
+CY AUG 09-13, 1997
+CL TORONTO, CANADA
+SP Amer Sociol Assoc
+ID TRANSACTION COSTS; MARKET TRANSITION; AGRICULTURE; HOUSEHOLD;
+   STRATIFICATION; CAPITALISM; MEZZADRIA; TENANCY; ECONOMY
+C1 Univ Calif Los Angeles, Los Angeles, CA 90024 USA.
+RP Emigh, RJ (corresponding author), Univ Calif Los Angeles, Los Angeles, CA 90024 USA.
+NR 121
+TC 2
+Z9 2
+U1 0
+U2 2
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH STREET, NEW YORK, NY 10011-4211 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2000
+VL 41
+IS 1
+BP 22
+EP 52
+PG 31
+WC Sociology
+SC Sociology
+GA 341DL
+UT WOS:000088575700002
+DA 2021-03-31
+ER
+
+PT J
+AU Chapoulie, JM
+AF Chapoulie, JM
+TI The strange career of the notion of social class in the Chicago School
+   of Sociology Tradition
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA French
+DT Article
+C1 Ecole Normale Super, Fontenay Aux Roses, France.
+RP Chapoulie, JM (corresponding author), Ecole Normale Super, Fontenay Aux Roses, France.
+NR 62
+TC 4
+Z9 4
+U1 0
+U2 3
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH STREET, NEW YORK, NY 10011-4211 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2000
+VL 41
+IS 1
+BP 53
+EP 70
+PG 18
+WC Sociology
+SC Sociology
+GA 341DL
+UT WOS:000088575700003
+DA 2021-03-31
+ER
+
+PT J
+AU Offe, C
+AF Offe, C
+TI Civil society and social order: demarcating and combining market, state
+   and community
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article; Proceedings Paper
+CT Seminar on Society and the Reform of the State
+CY MAR 26-28, 1998
+CL SAO PAULO, BRAZIL
+C1 Humboldt Univ, Berlin, Germany.
+RP Offe, C (corresponding author), Humboldt Univ, Berlin, Germany.
+NR 27
+TC 21
+Z9 22
+U1 0
+U2 6
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH STREET, NEW YORK, NY 10011-4211 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2000
+VL 41
+IS 1
+BP 71
+EP 94
+PG 24
+WC Sociology
+SC Sociology
+GA 341DL
+UT WOS:000088575700004
+DA 2021-03-31
+ER
+
+PT J
+AU Laitin, DD
+AF Laitin, DD
+TI Language conflict and violence: the straw that strengthens the camel's
+   back
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Reprint
+C1 Stanford Univ, Stanford, CA 94305 USA.
+RP Laitin, DD (corresponding author), Stanford Univ, Stanford, CA 94305 USA.
+NR 33
+TC 27
+Z9 27
+U1 0
+U2 4
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH STREET, NEW YORK, NY 10011-4211 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2000
+VL 41
+IS 1
+BP 97
+EP 137
+PG 41
+WC Sociology
+SC Sociology
+GA 341DL
+UT WOS:000088575700005
+DA 2021-03-31
+ER
+
+PT J
+AU Kraus, PA
+AF Kraus, PA
+TI Political unity and linguistic diversity in Europe
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+C1 Humboldt Univ, D-1040 Berlin, Germany.
+RP Kraus, PA (corresponding author), Humboldt Univ, D-1040 Berlin, Germany.
+NR 46
+TC 12
+Z9 12
+U1 0
+U2 3
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2000
+VL 41
+IS 1
+BP 138
+EP 163
+PG 26
+WC Sociology
+SC Sociology
+GA 341DL
+UT WOS:000088575700006
+DA 2021-03-31
+ER
+
+PT J
+AU Kumar, K
+AF Kumar, K
+TI A further note on civil society
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+C1 Univ Virginia, Charlottesville, VA 22903 USA.
+RP Kumar, K (corresponding author), Univ Virginia, Charlottesville, VA 22903 USA.
+NR 58
+TC 2
+Z9 2
+U1 1
+U2 7
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0003-9756
+EI 1474-0583
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2000
+VL 41
+IS 1
+BP 167
+EP 180
+PG 14
+WC Sociology
+SC Sociology
+GA 341DL
+UT WOS:000088575700007
+DA 2021-03-31
+ER
+
+PT J
+AU Roger, A
+AF Roger, A
+TI Explaining nationalism - The contradictions of Ernest Gellner
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA French
+DT Article
+AB Ernest Gellner's theory of nationalism is founded on a simplistic and deceptive materialistic reasoning, masking the tension between functionalist postulates and historicist inclinations. Various methods are used to resolve this tension. Initially, idealism is introduced into the body of the analysis. When this becomes too visible, the nature of the materialism displayed is discretely modified. Relational materialism - a dynamic articulation between relations to the means of production and relations between classes - gives way to substantialist materialism - based on a mechanical opposition between the means of production and ethno-linguistic attributes. The use of a consistent vocabulary obscures the elision between the two: 'structure' and 'culture' are alternatively defined in relational or in substantialist terms. Gellner then returns to relational considerations which make his explanation all the more unclear.
+C1 Inst Etud Polit Bordeaux, Bordeaux, France.
+RP Roger, A (corresponding author), Inst Etud Polit Bordeaux, Bordeaux, France.
+NR 48
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH STREET, NEW YORK, NY 10011-4211 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2000
+VL 41
+IS 2
+BP 189
+EP +
+PG 37
+WC Sociology
+SC Sociology
+GA 382DH
+UT WOS:000165803500001
+DA 2021-03-31
+ER
+
+PT J
+AU King, LP
+AF King, LP
+TI Foreign direct investment and transition
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Review
+ID STATE-OWNED ENTERPRISES; ECONOMIC-GROWTH; CAPITAL PENETRATION;
+   CENTRAL-EUROPE; DEPENDENCE; OWNERSHIP; INEQUALITY; POLICY
+AB This article examines the debate on the developmental impact of foreign direct investment (FDI). While the most frequent finding within sociology is that FDI is harmful or at least less beneficial than domestic investment, most who study the transition from socialism or make economic policy in the region consider FDI to be a major motor of development. This paper examines the impact of FDI with a novel methodology Rather than employing the standard analytic strategy that uses state-level macroeconomic data in a cross-national comparison, this article directly compares the performance of foreign owned firms to domestically owned firms. In the analysis six hypotheses derived from this debate on the role of FDI are tested with logistic regression on two large random sample surveys of Hungarian firms The findings support the position that foreign direct investment is beneficial for the recipient country. In addition, they support the idea that foreign owned firms are more beneficial than domestically owned firms.
+C1 Yale Univ, New Haven, CT 06520 USA.
+RP King, LP (corresponding author), Yale Univ, New Haven, CT 06520 USA.
+OI King, Lawrence/0000-0002-5714-406X
+NR 113
+TC 4
+Z9 4
+U1 0
+U2 8
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH STREET, NEW YORK, NY 10011-4211 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2000
+VL 41
+IS 2
+BP 227
+EP +
+PG 33
+WC Sociology
+SC Sociology
+GA 382DH
+UT WOS:000165803500002
+DA 2021-03-31
+ER
+
+PT J
+AU Mayer, KU
+AF Mayer, KU
+TI Promises fulfilled? A review of 20 years of life course research
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Review
+ID OPTIMAL MATCHING METHODS; EAST-GERMANY; TRANSFORMATION; MOBILITY;
+   MARRIAGE; TRANSITIONS; INEQUALITY; ADULTHOOD; PATTERNS; CHILDREN
+AB Empirical life course research is based on prospective or retrospective longitudinal micro data and nationally representative samples of birth cohorts or larger populations. This field of research has developed since the 1970s as one of the major social science instruments of studying the dynamics of both individual lives and societies. The paper reviews critically the contributions of life course studies by comparing the initial expectations with practices and results during the last twenty years.
+C1 Max Planck Inst, Berlin, Germany.
+RP Mayer, KU (corresponding author), Max Planck Inst, Berlin, Germany.
+NR 110
+TC 16
+Z9 16
+U1 0
+U2 11
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2000
+VL 41
+IS 2
+BP 259
+EP +
+PG 25
+WC Sociology
+SC Sociology
+GA 382DH
+UT WOS:000165803500003
+DA 2021-03-31
+ER
+
+PT J
+AU Pawson, R
+AF Pawson, R
+TI Middle range realism
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+AB This paper proposes a liaison -'middle-range realism'-between two long standing explanatory strategies in sociology-'middle-range theory' and 'realist social theory'. Each offers what the other lacks. Middle-range theory carries an acute sense of the function of theory within empirical inquiry but has left undeveloped any notion of its appropriate explanatory form. Realist social theory has propositional precision but has been unable, in the most part, to descend from a critical domain to the empirical plane Middle-range realism thus offers a research strategy of the appropriate form and scope to lead and to federate empirical inquiry. Examples are provided of how middle-range realism can be applied to improve research using two different strategies (survey methods and evaluation research) in two contrasting substantive areas (voting behaviour and offender rehabilitation).
+C1 Univ Leeds, Leeds LS2 9JT, W Yorkshire, England.
+RP Pawson, R (corresponding author), Univ Leeds, Leeds LS2 9JT, W Yorkshire, England.
+NR 51
+TC 62
+Z9 62
+U1 0
+U2 15
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH STREET, NEW YORK, NY 10011-4211 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2000
+VL 41
+IS 2
+BP 283
+EP +
+PG 44
+WC Sociology
+SC Sociology
+GA 382DH
+UT WOS:000165803500004
+DA 2021-03-31
+ER
+
+PT J
+AU Barbalet, JM
+AF Barbalet, JM
+TI Beruf, rationality and emotion in Max Weber's sociology
+SO ARCHIVES EUROPEENNES DE SOCIOLOGIE
+LA English
+DT Article
+ID JAMES,WILLIAM
+AB The concept of Beruf variously translated as 'calling' or 'vocation', refers to the practice of systematic self-control in pursuing constant goals or purposes, which Weber, in The Protestant Ethic and the Spirit of Capitalism (1905). found in both Calvinist religious practice and capitalistic entrepreneurship and labour. But the term is not confined to these applications; it is also central in Science ar a Vocation (1917) and Politics as a Vocation (1919). The general significance of the idea of Beruf is that it accounts for the mechanisms required to realize in action the quality of rationality, another of Weber's characteristic terms. The connection between rational activity and calling is constant in Weber's discussion. In his early statement of the argument however, practices of Beruf achieve rationality through the suppression of emotion. In his later discussion, Beruf is achieved through and expresses passion and emotions.
+C1 Univ Leicester, Leicester LE1 7RH, Leics, England.
+RP Barbalet, JM (corresponding author), Univ Leicester, Leicester LE1 7RH, Leics, England.
+RI Barbalet, Jack/ABE-9058-2020
+NR 45
+TC 10
+Z9 10
+U1 0
+U2 14
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH STREET, NEW YORK, NY 10011-4211 USA
+SN 0003-9756
+J9 ARCH EUR SOCIOL
+JI Arch. Eur. Sociol.
+PY 2000
+VL 41
+IS 2
+BP 329
+EP +
+PG 25
+WC Sociology
+SC Sociology
+GA 382DH
+UT WOS:000165803500005
+DA 2021-03-31
+ER
+
+EF

@@ -1,0 +1,2794 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Antonelli, F
+AF Antonelli, Francesco
+TI Ambivalence of official statistics: some theoretical-methodological
+   notes
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE Official statistics; ambivalence; rationalization; emancipation;
+   quantification
+AB The purpose of this paper is to advance some theoretical-methodological propositions about analyzing official statistics in the contemporary world: it is going to underline how the category of ambivalence is important in order to improve our comprehension of official statistics. In the second section, we will give a brief overview on contemporary sociology of official statistics. In the third and fourth sections, the focus will be on the 'French theory' - probably, the hegemonic current now - starting from Pierre Bourdieu's analysis of the State, one of the most important issues in order to better understand this perspective. This analysis points out as French theory considers just rationalization processes. Control, dominion as well as alienation are the main subjects, a set of ideas based on a structuralist point of view which does not actually consider the possibility of social change. The ambivalence (or social contradiction in Marxism terms) of every sociopolitical process - including the making and using of official statistics - is systematically underestimated. Beyond the dominion there is the subject and the conflict in a shared field of historicity: ethic and social claims need official statistics too. Eventually, the fifth section will focus on our theoretical-methodological proposal based on re-embedding the category of the statistical system in a more complex vision where ambivalence is essential.
+C1 [Antonelli, Francesco] Univ Roma Tre, Dipartimento Sci Polit, 199 Via Chiabrera, I-00145 Rome, Italy.
+RP Antonelli, F (corresponding author), Univ Roma Tre, Dipartimento Sci Polit, 199 Via Chiabrera, I-00145 Rome, Italy.
+EM Antonelli.francesco77@gmail.com
+NR 53
+TC 1
+Z9 1
+U1 0
+U2 0
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2016
+VL 26
+IS 3
+BP 354
+EP 366
+DI 10.1080/03906701.2016.1244924
+PG 13
+WC Sociology
+SC Sociology
+GA EG4QV
+UT WOS:000391029700002
+DA 2021-03-31
+ER
+
+PT J
+AU Aragona, B
+   Zindato, D
+AF Aragona, Biagio
+   Zindato, Donatella
+TI Counting people in the data revolution era: challenges and opportunities
+   for population censuses
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE Population census; new data culture; register-based statistics;
+   administrative data mining; unobtrusive methods
+AB Changes in technology, society and individual behaviours are having impressive effects on data production and use. Social networks, sensors and data infrastructure are generating a massive amount of new data (big data, big corpora, linked data, open data, etc.) that are readily available for the analysis of societies. Official statistics too is starting to pay attention to these unofficial data sources, to the aim of using them within the production processes. Despite the potentials of new data for statistical production, so far we can depict two main effects on official statistics, and especially on population censuses. First of all, there is the digitalization of data construction through both new instruments (e.g. web questionnaires) and new means of collection (e.g. tablets). Furthermore, the integration and the scaling-up of data archives is ongoing. This transition from the traditional 'door-to-door' census to new census methods, which make an higher use of technology, is not only a technical result, but it reflects the extent to which digital data are changing the routines of production of statistics and their use to gain social knowledge.
+C1 [Aragona, Biagio] Univ Napoli Federico II, Dept Social Sci, Vico Monte Pieta 1, Naples, Italy.
+   [Zindato, Donatella] Cent Directorate Social Stat & Populat Census, Istat Natl Inst Stat, Rome, Italy.
+RP Aragona, B (corresponding author), Univ Napoli Federico II, Dept Social Sci, Vico Monte Pieta 1, Naples, Italy.
+EM aragona@unina.it
+RI Aragona, Biagio/AAI-2446-2020
+NR 51
+TC 3
+Z9 3
+U1 1
+U2 5
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2016
+VL 26
+IS 3
+BP 367
+EP 385
+DI 10.1080/03906701.2016.1244926
+PG 19
+WC Sociology
+SC Sociology
+GA EG4QV
+UT WOS:000391029700003
+DA 2021-03-31
+ER
+
+PT J
+AU Mandefro, H
+AF Mandefro, Hone
+TI Politics by numbers: poverty reduction discourse, contestations and
+   regime legitimacy in Ethiopia
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE Politics of statistics; poverty; Ethiopia; legitimacy
+AB There are contradictory statistics about the number of poor people and changes in number of poor people in Ethiopia with statistics ranging from 26 to 86% of the total population in 2013. This paper analyzed how such contradictory statistics feed into national politics focusing on who uses which statistics and based on what justifications of authoritativeness. Drawing from data collected from print newspapers, blogs, websites, published articles, party publications, and interviews with four key informants and combining an actor's centered discourse analysis (ACDA) with Van Dick's (1997) approach of identifying and analyzing political discourses, the paper deconstructed the poverty statistics debate in Ethiopia to understand the basic contestations. Synthesis of the data shows that poverty numbers are being used as tools for, and manifestations of, ongoing power struggles in Ethiopia whereby different actors selectively use poverty statistics that promote their political agenda. While doing so, the underlying rationale of actors for choosing one statistics over another was not based on the merit of their preferred set of statistics over the others but on the suitability of the data for their political purpose. As such, the government disregards statistics except its own which portray rapid poverty decline in the country while opposition groups actively use and promote statistics coming from international organizations that depict increasing poverty or a slow rate of reduction of poverty. The paper argues that the underlying cause of such politicization of numbers is linked with the developmental statism ideology of the ruling party in Ethiopia and how it tries to justify its rule in Ethiopia - claiming that it is reducing poverty and bringing development in Ethiopia and therefore should be allowed to continue in power. Therefore, in debating poverty numbers what is being debated is not just the statistics but the legitimacy of the government, hence politics by numbers.
+C1 [Mandefro, Hone] Univ Gondar, Sch Sociol & Social Work, POB 196, Gondar, Ethiopia.
+RP Mandefro, H (corresponding author), Univ Gondar, Sch Sociol & Social Work, POB 196, Gondar, Ethiopia.
+EM honemandefro@yahoo.com
+NR 60
+TC 2
+Z9 2
+U1 0
+U2 2
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2016
+VL 26
+IS 3
+BP 386
+EP 406
+DI 10.1080/03906701.2016.1244928
+PG 21
+WC Sociology
+SC Sociology
+GA EG4QV
+UT WOS:000391029700004
+DA 2021-03-31
+ER
+
+PT J
+AU Decataldo, A
+   Ruspini, E
+AF Decataldo, Alessandra
+   Ruspini, Elisabetta
+TI Gender-sensitive data: the state of the art in Europe
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE Gender statistics; gender sensitive indicators; gender sensitive
+   databases; gender equality
+ID INEQUALITY
+AB Gender statistics play a crucial role in social research and in the creation of gender sensitive policies. Gender statistics document the situation of women and men around the world, making it easier to raise awareness about inequalities between them, to monitor gender equality and promote actionable change. There is thus a need to encourage awareness about gender statistics and their usefulness in gender mainstreaming. The paper has different aims: (1) to discuss the role of gender statistics and gender sensitive indicators; (2) to give an overview of the main gender sensitive European databases; (3) to present the European Commission Strategy on Gender Equality; (4) to display information collected by the European Institute for Gender Equality (Eige) database; (5) to promote proposal for increasing the gender sensitivity of social indicators.
+C1 [Decataldo, Alessandra; Ruspini, Elisabetta] Univ Milano Bicocca, Dept Sociol & Social Res, Bldg U7,Off 336,Via Bicocca Arcimboldi 8, I-20126 Milan, Italy.
+RP Decataldo, A (corresponding author), Univ Milano Bicocca, Dept Sociol & Social Res, Bldg U7,Off 336,Via Bicocca Arcimboldi 8, I-20126 Milan, Italy.
+EM alessandra.decataldo@unimib.it
+RI Ruspini, Elisabetta/AAH-7968-2019
+OI Ruspini, Elisabetta/0000-0003-1251-751X
+NR 36
+TC 1
+Z9 1
+U1 1
+U2 5
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2016
+VL 26
+IS 3
+BP 407
+EP 423
+DI 10.1080/03906701.2016.1244930
+PG 17
+WC Sociology
+SC Sociology
+GA EG4QV
+UT WOS:000391029700005
+DA 2021-03-31
+ER
+
+PT J
+AU Gambardella, D
+   Lumino, R
+AF Gambardella, Dora
+   Lumino, Rosaria
+TI Measuring university-based research in Europe: competing indicators and
+   underlying assumptions
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE Performance indicators; research quality; conceptual technologies;
+   higher education
+ID HIGHER-EDUCATION; ACCOUNTABILITY; GOVERNANCE; MANAGEMENT
+AB Modern societies have a growing need for information and numbers for governing social life. Numbers have the ability to represent a complex reality in a simplified and linear form, easily communicated. Far from being the product of a mere technical process, numbers are the result of a process that "is fundamentally social - an artifact of human action, imagination, ambition, accomplishment" (Espeland, W.N., and Stevens, M.L., 2008. A sociology of quantification. European journal of sociology, 49 (3), 401-436, p. 431). In the modern policy-making climate, numbers become key mechanisms for simplifying, classifying, comparing and evaluating. Along with this, the fields of visibility of evaluative objects, meanings and understandings (Dean, M., 2010. Governmentality. Power and rule in modern societies. 2nd ed. London: Sage) are re-framed consistently with what Clarke, J. (2004. Changing welfare, changing states. New direction in social policy. London: Sage) terms a 'performance/evaluation nexus' that links effort, values, purposes and self-understanding to measures and comparisons of outputs (Ball, S.J., 2012. Performativity, commodification and commitment: an I-Spy guide to the neoliberal university. British journal of educational studies, 601, 17-28). In this paper, we focus on the field of higher education (HE), where numbers, in the form of performance indicators, benchmarks and headline targets, are frequently used to strategically orient the sector towards the objectives and goals of the Bologna Process and of the overall Europe 2020 agenda (Waldow, F., 2014. From taylor to tyler to no child left behind: legitimating educational standards. Prospects, 45 (1), 49-62). We aim to offer a comparative overview of the complex spectrum of metrics, provided at the supranational level, within the field of higher education by focusing on the European Research Area (ERA) in order to map and analyse some of the crucial issues in play. A second ambition of this paper is to move from a mapping and analytical perspective to a deconstruction of a specific subset of research metrics, with the aim of challenging the 'self-evident truths' and the dominant conventional wisdom that define current European metrics in order to bring into question whether they contribute to restructuring the universities' research environments, affecting research policies and procedures. Performance indicators are posited to be 'conceptual technologies', encompassing theoretical and normative assumptions that shape the objects they aspire to measure.
+C1 [Gambardella, Dora] Univ Naples Federico II, Dept Social Sci, Naples, Italy.
+   [Lumino, Rosaria] Univ Naples Federico II, Dept Polit Sci, Naples, Italy.
+RP Gambardella, D (corresponding author), Univ Naples Federico II, Dept Social Sci, Vico Monte Pieta 1, I-80138 Naples, Italy.
+EM dogambar@unina.it
+FU EU CommissionEuropean CommissionEuropean Commission Joint Research
+   Centre
+FX The Autonomy Scorecard offers a typical instance of European benchmark
+   strategy. Launched in 2009 with the funding of the EU Commission, the
+   scorecard is designed to rate and rank national HE systems through
+   measuring, scoring and weighting different elements of institutional
+   autonomy (Estermann et al. 2011).
+NR 56
+TC 1
+Z9 1
+U1 3
+U2 11
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2016
+VL 26
+IS 3
+BP 424
+EP 439
+DI 10.1080/03906701.2016.1244932
+PG 16
+WC Sociology
+SC Sociology
+GA EG4QV
+UT WOS:000391029700006
+DA 2021-03-31
+ER
+
+PT J
+AU Godin, B
+AF Godin, Benoit
+TI Official statisticians as conceptual innovators
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE Innovation; statistics; intellectual history
+ID TECHNOLOGY; SCIENCE; MODEL
+AB Statistics are impossible without concepts. As the sociologist of invention Colum Gilfillan put it in 1952, 'counting begins with definition of the thing to be counted'. This article is concerned with statistics on science, technology and innovation (STI). It documents how official statisticians have, over time, defined the concepts used for measurement. Debates on definitions of the concepts measured started at the very beginning of STI measurement in the first half of the twentieth century. Then, from the early 1960s onward, methodological manuals were developed to conventionalize the definitions. This article claims that the manuals did not have the expected result. They did not stabilize the definitions and the statistics based thereon.
+C1 [Godin, Benoit] INRS UCS, Montreal, PQ, Canada.
+RP Godin, B (corresponding author), INRS, 385 Rue Sherbrooke Est, Montreal, PQ H2X 1E3, Canada.
+EM Benoit.godin@ucs.inrs.ca
+NR 84
+TC 0
+Z9 0
+U1 0
+U2 2
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2016
+VL 26
+IS 3
+BP 440
+EP 456
+DI 10.1080/03906701.2016.1244952
+PG 17
+WC Sociology
+SC Sociology
+GA EG4QV
+UT WOS:000391029700007
+OA Green Accepted
+DA 2021-03-31
+ER
+
+PT J
+AU Andreasson, J
+   Johansson, T
+AF Andreasson, Jesper
+   Johansson, Thomas
+TI Global narratives of fatherhood. Fathering and masculinity on the
+   Internet
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE Fathering blogs; masculinity; gender; netnography; family politics
+ID CULTURE; SUPPORT; GENDER
+AB There is currently an increasing amount of research on online fatherhood. In this article, we have used international blogs as our empirical data, in order to investigate and create an in-depth picture of fatherhood as it is expressed in various men's stories about their everyday lives. Three distinct conceptions of fatherhood and masculinity emerge. The first of these positions could be described as a nostalgic position in relation to hegemonic masculinity. The second position is referred to here as complicity. This position indicates a changing landscape of fatherhood and family politics, moving towards gender-equal conditions. Thirdly, we have an inclusive position that reflects a gender-neutral position, and are understood less in terms of masculinity, heteronormativity and gender-divided responsibilities.
+C1 [Andreasson, Jesper] Linnaeus Univ, Dept Sport Sci, Kalmar, Sweden.
+   [Johansson, Thomas] Univ Gothenburg, Dept Educ Commun & Learning, Gothenburg, Sweden.
+RP Andreasson, J (corresponding author), Linnaeus Univ, Dept Sport Sci, Kalmar, Sweden.
+EM Jesper.andreasson@lnu.se
+RI Johansson, Thomas Roland/N-3915-2014
+OI Johansson, Thomas Roland/0000-0003-2047-4943
+NR 56
+TC 4
+Z9 4
+U1 2
+U2 7
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2016
+VL 26
+IS 3
+BP 482
+EP 496
+DI 10.1080/03906701.2016.1191245
+PG 15
+WC Sociology
+SC Sociology
+GA EG4QV
+UT WOS:000391029700009
+DA 2021-03-31
+ER
+
+PT J
+AU de Leseleuc, E
+   Issanchou, D
+AF de Leseleuc, Eric
+   Issanchou, Damien
+TI Sport and disability: Pistorius does not fit with the categories
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA French
+DT Article
+DE Sociology of sport; disability; discrimination; categorisation; mass
+   media
+AB Oscar Pistorius presents a major issue to sports organisations, as exposed in the media. First and foremost, media wrongly perceive him as the first disabled athlete to participate in the Olympic Games. Second, they openly question the legitimacy of his participation mainly based on the inequity introduced by his prosthetic legs. Content analysis, in English and French, of written press, International Association of Athletics Federations (IAAF) and Court of Arbitration for Sport (CAS) texts, from 2004 to 2012, confirms that Pistorius presents a new puzzle to sports organizations. This is partly because they are not able to determine whether his performances are a result of his body strength or if they are biased by his artificial limbs. Furthermore, when he is competing against able-bodied athletes, sports organizsations put him in a 'monstrous' position. Similarly, while categorising him as an 'athlete' they do not grant him the characteristic feature of this category: certified comparability of performances to ultimately establish ranks.
+C1 [de Leseleuc, Eric] INSHEA, Higher Natl Educ Inst Training & Res Disabil & Sp, Res Dept EA 7287, Montpellier, France.
+   [Issanchou, Damien] Univ Montpellier, Hlth Educ & Disabil Res Grp EA 4616, Montpellier, France.
+RP de Leseleuc, E (corresponding author), INSHEA, Higher Natl Educ Inst Training & Res Disabil & Sp, Res Dept EA 7287, Montpellier, France.
+EM eric.deleseleuc@inshea.fr
+NR 28
+TC 3
+Z9 3
+U1 0
+U2 7
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2016
+VL 26
+IS 3
+BP 513
+EP 528
+DI 10.1080/03906701.2016.1223587
+PG 16
+WC Sociology
+SC Sociology
+GA EG4QV
+UT WOS:000391029700011
+DA 2021-03-31
+ER
+
+PT J
+AU Alexander, AC
+   Apell, R
+AF Alexander, Amy C.
+   Apell, Rebecca
+TI How does civil conflict influence gender equality? A case study of the
+   Egyptian Revolution 2011-2013
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE Conflict; gender equality; women's movements; Egypt
+ID ARMED CONFLICT; WOMEN; ARAB; POLITICS
+AB Analyzing the changes to gender equality in the wake of the 2011 Egyptian Revolution, this manuscript evaluates whether civil conflict creates new openings for women's empowerment. Recently, the literature has considered civil conflict a potentially powerful, transformative force in women's social and political inclusion. Given Egypt's comparatively low performance in gender equality achievements and policies, the 2011 Revolution creates a critical opportunity to evaluate the transformative power of conflict. The analysis shows that the Egyptian revolution was transformative of legislation on behalf of women's physical security; women saw gains emerge in this area of legislation from processes connected to the revolution. Pre and post-test, qualitative and quantitative evidence suggest that the key mechanism through which such transformation occurred was the strengthening of the local women's movement. This is demonstrated through a critical analysis of the various mechanisms of change highlighted in the growing literature on conflict and gender equality. However, the analysis also reveals that the lack of women's formal representation and the seizure of power by Islamic forces contributed to setbacks that inhibited further-reaching change during the transition.
+C1 [Alexander, Amy C.] Univ Gothenburg, Qual Govt Inst, Dept Polit Sci, Box 711, S-40530 Gothenburg, Sweden.
+   [Apell, Rebecca] Univ Gottingen, Dept Law, D-37073 Gottingen, Germany.
+RP Alexander, AC (corresponding author), Univ Gothenburg, Qual Govt Inst, Dept Polit Sci, Box 711, S-40530 Gothenburg, Sweden.
+EM amy.catherine.alexander@gmail.com
+OI Alexander, Amy/0000-0001-7888-4617
+NR 75
+TC 1
+Z9 1
+U1 0
+U2 3
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2016
+VL 26
+IS 3
+BP 529
+EP 545
+DI 10.1080/03906701.2016.1223043
+PG 17
+WC Sociology
+SC Sociology
+GA EG4QV
+UT WOS:000391029700012
+DA 2021-03-31
+ER
+
+PT J
+AU Ennaji, M
+AF Ennaji, Moha
+TI Recruitment of foreign male and female fighters to Jihad: Morocco's
+   multifaceted counter-terror strategy
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE Terrorism; fighters; male; female; Morocco; jihad; counter-terror;
+   strategies; recruitments; social media; violence; youth; unemployment;
+   education
+AB Field research on 'young Moroccan Jihadists in Syria and Iraq from northern Morocco' unexpectedly revealed the mundane factors behind their recruitment represented in the self-realization and the search for heroism, adventure and money, were the main reasons for the recruitment of young people in northern Morocco terrorist organizations, especially the Daesh. The religious factor is secondary. To combat terrorism and extremism which is spreading in the MENA region requires political will. Appropriate laws should be enacted as soon as possible and policies must be implemented to ensure border control, the closure of financing ports, propaganda platforms, anti-addiction, etc.
+C1 [Ennaji, Moha] Univ Fes, Dept English, 28 Rue Haiti,Ave Oran,MontFleuri 1, Fes 30000, Morocco.
+RP Ennaji, M (corresponding author), Univ Fes, Dept English, 28 Rue Haiti,Ave Oran,MontFleuri 1, Fes 30000, Morocco.
+EM mennaji2002@yahoo.fr
+NR 19
+TC 1
+Z9 1
+U1 1
+U2 16
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2016
+VL 26
+IS 3
+BP 546
+EP 557
+DI 10.1080/03906701.2016.1244954
+PG 12
+WC Sociology
+SC Sociology
+GA EG4QV
+UT WOS:000391029700013
+DA 2021-03-31
+ER
+
+PT J
+AU Borzaga, C
+   Fazzi, L
+   Galera, G
+AF Borzaga, Carlo
+   Fazzi, Luca
+   Galera, Giulia
+TI Social enterprise as a bottom-up dynamic: part 1. The reaction of civil
+   society to unmet social needs in Italy, Sweden and Japan
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE Social enterprise; social mobilization; bottom-up dynamic; public
+   policies
+ID ENTREPRENEURSHIP; EUROPE
+AB Over the past decades, social enterprises have been acknowledged as key welfare actors in several EU countries. In spite of the dramatic research devoted to exploring them, several issues concerning the definition, drivers and roles played by policies in sustaining social enterprise growth are still highly contested. Drawing on the papers published in this Monographic section, the introduction to this issue reconstructs the debate that has accompanied the emergence and development of social enterprises with a view to providing evidence of the advantages of collective participation for social enterprise emergence and growth. Next, the introduction pays attention to the factors that have led to the emergence and success of social enterprises as a form of self-organization of civil society; and briefly describes the papers included in this issue.
+C1 [Borzaga, Carlo; Fazzi, Luca] Univ Trento, Dept Sociol & Social Res, Trento, Italy.
+   [Galera, Giulia] European Res Inst Cooperat & Social Enterprises, Trento, Italy.
+RP Galera, G (corresponding author), European Res Inst Cooperat & Social Enterprises, Trento, Italy.
+EM giulia.galera@euricse.eu
+NR 53
+TC 9
+Z9 9
+U1 0
+U2 17
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2016
+VL 26
+IS 1
+BP 1
+EP 18
+DI 10.1080/03906701.2016.1148332
+PG 18
+WC Sociology
+SC Sociology
+GA DV6OC
+UT WOS:000383055300001
+DA 2021-03-31
+ER
+
+PT J
+AU Antoni, GD
+AF Antoni, Giacomo Degli
+TI The emergence of social enterprises through the initiative of
+   self-organized citizens: an analysis starting from Olson's approach to
+   the logic of collective action
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE Social enterprise; Olson; Putnam; pro-social attitudes
+ID VOLUNTARY-ASSOCIATIONS
+AB This article provides indirect empirical evidence with which to verify whether the logic of collective action maintained by Olson represents a sound theoretical approach to social enterprises. Our hypothesis is that, if a positive effect of participation in social enterprises on pro-social attitudes of members exists, when considering these organizations we should move from the approach proposed by Olson to the one proposed by Putnam, in the Tocqueville tradition. Overall, the existing empirical and experimental evidence seems to suggest that Putnam's approach to voluntary organizations is better able than Olson's to capture the organizational behavior of social enterprises, confirming that initiatives by self-organized citizens should be considered a possible convincing explanation for their emergence.
+C1 [Antoni, Giacomo Degli] Univ Parma, Dept Law, Parma, Italy.
+   [Antoni, Giacomo Degli] Interuniv Ctr Econ Eth & Corp Social Responsibili, EconomEt, Milan, Italy.
+RP Antoni, GD (corresponding author), Univ Parma, Dept Law, Parma, Italy.; Antoni, GD (corresponding author), Interuniv Ctr Econ Eth & Corp Social Responsibili, EconomEt, Milan, Italy.
+EM giacomo.degliantoni@unipr.it
+NR 31
+TC 2
+Z9 2
+U1 0
+U2 6
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2016
+VL 26
+IS 1
+BP 19
+EP 30
+DI 10.1080/03906701.2016.1148335
+PG 12
+WC Sociology
+SC Sociology
+GA DV6OC
+UT WOS:000383055300002
+DA 2021-03-31
+ER
+
+PT J
+AU Borzaga, C
+   Galera, G
+AF Borzaga, Carlo
+   Galera, Giulia
+TI Innovating the provision of welfare services through collective action:
+   the case of Italian social cooperatives
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE Collective action; bottom-up mobilization; social enterprise; public
+   procurement
+ID SECTOR
+AB Social cooperatives are the most widespread social enterprise type in Italy. Their evolution has stimulated the development of diverse interpretative frameworks of social enterprise determinants: the mainstream one is that social cooperatives are the outcome of contracting out policies. Through a critical investigation of social cooperatives' emergence, integration into public policies, and reaction to the financial crisis, the authors refocus attention to one of the key modes of creation of social enterprises that has not gained the attention it deserves: the bottom-up dynamic. The analysis carried out sheds light on the contribution of citizens' mobilization to institutional change and confirms that social enterprises can also emerge in an unprepared and hostile ideological, economic and political context.
+C1 [Borzaga, Carlo] Univ Trento, Dept Sociol & Social Res, Trento, Italy.
+   [Borzaga, Carlo] Euricse European Res Inst Cooperat & Social Enter, Trento, Italy.
+   [Galera, Giulia] Euricse, Trento, Italy.
+RP Galera, G (corresponding author), Euricse, Trento, Italy.
+EM giulia.galera@euricse.eu
+NR 32
+TC 6
+Z9 6
+U1 0
+U2 4
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2016
+VL 26
+IS 1
+BP 31
+EP 47
+DI 10.1080/03906701.2016.1148336
+PG 17
+WC Sociology
+SC Sociology
+GA DV6OC
+UT WOS:000383055300003
+DA 2021-03-31
+ER
+
+PT J
+AU Kurimoto, A
+   Kumakura, Y
+AF Kurimoto, Akira
+   Kumakura, Yurie
+TI Emergence and evolution of co-operatives for elderly care in Japan
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE Elderly care; long-term care insurance; consumer co-ops; health co-ops;
+   workers coops; elderly person's co-ops
+AB To cope with the unprecedented speed of aging, Japan launched the quasi-market reforms in social welfare policy and the long-term care insurance system introduced competition amongst various kinds of service providers in 2000. Co-operatives have been actively involved in service provision for elderly care combining their business dimension with associational one. There existed distinct patterns of emergence and evolution of cooperative elderly care from grass roots. Consumer co-ops started to train consumer members as care-givers and entered the care business while health co-ops made a substantial investment to build facilities and manpower for elderly care as a natural extension. Workers co-operatives were organized to provide elderly care to the increasing number of care receivers.
+C1 [Kurimoto, Akira] Hosei Univ, Inst Solidarity Based Soc, Tokyo, Japan.
+   [Kumakura, Yurie] Meiji Univ, Sch Commerce, Tokyo, Japan.
+RP Kurimoto, A (corresponding author), Hosei Univ, Inst Solidarity Based Soc, Tokyo, Japan.
+EM akurimotojp@gmail.com
+NR 11
+TC 3
+Z9 3
+U1 0
+U2 11
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2016
+VL 26
+IS 1
+BP 48
+EP 68
+DI 10.1080/03906701.2016.1148341
+PG 21
+WC Sociology
+SC Sociology
+GA DV6OC
+UT WOS:000383055300004
+DA 2021-03-31
+ER
+
+PT J
+AU Vamstad, J
+AF Vamstad, Johan
+TI Bottom-up childcare in a top-down welfare state: explaining cooperative
+   organization among Swedish parents
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE Childcare; cooperative; welfare state; Sweden; parents
+ID SWEDEN
+AB Almost all children in Sweden spend at least some part of their early childhood in organized childcare, primarily in the form of preschools. About 10% of all preschools in Sweden are parent cooperatives, which make the childcare area an anomaly in the Swedish welfare state; no other service area has such a significant proportion of cooperative service providers. The parent cooperatives are initiated by the parents themselves, they are social enterprises created from the bottom-up. Why do parents decide to start a parent cooperative preschool in a welfare state where childcare is considered a social right and a responsibility for the state? This article will explore several different motives for starting parent cooperatives in Sweden, with special attention to the role of the public sector and political decisions. The findings are based on an extensive empiric study performed between the years 2003 and 2007.
+C1 [Vamstad, Johan] Ersta Skondal Univ Coll, Dept Social Sci, Stockholm, Sweden.
+RP Vamstad, J (corresponding author), Ersta Skondal Univ Coll, Dept Social Sci, Stockholm, Sweden.
+EM johan.vamstad@esh.se
+NR 32
+TC 1
+Z9 1
+U1 0
+U2 16
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2016
+VL 26
+IS 1
+BP 69
+EP 81
+DI 10.1080/03906701.2016.1148345
+PG 13
+WC Sociology
+SC Sociology
+GA DV6OC
+UT WOS:000383055300005
+DA 2021-03-31
+ER
+
+PT J
+AU Meler, T
+AF Meler, Tal
+TI Palestinian-Israeli single mothers accord motherhood a new meaning 'I
+   would like to teach my children a new way of life. I'm responsible for
+   them now'
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE Palestinian-Israeli women; motherhood; single mothers; class; divorce
+ID AGENCY; WOMEN
+AB Over the last three decades, Palestinian society in Israel has undergone numerous changes, reflected in the rising numbers of families headed by single mothers. This article is based on a study conducted between 2007 and 2011 among 24 divorced, separated, and widowed Palestinian single mothers in Israel. I analyze this emerging family configuration, focusing on these women's experiences as mothers and on how they accord new meaning to motherhood. My analysis will deal with the diverse ways these women 'do motherhood' and negotiate with different familial players. It will extend beyond the discourse on motherhood to shed light on the current changes in power and gender relations taking place in Palestinian-Israeli society.
+C1 [Meler, Tal] Zefat Acad Coll, Behav Sci, Safed, Israel.
+RP Meler, T (corresponding author), Zefat Acad Coll, Behav Sci, Safed, Israel.
+EM talmeler12@gmail.com
+NR 71
+TC 0
+Z9 0
+U1 0
+U2 3
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2016
+VL 26
+IS 1
+BP 82
+EP 104
+DI 10.1080/03906701.2015.1065563
+PG 23
+WC Sociology
+SC Sociology
+GA DV6OC
+UT WOS:000383055300006
+DA 2021-03-31
+ER
+
+PT J
+AU Wang, ZX
+   You, Y
+AF Wang, Zhengxu
+   You, Yu
+TI The arrival of critical citizens: decline of political trust and
+   shifting public priorities in China
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE political trust; critical citizens; modernization; value change; China
+ID LEGITIMACY; GOVERNMENT; SOCIETIES; CULTURE; QUALITY; ORIGINS; VALUES
+AB Political trust has been in decline in China. In this article, we capture this decline as reflecting the modernization of Chinese political culture. While the government managed to deliver a sustained period of rapid economic growth, the public's trust in it is diminishing through two mechanisms. On the one hand, Chinese citizens are acquiring stronger liberal democratic values, which make citizens more critical toward government institutions. On the other hand, changing political culture is also shown in the citizens' shifting of their priorities toward the expansion of freedom and empowerment of citizens. Decades of socioeconomic modernization, therefore, meant that the era of critical citizens has arrived in China.
+C1 [Wang, Zhengxu] Univ Nottingham, Sch Contemporary Chinese Studies, Nottingham, England.
+   [You, Yu] Xiamen Univ, Sch Publ Affairs, Xiamen, Peoples R China.
+RP Wang, ZX (corresponding author), Univ Nottingham, Sch Contemporary Chinese Studies, Nottingham, England.
+EM Zhengxu.wang@nottingham.ac.uk
+NR 69
+TC 25
+Z9 25
+U1 1
+U2 23
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2016
+VL 26
+IS 1
+BP 105
+EP 124
+DI 10.1080/03906701.2015.1103054
+PG 20
+WC Sociology
+SC Sociology
+GA DV6OC
+UT WOS:000383055300007
+DA 2021-03-31
+ER
+
+PT J
+AU Coradini, OL
+AF Coradini, Odaci Luiz
+TI A longitudinal perspective on the differentiated valuation of formal
+   education in Brazil in recent decades
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE education and social inequality; social status and educational returns;
+   occupations; earnings and education; education and social legitimacy;
+   education and generations
+ID RETURNS
+AB The central theme of this article is the relationship between formal education and earnings from a longitudinal perspective, taking into account indicators of social status. Variations in the respective trajectories, in different age cohorts, and in the comparison among different periods are discussed. The empirical material used is based on the microdata files of official statistics. The main techniques put into practice are those that are most focused on measuring the degree of interdependence among variables and those used for means comparison. Our general hypothesis is that the effects of schooling cannot be grasped in terms of education itself but instead in terms of its relationship to status in the social and power structures. One of this paper's principal observations is that of the general declining trend in the economic value of formal education, which varies depending on the level of education and social status. This devaluation is systematic and spans the entire studied universe; however, it focuses much more closely on those of lower social status, particularly for the groups with schooling that is either higher or lower than average.
+C1 [Coradini, Odaci Luiz] Univ Fed Rio Grande do Sul, Social Sci, Porto Alegre, RS, Brazil.
+RP Coradini, OL (corresponding author), Univ Fed Rio Grande do Sul, Social Sci, Porto Alegre, RS, Brazil.
+EM coradini@ufrgs.br
+NR 8
+TC 1
+Z9 1
+U1 0
+U2 2
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2016
+VL 26
+IS 1
+BP 125
+EP 143
+DI 10.1080/03906701.2016.1112539
+PG 19
+WC Sociology
+SC Sociology
+GA DV6OC
+UT WOS:000383055300008
+DA 2021-03-31
+ER
+
+PT J
+AU Lee, M
+   Lam, BOY
+AF Lee, Moosung
+   Lam, Beatrice Oi-Yeung
+TI The academic achievement of socioeconomically disadvantaged immigrant
+   adolescents: a social capital perspective
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE immigrant adolescents; the socioeconomically disadvantaged; academic
+   achievement; social capital; peer relationships
+ID HIGH-SCHOOL; NETWORK ANALYSIS; AMERICAN; STUDENTS; PERFORMANCE;
+   ENGAGEMENT; EDUCATION; CHILDREN
+AB A sizable body of literature reports that social capital, derived from relational resources embedded in micro social contexts, is crucial for student achievement. This study aimed to examine whether this applies as well to socioeconomically disadvantaged immigrant adolescents in the US. In so doing, the study first identified the types of relational features that were strongly associated with immigrant adolescents' academic achievement, before exploring how high-and low-achieving immigrant adolescents coming from similarly socioeconomically disadvantaged backgrounds differed in terms of these relational features. To this end, the study used the dataset of the Children of Immigrants Longitudinal Study (CILS). There was a significantly positive association found between academic achievement and a number of positive characteristics of social relationships with friends and teachers. In addition, a significant disparity in these relational features was found between high and low achievers among the socioeconomically disadvantaged. The findings illuminate the salience of peer contexts and of interpersonal trust in shaping immigrant adolescents' educational outcomes in a way that transcends socioeconomic boundaries. It is pertinent for educators and policy-makers to empower immigrant youth as independent agents capable of generating academically relevant social capital on their own outside their families and ethnic communities.
+C1 [Lee, Moosung] Univ Canberra, Fac Educ Sci Technol & Math, Canberra, ACT 2617, Australia.
+   Univ Hong Kong, Dept Sociol, Pokfulam, Hong Kong, Peoples R China.
+RP Lee, M (corresponding author), Univ Canberra, Fac Educ Sci Technol & Math, Canberra, ACT 2617, Australia.
+EM MooSung.Lee@canberra.edu.au
+OI Lee, Moosung/0000-0003-4206-9893
+NR 69
+TC 5
+Z9 5
+U1 1
+U2 19
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2016
+VL 26
+IS 1
+BP 144
+EP 173
+DI 10.1080/03906701.2016.1112528
+PG 30
+WC Sociology
+SC Sociology
+GA DV6OC
+UT WOS:000383055300009
+DA 2021-03-31
+ER
+
+PT J
+AU Hazenberg, R
+   Bajwa-Patel, M
+   Roy, MJ
+   Mazzei, M
+   Baglioni, S
+AF Hazenberg, Richard
+   Bajwa-Patel, Meanu
+   Roy, Michael J.
+   Mazzei, Micaela
+   Baglioni, Simone
+TI A comparative overview of social enterprise 'ecosystems' in Scotland and
+   England: an evolutionary perspective
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE Social enterprise; ecosystems; social policy; political devolution
+ID CONCEPTUAL-FRAMEWORK
+AB Social enterprise has been identified as a culturally and socially constructed phenomenon; over recent years there has been increasing focus on how social enterprise 'ecosystems' differ across countries. There has been less focus on the differences in social enterprise ecosystems within countries, where regional differences in the cultural, political and social environment can lead to variations in the environment for support. Recent devolution within the United Kingdom has led to all four countries developing fairly diverse political and policy environments. This paper explores these differences through the lens of evolutionary theory which posits that within an ecosystem all organisms are a product of the evolution of that ecosystem and that socio-political and regulatory differences can lead to the rapid divergence of social enterprise ecosystems.
+C1 [Hazenberg, Richard; Bajwa-Patel, Meanu] Univ Northampton, Inst Social Innovat & Impact, Northampton, England.
+   [Roy, Michael J.; Mazzei, Micaela; Baglioni, Simone] Glasgow Caledonian Univ, Glasgow Sch Business & Soc, Yunus Ctr Social Business & Hlth, Glasgow, Lanark, Scotland.
+RP Hazenberg, R (corresponding author), Univ Northampton, Inst Social Innovat & Impact, Northampton, England.
+EM Richard.hazenberg@northampton.ac.uk
+RI Roy, Michael J./H-5749-2019
+OI Roy, Michael J./0000-0002-1834-0826; Mazzei,
+   Micaela/0000-0001-8442-4959; Bajwa-Patel, Manpreet/0000-0002-3490-875X;
+   Hazenberg, Richard/0000-0002-2178-9157
+NR 54
+TC 14
+Z9 14
+U1 1
+U2 15
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2016
+VL 26
+IS 2
+BP 205
+EP 222
+DI 10.1080/03906701.2016.1181395
+PG 18
+WC Sociology
+SC Sociology
+GA DV6OI
+UT WOS:000383055900002
+OA Green Accepted
+DA 2021-03-31
+ER
+
+PT J
+AU O'Shaughnessy, M
+   O'Hara, P
+AF O'Shaughnessy, Mary
+   O'Hara, Patricia
+TI Towards an explanation of Irish rural-based social enterprises
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE Rural development; social enterprise; community development
+AB In Ireland social enterprises are seen primarily as non-profit organisations driven by social objectives. This article presents qualitative data gathered through a series of in depth interviews with representatives from five rural-based Irish social enterprises. The objectives of the article are to provide short descriptions of these social enterprises, to assess the critical success factors and barriers facing them, to discuss their potential for replication in other rural areas and some of the lessons to be learned from these initiatives.
+C1 [O'Shaughnessy, Mary] Univ Coll Cork, Dept Food Business & Dev, Room 2-80,Level 2,Rahilly Bldg,Western Rd, Cork, Ireland.
+   [O'Hara, Patricia] Natl Univ Ireland, Natl Inst Reg & Spatial Anal, Maynooth, Kildare, Ireland.
+RP O'Shaughnessy, M (corresponding author), Univ Coll Cork, Dept Food Business & Dev, Room 2-80,Level 2,Rahilly Bldg,Western Rd, Cork, Ireland.
+EM Mary.oshaughnessy@ucc.ie
+OI O'Shaughnessy, Mary/0000-0001-6875-0359
+NR 6
+TC 6
+Z9 6
+U1 0
+U2 6
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2016
+VL 26
+IS 2
+BP 223
+EP 233
+DI 10.1080/03906701.2016.1181389
+PG 11
+WC Sociology
+SC Sociology
+GA DV6OI
+UT WOS:000383055900003
+DA 2021-03-31
+ER
+
+PT J
+AU Petrella, F
+   Richez-Battesti, N
+AF Petrella, Francesca
+   Richez-Battesti, Nadine
+TI Patterns of evolutions of social enterprises in France: a focus on work
+   integration social enterprises
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE Social enterprise; work integration social enterprise (WISE); social and
+   solidarity economy
+AB The objective of this paper is to characterize the patterns of emergence and evolution of social enterprise in France with a focus on work integration social enterprises (WISEs). After a review of the history of social and solidarity economy practices, identifying the processes that brought these practices to develop, we discuss the boundaries of the notion of social enterprise in the French case. We then briefly present the historical evolution of work integration. On that basis, two models of social enterprise applied to the case of work integration are extracted, crystallizing crucial tendencies. The limits and prospects of social enterprise in the field of work integration in France are discussed in the conclusion.
+C1 [Petrella, Francesca; Richez-Battesti, Nadine] Aix Marseille Univ, CNRS, LEST, Aix En Provence, France.
+RP Petrella, F (corresponding author), Aix Marseille Univ, CNRS, LEST, Aix En Provence, France.
+EM francesca.petrella@univ-amu.fr
+FU European CommunityEuropean Commission [613034]
+FX This article has been realized in the frame of the ICSEM project
+   (International Comparative Social Enterprise Models) coordinated by
+   Marthe Nyssens and Jacques Defourny (Belgium). The research leading to
+   these results has received funding from the European Community's Seventh
+   Framework Programme ([FP7/2007-2013]) under grant agreement no 613034.
+NR 23
+TC 4
+Z9 4
+U1 0
+U2 11
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2016
+VL 26
+IS 2
+BP 234
+EP 246
+DI 10.1080/03906701.2016.1181390
+PG 13
+WC Sociology
+SC Sociology
+GA DV6OI
+UT WOS:000383055900004
+DA 2021-03-31
+ER
+
+PT J
+AU Lambru, M
+   Petrescu, C
+AF Lambru, Mihaela
+   Petrescu, Claudia
+TI Bottom-up social enterprises in Romania. Case study - Retirees' Mutual
+   Aid Association
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE Mutual aid associations; mutualism; third sector; social economy;
+   bottom-up social enterprise
+AB The purpose of this article is to present and analyze the organizational profile and distinctive development pattern of a successful bottom-up social enterprise in Romania, namely, the Retirees' Mutual Aid Association (RMAA). Romania has recently rediscovered the world of social economy which brings together various organizations, from associations and foundations to cooperatives and commons, sharing a common interest in developing entrepreneurial activities to support social goals. In an ideological and public policy context which holds back the opening of the public market to the third sector and social economy actors, setting and running up such organizations remains a challenge. On the other hand, the isomorphic pressure exerted by the EU has resulted in a type of legislation targeted at social enterprises which focuses almost exclusively on work integration social enterprises. Nonetheless, Romania also features social enterprises that are not externally driven but developed bottom-up, starting from the needs of their members and of the communities in which they are established and developed. Using the data of extensive research conducted on social economy entities in Romania, we will present an organizational case study of a successful bottom-up social enterprise, namely RMAA.
+C1 [Lambru, Mihaela] Univ Bucharest, Fac Sociol & Social Work, Bucharest, Romania.
+   [Petrescu, Claudia] Romanian Acad, Res Inst Qual Life, Bucharest, Romania.
+RP Lambru, M (corresponding author), Univ Bucharest, Fac Sociol & Social Work, Bucharest, Romania.
+EM mihaela.lambru@sas.unibuc.ro
+RI Petrescu, Claudia/C-4810-2012
+OI Petrescu, Claudia/0000-0002-2528-675X
+NR 51
+TC 5
+Z9 5
+U1 0
+U2 8
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2016
+VL 26
+IS 2
+BP 247
+EP 261
+DI 10.1080/03906701.2016.1181388
+PG 15
+WC Sociology
+SC Sociology
+GA DV6OI
+UT WOS:000383055900005
+DA 2021-03-31
+ER
+
+PT J
+AU Azarian, R
+AF Azarian, Reza
+TI Uncertainty as a common ground for a dialogue between economics and
+   sociology
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE Economic sociology; embeddedness; contextual analysis; inter-firm
+   relations; organization theory; transaction costs; trust; uncertainty
+ID ITALIAN INDUSTRIAL DISTRICTS; VERTICAL INTEGRATION; SOCIAL-STRUCTURE;
+   NETWORKS; MARKET; EMBEDDEDNESS; PERFORMANCE; GOVERNANCE; DEPENDENCE;
+   KNOWLEDGE
+AB The article focuses on inter-firm relations, primarily seen as protective devises crafted for keeping at an arm's length various kinds of uncertainties involved in boundary transactions. Taking a holistic view, it proposes the notion of relational habitat, which refers to the relatively durable constellation of relations that connect a given firm to its main business partners. Performing a double-edged protective function, this constellation both stabilizes and simplifies the immediate operational domain of the firm and, thereby, diminishes to manageable levels the complexity of the relevant parts of the environment. By expanding the control of the firm beyond its organizational borders, relational habitat reduces the constraining impact of boundary uncertainty and enhances the action capacity of the firm - facilitating the materialization of its chosen line of action and its desired objectives. The article specifies this notion in detail and highlights some of its implications, both for the theoretical development of economic sociology and for its relation to economics.
+C1 [Azarian, Reza] Umea Univ, Dept Sociol, Umea, Sweden.
+RP Azarian, R (corresponding author), Umea Univ, Dept Sociol, Umea, Sweden.
+EM reza.azarian@soc.umu.se
+NR 116
+TC 1
+Z9 1
+U1 0
+U2 9
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2016
+VL 26
+IS 2
+BP 262
+EP 275
+DI 10.1080/03906701.2016.1155353
+PG 14
+WC Sociology
+SC Sociology
+GA DV6OI
+UT WOS:000383055900006
+DA 2021-03-31
+ER
+
+PT J
+AU Anzera, G
+   Belotti, F
+   Bousselmi, L
+   Rabi, A
+AF Anzera, Giuseppe
+   Belotti, Francesca
+   Bousselmi, Latifa
+   Rabi, Ayman
+TI The hydropolitical challenges of domestic water conservation. Palestine
+   and Tunisia case studies
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE Water management; sustainability; hydropolitics; Mediterranean sea; MENA
+   region; water conservation
+ID CLIMATE-CHANGE
+AB Southern Mediterranean area, particularly the Middle East and North Africa (MENA), has been facing social, economic, environmental and political challenges related to the water scarcity and quality. Within the European SWMED project, a socio-economic survey was conducted in Palestine and Tunisia, in order to explore the water conditions, and the social and economic situations of local families. The article illustrates the research design and implementation, as well as the main results that were used to select the appropriate sustainable water management solutions to respond to the hydropolitical issues. Due to the huge use of water in agriculture and the difficulty of reducing the water consumption in this sector, fostering tools for domestic water saving may be a winning strategy for facing water scarcity in MENA region.
+C1 [Anzera, Giuseppe; Belotti, Francesca] Univ Roma La Sapienza, Dept Commun & Social Res CoRiS, Rome, Italy.
+   [Bousselmi, Latifa] Ctr Water Res & Technol CERTE, Technopole Borj Cedria, Soliman, Tunisia.
+   [Rabi, Ayman] PHG, Ramallah, Palestine.
+RP Anzera, G (corresponding author), Univ Roma La Sapienza, Dept Commun & Social Res CoRiS, Rome, Italy.
+EM giuseppe.anzera@uniroma1.it
+RI Bousselmi, Latifa/AAT-1492-2020; Belotti, Francesca/AAE-7034-2021
+OI Bousselmi, Latifa/0000-0002-0699-4806; Belotti,
+   Francesca/0000-0002-7335-2686
+FU European UnionEuropean Commission
+FX The research for this paper was financially supported by the European
+   Union funding the Sustainable Water Management in the Mediterranean
+   (SWMED) Project. This project was submitted with the first call of the
+   ENPI CBCMED (2007-2013). It relies on an international partnership:
+   Italy (Lazio Region-Lead Partner; IRIDRA; SVI. MED), Malta (MRA; MGoZ),
+   Palestine (PHG; PWA) and Tunisia (CERTE).
+NR 46
+TC 0
+Z9 0
+U1 0
+U2 2
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2016
+VL 26
+IS 2
+BP 276
+EP 294
+DI 10.1080/03906701.2016.1155348
+PG 19
+WC Sociology
+SC Sociology
+GA DV6OI
+UT WOS:000383055900007
+DA 2021-03-31
+ER
+
+PT J
+AU Guizzardi, L
+AF Guizzardi, Luca
+TI 'Me too, then, I'll be grand-mother'. The construction of the parent in
+   homosexual families
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA French
+DT Article
+DE homosexual parents; lesbian mothers; gift; kinship; recognition
+ID SAME-SEX COUPLES; LESBIAN FAMILY; DECISION-MAKING; DONOR; GAY; MARRIAGE;
+   GENDER; WELL
+AB Using the gift as epistemological category, the article explores the social processes of kinship formation in homosexual families. Analysing the stories of lesbian families, the article tries to explain the reason why the mothers want to have kinship networks and kinship bonds. Through kinship connections, all the members are and want to be (or don't want to be) publicly recognised as reciprocal parents of the new-born.
+C1 [Guizzardi, Luca] Univ Bologna, Dept Life Qual Studies, Bologna, Italy.
+RP Guizzardi, L (corresponding author), Univ Bologna, Dept Life Qual Studies, Bologna, Italy.
+EM luca.guizzardi@unibo.it
+NR 83
+TC 1
+Z9 1
+U1 0
+U2 4
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2016
+VL 26
+IS 2
+BP 295
+EP 321
+DI 10.1080/03906701.2016.1155356
+PG 27
+WC Sociology
+SC Sociology
+GA DV6OI
+UT WOS:000383055900008
+DA 2021-03-31
+ER
+
+PT J
+AU Acharya, AK
+AF Acharya, Arun Kumar
+TI Trafficking of women for sexual exploitation in Mexico and their
+   identity crisis
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE Women trafficking; sex industry; sexual exploitation; identity crisis
+   and Mexico
+AB The main objective of this paper is to explore how sexual violence and exploitation cause identity crisis among victims of sex-trafficking in Mexico. Trafficking is a widespread phenomenon, where girls and women are forced or coerced into sexual exploitation. Victims of trafficking acquire not only adverse physical health; also there is a higher impact on emotional and psychological health and leads women to an 'identity crisis'. Once they're brought into brothel, their body is controlled by pimps, and seen as a source of income through prostitution. As Bauman said; commodification and consumption of female bodies is indeed useful to explain an individual's fragile identity. Moreover, my own scholarly interest in women trafficking has led me to turn towards defining the identity crisis among these victims as it is directly related to sexual exploitation. For this study, a total of 60 women were interviewed during 2007-2013 using a snowball method.
+C1 [Acharya, Arun Kumar] Univ Autonoma Nuevo Leon, Inst Invest Sociales, Monterrey, Mexico.
+RP Acharya, AK (corresponding author), Univ Autonoma Nuevo Leon, Inst Invest Sociales, Monterrey, Mexico.
+EM arun.kumara@uanl.mx
+RI Acharya, Arun/AAY-1516-2020
+OI Acharya, Arun/0000-0002-2696-3038
+FU National Council of Science and Technology (CONACYT), MexicoConsejo
+   Nacional de Ciencia y Tecnologia (CONACyT) [CB-2013/223023]
+FX This study was supported by the National Council of Science and
+   Technology (CONACYT), Mexico, [CB-2013/223023].
+NR 55
+TC 1
+Z9 1
+U1 0
+U2 4
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2016
+VL 26
+IS 2
+BP 322
+EP 336
+DI 10.1080/03906701.2016.1155357
+PG 15
+WC Sociology
+SC Sociology
+GA DV6OI
+UT WOS:000383055900009
+DA 2021-03-31
+ER
+
+PT J
+AU Fleury, C
+AF Fleury, Cynthia
+TI Sociology of the transparency of public life: games of players and
+   traffic regulation. Case Analysis: Regards Citizens
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA French
+DT Article
+C1 [Fleury, Cynthia] Museum Natl Hist Nat, Lab Conservat Especes Restaurat & Suivi Populat, Dept Polit Philosophy, UMR7204,CNRS,MNHN,UPMC, CP51, Paris, France.
+   [Fleury, Cynthia] Amer Univ Paris, Dept Polit Philosophy, Paris, France.
+RP Fleury, C (corresponding author), Museum Natl Hist Nat, Lab Conservat Especes Restaurat & Suivi Populat, Dept Polit Philosophy, UMR7204,CNRS,MNHN,UPMC, CP51, Paris, France.; Fleury, C (corresponding author), Amer Univ Paris, Dept Polit Philosophy, Paris, France.
+EM cynthiafleuryperkins@gmail.com
+NR 19
+TC 0
+Z9 0
+U1 0
+U2 2
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2016
+VL 26
+IS 2
+BP 337
+EP 350
+DI 10.1080/03906701.2016.1181397
+PG 14
+WC Sociology
+SC Sociology
+GA DV6OI
+UT WOS:000383055900010
+DA 2021-03-31
+ER
+
+PT J
+AU Soliman, A
+AF Soliman, Asmaa
+TI European Muslims' engagement in the public sphere soft counterpublics
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE Islam in Europe; German Muslim youths; public sphere; counterpublics;
+   identity; arts
+AB This article addresses European Muslims' public engagement in the arts by applying the concept of counterpublics. It examines two case studies of young German Muslims whose involvement in the public sphere can be described as soft counterpublics. The term soft counterpublics denotes publics that show some characteristics of counterpublics, but are at the same time not only about 'countering'. They can be seen as 'in between' cases, neither strong counterpublics nor completely beyond counterpublics. Their art reflects a diversity of interests that are translated into public expressions and related back to their multiple identities. Motivations and themes are multi-layered. Occasionally, topics address stereotypes and negative identity representations of Muslims, which reflect important characteristics of counterpublics. However, themes can deal with a broad range of matters that go beyond this particular issue and that can be seen in isolation of counterpublics. On the one hand, there is a natural interest in the arts as a tool to express oneself, which is not a typical case of counterpublics. On the other hand, there is also the intention to speak to people through the arts. As well as wanting to reach the Muslim youth community in Germany, who can identify with their art, the case studies are also concerned about the non-Muslim German community and its perception of Muslim identity in Germany.
+C1 [Soliman, Asmaa] UCL, Ctr Multidisciplinary & Intercultural Inquiry, London WC1E 6BT, England.
+RP Soliman, A (corresponding author), UCL, Ctr Multidisciplinary & Intercultural Inquiry, London WC1E 6BT, England.
+EM asmaa.soliman.11@ucl.ac.uk
+FU Economic and Social Research CouncilEconomic & Social Research Council
+   (ESRC) [ES/K000322/1] Funding Source: researchfish
+NR 62
+TC 0
+Z9 0
+U1 0
+U2 2
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2016
+VL 26
+IS 1
+BP 174
+EP 200
+DI 10.1080/03906701.2016.1148351
+PG 27
+WC Sociology
+SC Sociology
+GA DV6OC
+UT WOS:000383055300010
+DA 2021-03-31
+ER
+
+PT J
+AU Borzaga, C
+   Fazzi, L
+   Galera, G
+AF Borzaga, Carlo
+   Fazzi, Luca
+   Galera, Giulia
+TI Social enterprise as a bottom-up dynamic. Part 2: the reaction of civil
+   society to unmet social needs in England, Scotland, Ireland, France and
+   Romania INTRODUCTION
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Editorial Material
+C1 [Borzaga, Carlo; Fazzi, Luca] Univ Trento, Dept Sociol & Social Res, Trento, Italy.
+   [Galera, Giulia] European Res Inst Cooperat & Social Enterprises, Euricse, Trento, Italy.
+RP Galera, G (corresponding author), European Res Inst Cooperat & Social Enterprises, Euricse, Trento, Italy.
+EM giulia.galera@euricse.eu
+NR 8
+TC 1
+Z9 1
+U1 0
+U2 4
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2016
+VL 26
+IS 2
+BP 201
+EP 204
+DI 10.1080/03906701.2016.1181387
+PG 4
+WC Sociology
+SC Sociology
+GA DV6OI
+UT WOS:000383055900001
+OA Bronze
+DA 2021-03-31
+ER
+
+PT J
+AU Antonelli, F
+AF Antonelli, Francesco
+TI Politics of numbers: sociological perspectives on official statistics
+   INTRODUCTION
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Editorial Material
+C1 [Antonelli, Francesco] Univ Roma Tre, Dipartimento Sci Polit, Rome, Italy.
+RP Antonelli, F (corresponding author), Univ Roma Tre, Dipartimento Sci Polit, Rome, Italy.
+EM Antonelli.francesco77@gmail.com
+NR 7
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2016
+VL 26
+IS 3
+BP 351
+EP 353
+DI 10.1080/03906701.2016.1244922
+PG 3
+WC Sociology
+SC Sociology
+GA EG4QV
+UT WOS:000391029700001
+OA Bronze
+DA 2021-03-31
+ER
+
+PT J
+AU Gallie, D
+   Gebel, M
+   Giesecke, J
+   Hallden, K
+   Van der Meere, P
+   Wielers, R
+AF Gallie, Duncan
+   Gebel, Michael
+   Giesecke, Johannes
+   Hallden, Karin
+   Van der Meere, Peter
+   Wielers, Rudi
+TI Quality of work and job satisfaction: comparing female part-time work in
+   four European countries
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE Part-time work; job quality; job satisfaction; country comparisons;
+   Europe
+ID EMPLOYMENT; BRITAIN; GENDER; SEGREGATION; HAPPINESS; GERMANY; IMPACT
+AB Adding to the debate on the integrative or marginalizing nature of female part-time work, this article provides a comparative analysis of the implications of female part-time work for different intrinsic job quality dimensions and job satisfaction. Drawing on national micro-data from Britain, Germany, the Netherlands, and Sweden, our multivariate analyses show cross-national similarities in terms of lower job learning opportunities for female part-timers. We found a significantly higher incidence of repetitiveness only among Swedish female part-timers and lower degrees of task discretion among British, Dutch, and Swedish women working part-time hours. Female part-timers were either equally satisfied with their work as female full-timers or even more satisfied. This held true also after accounting for the lower intrinsic job quality of part-time work. While women working part-time hours were as affected by their job quality characteristics as were full-timers, we conclude that the shorter hours of work per se provide an important additional source of job satisfaction.
+C1 [Gallie, Duncan] Univ Oxford, Nuffield Coll, Oxford, England.
+   [Gebel, Michael] Univ Bamberg, Dept Sociol, Bamberg, Germany.
+   [Giesecke, Johannes] Humboldt Univ, Inst Social Sci, Berlin, Germany.
+   [Hallden, Karin] Stockholm Univ, SOFI, Swedish Inst Social Res, Stockholm, Sweden.
+   [Van der Meere, Peter] Univ Groningen, HRM & OB, Fac Econ & Business, Groningen, Netherlands.
+   [Wielers, Rudi] Univ Groningen, Dept Sociol, Groningen, Netherlands.
+RP Hallden, K (corresponding author), Stockholm Univ, SOFI, Swedish Inst Social Res, Stockholm, Sweden.
+EM karin.hallden@sofi.su.se
+RI Gebel, Michael/L-1148-2015; Gallie, Duncan/V-2470-2019
+OI Gebel, Michael/0000-0002-8557-7508; 
+FU EQUALSOC Network of Excellence - European Union; Economic and Social
+   Research CouncilEconomic & Social Research Council (ESRC) [ES/I03792X/1]
+   Funding Source: researchfish
+FX This work was supported by the EQUALSOC Network of Excellence funded by
+   the European Union's Sixth Framework Programme.
+NR 52
+TC 7
+Z9 7
+U1 1
+U2 18
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2016
+VL 26
+IS 3
+BP 457
+EP 481
+DI 10.1080/03906701.2016.1181839
+PG 25
+WC Sociology
+SC Sociology
+GA EG4QV
+UT WOS:000391029700008
+DA 2021-03-31
+ER
+
+PT J
+AU Ciarini, A
+AF Ciarini, Andrea
+TI The social investment approach as a field of job creation. From the
+   'recalibration' to a resurgent trade-off between employment growth and
+   low wage (white) jobs. A comparison between Germany and Italy
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE White jobs; care labour market; welfare regimes
+ID CARE REGIMES; MIGRATION
+AB The social investment approach emerged as a new welfare paradigm, aimed at reconciling the traditional functions of the welfare supply with a productive social agenda, designed at preparing people to confront the 'new social risks', whether they be related to the problem of balancing paid work and family responsibilities, upgrading the skills, preventing inequalities and promoting the availability of in-kind services. In order to achieve these objectives, especially those related to care needs and work-life balance, the adoption of social investment-based strategies necessarily implies an expansion of the jobs related to health and social care services. In more recent years, many studies have analysed the limitations of the social investment policies because of their different redistributive impacts on social groups. Several studies have found a higher use of these policies for high-income families. Another source of criticism on social investment is that spending on these policies would seem to crowd out more traditional passive social expenditures. In this article, we examine another question related to the widespread of this approach: what are the effects of the social investment policies in terms of direct job creation? In fact, one of the more controversial issues, related to social investment policies, is their direct contribution to the labour market in terms of both quantity and quality of work within welfare services. The article analyses these issues focusing on Germany and Italy, two countries that represent not only two different care regimes but also two distinct models regarding job creation strategies in the care sector. In doing so, particular attention will be paid to long-term care policies, as they represent one of the pivotal areas of the social investment approach, both in terms of social services, to address new social risks, and new jobs related to welfare services
+C1 [Ciarini, Andrea] Sapienza Univ Rome, Dept Social & Econ Sci, Via Salaria 113, I-00198 Rome, Italy.
+RP Ciarini, A (corresponding author), Sapienza Univ Rome, Dept Social & Econ Sci, Via Salaria 113, I-00198 Rome, Italy.
+EM Andrea.ciarini@uniroma1.it
+NR 50
+TC 1
+Z9 1
+U1 1
+U2 6
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2016
+VL 26
+IS 3
+BP 497
+EP 512
+DI 10.1080/03906701.2016.1206295
+PG 16
+WC Sociology
+SC Sociology
+GA EG4QV
+UT WOS:000391029700010
+OA Green Published
+DA 2021-03-31
+ER
+
+PT J
+AU Mikulioniene, S
+   Kanopiene, V
+AF Mikulioniene, Sarmite
+   Kanopiene, Vida
+TI Construction of fatherhood in late socialism: the experiences of
+   Lithuanian men
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE Masculinity; fatherhood; fathering; children; Lithuania; qualitative
+   research
+AB The paper examines the changes in fatherhood in Lithuania, focusing on the experiences and attitudes of men, who became fathers in two different historic periods - the soviet time and in the years of societal transformations after the collapse of communist regime. The narratives of 24 men (born in 1950-1965 and 1970-1985) are explored, the data come from the qualitative research, conducted in 2012. It is maintained that the construction of fatherhood in late socialism can be described in terms of modern fatherhood metanarrative, while the features of a 'new father' can be traced mainly among the younger males of 'independence generation'.
+C1 [Mikulioniene, Sarmite; Kanopiene, Vida] Mykolas Romeris Univ, Dept Educ Sci & Social Work, Vilnius, Lithuania.
+RP Mikulioniene, S (corresponding author), Mykolas Romeris Univ, Dept Educ Sci & Social Work, Vilnius, Lithuania.
+EM sarmite@mruni.eu
+OI /0000-0003-1659-8708
+NR 40
+TC 0
+Z9 0
+U1 0
+U2 3
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2015
+VL 25
+IS 3
+BP 387
+EP 402
+DI 10.1080/03906701.2015.1078530
+PG 16
+WC Sociology
+SC Sociology
+GA DV6NW
+UT WOS:000383054700004
+DA 2021-03-31
+ER
+
+PT J
+AU Rush, M
+AF Rush, Michael
+TI Theorising fatherhood, welfare and the decline of patriarchy in Japan
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE fathering; work-life balance; parental leave; gender equality; social
+   policy
+ID FAMILY POLICY; CHILD-CARE; INVOLVEMENT
+AB This paper investigates social policies concerning men's transitions to fatherhood and the changing role of fathers in Japan. A review of fathering research reveals a predominantly agency-level emphasis on role-strain between work and paternal identities with a specific discourse of weakened Japanese fatherhood. Previous research suggested Japanese gender equality and work-life balance initiatives stalled due to an absence of women's influence within Japan's corporate culture. This study offers a historical perspective to show modern family policies were essentially rooted in gender-equality campaigns led by women's organisations dating back to post-WWII era. The findings situate Japanese social policy and epistemology in the international vanguard of a 'Nordic turn' towards structural-level research and improved social citizenship rights to support men's transitions to fatherhood.
+C1 [Rush, Michael] Univ Coll Dublin, Sch Social Policy Social Work & Social Justice, Belfield, Ireland.
+RP Rush, M (corresponding author), Univ Coll Dublin, Sch Social Policy Social Work & Social Justice, Belfield, Ireland.
+EM Michael.rush@ucd.ie
+NR 41
+TC 6
+Z9 6
+U1 2
+U2 20
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2015
+VL 25
+IS 3
+BP 403
+EP 414
+DI 10.1080/03906701.2015.1078528
+PG 12
+WC Sociology
+SC Sociology
+GA DV6NW
+UT WOS:000383054700005
+DA 2021-03-31
+ER
+
+PT J
+AU Neves, BB
+AF Neves, Barbara Barbosa
+TI Does the Internet matter for strong ties? Bonding social capital,
+   Internet use, and age-based inequality
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE bonding; social capital; social networks; Internet; age
+ID ONLINE; NETWORKS; FRIENDS; USAGE
+AB As the Internet becomes pervasive in western societies, social capital emerges as a valuable sociological tool to analyze the social effects of Internet use. Thus, a growing body of research has been looking into the relationship between social capital and Internet usage. This research has been showing a positive relationship between them; however, results are not as conclusive when we consider one of the main dimensions of social capital: bonding. Bonding relates to resources that are embedded in one's strong ties (i.e., family members and close friends). The study of bonding is of particular sociological interest, since the discussion around the social effects of the Internet still suggests that it takes time away from strong ties and that is more useful to connect with weak ties (i.e., acquaintances). This study examines the relationship between bonding and the Internet, using representative survey data and semi-structured interviews from Portugal. Findings show that bonding is predicted positively by Internet use but negatively by age. On one hand, the Internet seems to compensate for the negative age effect because older adults who use it are more likely to have a high level of bonding. On the other hand, the Internet reinforces accumulated social advantage.
+C1 [Neves, Barbara Barbosa] Univ Toronto, TAGlab, Toronto, ON, Canada.
+   [Neves, Barbara Barbosa] Univ Lisbon, CAPP, Lisbon, Portugal.
+RP Neves, BB (corresponding author), Univ Toronto, TAGlab, Toronto, ON, Canada.
+EM barbara@taglab.ca
+OI Neves, Barbara Barbosa/0000-0002-4490-4322
+NR 56
+TC 8
+Z9 8
+U1 1
+U2 13
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2015
+VL 25
+IS 3
+BP 415
+EP 433
+DI 10.1080/03906701.2015.1050307
+PG 19
+WC Sociology
+SC Sociology
+GA DV6NW
+UT WOS:000383054700006
+DA 2021-03-31
+ER
+
+PT J
+AU Rock, H
+AF Rock, Hugh
+TI Secularisation is an ecclesiastical regime of truth not a sociological
+   event: a practical definition of religion re-visited
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE life-meaning; secular religion; social theism; social theology; Nature
+   God; Community God
+AB In a previous article, in this Journal (2011, 21.1) Steve Bruce put forward a practical definition of religion which he held out as offering considerable explanatory scope: religion consists of beliefs, actions and institutions which assume the existence of supernatural entities with powers of action, or impersonal powers or processes possessed of moral purpose. This article proposes that this definition holds dramatic explanatory scope that has yet to be realised by sociology. The element 'moral purpose' in that definition represents a not clearly acknowledged, but nevertheless substantial, agreement amongst sociologists that religion is a life-meaning-making enterprise defined by the imposition of moral order on a universe that is incomprehensible and indifferent to human existence. The full implication of that definition is the reversal of the conventional perspective on secularisation. If the placement of life within a meaningful sense of existence is the domain of religion, it follows that today's secular placing is just as much a religious enterprise of world building. The use of supernatural entities is only one method to anchor that placement: they are a dispensable adjunct to religion. The Gods are representatives of the truly sacred fact, which stands independent of them, that human existence has to make meaning for itself. To treat the supernatural entities as essential to the definition of religion is to adopt an ecclesiastical conceit from which a sociological perspective needs to free itself. The way forward for sociology is to deconstruct the present regime of truth through the recovery of the secular religion that comprises today's life-meaning-making enterprise. The article falls into two parts. The first identifies elements of consensus among sociological theorists that religion is defined by life-meaning-making and seeks to reinforce that consensus with a range of working examples that illustrate different ways in which religious life-meaning is constructed. The second part develops theory and a selection of research avenues in the new task to characterise today's secular religion.
+EM hugh_rock@btconnect.com
+NR 52
+TC 1
+Z9 1
+U1 0
+U2 1
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2015
+VL 25
+IS 3
+BP 434
+EP 455
+DI 10.1080/03906701.2015.1065565
+PG 22
+WC Sociology
+SC Sociology
+GA DV6NW
+UT WOS:000383054700007
+DA 2021-03-31
+ER
+
+PT J
+AU Shadnam, M
+AF Shadnam, Masoud
+TI Theorizing morality in context
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE context; morality; self; socialinteraction; theory
+ID SOCIAL-PROBLEMS; SOCIOLOGY; SELF; CULTURE; IDENTITY; ETHICS;
+   ORGANIZATIONS; DISCOURSE; SOCIETY; GENDER
+AB How does context condition morality? This is one of the core questions of the sociology of morality and also one that has remained largely untheorized till date. In this article, we draw on insights from symbolic interactionism, and develop a theoretical framework that highlights the role of context in variation of morality. This framework is informed by a view of the self as a reflexive process that engages with moral norms through giving a self-account in relation to the norms. Based on this view, we distinguish between three contextual dimensions that condition morality: symbolic forms, scenes of address, and narrating subjects. The article concludes with a discussion of the implications of the presented theoretical framework for sociological studies of morality.
+C1 [Shadnam, Masoud] NEOMA Business Sch, Strategy & Entrepreneurship Dept, Mont St Aignan, France.
+RP Shadnam, M (corresponding author), NEOMA Business Sch, Strategy & Entrepreneurship Dept, Mont St Aignan, France.
+EM masoud.shadnam@neoma-bs.fr
+OI Shadnam, Masoud/0000-0001-9642-3531
+NR 200
+TC 4
+Z9 4
+U1 0
+U2 16
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2015
+VL 25
+IS 3
+BP 456
+EP 480
+DI 10.1080/03906701.2015.1050309
+PG 25
+WC Sociology
+SC Sociology
+GA DV6NW
+UT WOS:000383054700008
+DA 2021-03-31
+ER
+
+PT J
+AU Bianchi, F
+AF Bianchi, Francesca
+TI The co-housing in Italy between dream and reality. A search on the
+   aspirations for co-residence
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA French
+DT Article
+DE cohousing; social relations; sustainability; sociability
+AB In this essay we will describe the main results of a case study carried out on two Cohousing associations that actively promote and increase awareness of cohousing, a model of co-residence that is gradually developing also in Italy. The research, conducted through several interviews with members of the 'Cohousing in Toscana' and 'Coabitare' Associations and analysis of their narratives, shows that people are really motivated to invest time and resources in collective projects to realize a model of social and sustainable life.
+C1 [Bianchi, Francesca] Univ Siena, Dipartimento Sci Formaz Sci Umane & Comunicaz Int, Siena, Italy.
+RP Bianchi, F (corresponding author), Univ Siena, Dipartimento Sci Formaz Sci Umane & Comunicaz Int, Siena, Italy.
+EM francesca.bianchi@unisi.it
+NR 31
+TC 2
+Z9 2
+U1 1
+U2 15
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2015
+VL 25
+IS 3
+BP 481
+EP 501
+DI 10.1080/03906701.2015.1050308
+PG 21
+WC Sociology
+SC Sociology
+GA DV6NW
+UT WOS:000383054700009
+DA 2021-03-31
+ER
+
+PT J
+AU Gucher, C
+AF Gucher, Catherine
+TI Public policy and life end course: reconfigurations, paradoxical
+   dynamics and combinatorial art
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA French
+DT Article
+C1 [Gucher, Catherine] Univ Grenoble Alpes, Lab UMR PACTE, Diriger Rech, Grenoble 9, France.
+RP Gucher, C (corresponding author), Univ Grenoble Alpes, Lab UMR PACTE, Diriger Rech, Grenoble 9, France.
+EM catherine.gucher@upmf-grenoble.fr
+NR 55
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2015
+VL 25
+IS 3
+BP 502
+EP 517
+DI 10.1080/03906701.2015.1078546
+PG 16
+WC Sociology
+SC Sociology
+GA DV6NW
+UT WOS:000383054700010
+DA 2021-03-31
+ER
+
+PT J
+AU Meunier, O
+AF Meunier, Olivier
+TI Issues of educational support in primary school and secondary education
+   in disadvantaged suburbs in France
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE educational support; political incentive; inclusive education; primary
+   school; middle school; France
+AB From a critical sociological perspective, this article advances the debate between global schooling with political incentives and local meanings with localized educational practices and supports. It focuses on the role of education policies in the pursuit of social inclusion and social justice, but also shows how local actors adapt and experiment in managing the socio-cultural diversity of the students and the school contexts. First, I show the issues of educational support policies in the French context with a historical background and their re-appropriation by local actors. Second, I present the theoretical framework of my research (2008 to 2013), the methodology and initial results. Last, I analyze the main qualitative results of my comparative research in order to highlight 'good' or 'bad' educational support practices according to various criteria, starting with interactional socio-cultural posture between different actors.
+C1 [Meunier, Olivier] Univ Artois, ESPE Lille Nord France, Lab RECIFES, Lille, France.
+RP Meunier, O (corresponding author), Univ Artois, ESPE Lille Nord France, Lab RECIFES, Lille, France.
+EM olivier.meunier@univ-artois.fr
+NR 15
+TC 0
+Z9 0
+U1 0
+U2 2
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2015
+VL 25
+IS 3
+BP 518
+EP 533
+DI 10.1080/03906701.2015.1065564
+PG 16
+WC Sociology
+SC Sociology
+GA DV6NW
+UT WOS:000383054700011
+DA 2021-03-31
+ER
+
+PT J
+AU Prandini, R
+AF Prandini, Riccardo
+TI Relational sociology: a well-defined sociological paradigm or a
+   challenging 'relational turn' in sociology?
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE relational sociology; social relation; sociological paradigms; social
+   network analysis; social ontology
+AB In this paper I present and summarize the theoretical proposals of four leading scholars of the so-called 'relational sociology'. First of all I try to contextualize its emergence and developments in the increasingly globalized scientific system. From this particular (and international) point of view, relational sociology seems to develop through a peculiar scientific path opened and charted by well-identified actors and competitors, their invisible colleges, their global connections, cleavages, and coalitions. Whatever the structuring of this field, it accomplishes the criticism of classical individualistic and collectivistic sociological theories, a task strongly facilitated by the development of new methods and techniques of empirical research, and by the increasingly powerful computing capabilities. After this brief historical reconstruction, and following very strictly the contributions of the four scholars, I try to synthetize their theoretical designs, focusing the analysis on two scientific issues of great significance for the future of relational sociology: the specific ontology of 'social relations' and the methodologies used to observe it adequately. Finally, I wonder if we are facing a new sociological paradigm, already well structured and internationally established, or rather a 'relational turn' that probably will develop into a new 'sociological field' internally very differentiated and articulated.
+C1 Univ Bologna, Dipartimento Sociol & Diritto Econ SDE, Sociol Cultural & Commun Processes, Bologna, Italy.
+RP Prandini, R (corresponding author), Univ Bologna, Dipartimento Sociol & Diritto Econ SDE, Sociol Cultural & Commun Processes, Bologna, Italy.
+EM riccardo.prandini@unibo.it
+NR 26
+TC 17
+Z9 18
+U1 0
+U2 20
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2015
+VL 25
+IS 1
+BP 1
+EP 14
+DI 10.1080/03906701.2014.997969
+PG 14
+WC Sociology
+SC Sociology
+GA CV7XN
+UT WOS:000364490400001
+DA 2021-03-31
+ER
+
+PT J
+AU Fuhse, JA
+AF Fuhse, Jan A.
+TI Theorizing social networks: the relational sociology of and around
+   Harrison White
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE relational sociology; social network; communication; meaning; social
+   relations
+ID NEW-YORK-CITY; MULTIPLE NETWORKS; CULTURE; DYNAMICS; ROLES;
+   CONVERSATION; ORGANIZATION; SWITCHINGS; THINKING; ORDER
+AB This paper offers an overview of relational sociology as developed by and around Harrison White. Relational sociology provides a substantial account of social networks, conceptualizing them as real social structures interwoven with meaning. Forms of meaning connected to network configurations (as part of their 'domains') include stories, identities, social categories (including role categories), and institutions. Recent advances lead to a network perspective on culture, and to an emphasis on communicative events in networks. In contrast to other strands of relational sociology, the approach aims at a close connection between empirical research and theoretical reflection. Theoretical concepts and arguments are geared at empirical applicability in network research, rather than mainly providing a theoretical description of the social world. Finally, the author's own version of relational sociology is sketched: social networks are seen as dynamic constructions of relational expectations. These emerge and develop over the course of communication (in the sense of Niklas Luhmann), in turn effectively channeling communicative sequence.
+C1 Humboldt Univ, Inst Social Sci, D-10099 Berlin, Germany.
+RP Fuhse, JA (corresponding author), Humboldt Univ, Inst Social Sci, D-10099 Berlin, Germany.
+EM jan.fuhse@hu-berlin.de
+RI Fuhse, Jan A/A-7854-2009
+OI Fuhse, Jan/0000-0001-5183-9808
+FU German Research Association DFGGerman Research Foundation (DFG) [FU
+   714/3-1]
+FX The preparation of this paper was supported by a Heisenberg fellowship
+   of the German Research Association DFG [FU 714/3-1].
+NR 106
+TC 20
+Z9 20
+U1 0
+U2 24
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2015
+VL 25
+IS 1
+BP 15
+EP 44
+DI 10.1080/03906701.2014.997968
+PG 30
+WC Sociology
+SC Sociology
+GA CV7XN
+UT WOS:000364490400002
+DA 2021-03-31
+ER
+
+PT J
+AU Depelteau, F
+AF Depelteau, Francois
+TI Relational sociology, pragmatism, transactions and social fields
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE determinism; co-determinism; pragmatism; social ontology; social fields;
+   transactions
+ID CRITIQUE; REALIST
+AB Starting from the idea that relational sociology has been founded on various and incompatible social ontologies, I argue that it is at risk of losing its raison d'etre if we do not answer two fundamental practical and ontological questions: (1) Why do we need relational sociology? and (2) What do we study in relational sociology? In this respect, I propose a deep, transactional sociology partly and freely inspired by the work of J. Dewey which clearly detaches relational sociology from social determinism and co-determinism.
+C1 Laurentian Univ, Dept Sociol, Sudbury, ON P3E 2C6, Canada.
+RP Depelteau, F (corresponding author), Laurentian Univ, Dept Sociol, Sudbury, ON P3E 2C6, Canada.
+EM fdepelteau@laurentian.ca
+NR 42
+TC 26
+Z9 27
+U1 0
+U2 9
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2015
+VL 25
+IS 1
+BP 45
+EP 64
+DI 10.1080/03906701.2014.997966
+PG 20
+WC Sociology
+SC Sociology
+GA CV7XN
+UT WOS:000364490400003
+DA 2021-03-31
+ER
+
+PT J
+AU Crossley, N
+AF Crossley, Nick
+TI Relational sociology and culture: a preliminary framework
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE social networks; social/symbolic interaction; art worlds; homophily;
+   social space
+ID FEATHER; BIRDS
+AB In this paper I outline a framework for a relational sociology of culture. I begin by briefly defining relational sociology and contrasting it with both individualistic and holistic alternatives. Culture, I suggest, is an inherently relational concept and needs to be theorised and analysed as such. This argument is briefly elaborated through a discussion of the generation and diffusion of culture by way of interaction and social networks. The respective contributions of Tarde, Durkheim, Merleau-Ponty, and Wittgenstein are given particular attention. In the final part of the paper I introduce and discuss Howard Becker's notion of 'art worlds', drawing out and elaborating upon its relational foundations whilst also further developing it through a more sustained reflection upon both the facilitative potential of social networks and their shaping, as hypothesised by Peter Blau (and developed by Miller McPherson and Noah Mark), by way of homophilic attraction in 'social space'. The paper covers a lot of ground and is intended as a sketch which subsequent work will fill out.
+C1 [Crossley, Nick] Univ Manchester, Dept Sociol, Manchester, Lancs, England.
+   [Crossley, Nick] Univ Manchester, Mitchell Ctr Social Network Anal, Manchester, Lancs, England.
+RP Crossley, N (corresponding author), Univ Manchester, Dept Sociol, Manchester, Lancs, England.
+EM Nick.crossley@manchester.ac.uk
+OI Crossley, Nick/0000-0003-0969-9121
+NR 81
+TC 30
+Z9 31
+U1 0
+U2 11
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2015
+VL 25
+IS 1
+BP 65
+EP 85
+DI 10.1080/03906701.2014.997965
+PG 21
+WC Sociology
+SC Sociology
+GA CV7XN
+UT WOS:000364490400004
+DA 2021-03-31
+ER
+
+PT J
+AU Donati, P
+AF Donati, Pierpaolo
+TI Manifesto for a critical realist relational sociology
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE relational sociology; critical realism; social relations; social
+   morphogenesis; social networks
+AB In recent years, many different versions of relational sociology have appeared. In this paper, I present a critical realist version developed since 1983, which is also called 'relational theory of society' (CRRS). It shares with the other relational sociologies the idea of avoiding both methodological individualism and holism. The main differences lie in the way social relations are defined, the kind of reality that is attributed to them, how they configure social formations, and the way in which their changes are conceived (morphogenesis and emergence). In particular, this approach is suitable to understand how the morphogenesis of society comes about through social relations, which are the connectors that mediate between agency and social structure. The generative mechanism that feeds social morphogenesis resides in the dynamic (that is, in their ways of operating) of the social relations networks that alter the social molecule constituting structures already in place. Social morphogenesis is a form of surplus of society with respect to itself. Society increases (or decreases) its potential for surplus depending on processes of valorization (or devalorization) of social relations.
+C1 Univ Bologna, Dept Sociol & Business Law, Bologna, Italy.
+RP Donati, P (corresponding author), Univ Bologna, Dept Sociol & Business Law, Bologna, Italy.
+EM pierpaolo.donati@unibo.it
+NR 44
+TC 29
+Z9 30
+U1 0
+U2 8
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2015
+VL 25
+IS 1
+BP 86
+EP 109
+DI 10.1080/03906701.2014.997967
+PG 24
+WC Sociology
+SC Sociology
+GA CV7XN
+UT WOS:000364490400005
+DA 2021-03-31
+ER
+
+PT J
+AU Fleury, C
+AF Fleury, Cynthia
+TI Typology of lies in the public space: What numerical regulation?
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA French
+DT Article
+C1 [Fleury, Cynthia] Museum Natl Hist Nat, Lab Conservat Especes Restaurat & Suivi Populat, CNRS MNHN UPMC UMR7204, F-75231 Paris, France.
+   [Fleury, Cynthia] Univ Paris 06, Dept Int & Comparat Polit, F-75007 Paris, France.
+RP Fleury, C (corresponding author), Museum Natl Hist Nat, Lab Conservat Especes Restaurat & Suivi Populat, CNRS MNHN UPMC UMR7204, F-75231 Paris, France.
+EM cfleury@mnhn.fr
+NR 54
+TC 0
+Z9 0
+U1 0
+U2 2
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2015
+VL 25
+IS 1
+BP 110
+EP 128
+DI 10.1080/03906701.2014.976951
+PG 19
+WC Sociology
+SC Sociology
+GA CV7XN
+UT WOS:000364490400006
+DA 2021-03-31
+ER
+
+PT J
+AU Stanzani, S
+AF Stanzani, Sandro
+TI Dimensions of social capital and subjective well-being: evidence from
+   Italy
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE social capital; health; subjective well-being; social support; measures
+   of social capital
+ID SELF-RATED HEALTH; INCOME INEQUALITY; COMMUNITY; MORTALITY; COUNTRIES;
+   GENERATOR; NETWORKS; RESOURCE; SUPPORT; UTILITY
+AB The concept of social capital was investigated as an explanatory variable of a number of significant socio-economic phenomena, such as economic development, the well-functioning of institutions, and school performance. This study proposes an analysis of the relation between social capital and well-being. The two concepts have been interpreted by social sciences in many different ways. In particular, as a result of its recent success, social capital has been the object of a great deal of interpretations. Social scientists have considered it either as a collective resource (macro social capital), or as an available resource amongst members of specific groups (friends, associations, local communities, etc.; i.e. meso social capital), or as a resource that individuals can achieve through their personal networks (micro social capital). Using data from a representative sample of Italian citizens (25-80 years old), this work investigates which dimension (micro, meso, or macro) of social capital has (if any) a major influence on subjective well-being. Data show some interdependence only with the macro social capital, and suggest that it is just the symbolic and cognitive qualities of the social capital, rather than its structural dimension, that could be associated with subjective well-being in a significant way.
+C1 Univ Verona, Dept TeSIS, Sociol Cultural & Commun Proc, I-37100 Verona, Italy.
+RP Stanzani, S (corresponding author), Univ Verona, Dept TeSIS, Sociol Cultural & Commun Proc, I-37100 Verona, Italy.
+EM sandro.stanzani@univr.it
+FU  [Prot. 20072M9F78]
+FX This study is part of the Government-sponsored 2007-2009 research
+   program on "Social network, social capital and empowerment of public
+   goods" - [grant number Prot. 20072M9F78].
+NR 61
+TC 1
+Z9 1
+U1 2
+U2 16
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2015
+VL 25
+IS 1
+BP 129
+EP 143
+DI 10.1080/03906701.2014.977586
+PG 15
+WC Sociology
+SC Sociology
+GA CV7XN
+UT WOS:000364490400007
+DA 2021-03-31
+ER
+
+PT J
+AU Alexander, AC
+   Welzel, C
+AF Alexander, Amy C.
+   Welzel, Christian
+TI Eroding patriarchy: the co-evolution of women's rights and emancipative
+   values
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE development; diffuse effects; emancipative values; social movements;
+   symbolic effects; value change; women's rights
+ID VIOLENCE
+AB Some scholars find that top-down improvements in women's rights increase societies' value of gender equality at the grassroots, creating pressure for more adoption and enforcement. Others claim that the extension of women's rights is strongly dependent on value change at the grassroots, operating largely as a bottom-up process. We find that top-down and bottom-up dynamics are mutually reinforcing, creating a co-evolutionary dynamic in women's empowerment. We evaluate the rights/values dynamic with data on as many countries as possible, trace their changes over the longest time span available, and analyze their reciprocal relationship in both directions of impact. This is the first analysis that is at the same time (1) comparative across a diverse, global set of nations; (2) dynamic in looking at change in rights and values over time; (3) bidirectional in analyzing the interplay in both directions of impact; and, (4) controlled for relevant 'third' changes.
+C1 [Alexander, Amy C.] Univ Gottingen, Dept Polit Sci, D-37073 Gottingen, Germany.
+   [Welzel, Christian] Leuphana Univ, Dept Polit Sci, Luneburg, Germany.
+RP Alexander, AC (corresponding author), Univ Gottingen, Dept Polit Sci, D-37073 Gottingen, Germany.
+EM amy.catherine.alexander@gmail.com
+RI Welzel, Christian/O-7531-2015
+OI Welzel, Christian/0000-0002-1562-3580; Alexander,
+   Amy/0000-0001-7888-4617
+NR 55
+TC 9
+Z9 11
+U1 0
+U2 7
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2015
+VL 25
+IS 1
+BP 144
+EP 165
+DI 10.1080/03906701.2014.976949
+PG 22
+WC Sociology
+SC Sociology
+GA CV7XN
+UT WOS:000364490400008
+DA 2021-03-31
+ER
+
+PT J
+AU Arosio, L
+AF Arosio, Laura
+TI Parental divorce, cohabitation and the celebration of marriage in Italy
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE divorce; cohabitation; celebration of marriage; inter-generational
+   transmission; Italy
+ID INTERGENERATIONAL TRANSMISSION; MARITAL INSTABILITY; FAMILY; CHILDREN;
+   DISRUPTION; COMMITMENT; ADULTHOOD; CHILDHOOD
+AB The effect of parental divorce on the outcomes of children's marital relationships has been long studied and well documented in many contemporary Western countries. This paper investigates whether family history also has an impact on the early phase of marriages of offspring, especially on how the wedding is celebrated. The topic is whether parental divorce may affect the choices concerning the celebration of the marriage, in particular the choices concerning the rite of marriage, the wedding party, and the honeymoon trip. An empirical analysis of this subject was carried out on contemporary Italy. The data set used was produced by the survey Family and Social Subjects carried out in 2009 and published in 2013 by Istat (Italian National Institute of Statistics). The results highlight phenomena of social inheritance between generations. Children of divorced parents are less likely to marry under a religious ceremony, provide a banquet, and go on a honeymoon. There is also an intra-generational transmission of family models: those who have cohabited choose less traditional forms of marriage.
+C1 Univ Milano Bicocca, Dipartimento Sociol & Ric Sociale, Sociol, Milan, Italy.
+RP Arosio, L (corresponding author), Univ Milano Bicocca, Dipartimento Sociol & Ric Sociale, Sociol, Milan, Italy.
+EM laura.arosio@unimib.it
+NR 45
+TC 0
+Z9 0
+U1 0
+U2 10
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2015
+VL 25
+IS 1
+BP 166
+EP 179
+DI 10.1080/03906701.2014.976950
+PG 14
+WC Sociology
+SC Sociology
+GA CV7XN
+UT WOS:000364490400009
+DA 2021-03-31
+ER
+
+PT J
+AU Moreau, DB
+AF Moreau, Denis Bernardeau
+TI Intervention sociology: history and foundations
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE social demand; sociology and monograph; sociology and empiricism;
+   maieutics and self-analysis; immersion and intersubjectivity
+AB Our intention is to state the main characteristics of intervention sociology, from its origins, the beginnings of which can be situated in Frederic Le Play's monographic work carried out 150 years ago, to its present forms. Rather seldom mentioned in sociological literature or if so in the course of a paragraph or in methodological appendixes, intervention sociology, although widely practised outside the academic field, today still lacks legibility and institutional recognition. By proposing a thorough reading of the main theories and conceptions developed during the past two centuries, our article aims at explaining, through the sociological prism, the fundamental concepts of intervention sociology.
+C1 Univ Paris Est UPEM ACP UPEMLV, Paris, France.
+RP Moreau, DB (corresponding author), Univ Paris Est UPEM ACP UPEMLV, Paris, France.
+EM denis.bernardeau@univ-mlv.fr
+NR 56
+TC 0
+Z9 0
+U1 0
+U2 2
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2015
+VL 25
+IS 1
+BP 180
+EP 193
+DI 10.1080/03906701.2014.976952
+PG 14
+WC Sociology
+SC Sociology
+GA CV7XN
+UT WOS:000364490400010
+DA 2021-03-31
+ER
+
+PT J
+AU Zwilling, AL
+AF Zwilling, Anne-Laure
+TI Shifting religions in shifting territories
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE territory; religious change; space and religion
+AB One of the specificities of modernity is the way its challenges the human relation to space. This in turns implies changes concerning religion. This article is an introduction to the special issue of the Review on "religion and territory." It displays the diverse aspects at play: first, the contemporary study of the question of space in human and social sciences, and its recent evolution, open a vast and challenging field. The complex relationship between religious belonging and spatial setting is also a promising entry point. Furthermore, the evolution of the state-religion relationship, and the governance of religious space, are revealing points of view as regards religion and territory. Finally, the questions pertaining to religion and the management of the urban space are also of interest.
+C1 [Zwilling, Anne-Laure] CNRS, Law Relig Business & Soc DRES, Strasbourg, France.
+   [Zwilling, Anne-Laure] Univ Strasbourg, Joint Res Unit Droit Relig Entreprise Soc, Strasbourg, France.
+RP Zwilling, AL (corresponding author), CNRS, Law Relig Business & Soc DRES, Strasbourg, France.
+EM anne-laure.zwilling@misha.cnrs.fr
+OI Zwilling, Anne-Laure/0000-0003-0737-6847
+NR 27
+TC 1
+Z9 1
+U1 0
+U2 0
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2015
+VL 25
+IS 2
+BP 195
+EP 199
+DI 10.1080/03906701.2015.1039266
+PG 5
+WC Sociology
+SC Sociology
+GA CV7XS
+UT WOS:000364490900001
+DA 2021-03-31
+ER
+
+PT J
+AU Obadia, L
+AF Obadia, Lionel
+TI Spatial turn, beyond geography: a new Agenda for sciences of religion?
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE spatial turn; social sciences; religion; de-territorialization;
+   geography
+ID GLOBALIZATION; MODERNITY; SYSTEM; PLACE
+AB Relying on a review of recent literature (and, sometimes, older publications), this paper attempts to highlight issues relating to the 'spatial turn' in religious studies. It outlines a series of developments in the study of religions related to issues in space, location and territory that have been enhanced by the intellectual framework of globalism and the empirical context of globalization. The challenges of such a geographic focus on religions are epistemological, theoretical and methodological. An examination of new and not-so-new issues in geographic approaches to religion shows how topical the perspective is, and how necessary it is to think the geography of religion beyond the boundaries of geography. In what ways do these new regimes of territoriality, these new concepts of religious space, and these new methods to understand the changes of material and cultural expressions of religion, whether wide-scale or local, partake on a paradigmatic shift? And how promising is it?
+C1 Univ Lyon, Dept Anthropol, Lyon, France.
+RP Obadia, L (corresponding author), Univ Lyon, Dept Anthropol, Lyon, France.
+EM Lionel.Obadia@univ-lyon2.fr
+OI obadia, Lionel/0000-0001-9682-6461
+NR 82
+TC 7
+Z9 8
+U1 0
+U2 5
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2015
+VL 25
+IS 2
+BP 200
+EP 217
+DI 10.1080/03906701.2015.1039269
+PG 18
+WC Sociology
+SC Sociology
+GA CV7XS
+UT WOS:000364490900002
+DA 2021-03-31
+ER
+
+PT J
+AU Lunden, T
+AF Lunden, Thomas
+TI Geopolitics and religion - a mutual and conflictual relationship.
+   Spatial regulation of creed in the Baltic Sea Region
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE Baltic Sea Region; dissenters; geopolitics; Jews; Prussia; religion
+AB The geopolitical history of religion in the Baltic Sea area shows a development from the time of the Lutheran Reformation of a mosaic of states with very different jurisdictions of creed, from the tolerance under local containment of the Polish-Lithuanian Commonwealth to the strict Evangelical mono-religion of the Scandinavian countries. With seventeenth-century mercantilism, groups of skilled people of 'foreign' religion were invited to newly founded towns and ironworks in order to promote the economy. In the eighteenth-century enlightened absolute monarchs, defying both church and bourgeoisie, allowed groups of Catholics and Jews to Scandinavia under spatial restrictions on settlement. In Russia non-Russians of different religions were tolerated, while dissidents to the Orthodox Church were deported to peripheral places. With the Prussian territorial expansion in Germany, more groups were included into citizenship, including Jews. The last states to include groups of 'foreign' creed were the early nineteenth century semi-independent states of Norway and Finland.
+C1 Sodertorn Univ, Ctr Balt & East European Studies, Stockholm, Sweden.
+RP Lunden, T (corresponding author), Sodertorn Univ, Ctr Balt & East European Studies, Stockholm, Sweden.
+EM thomas.lunden@sh.se
+NR 38
+TC 1
+Z9 1
+U1 0
+U2 2
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2015
+VL 25
+IS 2
+BP 235
+EP 251
+DI 10.1080/03906701.2015.1039268
+PG 17
+WC Sociology
+SC Sociology
+GA CV7XS
+UT WOS:000364490900004
+DA 2021-03-31
+ER
+
+PT J
+AU Ringvee, R
+AF Ringvee, Ringo
+TI Religious involvement in public sphere in a secular state: institutions,
+   interests and attitudes
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE secularization; religion and politics; Estonia; politics and religion;
+   sociology of religion; religion and society; neopagan
+ID ESTONIA
+AB The article focuses on the relations between religious institutions and state in a secular environment. The example for the secular environment has been taken from Estonia that is considered a highly secularized society, and Estonia is by its constitution is a secular state. The article, however, argues that even in a secularized society and in secular state religiously motivated lobby may influence political decision-making processes if the aims of the religious lobby manage to hide its overly religious agenda and present it in the context of ethno-cultural heritage. The example of this approach is taken from the activities of an indigenous neopagan religious association that has been lobbying for the protection of sacred landscapes or natural sacred sites in Estonia which sounds with the general societal approach on nature protection. At the same time new issues concerning the protection of holiness in natural environment have emerged.
+C1 Univ Tartu, Estonian Minist Interior, Tallinn, Estonia.
+RP Ringvee, R (corresponding author), Univ Tartu, Estonian Minist Interior, Tallinn, Estonia.
+EM ringo.ringvee@gmail.com
+NR 34
+TC 1
+Z9 1
+U1 1
+U2 8
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2015
+VL 25
+IS 2
+BP 252
+EP 261
+DI 10.1080/03906701.2015.1039271
+PG 10
+WC Sociology
+SC Sociology
+GA CV7XS
+UT WOS:000364490900005
+DA 2021-03-31
+ER
+
+PT J
+AU Kotzian, P
+AF Kotzian, Peter
+TI For better, for worse? Public support for the capitalist model of the
+   economy
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE capitalist systems; economic performance; ideology; socio-economics;
+   comparative sociology
+ID UNITED-STATES; INFORMATION; ELECTIONS; ATTITUDES; REDISTRIBUTION;
+   HETEROGENEITY; PERCEPTIONS; INEQUALITY
+AB A capitalist market economy is based on several institutional elements, such as private ownership and competition. Does public support for this economic model rise if the economy prospers, and fall during a downturn? Or is public support largely independent of the ups and downs of economic cycles? We hypothesize that positive economic performance increases support and that persons profiting personally are more supportive of the economic system's constitutive institutional elements. Using multilevel regression we study the determinants of individual-level support for the economic system. We also test for differences in the perception of economic performance due to political attitudes and personal properties. The findings partly support the hypotheses, indicating that macro-economic factors matter for individual-level attitudes towards the economy. Attitudes towards different institutional elements of the economic system also differ in the degree to which they are political or economic, and influenced by economic performance. Individual features - education and personal economic stakes - affect attitudes towards the economy, but a substantial share of the individual-level variation in economic attitudes remains unexplained.
+C1 Univ Dusseldorf, Dept Econ, Dusseldorf, Germany.
+RP Kotzian, P (corresponding author), Univ Dusseldorf, Dept Econ, Dusseldorf, Germany.
+EM Peter.Kotzian@hhu.de
+NR 39
+TC 1
+Z9 1
+U1 0
+U2 2
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2015
+VL 25
+IS 2
+BP 262
+EP 280
+DI 10.1080/03906701.2015.1017343
+PG 19
+WC Sociology
+SC Sociology
+GA CV7XS
+UT WOS:000364490900006
+DA 2021-03-31
+ER
+
+PT J
+AU Peuravaara, K
+AF Peuravaara, Kamilla
+TI Risky transitions in an ableist environment: the experience of frequent
+   critical looks
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE staring; interactions; transitional spaces; ableist environment;
+   normality
+AB The present article is part of a qualitative sociological study with Swedish young women labelled with an intellectual impairment. The aim is to present an exemplification of the social construction of the body, by focusing on how the body is constructed by critical looks. I focus on the experiences of critical looks by analysing the power dimensions (dis)ability, gender, and age. In the article how the body is made visible by being stared at, both to oneself and to others depending on place and interactions, is central, as are what emotions and strategies of resistance staring causes, and the categorical aspects of staring is analysed. To illustrate this complex process of intersections, I add the concept of an ableist environment. Being stared at is part of the young women's everyday life. The critical looks the informants describe may be understood as being different in character: mocking, judgemental, limiting, and desirable.
+C1 Uppsala Univ, Dept Sociol, Uppsala, Sweden.
+RP Peuravaara, K (corresponding author), Uppsala Univ, Dept Sociol, Uppsala, Sweden.
+EM Kamilla.peuravaara@soc.uu.se
+FU Uppsala University's Faculty of Social Sciences
+FX The project is funded via a faculty financed doctoral position awarded
+   to the Department of Sociology by Uppsala University's Faculty of Social
+   Sciences.
+NR 29
+TC 0
+Z9 0
+U1 1
+U2 2
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2015
+VL 25
+IS 2
+BP 281
+EP 298
+DI 10.1080/03906701.2015.1017353
+PG 18
+WC Sociology
+SC Sociology
+GA CV7XS
+UT WOS:000364490900007
+DA 2021-03-31
+ER
+
+PT J
+AU Bulle, S
+AF Bulle, Sylvaine
+TI The rule and the practice. The case of the Israeli-Palestinian conflict
+   in the last decade (2004-2014)
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA French
+DT Article
+C1 Maitre Conference Sociol, Lab Theorie Polit CRESPPA CNRS, Paris, France.
+RP Bulle, S (corresponding author), Maitre Conference Sociol, Lab Theorie Polit CRESPPA CNRS, Paris, France.
+EM sbulle@clb-internet.fr
+NR 42
+TC 0
+Z9 0
+U1 0
+U2 1
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2015
+VL 25
+IS 2
+BP 299
+EP 317
+DI 10.1080/03906701.2015.1039263
+PG 19
+WC Sociology
+SC Sociology
+GA CV7XS
+UT WOS:000364490900008
+DA 2021-03-31
+ER
+
+PT J
+AU Galanti, SBR
+   Levkowitz, A
+AF Galanti, Sigal Ben-Rafael
+   Levkowitz, Alon
+TI Attitudes towards judicial review in Japan and South Korea: indications
+   for the existence of a liberal-democratic civic culture
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Review
+DE democracy; Japan; Korea; judicial review; social change; Western
+   democratization model; non-Western democratization model
+AB Though very close geographically and culturally, postwar Japan and the Republic of Korea - both non-classical Western democracies - each experienced a very different democratization process and adopted a different kind of democratic regime. This is strongly expressed in the form of their judicial review mechanisms that are aimed in different ways at assisting citizens in encouraging the courts to review laws and policies. Given this backdrop, through the analysis of the attitudes of the Japanese and Korea's citizens to their judicial review mechanisms we search for civic attitudes in these societies. By doing so, we try to contribute to the great debate regarding the capability of non-Western societies that did not develop from a well-rooted liberal culture to adopt and internalize liberal-democratic values.
+C1 [Galanti, Sigal Ben-Rafael] Beit Berl Coll, Ctr Educ & Social Res, Kefar Sava, Israel.
+   [Galanti, Sigal Ben-Rafael; Levkowitz, Alon] Hebrew Univ Jerusalem, Dept Asian Studies, Jerusalem, Israel.
+   [Levkowitz, Alon] Bar Ilan Univ, Asian Studies Program, Ramat Gan, Israel.
+RP Galanti, SBR (corresponding author), Beit Berl Coll, Ctr Educ & Social Res, Kefar Sava, Israel.
+EM sigalbrg@gmail.com
+OI Levkowitz, Alon/0000-0002-7165-3928
+NR 47
+TC 0
+Z9 0
+U1 0
+U2 1
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2015
+VL 25
+IS 2
+BP 318
+EP 332
+DI 10.1080/03906701.2015.1017354
+PG 15
+WC Sociology
+SC Sociology
+GA CV7XS
+UT WOS:000364490900009
+DA 2021-03-31
+ER
+
+PT J
+AU Zwilling, AL
+AF Zwilling, Anne-Laure
+TI A century of mosques in France: building religious pluralism
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE mosques; Islam; architecture; religious identity; space; city
+AB The public debate in France has rolled out heatedly on the building of minarets, with opinion polls giving a majority of French opposed to the idea. Nevertheless, a fair number of mosques has been built throughout the past century. The French reception of mosques is therefore a complicated case. Recalling the history of French mosques and its different turns, with a focus on recent history, allows a glimpse at the visibility of Islam in the national sphere in France and its public reception. It also underlines that religious buildings, in the city, are at the intersection of different levels: questions of identity, of politics, of faith, and of integration, are all at stake.
+C1 Univ Strasbourg, CNRS, DRES UMR7354, Strasbourg, France.
+RP Zwilling, AL (corresponding author), Univ Strasbourg, CNRS, DRES UMR7354, Strasbourg, France.
+EM anne-laure.zwilling@misha.cnrs.fr
+OI Zwilling, Anne-Laure/0000-0003-0737-6847
+NR 26
+TC 4
+Z9 4
+U1 0
+U2 0
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2015
+VL 25
+IS 2
+BP 333
+EP 340
+DI 10.1080/03906701.2015.1039272
+PG 8
+WC Sociology
+SC Sociology
+GA CV7XS
+UT WOS:000364490900010
+DA 2021-03-31
+ER
+
+PT J
+AU Pfostl, E
+AF Pfoestl, Eva
+TI Muslim women between secular state and religion
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE women; secular; state; religion; Muslim
+AB The main thesis of this paper assumes that, while we are not arguing for a full-fledged personal law system in Italy (which provides Muslims with different legal systems), we assume that diversity-conscious respect for difference and its legal recognition is a better strategy for achieving justice than a blindfolded Eurocentric vision, based on uniformising secular methods. This paper suggests the adoption of a model of legal intervention for integrating Muslims into Italian liberal democracy. I will call this model a 'pluralistic institutional approach to integration', based on a 'a joint governance approach'. It requires a conceptual break with absolute, unlimited and undivided sovereignty and jurisdiction. Such a pluralistic institutional approach to integration encourages the accommodation of some of the most pressing minority demands in some limited areas. In family law - as we will see - there can be different possible solutions available to conduct their private relationship compatible with their understanding of Islam. However, any policy of accommodation needs to pay special attention to the fact that traditional religious Muslim norms contain practices that may cause harm to vulnerable subjects. Therefore the advocacy and introduction of a plural legal order must be based on respect for key liberal values. In this paper I will not use the generic term sharia (Islamic law) but the term Muslim norms, because I would like to underline the fact that some Muslims are calling for accommodation of norms that derive from their understanding of their religion, including not only standards based on or derived from sharia or fiqh (jurisprudence) but also general ethical principles derived from Islamic religious culture (see Nasir 2002). The focus on religious norms or values makes it clear that the main motivation for the accommodation of Muslim norms would be to maximise individual autonomy and minority protection. In this sense, the accommodation of Muslim norms is subject to the ultimate regulation of the Italian constitutional and legal system. The paper is structured in the following way. Section I of the paper deals with the 'myth of legal centralism' and presents a general overview of the empirical situation created by the troublesome Muslim integration in Italy. We will provide some quantitative data on Muslim immigration in Italy. Since 'Muslim' is a broad category, it needs to be given as much specificity as possible in order to avoid producing images of a monolithic and undifferentiated religious community. Section II sets out the model of what I have labelled 'a pluralistic institutional approach to integration'. The substantive claim is that this pluralistic institutional approach to integration provides promising options for the incorporation of cultural and religious minorities, challenging the assumption that it is impossible to grant consideration to religious diversity and gender equality at the same time. Of special interest here are those situations in which claims for so-called 'Muslim Sharia Arbitration Councils', religious-based arbitration tribunals, interact with public concerns about power disparities between men and women in the resolution of family law disputes. We will demonstrate the possibility of implementing such a vision by reference to a recent decision by the Supreme Court of Canada, Bruker v. Marcovitz (2007), which breaks new ground.
+C1 Libera Univ LUSPIO, Rome, Italy.
+RP Pfostl, E (corresponding author), Libera Univ LUSPIO, Rome, Italy.
+EM eva.pfoestl@istitutospiov.it
+NR 35
+TC 1
+Z9 1
+U1 0
+U2 13
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2015
+VL 25
+IS 2
+BP 341
+EP 352
+DI 10.1080/03906701.2011.581805
+PG 12
+WC Sociology
+SC Sociology
+GA CV7XS
+UT WOS:000364490900011
+DA 2021-03-31
+ER
+
+PT J
+AU Cunningham, N
+AF Cunningham, Niall
+TI 'A sort of whirlwind': mapping the changing geography of Presbyterian
+   religious observance in Ireland
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE GIS; Northern Ireland; Ireland; violence; religious geography;
+   Presbyterianism
+ID TROUBLES; BELFAST
+AB Since the European Reformation and the colonisations of the sixteenth and seventeenth centuries Ireland has evolved a distinctive religious geography which had profound implications for its political development in the nineteenth and twentieth centuries, leading ultimately to the division of the island along explicitly religio-territorial lines in 1921. Troubled Geographies, a major project funded under the auspices of the Arts and Humanities Research Council's 'Religion and Society' programme was the first attempt to seek to understand patterns of change in the island's complex geography of religious settlement in the period since the Great Famine of the mid-nineteenth century up to the most recent published censuses for both Northern Ireland and the Republic. This paper will present findings from a smaller spin-off project funded by the British Academy, which digitised records of attendance at Presbyterian churches across the island over the last 150 years, enabling us to assess how patterns of practice were affected by the momentous events of the period, including partition, civil war, two world wars, the vicissitudes of the global economy and the Troubles of the more recent past. In addition, the use of new quantitative materials such as those in the Presbyterian records enables us to reflect on how patterns of substantive religious practice reflect those on nominal religious affiliation available from successive censuses from either side of the border.
+C1 Univ Manchester, Ctr Res Sociocultural Change, Dept Sociol, Manchester, Lancs, England.
+RP Cunningham, N (corresponding author), Univ Manchester, Ctr Res Sociocultural Change, Dept Sociol, Manchester, Lancs, England.
+EM niall.cunningham@durham.ac.uk
+FU British Academy Small [090803]
+FX British Academy Small [grant number 090803]. P.I. Professor Ian Gregory,
+   The Presbyterian Church in Ireland, 1871-2001 (Lancaster University,
+   2009-10).
+NR 34
+TC 0
+Z9 0
+U1 0
+U2 5
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2015
+VL 25
+IS 2
+BP 218
+EP 234
+DI 10.1080/03906701.2015.1039264
+PG 17
+WC Sociology
+SC Sociology
+GA CV7XS
+UT WOS:000364490900003
+DA 2021-03-31
+ER
+
+PT J
+AU Crespi, I
+   Ruspini, E
+AF Crespi, Isabella
+   Ruspini, Elisabetta
+TI Transition to fatherhood: New perspectives in the global context of
+   changing men's identities INTRODUCTION
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Editorial Material
+DE gender; men; masculinity; fatherhood; transition to fatherhood
+AB The proposed thematic session aims to highlight the main challenges that the cultural and structural changes within the families and in gender relations and the changing social expectations about men's involvement in the care of children and about fatherhood pose to men's and fathers' identity. Fathering in contemporary society requires men to be simultaneously provider, guide, household help and nurturer. The difficulties of these roles, and the tensions they sometimes produce, challenge men's relationships with their female partners, the meaning and place of work in their lives and their sense of self as competent adults. We will also explore the relationship between transitions to fatherhoods and the challenges of balancing work and family obligations. How to balance paid work, other interests and relationships with responsibilities, anxieties and pleasures of childrearing are today concerns for both men and women.
+C1 [Crespi, Isabella] Univ Macerata, Dept Educ Cultural Heritage & Tourism, Macerata, MC, Italy.
+   Univ Milano Bicocca, Dept Sociol & Social Res, Milan, Italy.
+RP Crespi, I (corresponding author), Univ Macerata, Dept Educ Cultural Heritage & Tourism, Macerata, MC, Italy.
+EM Isabella.crespi@unimc.it
+RI Crespi, Isabella/AAB-8344-2021; Ruspini, Elisabetta/AAH-7968-2019
+OI Crespi, Isabella/0000-0001-9443-8385; Ruspini,
+   Elisabetta/0000-0003-1251-751X
+NR 22
+TC 14
+Z9 14
+U1 1
+U2 5
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2015
+VL 25
+IS 3
+BP 353
+EP 358
+DI 10.1080/03906701.2015.1078529
+PG 6
+WC Sociology
+SC Sociology
+GA DV6NW
+UT WOS:000383054700001
+DA 2021-03-31
+ER
+
+PT J
+AU Keizer, R
+AF Keizer, Renske
+TI Which men become involved fathers? The impact of men's own attitudes on
+   paternal involvement in the Netherlands
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE paternal involvement; gender role attitudes; identity; parenthood status
+   salience; transition to parenthood
+ID UNPAID WORK; CHILD-CARE; FAMILIES; IDENTITY; TIME
+AB Using data from the first two waves of the Netherlands Kinship Panel Study, I examine to what extent men's own attitudes explain their paternal involvement after the transition into parenthood. This study moves beyond previous work by incorporating multiple dimensions of paternal involvement, by unravelling issues of causality regarding the measurements of attitudes and behaviour and by taking important father, mother, and child characteristics into account. In line with my expectations, the results show that men with more egalitarian gender role attitudes and higher scores on parenthood status salience are more (relatively) more involved in childcare tasks. However, results vary depending on the outcome measure studied. First, my finding reveal that men with more egalitarian gender role attitudes and higher scores on parenthood status salience spend more time (in absolute terms) on playing with their child, but the strength of this association depends on the age of the child. Furthermore, only men with more egalitarian gender role attitudes are relatively more involved in physical and logistic tasks. Both men with more egalitarian gender role attitudes and men with higher scores on parenthood status salience are relatively more involved in child care tasks labelled as 'responsibility'.
+C1 [Keizer, Renske] Erasmus Univ, Fac Social Sci, Dept Sociol, Rotterdam, Netherlands.
+RP Keizer, R (corresponding author), Erasmus Univ, Fac Social Sci, Dept Sociol, Rotterdam, Netherlands.
+EM Keizer@fsw.eur.nl
+NR 45
+TC 3
+Z9 3
+U1 0
+U2 8
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2015
+VL 25
+IS 3
+BP 359
+EP 372
+DI 10.1080/03906701.2015.1078531
+PG 14
+WC Sociology
+SC Sociology
+GA DV6NW
+UT WOS:000383054700002
+DA 2021-03-31
+ER
+
+PT J
+AU Schmidt, EM
+   Rieder, I
+   Zartler, U
+   Schadler, C
+   Richter, R
+AF Schmidt, Eva-Maria
+   Rieder, Irene
+   Zartler, Ulrike
+   Schadler, Cornelia
+   Richter, Rudolf
+TI Parental constructions of masculinity at the transition to parenthood:
+   the division of parental leave among Austrian couples
+SO INTERNATIONAL REVIEW OF SOCIOLOGY-REVUE INTERNATIONALE DE SOCIOLOGIE
+LA English
+DT Article
+DE Parental leave; gendered division of labour; fatherhood; joint
+   constructions of masculinity; hegemonic masculinity; multiple
+   perspectives
+ID GENDER EQUALITY; CHILD-CARE; FATHERS USE; MEN
+AB Men and masculinity are considered a key factor in changing gender inequality at the transition to parenthood. Prior research on gendered division of parental leave concentrated on fathers' perspectives. This paper includes perspectives of fathers and mothers who make use of parental leave in different ways and asks how masculinity is jointly constructed, how these constructions are linked to the use of parental leave, and if and how they are oriented towards hegemonic masculinity. The analysis is based on 44 qualitative interviews with 11 Austrian couples before and after birth when decisions concerning parental leave were made. Our case reconstructions reveal that parents considered parental leave a central element of masculinity as long as it suited fathers' needs and circumstances permitted. The decisions for sharing parental leave were father-centred as both partners valued father's leave higher than mother's.
+C1 [Schmidt, Eva-Maria; Rieder, Irene; Zartler, Ulrike; Richter, Rudolf] Univ Vienna, Dept Sociol, Vienna, Austria.
+   [Schadler, Cornelia] Univ Munich, Dept Sociol, Munich, Germany.
+RP Schmidt, EM (corresponding author), Univ Vienna, Dept Sociol, Vienna, Austria.
+EM eva-maria.schmidt@univie.ac.at
+RI Schadler, Cornelia/ABB-7572-2020
+OI Schadler, Cornelia/0000-0002-5068-4573; Schmidt,
+   Eva-Maria/0000-0003-2309-249X
+NR 50
+TC 8
+Z9 8
+U1 1
+U2 8
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0390-6701
+EI 1469-9273
+J9 INT REV SOCIOL
+JI Int. Rev. Sociol.
+PY 2015
+VL 25
+IS 3
+BP 373
+EP 386
+DI 10.1080/03906701.2015.1078532
+PG 14
+WC Sociology
+SC Sociology
+GA DV6NW
+UT WOS:000383054700003
+DA 2021-03-31
+ER
+
+EF

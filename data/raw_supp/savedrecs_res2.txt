@@ -1,0 +1,1586 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Landwerlin, GM
+AF Meil Landwerlin, Gerardo
+TI Consequences of the beanpole kin structure on interchanges among
+   generations
+SO REVISTA INTERNACIONAL DE SOCIOLOGIA
+LA Spanish
+DT Article
+DE beanpole kin structure; family contacts; family networks; family
+   solidarity; family support
+AB This article analyzes the effects of the number of siblings and their sex composition as well as other indicators of individualization which are intertwined with the development of a beanpole type kin structure on interchanges among generations in Spain. The effects of this development varies according to the point of view adopted, the parents one or that of the adult children. Though this development increases the probability not to have daughters, there are no clear signs of a weakening of intergenerational ties derived from the development of a beanpole type kin structure. The biggest threat for the density of intergenerational relationships derives not as much from this development, but from the geographical dispersion of the generations caused by the lack of professional and employment opportunities for the younger generations.
+C1 Univ Autonoma Madrid, E-28049 Madrid, Spain.
+RP Landwerlin, GM (corresponding author), Univ Autonoma Madrid, E-28049 Madrid, Spain.
+EM gerardo.meil@uam.es
+RI meil, gerardo/L-2793-2013
+OI meil, gerardo/0000-0002-4880-5137
+NR 27
+TC 0
+Z9 0
+U1 2
+U2 4
+PU CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS
+PI MADRID
+PA VITRUVIO 8, 28006 MADRID, SPAIN
+SN 0034-9712
+J9 REV INT SOCIOL
+JI Rev. Int. Sociol.
+PD SEP-DEC
+PY 2007
+VL 65
+IS 48
+BP 9
+EP 31
+PG 23
+WC Sociology
+SC Sociology
+GA 303DO
+UT WOS:000256020300001
+OA DOAJ Gold
+DA 2021-03-31
+ER
+
+PT J
+AU Bernardi, F
+AF Bernardi, Fabrizio
+TI Social mobility and family dynamics - An application to the analysis of
+   residential independence in Spain
+SO REVISTA INTERNACIONAL DE SOCIOLOGIA
+LA Spanish
+DT Article
+DE aspirations; class of origin; event history analysis; youth
+AB The aim of this paper is to integrate some of the contributions of studies on social mobility and family dynamics in order to explain the transition to residential independence in Spain. The explanatory model focuses, on the one hand, on Easterlin's work on the conflicts between aspirations and resources and, on the other hand, on some key assumptions of theories of the inequality of educational opportunities (Boudon; Breen). One of the hypotheses implied by this explanatory model is that individuals will leave parental home not before they have achieved a socio-economic position at least similar to that of the their family of origins. This hypothesis has been tested by means of two analyses. First, I compare the youth socio-economic position with that of their parents and study the relationship between the aggregate rate of social mobility and the median age of emancipation by cohort. Second, by means of an event history analysis, I investigate how the experience of social mobility affects the likelihood of the transition to residential independence at the individual level, I use data from the Socio-demographic Survey and Labour Force Surveys for different years.
+C1 Univ Nacl Educ Distancia, Dept Sociol, E-28040 Madrid, Spain.
+RP Bernardi, F (corresponding author), Univ Nacl Educ Distancia, Dept Sociol, E-28040 Madrid, Spain.
+EM fbernardi@poli.uned.es
+NR 39
+TC 5
+Z9 5
+U1 0
+U2 7
+PU CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS
+PI MADRID
+PA VITRUVIO 8, 28006 MADRID, SPAIN
+SN 0034-9712
+J9 REV INT SOCIOL
+JI Rev. Int. Sociol.
+PD SEP-DEC
+PY 2007
+VL 65
+IS 48
+BP 33
+EP 54
+PG 22
+WC Sociology
+SC Sociology
+GA 303DO
+UT WOS:000256020300002
+OA DOAJ Gold
+DA 2021-03-31
+ER
+
+PT J
+AU Gamundi, PM
+AF Miret Gamundi, Pau
+TI Are cohabiting and being married different? Comparing 1991 and 2001
+   Spanish population censuses
+SO REVISTA INTERNACIONAL DE SOCIOLOGIA
+LA Spanish
+DT Article
+DE censuses; cohabitation; partnership; Spain; youth
+AB The objective of this paper is to establish whether there are socio-demographic differences between young couples who are cohabiting and those who are married in Spain. Data sources are the 1991 and 2001 population censuses. The age range is 20-39 years. As the dependent variable is 6 binary variable (cohabiting versus being married), logistic regression will be used for the analysis. A separate model for each sex and for each year is estimated. Based on the results, it is observed that on average cohabitors have different characteristics than those who are married. Cohabiting couples have fewer children, are younger and show a higher age gap between the partners. Consensual unions are more likely to rent a dwellings They present a higher proportion where just the woman is working or both partners are not working. They also have higher educational attainment and greater educational differences between the partners. While the structure of the cohabiting population has changed substantially between 1991 and 2001, the model has not.
+C1 Univ Autonoma Barcelona, E-08193 Barcelona, Spain.
+RP Gamundi, PM (corresponding author), Univ Autonoma Barcelona, E-08193 Barcelona, Spain.
+EM Pau.Miret@uab.es
+RI Miret-Gamundi, Pau/A-2386-2009
+OI Miret-Gamundi, Pau/0000-0003-0476-7666
+NR 16
+TC 0
+Z9 0
+U1 0
+U2 1
+PU CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS
+PI MADRID
+PA VITRUVIO 8, 28006 MADRID, SPAIN
+SN 0034-9712
+J9 REV INT SOCIOL
+JI Rev. Int. Sociol.
+PD SEP-DEC
+PY 2007
+VL 65
+IS 48
+BP 55
+EP 74
+PG 20
+WC Sociology
+SC Sociology
+GA 303DO
+UT WOS:000256020300003
+OA DOAJ Gold
+DA 2021-03-31
+ER
+
+PT J
+AU Martinez, JAD
+   Pelaez, AL
+AF Diaz Martinez, Jose Antonio
+   Lopez Pelaez, Antonio
+TI Cloning, transgenic food and public opinion in Spain
+SO REVISTA INTERNACIONAL DE SOCIOLOGIA
+LA Spanish
+DT Article
+DE genetically modified cultures; genetic tests; informed public;
+   scientific culture
+AB In this paper we are going to analyze the Spanish public opinion about the Biotechnological innovation in the European context (particularly in the field of transgenic foods and cloning). The scientific journalism as mediators and the differentiation between what can be referred to as the "informed public" or "epistemological leaders" and the rest of the population were the starting point for our research on the impact of news related to biotechnological advances. For that reason, we present the results of our investigation on social construction of the public image of science, taking in consideration the activity of the scientific journalists and the role that the informed public opinion plays. From there, we will establish a set of, strategies for improving the level of scientific-technological education in our complex societies.
+EM jdiaz@poli.uned.es; alopez@poli.uned.es
+RI Pelaez, Antonio Lopez/L-2029-2017; Pelaez, Antonio Lopez/Q-9699-2019
+OI Pelaez, Antonio Lopez/0000-0003-0908-4821; Pelaez, Antonio
+   Lopez/0000-0003-0908-4821
+NR 23
+TC 5
+Z9 5
+U1 0
+U2 4
+PU CONSEJO SUPERIOR INVESTIGACIONES CIENTIFICAS-CSIC
+PI MADRID
+PA VITRUVIO 8, 28006 MADRID, SPAIN
+SN 0034-9712
+EI 1988-429X
+J9 REV INT SOCIOL
+JI Rev. Int. Sociol.
+PD SEP-DEC
+PY 2007
+VL 65
+IS 48
+BP 75
+EP 98
+PG 24
+WC Sociology
+SC Sociology
+GA 303DO
+UT WOS:000256020300004
+OA DOAJ Gold
+DA 2021-03-31
+ER
+
+PT J
+AU Verge, T
+AF Verge, Tania
+TI The strategies of Spanish political parties towards social organizations
+SO REVISTA INTERNACIONAL DE SOCIOLOGIA
+LA Spanish
+DT Article
+DE cartel party; civil society; political competition; political
+   disaffection; social movements
+ID CARTEL
+AB This article analyses the strategies used by the three state-level Spanish political parties (Spanish Socialist Workers' Party, Popular Party and United Left) in relation to civil society and their evolution during the period 1977-2004. It will be shown that competition and co-optation were replaced by different collaboration mechanisms along the 1990s. On the one hand, collaboration might be functional to electoral mobilization and, on the other hand, it facilitates the obtaining of the necessary inputs to elaborate party manifestos. Furthermore, it reinforces parties' credibility before the electorate regarding their commitment to certain social demands. Against the cartel party thesis, access to public financing is compatible with a new rapprochement to society.
+C1 Univ Sussex, Reino Unido, Spain.
+RP Verge, T (corresponding author), Univ Sussex, Reino Unido, Spain.
+EM tverge@hotmail.com
+RI Verge, Tania/E-7169-2013
+OI Verge, Tania/0000-0003-3798-2821
+NR 30
+TC 1
+Z9 1
+U1 0
+U2 2
+PU CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS
+PI MADRID
+PA VITRUVIO 8, 28006 MADRID, SPAIN
+SN 0034-9712
+J9 REV INT SOCIOL
+JI Rev. Int. Sociol.
+PD SEP-DEC
+PY 2007
+VL 65
+IS 48
+BP 99
+EP 120
+PG 22
+WC Sociology
+SC Sociology
+GA 303DO
+UT WOS:000256020300005
+OA DOAJ Gold
+DA 2021-03-31
+ER
+
+PT J
+AU Gallego, RS
+   Rioja, LC
+AF Sampedro Gallego, Rosario
+   Camarero Rioja, Luis
+TI Female entrepreneurs in rural Spain - The failed subject of development
+SO REVISTA INTERNACIONAL DE SOCIOLOGIA
+LA Spanish
+DT Article
+DE family strategies; gender; rural society; Spain
+ID SMALL-BUSINESS SUCCESS; WOMEN; GENDER; SEX
+AB The article aims to present the results of a research on female rural entrepreneurs in Spain conducted during the year 2002, using both statistical and cualitative data. To promote women-ruled enterprises is nowadays one of the main objectives of rural development policies, as it implies to provide more and better employment opportunities for women in rural areas. This is a critical affair in a context of high rural masculinization, as Spanish is. But statistical data show that female entrepreneurs are women in their forties or fifties, ruling quite tradicional family business, and with an educational level far below from their employees. Cualitative research reveals that family responsabilites and loyalties are always present in their access to entrepreneurship and in the daily management of their businesses. The double nature of family bussines-as an employment resource and as a constraint for autonomous development-is discussed, building on previous theory and research on female entrepreneurs.
+C1 [Sampedro Gallego, Rosario] Univ Valladolid, E-47002 Valladolid, Spain.
+   [Camarero Rioja, Luis] Univ Nacl Educ Distancia, E-28040 Madrid, Spain.
+RP Gallego, RS (corresponding author), Univ Valladolid, E-47002 Valladolid, Spain.
+EM sampedro@soc.uva.es; lcamarero@poli.uned.es
+RI Camarero, Luis/K-7881-2014
+OI Camarero, Luis/0000-0001-6665-2069
+NR 60
+TC 4
+Z9 6
+U1 0
+U2 0
+PU CONSEJO SUPERIOR INVESTIGACIONES CIENTIFICAS-CSIC
+PI MADRID
+PA VITRUVIO 8, 28006 MADRID, SPAIN
+SN 0034-9712
+EI 1988-429X
+J9 REV INT SOCIOL
+JI Rev. Int. Sociol.
+PD SEP-DEC
+PY 2007
+VL 65
+IS 48
+BP 121
+EP 146
+PG 26
+WC Sociology
+SC Sociology
+GA 303DO
+UT WOS:000256020300006
+OA DOAJ Gold
+DA 2021-03-31
+ER
+
+PT J
+AU Gomez, TG
+AF Garcia Gomez, Teresa
+TI Profesional endogamy in teaching profession in Spain
+SO REVISTA INTERNACIONAL DE SOCIOLOGIA
+LA Spanish
+DT Article
+DE couples of the same profession; gender; headship; positions of
+   responsibility; sexual division of labour
+AB This article depicts a study of the professional endogamy within the sphere of teaching, which has been barely examined in Spain. It also illustrates how marriages inside this professional area (focussing on primary education) imitate the sexual division remaining in the family circle in the educational establishments. Thus, making it more difficult for school mistresses to attain a managerial position, This conclusion has been reached after analysing in depth the information obtained by using qualitative and quantitative techniques.
+EM tgarcia@ual.es
+NR 24
+TC 0
+Z9 0
+U1 0
+U2 1
+PU CONSEJO SUPERIOR INVESTIGACIONES CIENTIFICAS-CSIC
+PI MADRID
+PA VITRUVIO 8, 28006 MADRID, SPAIN
+SN 0034-9712
+EI 1988-429X
+J9 REV INT SOCIOL
+JI Rev. Int. Sociol.
+PD SEP-DEC
+PY 2007
+VL 65
+IS 48
+BP 147
+EP 171
+PG 25
+WC Sociology
+SC Sociology
+GA 303DO
+UT WOS:000256020300007
+OA DOAJ Gold
+DA 2021-03-31
+ER
+
+PT J
+AU Olmos, JCC
+   Garrido, AA
+AF Checa Olmos, Juan Carlos
+   Arjona Garrido, Angeles
+TI Explanatory factors of the inmigrant residential segregation in Almeria
+SO REVISTA INTERNACIONAL DE SOCIOLOGIA
+LA Spanish
+DT Article
+DE discrimination; immigration; preferences; residential market;
+   segregation
+ID SPATIAL MISMATCH HYPOTHESIS; SOCIOECONOMIC-STATUS; ETHNIC SEGREGATION;
+   AMERICAN-CITIES; BLACKS; MODEL; CITY; RACE
+AB This article studies the importance of international theoretical and empirical analyses in order to explain residential segregation of foreign immigrants in one of the most multi-ethnic areas of Spain, the province of Almeria. To find out the processes leading to segregation, we have analysed urban growth and the context of reception as the key elements in designing immigrant incorporation. The results show that the main cause of segregation is ethno-discrimination based on native residential preferences for the endogroup.
+EM jcheca@ual.es; arjona@ual.es
+NR 96
+TC 18
+Z9 21
+U1 0
+U2 7
+PU CONSEJO SUPERIOR INVESTIGACIONES CIENTIFICAS-CSIC
+PI MADRID
+PA VITRUVIO 8, 28006 MADRID, SPAIN
+SN 0034-9712
+EI 1988-429X
+J9 REV INT SOCIOL
+JI Rev. Int. Sociol.
+PD SEP-DEC
+PY 2007
+VL 65
+IS 48
+BP 173
+EP 200
+PG 28
+WC Sociology
+SC Sociology
+GA 303DO
+UT WOS:000256020300008
+OA DOAJ Gold
+DA 2021-03-31
+ER
+
+PT J
+AU Seron, AG
+AF Guerrero Seron, Antonio
+TI The double contribution of sociology to teacher training
+SO REVISTA INTERNACIONAL DE SOCIOLOGIA
+LA Spanish
+DT Article
+DE critical Pedagogy; Durkheim; educational comparative policies;
+   educational sciencies; gender; pedagogical; formalism and realism;
+   teacher training
+AB The aim of this paper is to analyse the two contributions provided by sociology to teacher training, with the purpose of, just going deeper on this analysis, to obtain some relevant improvements in this training; something specially recommended by now, at times of crisis and changes. According to the first of these contributions, Sociology, based on its own conceptual framework, is acting as a tool for sociohistorical analysis, able enough to critically trace the origins of the present reallity in social proccessus and institutions of a freshly past. The paper tryes some explanations about class and gender inequalities at the context of educational policies carded out by the different spanish governments and political regimes, along the period of existence of our educational system. The second of the contributions is the very presence of sociology as a subject at the teacher training curriculum and following Durkheim proposition of sociology as the main Science of Education, Pedagogy and Psychology included. Once again, classic authors came about as another example of the hidden potential of Sociology to identify and criticised Pedagogy formalism, for instance. Finally, several consequences are formulated in order to improve teaching and research in the teacher training field.
+C1 Univ Complutense Madrid, E-28040 Madrid, Spain.
+RP Seron, AG (corresponding author), Univ Complutense Madrid, E-28040 Madrid, Spain.
+EM aguese@edu.ucm.es
+NR 17
+TC 1
+Z9 1
+U1 0
+U2 2
+PU CONSEJO SUPERIOR INVESTIGACIONES CIENTIFICAS-CSIC
+PI MADRID
+PA VITRUVIO 8, 28006 MADRID, SPAIN
+SN 0034-9712
+EI 1988-429X
+J9 REV INT SOCIOL
+JI Rev. Int. Sociol.
+PD SEP-DEC
+PY 2007
+VL 65
+IS 48
+BP 203
+EP 220
+PG 18
+WC Sociology
+SC Sociology
+GA 303DO
+UT WOS:000256020300009
+OA DOAJ Gold
+DA 2021-03-31
+ER
+
+PT J
+AU Lanquar, R
+AF Lanquar, Robert
+TI Tourism, migrations and co-development
+SO REVISTA INTERNACIONAL DE SOCIOLOGIA
+LA Spanish
+DT Article
+DE development; geographical movility; globalization; transnational
+   migrations
+AB Tourism is one of the first economic activities in the world generating directly and indirectly between the 10 and 12% of world wealth. Its successes have hidden during a long time its social impacts and negative effects on environment, also hiding the narrow and intense relations that occur between tourism and migrations. Be enough with indicating that emigrants coming from the South or the European East usually use a tourist visa to reach their "promised land". Immigrants coming from the North -more and more numerous- are, often, tourists who decide to remain in the place where they have chosen to visit. In the global context it is necessary to analyse the relations between tourism and migration, and the way as tourism could integrate the migratory phenomenon in its sociopolitical dimension from the principles of codevelopment. The author suggests leaning more in the eyes of the sociologist and the political analyst to evaluate the new subjects that affect tourism, such as the implications of social mobility/migration, the free circulation of people and their impact on both developing and developed societies.
+EM robertlanquar@yahoo.es
+NR 53
+TC 4
+Z9 4
+U1 0
+U2 11
+PU CONSEJO SUPERIOR INVESTIGACIONES CIENTIFICAS-CSIC
+PI MADRID
+PA VITRUVIO 8, 28006 MADRID, SPAIN
+SN 0034-9712
+EI 1988-429X
+J9 REV INT SOCIOL
+JI Rev. Int. Sociol.
+PD SEP-DEC
+PY 2007
+VL 65
+IS 48
+BP 221
+EP 241
+PG 21
+WC Sociology
+SC Sociology
+GA 303DO
+UT WOS:000256020300010
+OA DOAJ Gold
+DA 2021-03-31
+ER
+
+PT J
+AU Desrues, T
+AF Desrues, Thierry
+TI Spanish-Morrocan relations: neighbourhood under construction
+SO REVISTA INTERNACIONAL DE SOCIOLOGIA
+LA Spanish
+DT Book Review
+C1 [Desrues, Thierry] Inst Estudios Sociales Avanzados, Cordoba, Spain.
+RP Desrues, T (corresponding author), Inst Estudios Sociales Avanzados, Cordoba, Spain.
+RI Desrues, Thierry/N-2165-2019
+OI Desrues, Thierry/0000-0002-7097-405X
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS
+PI MADRID
+PA VITRUVIO 8, 28006 MADRID, SPAIN
+SN 0034-9712
+J9 REV INT SOCIOL
+JI Rev. Int. Sociol.
+PD SEP-DEC
+PY 2007
+VL 65
+IS 48
+BP 245
+EP 246
+PG 2
+WC Sociology
+SC Sociology
+GA 303DO
+UT WOS:000256020300011
+OA DOAJ Gold
+DA 2021-03-31
+ER
+
+PT J
+AU Garcia, RV
+AF Vazquez Garcia, Rafael
+TI The green left
+SO REVISTA INTERNACIONAL DE SOCIOLOGIA
+LA Spanish
+DT Book Review
+C1 [Vazquez Garcia, Rafael] Univ Granada, Dpto Ciencia Polit & Adm, E-18071 Granada, Spain.
+RP Garcia, RV (corresponding author), Univ Granada, Dpto Ciencia Polit & Adm, E-18071 Granada, Spain.
+RI GARCIA, RAFAEL VAZQUEZ/Z-4136-2019; GARCIA, RAFAEL VAZQUEZ/J-8595-2018
+OI GARCIA, RAFAEL VAZQUEZ/0000-0001-8876-474X
+NR 10
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS
+PI MADRID
+PA VITRUVIO 8, 28006 MADRID, SPAIN
+SN 0034-9712
+J9 REV INT SOCIOL
+JI Rev. Int. Sociol.
+PD SEP-DEC
+PY 2007
+VL 65
+IS 48
+BP 247
+EP 254
+PG 8
+WC Sociology
+SC Sociology
+GA 303DO
+UT WOS:000256020300012
+OA DOAJ Gold
+DA 2021-03-31
+ER
+
+PT J
+AU Cordoba, RC
+AF Cejudo Cordoba, Rafael
+TI Capabilities and freedom - An approximation to Amartya Sen's theory
+SO REVISTA INTERNACIONAL DE SOCIOLOGIA
+LA Spanish
+DT Article
+DE entitlement; human development; republicanism; well-being
+AB This paper explains Amartya Sen's capabilities approach as a way of unifying most of his social philosophy. Capabilites are defined as the opportunities to enjoy several ways of life, and they provide the notion of aggregate welfare used in Human Development Reports of the United Nations Development Programme. Besides, capabilities approach provides a theory of liberty that I have called freedom as capability. In this way, Sen's researches on famines and development, social choice and rights converge in a notion of freedom which is consistent with cultural differences. This concept is nor the liberal one neither the liberty as non-domination of republicanism, and Sen makes use of it in his defence of social welfare policies.
+C1 Univ Cordoba, E-14071 Cordoba, Spain.
+RP Cordoba, RC (corresponding author), Univ Cordoba, E-14071 Cordoba, Spain.
+EM rafael.cejudo@uco.es
+RI Cejudo, Rafael/K-3368-2014
+OI Cejudo, Rafael/0000-0003-1184-6258
+NR 27
+TC 20
+Z9 24
+U1 0
+U2 8
+PU CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS
+PI MADRID
+PA VITRUVIO 8, 28006 MADRID, SPAIN
+SN 0034-9712
+J9 REV INT SOCIOL
+JI Rev. Int. Sociol.
+PD MAY-AUG
+PY 2007
+VL 65
+IS 47
+BP 9
+EP 22
+PG 14
+WC Sociology
+SC Sociology
+GA 303DN
+UT WOS:000256020200001
+OA DOAJ Gold
+DA 2021-03-31
+ER
+
+PT J
+AU Pecourt, J
+AF Pecourt, Juan
+TI The intellectual and the cultural field - A comment on Bourdieu
+SO REVISTA INTERNACIONAL DE SOCIOLOGIA
+LA Spanish
+DT Editorial Material
+DE intellectual space; intellectual power; political field; political
+   space; sociology of intellectuals
+AB Within the field of the sociology of intellectuals there are many works dealing with the relationship between politics and the intelligentsia. In the past few years, Bourdieu's Work has pushed it again to the frontline. In this article, therefore, I shall argue that some of the theoretical instruments provided by the author of Distinction may help to analyse systematically and with some precision the connections between the field of specialised cultural production and the political field. Later on, I shall also argue that, although Bourdieu's work clarifies key aspects of this. relationship, at some points his conceptual framework seems to be somehow problematic. Making use of other authors, such as Max Weber and Quentin Skinner, I shall elaborate an interpretation of the connections between cultural producers and the political debate that challenges some of the central elements sustaining the bourdieuan vision.
+C1 Univ Catolica Valencia, Valencia, Spain.
+RP Pecourt, J (corresponding author), Univ Catolica Valencia, Valencia, Spain.
+EM juan.pecourt@ucv.es
+NR 30
+TC 2
+Z9 2
+U1 0
+U2 3
+PU CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS
+PI MADRID
+PA VITRUVIO 8, 28006 MADRID, SPAIN
+SN 0034-9712
+J9 REV INT SOCIOL
+JI Rev. Int. Sociol.
+PD MAY-AUG
+PY 2007
+VL 65
+IS 47
+BP 23
+EP 43
+PG 21
+WC Sociology
+SC Sociology
+GA 303DN
+UT WOS:000256020200002
+OA DOAJ Gold
+DA 2021-03-31
+ER
+
+PT J
+AU Requena, AT
+   Castillo, AMJ
+AF Trinidad Requena, Antonio
+   Jaime Castillo, Antonio M.
+TI Meta-analysis of qualitative research - The case of the evaluation of
+   the National Plan for Evaluation and Quality of Universities in Spain
+SO REVISTA INTERNACIONAL DE SOCIOLOGIA
+LA Spanish
+DT Article
+DE complementary methods; correspondence analysis; grounded theory;
+   multidimensional staling; validation
+AB Evaluation has achieved a important role at Spanish Universities, since the National Plan for Evaluation and Quality of Universities (PNECU) was passed in 1995 in Spain. In this paper we make an examination of the evaluation processes in place at Spanish Universities, using a qualitative methodology for the analysis of the information given by the same agency in charge of evaluation at each University. After that, we perform a meta-analysis of the qualitative codes found in the early stage of the research process, using quantitative techniques such as correspondence analysis and multidimensional scaling. The findings confirm that we can not,speak about one evaluation model, but there is a huge variety of evaluation models, because of the diversity in the organizational structure of the Spanish Universities. On the other hand, institutional support is one of the key variables in order to understand the evaluation model in place, and the extent to which there is a feedback at the University' management.
+C1 [Trinidad Requena, Antonio; Jaime Castillo, Antonio M.] Univ Granada, E-18071 Granada, Spain.
+RP Requena, AT (corresponding author), Univ Granada, E-18071 Granada, Spain.
+EM atrinida@ugr.es; amjaime@ugr.es
+RI Requena, Antonio Trinidad/K-7517-2017
+OI Requena, Antonio Trinidad/0000-0002-3075-0983
+NR 24
+TC 0
+Z9 0
+U1 0
+U2 2
+PU CONSEJO SUPERIOR INVESTIGACIONES CIENTIFICAS-CSIC
+PI MADRID
+PA VITRUVIO 8, 28006 MADRID, SPAIN
+SN 0034-9712
+EI 1988-429X
+J9 REV INT SOCIOL
+JI Rev. Int. Sociol.
+PD MAY-AUG
+PY 2007
+VL 65
+IS 47
+BP 45
+EP 71
+PG 27
+WC Sociology
+SC Sociology
+GA 303DN
+UT WOS:000256020200003
+OA DOAJ Gold
+DA 2021-03-31
+ER
+
+PT J
+AU Brunet, I
+   Alarcon, A
+AF Brunet, Ignasi
+   Alarcon, Amado
+TI Quality and human resources in hotel sector in Catalonia
+SO REVISTA INTERNACIONAL DE SOCIOLOGIA
+LA Spanish
+DT Article
+DE teamwork; total quality management; quality control
+AB This paper analyzes the relationship between Quality Management and Human Resources, from the standpoint of a research undertaken in Catalonia. The research has consisted in confronting the new style of management that is derived from Total Quality Management. This model of management stresses the need for caring the most valuable resource of a company: Human Resources. The reason for that is the need for achieving a greater degree of integration and identification of the worker to the company, in the pursuing of increases of productivity, both individual and organisational, that increases competitiveness, as one of the aspects that characterises Total Quality Management is its preoccupation for the vinculation of the Human resources area to organisational results, in order to justify in, which measure this is adding value.
+C1 [Brunet, Ignasi; Alarcon, Amado] Univ Rovira & Virgili, Tarragona, Spain.
+RP Brunet, I (corresponding author), Univ Rovira & Virgili, Tarragona, Spain.
+EM ibic@fcee.urv.es; amaa@fcee.urv.es
+RI Alarcon, Amado Alarcon/P-2032-2015
+OI Alarcon, Amado Alarcon/0000-0003-4640-2681
+NR 10
+TC 7
+Z9 7
+U1 0
+U2 2
+PU CONSEJO SUPERIOR INVESTIGACIONES CIENTIFICAS-CSIC
+PI MADRID
+PA VITRUVIO 8, 28006 MADRID, SPAIN
+SN 0034-9712
+EI 1988-429X
+J9 REV INT SOCIOL
+JI Rev. Int. Sociol.
+PD MAY-AUG
+PY 2007
+VL 65
+IS 47
+BP 73
+EP 98
+PG 26
+WC Sociology
+SC Sociology
+GA 303DN
+UT WOS:000256020200004
+OA DOAJ Gold
+DA 2021-03-31
+ER
+
+PT J
+AU Echavarren, JM
+AF Manuel Echavarren, Jose
+TI Socioeconomic aspects of environmental impact asses
+SO REVISTA INTERNACIONAL DE SOCIOLOGIA
+LA Spanish
+DT Article
+DE development; landscape; nature; public participation; techniques
+AB This article reviews the methodology and background of the socioeconomic dimension in environment impact evaluations. This text examines the pertinence of Social Sciences in the study of environmental assessment. Likewise, the article deals with the main techniques applied to this field. Special attention is drawn to the concept and research of landscape as a social factor of environment as, well as to public participation in the processes of Environmental Impact Assessment research.
+EM jmanuel.ehavarren@centrodeestudiosandaluces.es
+NR 33
+TC 5
+Z9 6
+U1 1
+U2 4
+PU CONSEJO SUPERIOR INVESTIGACIONES CIENTIFICAS-CSIC
+PI MADRID
+PA VITRUVIO 8, 28006 MADRID, SPAIN
+SN 0034-9712
+EI 1988-429X
+J9 REV INT SOCIOL
+JI Rev. Int. Sociol.
+PD MAY-AUG
+PY 2007
+VL 65
+IS 47
+BP 99
+EP 116
+PG 18
+WC Sociology
+SC Sociology
+GA 303DN
+UT WOS:000256020200005
+OA DOAJ Gold
+DA 2021-03-31
+ER
+
+PT J
+AU Alaguero, AZ
+AF Zurdo Alaguero, Angel
+TI The corporative dimension of the third sector - The different kinds of
+   voluntary sector organizations
+SO REVISTA INTERNACIONAL DE SOCIOLOGIA
+LA Spanish
+DT Article
+DE displacement of objectives; formal rationality; management; mutualism;
+   non profit sector; voluntary organizations
+AB The present article analyses the principal forms of organization that are linked to the participative practice of the voluntary sector, paying especial attention to the "hetero-aid" and the-"mutualism". Likewise, it analyses in depth the conflict between formal and substantive rationality that exists in the voluntary organizations. The present study also emphasizes the progressive prevalence of the formal rationality, especially in the organization dynamics linked to the management. Finally, this analysis proposes the existence of another critical problem for the voluntary organizations, the displacement of objectives.
+C1 Univ Alcala de Henares, Alcala De Henares 99775, Spain.
+RP Alaguero, AZ (corresponding author), Univ Alcala de Henares, Alcala De Henares 99775, Spain.
+EM angel.zurdo@uah.es
+NR 72
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS
+PI MADRID
+PA VITRUVIO 8, 28006 MADRID, SPAIN
+SN 0034-9712
+J9 REV INT SOCIOL
+JI Rev. Int. Sociol.
+PD MAY-AUG
+PY 2007
+VL 65
+IS 47
+BP 117
+EP 143
+PG 27
+WC Sociology
+SC Sociology
+GA 303DN
+UT WOS:000256020200006
+OA DOAJ Gold
+DA 2021-03-31
+ER
+
+PT J
+AU Domingo, JO
+AF Ocon Domingo, Jose
+TI Adoption and the revealing process in andalusia
+SO REVISTA INTERNACIONAL DE SOCIOLOGIA
+LA Spanish
+DT Article
+AB The changes on the family concept in Spain have also affected the adoption. It-could be underlined the opening and social recognition of the adoptive family, in contrast with the traditional obscurantism and excessive secrecy. To abandon the anonymity and to improve the viability of these families, revealing the child about their adoptive condition and their origin has a capital importance. So this process has been, among others, the main topic of our researching (of qualitative nature) of seven andalusian families (four of national adoption and three internationals), that adopted their child between 1996 and 2000. First we have studied the information that the adoptive families have about their child and other aspects related to when, how and who was involved in the revealing process. Following to this, we have described the reactions of the adopted child and, finally, the paternal opinions before the possibility of their child being interested in investigating and meet their origins.
+C1 Univ Granada, E-18071 Granada, Spain.
+RP Domingo, JO (corresponding author), Univ Granada, E-18071 Granada, Spain.
+EM joseocon@ugr.es
+NR 31
+TC 1
+Z9 1
+U1 0
+U2 1
+PU CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS
+PI MADRID
+PA VITRUVIO 8, 28006 MADRID, SPAIN
+SN 0034-9712
+J9 REV INT SOCIOL
+JI Rev. Int. Sociol.
+PD MAY-AUG
+PY 2007
+VL 65
+IS 47
+BP 145
+EP 171
+PG 27
+WC Sociology
+SC Sociology
+GA 303DN
+UT WOS:000256020200007
+OA DOAJ Gold
+DA 2021-03-31
+ER
+
+PT J
+AU Frosini, F
+AF Frosini, Fabio
+TI Gramsci and society - From the critique of Marxist sociology to the
+   science of politics
+SO REVISTA INTERNACIONAL DE SOCIOLOGIA
+LA Spanish
+DT Article
+DE force relations; ideology; language; philosophy; regularity/necessity
+AB In the Prison Notebooks there is a critique of sociology that leads to the elaboration of a "science of politics". In this essay, it is argued how this critique -that starts off as political intervention in the context of the Third International- is related to the main points of Gramsci's reflection, as the relationship between theory and politics (and the status of theory), and between philosophy and ideology, the concepts of historical necessity, law and science. It is shown how the result of the research is not, for Gramsci, mainly the rebuttal of the idea of a social legality, but the redefinition of the law in terms of "regularity", a notion in which political will and economic necessity are synthesised.
+C1 Univ Urbino, I-61029 Urbino, Italy.
+RP Frosini, F (corresponding author), Univ Urbino, I-61029 Urbino, Italy.
+EM fabio.frosini@uniurb.it
+NR 52
+TC 3
+Z9 3
+U1 0
+U2 2
+PU CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS
+PI MADRID
+PA VITRUVIO 8, 28006 MADRID, SPAIN
+SN 0034-9712
+J9 REV INT SOCIOL
+JI Rev. Int. Sociol.
+PD MAY-AUG
+PY 2007
+VL 65
+IS 47
+BP 179
+EP 199
+PG 21
+WC Sociology
+SC Sociology
+GA 303DN
+UT WOS:000256020200008
+OA DOAJ Gold
+DA 2021-03-31
+ER
+
+PT J
+AU Garcia, JL
+AF Luis Garcia, Jose
+TI Declinations of religion in modernity
+SO REVISTA INTERNACIONAL DE SOCIOLOGIA
+LA Spanish
+DT Article
+DE civil religion; market; political community; secular religion;
+   technology
+AB This article analyses the metamorphoses of the religious element in contemporary western societies. Acknowledging the idea that the constitution of a political community implies feelings of union and identification of religious character, I proceed to the definition of the concepts of secular religion, civil religion and political religion. I also argue that a political community, and the legitimisation of power and authority in a democracy, requires secular cults according to the imperatives proper to the formation of an open and cohesive society. Other contemporary cults, like the ones born of the illusions of technology, in the free market and in the trivialities of the mass media, are considered phenomena that render the sacred futile and impoverished.
+C1 Univ Lisbon, Inst Ciencias Sociales, P-1699 Lisbon, Portugal.
+RP Garcia, JL (corresponding author), Univ Lisbon, Inst Ciencias Sociales, P-1699 Lisbon, Portugal.
+EM jlgarcia@ics.ul.pt
+OI Garcia, Jose Luis de Oliveira/0000-0002-9387-9047
+NR 3
+TC 1
+Z9 1
+U1 0
+U2 3
+PU CONSEJO SUPERIOR INVESTIGACIONES CIENTIFICAS-CSIC
+PI MADRID
+PA VITRUVIO 8, 28006 MADRID, SPAIN
+SN 0034-9712
+EI 1988-429X
+J9 REV INT SOCIOL
+JI Rev. Int. Sociol.
+PD MAY-AUG
+PY 2007
+VL 65
+IS 47
+BP 203
+EP 211
+PG 9
+WC Sociology
+SC Sociology
+GA 303DN
+UT WOS:000256020200009
+OA DOAJ Gold
+DA 2021-03-31
+ER
+
+PT J
+AU Giner, S
+AF Giner, Salvador
+TI In memoriam - Angela Lopez
+SO REVISTA INTERNACIONAL DE SOCIOLOGIA
+LA Spanish
+DT Biographical-Item
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 1
+PU CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS
+PI MADRID
+PA VITRUVIO 8, 28006 MADRID, SPAIN
+SN 0034-9712
+J9 REV INT SOCIOL
+JI Rev. Int. Sociol.
+PD MAY-AUG
+PY 2007
+VL 65
+IS 47
+BP 215
+EP 218
+PG 4
+WC Sociology
+SC Sociology
+GA 303DN
+UT WOS:000256020200010
+OA DOAJ Gold
+DA 2021-03-31
+ER
+
+PT J
+AU Eizagirre, A
+AF Eizagirre, Andoni
+TI Designs of nature: Science and democracy in Europe and United States
+SO REVISTA INTERNACIONAL DE SOCIOLOGIA
+LA Spanish
+DT Book Review
+C1 [Eizagirre, Andoni] Univ Basque Country, UPV EHU, CSIC, E-48080 Bilbao, Spain.
+RP Eizagirre, A (corresponding author), Univ Basque Country, UPV EHU, CSIC, E-48080 Bilbao, Spain.
+RI Eizagirre, Andoni AE/L-5235-2014
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 1
+PU CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS
+PI MADRID
+PA VITRUVIO 8, 28006 MADRID, SPAIN
+SN 0034-9712
+J9 REV INT SOCIOL
+JI Rev. Int. Sociol.
+PD MAY-AUG
+PY 2007
+VL 65
+IS 47
+BP 221
+EP 224
+PG 4
+WC Sociology
+SC Sociology
+GA 303DN
+UT WOS:000256020200011
+OA DOAJ Gold
+DA 2021-03-31
+ER
+
+PT J
+AU Moreno, L
+AF Moreno, Luis
+TI Civil society and civil power in Adam Ferguson
+SO REVISTA INTERNACIONAL DE SOCIOLOGIA
+LA Spanish
+DT Book Review
+C1 [Moreno, Luis] CSIC, Unit Polit Comparadas, Madrid, Spain.
+RP Moreno, L (corresponding author), CSIC, Unit Polit Comparadas, Madrid, Spain.
+RI Moreno, Luis/N-1565-2014
+OI Moreno, Luis/0000-0003-0739-165X
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 1
+PU CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS
+PI MADRID
+PA VITRUVIO 8, 28006 MADRID, SPAIN
+SN 0034-9712
+J9 REV INT SOCIOL
+JI Rev. Int. Sociol.
+PD MAY-AUG
+PY 2007
+VL 65
+IS 47
+BP 225
+EP 227
+PG 3
+WC Sociology
+SC Sociology
+GA 303DN
+UT WOS:000256020200012
+OA DOAJ Gold
+DA 2021-03-31
+ER
+
+PT J
+AU Poza, IC
+AF Campillo Poza, Ines
+TI Citizenship and democracy. A republican approach
+SO REVISTA INTERNACIONAL DE SOCIOLOGIA
+LA Spanish
+DT Book Review
+C1 [Campillo Poza, Ines] Univ Computense Madrid, Madrid, Spain.
+RP Poza, IC (corresponding author), Univ Computense Madrid, Madrid, Spain.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS
+PI MADRID
+PA VITRUVIO 8, 28006 MADRID, SPAIN
+SN 0034-9712
+J9 REV INT SOCIOL
+JI Rev. Int. Sociol.
+PD MAY-AUG
+PY 2007
+VL 65
+IS 47
+BP 228
+EP 232
+PG 5
+WC Sociology
+SC Sociology
+GA 303DN
+UT WOS:000256020200013
+OA DOAJ Gold
+DA 2021-03-31
+ER
+
+PT J
+AU Camps, J
+AF Camps, Jaume
+TI The war against boys. How misunderstood feminism is damaging to young
+   boys
+SO REVISTA INTERNACIONAL DE SOCIOLOGIA
+LA Spanish
+DT Book Review
+C1 [Camps, Jaume] Univ Int Catalunya, Inst Estudios Super Familia, Catalunya, Spain.
+RP Camps, J (corresponding author), Univ Int Catalunya, Inst Estudios Super Familia, Catalunya, Spain.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 1
+PU CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS
+PI MADRID
+PA VITRUVIO 8, 28006 MADRID, SPAIN
+SN 0034-9712
+J9 REV INT SOCIOL
+JI Rev. Int. Sociol.
+PD MAY-AUG
+PY 2007
+VL 65
+IS 47
+BP 233
+EP 236
+PG 4
+WC Sociology
+SC Sociology
+GA 303DN
+UT WOS:000256020200014
+OA DOAJ Gold
+DA 2021-03-31
+ER
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Presentation
+SO REVISTA INTERNACIONAL DE SOCIOLOGIA
+LA Spanish
+DT Editorial Material
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CONSEJO SUPERIOR INVESTIGACIONES CIENTIFICAS-CSIC
+PI MADRID
+PA VITRUVIO 8, 28006 MADRID, SPAIN
+SN 0034-9712
+EI 1988-429X
+J9 REV INT SOCIOL
+JI Rev. Int. Sociol.
+PD JAN-APR
+PY 2007
+VL 65
+IS 46
+BP 9
+EP 10
+PG 2
+WC Sociology
+SC Sociology
+GA 298XH
+UT WOS:000255719900001
+OA DOAJ Gold
+DA 2021-03-31
+ER
+
+PT J
+AU Sanchez-Cuenca, I
+AF Sanchez-Cuenca, Ignacio
+TI Cooperation on principle
+SO REVISTA INTERNACIONAL DE SOCIOLOGIA
+LA Spanish
+DT Article
+DE collective action; moral utility; crowding out effect; sacrifice
+ID RATIONAL CHOICE THEORY; INTRINSIC MOTIVATION; COLLECTIVE ACTION;
+   FOUNDATIONS; RECIPROCITY; INCENTIVES
+AB This article analyzes the potential role of moral motivation in collective action. It is suggested that moral motivation works very differently from the social norms of reciprocity that have been studied in behavioral economics. A new utility function, combining the traditional arguments of the literature on collective action and a moral factor, is presented. In moral terms, the agent increases or decreases its utility depending on how much it deviates from the social average level of cooperation. Moral utility may transform the Prisoner's Dilemma into a game more favourable to cooperation. Finally, some implications from the model are drawn with regard to the crowding out effect and the concept of personal sacrifice.
+C1 [Sanchez-Cuenca, Ignacio] Univ Complutense, E-28040 Madrid, Spain.
+   Inst Juan March, Madrid, Spain.
+RP Sanchez-Cuenca, I (corresponding author), Inst Juan March, Madrid, Spain.
+EM pacho@ceacs.march.es
+NR 49
+TC 5
+Z9 5
+U1 0
+U2 1
+PU CONSEJO SUPERIOR INVESTIGACIONES CIENTIFICAS-CSIC
+PI MADRID
+PA VITRUVIO 8, 28006 MADRID, SPAIN
+SN 0034-9712
+EI 1988-429X
+J9 REV INT SOCIOL
+JI Rev. Int. Sociol.
+PD JAN-APR
+PY 2007
+VL 65
+IS 46
+BP 11
+EP 35
+PG 25
+WC Sociology
+SC Sociology
+GA 298XH
+UT WOS:000255719900002
+OA DOAJ Gold
+DA 2021-03-31
+ER
+
+PT J
+AU Jordana, J
+AF Jordana, Jacint
+TI The logic of collective action. The role of public goods production and
+   perception
+SO REVISTA INTERNACIONAL DE SOCIOLOGIA
+LA Spanish
+DT Article
+DE game theory; interest groups; prisoner's dilemma; collective goods;
+   common goods; jointness of supply
+ID PRISONERS-DILEMMA; COMMON GOODS; PROVISION
+AB Public goods having different proprieties produce different problems of collective action. This hypothesis has been discussed from different analytical perspectives and we examine their arguments, aiming to deepen our theoretical understanding about the logic of collective action.In this paperwe look for similarities and differences regarding their use of concepts and expected results. Simultaneously, we examine the link between different public goods and the interdependent behavior of individuals. To this purpose, we also revisit the connections between production functions and consumption types in the case of public goods, as a mean to explore the potential development of more elaborated models in the theory of collective action, and suggest that more empirical contrast of these models is needed. Finally, we argue the'importance for theoretical discussions to include, a discussion about the impact of perception in the collective action models, considering systematic deviations to rational choice,, and conclude that no single theory may address all collective action problems,. but systematic patterns of behavior may be identified and empirically,confirmed.
+C1 Univ Pompeu Fabra, Pompeu, Spain.
+   [Jordana, Jacint] Inst Estudios Internacl Barcelona, Barcelona, Spain.
+RP Jordana, J (corresponding author), Univ Pompeu Fabra, Pompeu, Spain.
+EM jacint.jordana@upf.edu
+RI Jordana, Jacint/C-9097-2014
+OI Jordana, Jacint/0000-0003-2700-6747
+NR 32
+TC 0
+Z9 0
+U1 0
+U2 7
+PU CONSEJO SUPERIOR INVESTIGACIONES CIENTIFICAS-CSIC
+PI MADRID
+PA VITRUVIO 8, 28006 MADRID, SPAIN
+SN 0034-9712
+EI 1988-429X
+J9 REV INT SOCIOL
+JI Rev. Int. Sociol.
+PD JAN-APR
+PY 2007
+VL 65
+IS 46
+BP 37
+EP 61
+PG 25
+WC Sociology
+SC Sociology
+GA 298XH
+UT WOS:000255719900003
+OA DOAJ Gold
+DA 2021-03-31
+ER
+
+PT J
+AU Aguiar, F
+   de Francisco, A
+AF Aguiar, Fernando
+   de Francisco, Andres
+TI Seven thesis about rationality, identity and collective action
+SO REVISTA INTERNACIONAL DE SOCIOLOGIA
+LA Spanish
+DT Article
+DE beliefs; externalism; internalism; rational choice.
+ID CHOICE
+AB In this paper we analyse how two different branches of rational choice theory tackle the relationship between social identity and collective action. On the one hand, externalist rational choice theory ignores the concept of identity or reduces it to revealed-preferences. On the other hand, internalist rational choice theory considers identity as a key concept in explaining collective action, because it permits to include expressive motivations in the models. From an internalist pint of view, the paper ends proposing a definition of social identity as a net of beliefs about oneself.
+C1 [Aguiar, Fernando] CSIC, IESA, Inst Estudios Sociales Avanzados, Cordoba, Spain.
+   [de Francisco, Andres] Univ Complutense, Fac Ciencias Polit & Sociol, E-28040 Madrid, Spain.
+RP Aguiar, F (corresponding author), CSIC, IESA, Inst Estudios Sociales Avanzados, Cordoba, Spain.
+EM faguiar@iesaa.csic.es; adefrancisco@cps.ucm.es
+NR 53
+TC 7
+Z9 7
+U1 0
+U2 4
+PU CONSEJO SUPERIOR INVESTIGACIONES CIENTIFICAS-CSIC
+PI MADRID
+PA VITRUVIO 8, 28006 MADRID, SPAIN
+SN 0034-9712
+EI 1988-429X
+J9 REV INT SOCIOL
+JI Rev. Int. Sociol.
+PD JAN-APR
+PY 2007
+VL 65
+IS 46
+BP 63
+EP 86
+PG 24
+WC Sociology
+SC Sociology
+GA 298XH
+UT WOS:000255719900004
+OA DOAJ Gold
+DA 2021-03-31
+ER
+
+PT J
+AU Vazquez, FH
+AF Herreros Vazquez, Francisco
+TI Trust and cooperation without the state
+SO REVISTA INTERNACIONAL DE SOCIOLOGIA
+LA Spanish
+DT Article
+DE security dilemma; civil war; closed groups; violence
+AB It is usually considered, both in the social capital literature and the literature about trust, that interpersonal trust is a key element in social cooperation. In this article it is analyzed whether trust can foster cooperation in the absence of the State. It is concluded that in this situation it is not possible to form well-grounded expectations about other people's trustworthiness, and, threfore, cooperation is not very likely.
+C1 CSIC, Unidad Polit Comparadas, Madrid, Spain.
+RP Vazquez, FH (corresponding author), CSIC, Unidad Polit Comparadas, Madrid, Spain.
+EM Herreros@ceacs.march.es
+NR 52
+TC 0
+Z9 0
+U1 0
+U2 3
+PU CONSEJO SUPERIOR INVESTIGACIONES CIENTIFICAS-CSIC
+PI MADRID
+PA VITRUVIO 8, 28006 MADRID, SPAIN
+SN 0034-9712
+EI 1988-429X
+J9 REV INT SOCIOL
+JI Rev. Int. Sociol.
+PD JAN-APR
+PY 2007
+VL 65
+IS 46
+BP 87
+EP 105
+PG 19
+WC Sociology
+SC Sociology
+GA 298XH
+UT WOS:000255719900005
+OA DOAJ Gold
+DA 2021-03-31
+ER
+
+PT J
+AU Noguera, JA
+AF Antonio Noguera, Jose
+TI Rationality and deliberation in collective action
+SO REVISTA INTERNACIONAL DE SOCIOLOGIA
+LA Spanish
+DT Article
+DE communicative rationality; strategic rationality; rational choice theory
+ID CHOICE
+AB The theory of collective action formulated by Mancur Olson in 1965 was based on an instrumental-strategic concept of rationality that has been generally used by standard rational choice theory. Different social theorists (such as Habermas or Elster) have tried to challenge this view by defending an alternative concept of rationality based on deliberation or rational argumentation. In this article I discuss to what extent these challenges have been successful in offering a real theoretical alternative to strategic rationality as a mechanism for the production and coordination of collective actions. For that purpose, three questions will be addressed: 1) Is communicative or deliberative rationality conceptually different from strategic rationality? 2) Is it empirically plausible as an explanatory principle for collective actions (and specially for those of social movements)? 3) Is it more defensible from a normative point of view?.
+C1 Univ Autonoma Barcelona, Barcelona, Spain.
+RP Noguera, JA (corresponding author), Univ Autonoma Barcelona, Barcelona, Spain.
+EM jose.noguera@uab.es
+RI NOGUERA, JOSE A./N-1639-2019; Noguera, Jose A./L-7466-2015
+OI NOGUERA, JOSE A./0000-0003-0263-8908; Noguera, Jose
+   A./0000-0003-0263-8908
+NR 67
+TC 0
+Z9 0
+U1 0
+U2 5
+PU CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS
+PI MADRID
+PA VITRUVIO 8, 28006 MADRID, SPAIN
+SN 0034-9712
+J9 REV INT SOCIOL
+JI Rev. Int. Sociol.
+PD JAN-APR
+PY 2007
+VL 65
+IS 46
+BP 107
+EP 129
+PG 23
+WC Sociology
+SC Sociology
+GA 298XH
+UT WOS:000255719900006
+OA DOAJ Gold
+DA 2021-03-31
+ER
+
+PT J
+AU Martinez, FL
+AF Linares Martinez, Francisco
+TI The problem of the emergence of social norms in collective action
+SO REVISTA INTERNACIONAL DE SOCIOLOGIA
+LA Spanish
+DT Article
+DE social dilemas; production function; social incentives; critical mass
+ID SANCTIONING SYSTEM; ENFORCEMENT; PROVISION; DILEMMAS
+AB This article faces the theoretical problem of explaining the emergence of social norms in collective action. The problem itself can be divided into several questions which specialized scholarship has not dealt with in enough detail. These questions are argued in the sections of this paper. These are: Which conditions generate a demand for social norms? What type of norm will be used to meet the demand? Which incentives will be used to implement the norm? Under what conditions is it granted that the norm will be actually realized? The article ends with several conclusions which should be empirically investigated, and thus improving the theory.
+C1 Univ La Laguna, Dept Sociol, Tenerife, Spain.
+RP Martinez, FL (corresponding author), Univ La Laguna, Dept Sociol, Tenerife, Spain.
+EM flinares@ull.es
+NR 36
+TC 1
+Z9 1
+U1 0
+U2 5
+PU CONSEJO SUPERIOR INVESTIGACIONES CIENTIFICAS-CSIC
+PI MADRID
+PA VITRUVIO 8, 28006 MADRID, SPAIN
+SN 0034-9712
+EI 1988-429X
+J9 REV INT SOCIOL
+JI Rev. Int. Sociol.
+PD JAN-APR
+PY 2007
+VL 65
+IS 46
+BP 131
+EP 160
+PG 30
+WC Sociology
+SC Sociology
+GA 298XH
+UT WOS:000255719900007
+OA DOAJ Gold
+DA 2021-03-31
+ER
+
+PT J
+AU Miller, LM
+AF Miller Moya, Luis Miguel
+TI Coordination and collective action
+SO REVISTA INTERNACIONAL DE SOCIOLOGIA
+LA Spanish
+DT Article
+DE common knowledge; cooperation; game theory; conventions; normative
+   principles
+ID RATIONAL CHOICE; SOCIAL COORDINATION; COMMON KNOWLEDGE; GAME-THEORY;
+   COOPERATION; PREFERENCES; CONVENTION; LEADERSHIP
+AB This paper highlights the importance of understanding coordination problems for the study of collective action. To this end, the paper consists of three parts. First, the main differences between cooperation and coordination problems are displayed. Second, the structure of a coordination problem is analysed, specially the relationship between coordination situations and the generation of common knowledge. Third, the most recurrent solutions to coordination problems are described, namely: agreements, salience and learning. After considering these solutions, the paper speculates about other possible ways of interpreting how people solve coordination problems.
+C1 CSIC, IESA, Inst Estudios Sociales Avanzados, Cordoba, Spain.
+RP Miller, LM (corresponding author), CSIC, IESA, Inst Estudios Sociales Avanzados, Cordoba, Spain.
+EM lmmiller@iesaa.csic.es
+RI Miller, Luis/N-9669-2019; Miller, Luis/H-1428-2015
+OI Miller, Luis/0000-0002-7447-2313; Miller, Luis/0000-0002-7447-2313
+NR 52
+TC 4
+Z9 5
+U1 0
+U2 3
+PU CONSEJO SUPERIOR INVESTIGACIONES CIENTIFICAS-CSIC
+PI MADRID
+PA VITRUVIO 8, 28006 MADRID, SPAIN
+SN 0034-9712
+EI 1988-429X
+J9 REV INT SOCIOL
+JI Rev. Int. Sociol.
+PD JAN-APR
+PY 2007
+VL 65
+IS 46
+BP 161
+EP 183
+PG 23
+WC Sociology
+SC Sociology
+GA 298XH
+UT WOS:000255719900008
+OA DOAJ Gold
+DA 2021-03-31
+ER
+
+PT J
+AU Morales, JMR
+AF Robles Morales, Jose Manuel
+TI Under the sign of morality. Are moral incentives useful in explaining
+   collective action?
+SO REVISTA INTERNACIONAL DE SOCIOLOGIA
+LA Spanish
+DT Article
+DE decision theory; rational choice theory; moral incentives and social
+   movements
+ID MOVEMENTS; BEHAVIOR
+AB The aim of this article is to shed light onto a fundamental issue to the study of collective action: the centrality of moral issues to the explanation of patterns characterizing the collective action of New Social Movements. First, we review the accounts that social movement theory has given of the motivations for collective action. Second, we analyze the way in which formal theories of collective action have tried to explain the role of moral incentives. We then show the difficulties met by this kind of theories given their dependence on instrumental motives. Next we introduce a selection of recent theoretical attempts to overcome the dependency of formal theories to instrumental motives. We conclude by underlining the importance of a broader formal theory of collective action capable of realistically accommodating moral motives.
+C1 CSIC, IESA, Inst Estudios Sociales Avanzados, Cordoba, Spain.
+RP Morales, JMR (corresponding author), CSIC, IESA, Inst Estudios Sociales Avanzados, Cordoba, Spain.
+EM jmrobles@iesaa.csic.es
+NR 42
+TC 1
+Z9 1
+U1 0
+U2 3
+PU CONSEJO SUPERIOR INVESTIGACIONES CIENTIFICAS-CSIC
+PI MADRID
+PA VITRUVIO 8, 28006 MADRID, SPAIN
+SN 0034-9712
+EI 1988-429X
+J9 REV INT SOCIOL
+JI Rev. Int. Sociol.
+PD JAN-APR
+PY 2007
+VL 65
+IS 46
+BP 185
+EP 204
+PG 20
+WC Sociology
+SC Sociology
+GA 298XH
+UT WOS:000255719900009
+OA DOAJ Gold
+DA 2021-03-31
+ER
+
+PT J
+AU Sickert, CR
+   Carvallo, EV
+AF Rodriguez Sickert, Carlos
+   Valenzuela Carvallo, Eduardo
+TI Endogenous group reputation - A formal model
+SO REVISTA INTERNACIONAL DE SOCIOLOGIA
+LA Spanish
+DT Article
+DE game theory; trust; social norms
+ID TRUST
+AB When investment in individual reputation cannot solve contract incompleteness, group reputation becomes crucial to achieve social cooperation. In this article we develop a formal model in which the link between social pressure, group reputation formation and between groups trust is studied. Specifically, we model a transaction which involves trust as an asymmetric game. Additionally, we consider the operation of community-enforced sanctions within the group whose trustworthiness is required. We show that for a proportion high enough of honourable agents willing to sanction non-honourable peers, the optimal strategy of a selfish rational agent is to honour trust when placed in him and, therefore, the perfect Bayesian equilibrium is one in which inter-group trust emerges. The required proportion of sanctioning agents depends negatively on the efficacy of the sanctioning technology and positively on the size of the opportunistic incentives faced by the agents whose trustworthiness is required. Even if the deterrence effect of social pressure is not strong enough, trust can emerge if the potential benefits from cooperation compensate the eventual harm associated with abused trust.
+C1 [Rodriguez Sickert, Carlos; Valenzuela Carvallo, Eduardo] Pontificia Univ Catolica Chile, Inst Sociol, Santiago, Chile.
+RP Sickert, CR (corresponding author), Pontificia Univ Catolica Chile, Inst Sociol, Santiago, Chile.
+EM crodrigs@puc.cl; evalenzc@puc.cl
+RI Rodriguez-Sickert, Carlos/J-5538-2014
+OI Rodriguez-Sickert, Carlos/0000-0001-5102-7914
+NR 18
+TC 0
+Z9 0
+U1 0
+U2 3
+PU CONSEJO SUPERIOR INVESTIGACIONES CIENTIFICAS-CSIC
+PI MADRID
+PA VITRUVIO 8, 28006 MADRID, SPAIN
+SN 0034-9712
+EI 1988-429X
+J9 REV INT SOCIOL
+JI Rev. Int. Sociol.
+PD JAN-APR
+PY 2007
+VL 65
+IS 46
+BP 205
+EP 217
+PG 13
+WC Sociology
+SC Sociology
+GA 298XH
+UT WOS:000255719900010
+OA DOAJ Gold
+DA 2021-03-31
+ER
+
+PT J
+AU Moreno, L
+AF Moreno, Luis
+TI Beyond wellbeing
+SO REVISTA INTERNACIONAL DE SOCIOLOGIA
+LA Spanish
+DT Book Review
+C1 CSIC, UPC, Madrid, Spain.
+RP Moreno, L (corresponding author), CSIC, UPC, Madrid, Spain.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS
+PI MADRID
+PA VITRUVIO 8, 28006 MADRID, SPAIN
+SN 0034-9712
+J9 REV INT SOCIOL
+JI Rev. Int. Sociol.
+PD JAN-APR
+PY 2007
+VL 65
+IS 46
+BP 221
+EP 223
+PG 3
+WC Sociology
+SC Sociology
+GA 298XH
+UT WOS:000255719900011
+OA DOAJ Gold
+DA 2021-03-31
+ER
+
+PT J
+AU Fuentes, GM
+AF Martinez Fuentes, Guadalupe
+TI Citizenship, Environment, Economy
+SO REVISTA INTERNACIONAL DE SOCIOLOGIA
+LA Spanish
+DT Book Review
+C1 [Martinez Fuentes, Guadalupe] Univ Granada, E-18071 Granada, Spain.
+RP Fuentes, GM (corresponding author), Univ Granada, E-18071 Granada, Spain.
+RI Fuentes, Guadalupe Martinez/J-4037-2016
+OI Fuentes, Guadalupe Martinez/0000-0001-9278-5236
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS
+PI MADRID
+PA VITRUVIO 8, 28006 MADRID, SPAIN
+SN 0034-9712
+J9 REV INT SOCIOL
+JI Rev. Int. Sociol.
+PD JAN-APR
+PY 2007
+VL 65
+IS 46
+BP 224
+EP 228
+PG 5
+WC Sociology
+SC Sociology
+GA 298XH
+UT WOS:000255719900012
+OA DOAJ Gold
+DA 2021-03-31
+ER
+
+PT J
+AU Miller, LM
+AF Miguel Miller, Luis
+TI Understanding Institutional Diversity
+SO REVISTA INTERNACIONAL DE SOCIOLOGIA
+LA Spanish
+DT Book Review
+ID COLLECTIVE ACTION
+C1 [Miguel Miller, Luis] CSIC, IESA, Madrid, Spain.
+RP Miller, LM (corresponding author), CSIC, IESA, Madrid, Spain.
+RI Miller, Luis/N-9669-2019; Miller, Luis/H-1428-2015
+OI Miller, Luis/0000-0002-7447-2313; Miller, Luis/0000-0002-7447-2313
+NR 13
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS
+PI MADRID
+PA VITRUVIO 8, 28006 MADRID, SPAIN
+SN 0034-9712
+J9 REV INT SOCIOL
+JI Rev. Int. Sociol.
+PD JAN-APR
+PY 2007
+VL 65
+IS 46
+BP 229
+EP 234
+PG 6
+WC Sociology
+SC Sociology
+GA 298XH
+UT WOS:000255719900013
+OA DOAJ Gold
+DA 2021-03-31
+ER
+
+PT J
+AU Sanchez, I
+AF Sanchez, Isis
+TI On Populist Reason
+SO REVISTA INTERNACIONAL DE SOCIOLOGIA
+LA Spanish
+DT Book Review
+C1 [Sanchez, Isis] Univ Essex, Colchester CO4 3SQ, Essex, England.
+RP Sanchez, I (corresponding author), Univ Essex, Colchester CO4 3SQ, Essex, England.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS
+PI MADRID
+PA VITRUVIO 8, 28006 MADRID, SPAIN
+SN 0034-9712
+J9 REV INT SOCIOL
+JI Rev. Int. Sociol.
+PD JAN-APR
+PY 2007
+VL 65
+IS 46
+BP 235
+EP 240
+PG 6
+WC Sociology
+SC Sociology
+GA 298XH
+UT WOS:000255719900014
+OA DOAJ Gold
+DA 2021-03-31
+ER
+
+EF

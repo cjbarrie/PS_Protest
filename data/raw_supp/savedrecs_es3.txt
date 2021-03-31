@@ -1,0 +1,2093 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Fahey, T
+   Smyth, E
+AF Fahey, T
+   Smyth, E
+TI Do subjective indicators measure welfare? - Evidence from 33 European
+   societies
+SO EUROPEAN SOCIETIES
+LA English
+DT Article
+DE subjective well-being; life satisfaction; welfare measurement; Europe
+ID HAPPINESS
+AB Indicators of subjective well-being have gained only limited acceptance as tools for the social-scientific analysis of human welfare, mainly because they seem insensitive to variations in the socio-economic context. However, this apparent insensitivity has been established by research which has been limited in various ways. Using data on life satisfaction for 33 European societies which goes some way to transcending these limits, this paper identifies linkages between subjective well-being and socio-economic conditions which are both strong and suggestive of important insights about national and cross-national relativities in human welfare. Populations in the rich parts of Europe have high and relatively equal life satisfaction, while those in the poorer parts of Europe have low and unequal life satisfaction. Social inequalities within rich European societies seem to have little effect on life satisfaction but they have significant effects within poor European societies. Inequalities between European societies also have strong effects. These findings suggest that analysis of inequalities and relativities in welfare in purely national terms is insufficient. Greater weight needs to be given to cross-national relativities, since these are much more consistent with what otherwise seem to be puzzling variations in subjective well-being across and within countries.
+C1 ESRI, Dublin 4, Ireland.
+RP Fahey, T (corresponding author), ESRI, 4 Burlington Rd, Dublin 4, Ireland.
+EM tony.fahey@esri.ie
+NR 21
+TC 71
+Z9 71
+U1 1
+U2 17
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1461-6696
+EI 1469-8307
+J9 EUR SOC
+JI Eur. Soc.
+PY 2004
+VL 6
+IS 1
+BP 5
+EP 27
+DI 10.1080/1461669032000176297
+PG 23
+WC Sociology
+SC Sociology
+GA 769ET
+UT WOS:000188614000001
+DA 2021-03-31
+ER
+
+PT J
+AU Tayllor-Gooby, P
+AF Tayllor-Gooby, P
+TI Open markets and welfare values - Welfare values, inequality and social
+   change in the silver age of the welfare state
+SO EUROPEAN SOCIETIES
+LA English
+DT Article
+DE welfare state; values; liberalism; social attitudes; inequality; Europe
+ID POLITICS
+AB Market principles are becoming more prominent in citizen experience of public policy across Europe, as a result of economic globalization and the Maastricht commitment to 'open markets', and cost-constraint, privatization and labour market activation pursued in response to the various pressures confronting welfare states. These principles (inequality, competitiveness, allocation through ability to pay) contradict those traditionally associated with social policy (equity, solidarity, social justice). This paper examines the impact of current changes on welfare values in the various types of European welfare states (including accession states), using international attitude survey data. It shows that most citizens remain committed to mild egalitarianism. Citizen ideology will thus continue to buttress resilience to pressures for restructuring in the various welfare state regimes. The paper goes on to consider the impact of social change by examining the values of groups with particular interests who are likely to expand in significance as a result of labour market and population changes. This analysis shows that change does not lead in one direction. There is every likelihood that tensions between market and welfare values will be compounded by social change.
+C1 Univ Kent, Sch Social Policy Sociol & Social Res, Canterbury CT2 7NY, Kent, England.
+RP Tayllor-Gooby, P (corresponding author), Univ Kent, Sch Social Policy Sociol & Social Res, Canterbury CT2 7NY, Kent, England.
+NR 40
+TC 41
+Z9 41
+U1 0
+U2 16
+PU ROUTLEDGE TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 1461-6696
+J9 EUR SOC
+JI Eur. Soc.
+PY 2004
+VL 6
+IS 1
+BP 29
+EP 48
+DI 10.1080/1461669032000176305
+PG 20
+WC Sociology
+SC Sociology
+GA 769ET
+UT WOS:000188614000002
+DA 2021-03-31
+ER
+
+PT J
+AU Erlinghagen, M
+   Knuth, M
+AF Erlinghagen, M
+   Knuth, M
+TI In search of turbulence - Labour market mobility and job stability in
+   Germany
+SO EUROPEAN SOCIETIES
+LA English
+DT Article
+DE job stability; labour turnover; unemployment; service economy; event
+   history data; Germany
+ID LIFETIME JOBS; TENURE; INSECURITY; ECONOMY
+AB In the course of the transition from an industrial to a service economy, fundamental changes in the functioning of the labour market are expected to occur. A number of authors assert that these changes will result in an increasing external-numerical flexibility of firms which is assumed to affect labour market processes in terms of a generally higher labour market mobility and a decreasing employment stability ('high-velocity labour market'). This paper examines the hypothesis of a growing importance of numeric-external flexibility, applying simple descriptive statistical methods to the event-history data of the IAB Employment Subsample for the West German labour market covering the years 1976 to 1995. There is no evidence for an acceleration of labour market 'churning', but rather for a stagnation or even slight decline of labour market mobility since the 1970s. Furthermore, job stability has not decreased over time, as one might have expected, but rather increased. In spite of these general results it might be conceivable that service-sector jobs have become more unstable but that this effect is cancelled out by a considerable stabilization of jobs in manufacturing. It turns out, however, that there is no evidence for developments in the 'old' and 'new' labour markets to contrast in such a simple way. Services display divergent trends when broken down by sub-sectors; jobs in some of them have stabilized while there is no or an opposite change in others.
+C1 Inst Arbeit & Tech Wissensch Zentrum NRW, D-45886 Gelsenkirchen, Germany.
+   Ruhr Univ Bochum, Fac Social Sci, D-4630 Bochum, Germany.
+RP Erlinghagen, M (corresponding author), Inst Arbeit & Tech Wissensch Zentrum NRW, Munscheidstr 14, D-45886 Gelsenkirchen, Germany.
+NR 55
+TC 15
+Z9 15
+U1 1
+U2 15
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1461-6696
+EI 1469-8307
+J9 EUR SOC
+JI Eur. Soc.
+PY 2004
+VL 6
+IS 1
+BP 49
+EP 70
+DI 10.1080/1461669032000176314
+PG 22
+WC Sociology
+SC Sociology
+GA 769ET
+UT WOS:000188614000003
+DA 2021-03-31
+ER
+
+PT J
+AU Bornschier, V
+   Herkenrath, M
+   Ziltener, P
+AF Bornschier, V
+   Herkenrath, M
+   Ziltener, P
+TI Political and economic logic of western European integration - A study
+   of convergence comparing member and non-member states, 1980-98
+SO EUROPEAN SOCIETIES
+LA English
+DT Article
+DE Western European integration; European Union; economic convergence;
+   cohesion policies; comparative analysis
+ID GROWTH
+AB One of the few cross-national studies, which contrast members of the EU with a comparable set of other countries as benchmark, suggested that membership is beneficial for economic growth and may cause faster economic convergence of less wealthy EU member states. Employing a newly collected data set on inter-state transfers in the EU, we test whether this faster economic convergence is due to access to the Internal Market (proposition of the economic logic) or rather a consequence of special forms of inter-state redistribution within the EU (proposition of the political logic). We find that if EU countries grew faster in the 1980s and 1990s (as compared to the benchmark and controlling for relevant growth factors), then this was due to transfers within the community. These benefited the poorer EU countries, which thus experienced faster economic convergence. This evidence suggests support for the argument of the political logic regarding Western European integration which we contrast with the economic logic. The empirical results are highly significant regarding the prospects of catching up for new EU members in Central and Eastern Europe. The decisions about the future EU transfer system will determine the chances for convergence for these countries.
+C1 Univ Zurich, Inst Sociol, CH-8001 Zurich, Switzerland.
+RP Bornschier, V (corresponding author), Univ Zurich, Inst Sociol, Raemistr 69, CH-8001 Zurich, Switzerland.
+NR 36
+TC 17
+Z9 17
+U1 0
+U2 5
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1461-6696
+EI 1469-8307
+J9 EUR SOC
+JI Eur. Soc.
+PY 2004
+VL 6
+IS 1
+BP 71
+EP 96
+DI 10.1080/1461669032000176323
+PG 26
+WC Sociology
+SC Sociology
+GA 769ET
+UT WOS:000188614000004
+DA 2021-03-31
+ER
+
+PT J
+AU Oswald, I
+   Voronkov, V
+AF Oswald, I
+   Voronkov, V
+TI The 'public-private' sphere in Soviet and post-Soviet society -
+   Perception and dynamics of 'public' and 'private' in contemporary Russia
+SO EUROPEAN SOCIETIES
+LA English
+DT Article
+DE public and private spheres; post-Soviet societies; Russia; political
+   culture; Soviet public; qualitative methods in sociology
+AB The post-Soviet Russian society produces of a great variety of political parties, newspapers, and TV channels but this is not synonymous with democratic pluralism and/or the formation of a critical public sphere. This public sphere suffers from obstructed communication between the state and its citizens as one result of Soviet political socialization. This is not only a reason for fuzzy interview communication in the frame of scientific research in contemporary Russia, it is an important aspect of impediment to the construction of civil society. In our article we will firstly outline Russian sociological discussion on the specific Soviet division of the public sphere in an 'official' and a 'private' part. Secondly, we will suggest how to compare it with 'western' theoretical approaches to the topic by strengthening any non-dichotomous models. Finally, we consider the actual condition of Russian public which is still marked by a general distrust of the state and its 'organs', and recently coloured by false public forums threatening freedom of the press and freedom of opinion.
+C1 CISR, St Petersburg 191040, Russia.
+RP Oswald, I (corresponding author), Gothaer Str 5A, D-10853 Berlin, Germany.
+RI OSWALD, Isabelle/W-9852-2019
+OI OSWALD, Isabelle/0000-0001-9918-277X
+NR 35
+TC 16
+Z9 16
+U1 0
+U2 3
+PU ROUTLEDGE TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 1461-6696
+J9 EUR SOC
+JI Eur. Soc.
+PY 2004
+VL 6
+IS 1
+BP 97
+EP 117
+DI 10.1080/1461669032000176332
+PG 21
+WC Sociology
+SC Sociology
+GA 769ET
+UT WOS:000188614000005
+DA 2021-03-31
+ER
+
+PT J
+AU Wallace, C
+AF Wallace, C
+TI Untitled
+SO EUROPEAN SOCIETIES
+LA English
+DT Editorial Material
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU ROUTLEDGE TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 1461-6696
+J9 EUR SOC
+JI Eur. Soc.
+PY 2004
+VL 6
+IS 2
+BP 119
+EP 121
+DI 10.1080/14616690410001690664
+PG 3
+WC Sociology
+SC Sociology
+GA 824NP
+UT WOS:000221693600001
+DA 2021-03-31
+ER
+
+PT J
+AU Keen, MF
+   Mucha, J
+AF Keen, MF
+   Mucha, J
+TI Sociology in Central and Eastern Europe in the 1990s: A decade of
+   reconstruction
+SO EUROPEAN SOCIETIES
+LA English
+DT Article
+DE Central Europe; Eastern Europe; history of sociology; deCommunization;
+   institutionalization; theory and methods; teaching
+ID STRATIFICATION
+AB With the collapse of the Soviet Union, the independence of Central and Eastern Europe, and the disappearance of the great polarity that separated East and West, the climate for sociology changed radically. Throughout the region sociologists found themselves with a new independence, free of the ideological and intellectual restrictions that had been imposed by state and Party authorities. In the post-1989 era, sociology entered a decade of reconstruction and began to take on a new role, helping to understand the transformations that occurred, as well as facilitating the social change they brought about. This article examines this recent history of sociology in Central and Eastern Europe with particular attention to deCommunization, institutionalization, teaching, theory and methods, topics of research, and international collaboration and influences.
+C1 Indiana Univ, Dept Sociol & Anthropol, South Bend, IN 46634 USA.
+   Nicholas Copernicus Univ, Inst Sociol, PL-87100 Torun, Poland.
+RP Keen, MF (corresponding author), Indiana Univ, Dept Sociol & Anthropol, 1700 Mishawaka Ave, South Bend, IN 46634 USA.
+EM mkeen@iusb.edu
+NR 28
+TC 3
+Z9 3
+U1 0
+U2 3
+PU ROUTLEDGE TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 1461-6696
+J9 EUR SOC
+JI Eur. Soc.
+PY 2004
+VL 6
+IS 2
+BP 123
+EP 147
+DI 10.1080/14616690410001690736
+PG 25
+WC Sociology
+SC Sociology
+GA 824NP
+UT WOS:000221693600002
+DA 2021-03-31
+ER
+
+PT J
+AU Lengyel, G
+AF Lengyel, G
+TI On the origin and variety of problems in current Central and
+   East-European sociology (a reflection on the article of Keen and Mucha)
+SO EUROPEAN SOCIETIES
+LA English
+DT Editorial Material
+C1 Budapest Univ Econ Sci & Publ Adm, H-1093 Budapest, Hungary.
+RP Lengyel, G (corresponding author), Budapest Univ Econ Sci & Publ Adm, Fovam Ter 8, H-1093 Budapest, Hungary.
+EM gyorgy.lengyel@bkae.hu
+RI Gyorgy, Lengyel/E-7548-2018
+OI Gyorgy, Lengyel/0000-0002-4372-0548
+NR 16
+TC 1
+Z9 1
+U1 0
+U2 1
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1461-6696
+EI 1469-8307
+J9 EUR SOC
+JI Eur. Soc.
+PY 2004
+VL 6
+IS 2
+BP 149
+EP 157
+DI 10.1080/14616690410001690691
+PG 9
+WC Sociology
+SC Sociology
+GA 824NP
+UT WOS:000221693600003
+DA 2021-03-31
+ER
+
+PT J
+AU Ule, M
+AF Ule, M
+TI No time for complacency: Sociology after socialism
+SO EUROPEAN SOCIETIES
+LA English
+DT Editorial Material
+C1 Univ Ljubljana, Fac Social Sci, Ljubljana 61000, Slovenia.
+RP Ule, M (corresponding author), Univ Ljubljana, Fac Social Sci, Kardeljeva Ploscad 5, Ljubljana 61000, Slovenia.
+EM mirjana.ule@uni-lj.si
+NR 7
+TC 1
+Z9 1
+U1 0
+U2 3
+PU ROUTLEDGE TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 1461-6696
+J9 EUR SOC
+JI Eur. Soc.
+PY 2004
+VL 6
+IS 2
+BP 159
+EP 166
+DI 10.1080/14616690410001690682
+PG 8
+WC Sociology
+SC Sociology
+GA 824NP
+UT WOS:000221693600004
+DA 2021-03-31
+ER
+
+PT J
+AU Machacek, L
+AF Machacek, L
+TI Sociologists as citizens
+SO EUROPEAN SOCIETIES
+LA English
+DT Article
+C1 Slovak Acad Sci, Inst Sociol, Bratislava, Slovakia.
+RP Machacek, L (corresponding author), UCM Trnava, Philosoph Fac, Dept Educ Sci, J Herdu Sq 2, SK-91700 Trnava, Slovakia.
+EM ladislav.machacek@savba.sk
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU ROUTLEDGE TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 1461-6696
+J9 EUR SOC
+JI Eur. Soc.
+PY 2004
+VL 6
+IS 2
+BP 167
+EP 168
+DI 10.1080/14616690410001690709
+PG 2
+WC Sociology
+SC Sociology
+GA 824NP
+UT WOS:000221693600005
+DA 2021-03-31
+ER
+
+PT J
+AU Smejkalova, J
+AF Smejkalova, J
+TI Feminist sociology in the Czech Republic after 1989 - A brief report
+SO EUROPEAN SOCIETIES
+LA English
+DT Article
+C1 Lincoln Univ, Fac Media & Humanities, Lincoln LN6 7TS, England.
+RP Smejkalova, J (corresponding author), Lincoln Univ, Fac Media & Humanities, Brayford Pool, Lincoln LN6 7TS, England.
+EM JSmejkalova@Lincoln.ac.uk
+NR 16
+TC 4
+Z9 4
+U1 0
+U2 2
+PU ROUTLEDGE TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 1461-6696
+J9 EUR SOC
+JI Eur. Soc.
+PY 2004
+VL 6
+IS 2
+BP 169
+EP 180
+DI 10.1080/14616690410001690745
+PG 12
+WC Sociology
+SC Sociology
+GA 824NP
+UT WOS:000221693600006
+DA 2021-03-31
+ER
+
+PT J
+AU Sicherl, P
+AF Sicherl, P
+TI Comparing in two dimensions: A broader concept and a novel statistical
+   measure of the time dimension of disparities
+SO EUROPEAN SOCIETIES
+LA English
+DT Article
+DE time distance; S-distance; disparities; development gap; cohesion
+   countries; candidate countries
+AB The increasing integration of EU countries and the introduction of a new round of Applicant countries has created the need for more comparable statistics on indicators and more standardised statistical measures. Hence, indicators such as life expectancy, or GDP per capita have been used for measuring the 'progress' of Candidate countries in the Enlargement process, mainly as static measures like Gini coefficients, while the dimension of time is not well developed, In this paper, I argue for a new complementary kind of statistical measure, the S-distance, that would measure the distance (proximity) in time between the points in time when two series are compared that have reached a specified level on indicator X. This can lead to very different analytical and policy conclusions about the interrelationship between growth and inequality. In the empirical section a selected set of economic and social indicators for five candidate and three EU cohesion countries is compared with the EU15 average. It is demonstrated that the degree of disparities across indicators may be very different in static terms and in time. For all eight countries no significant correlation was found between the ordering of indicators by static measure of disparity and by time distance. This confirms that the new broader methodology can provide new insights from existing data and serve also as an excellent analytical and presentation tool for policy debate across many fields of concern.
+C1 SICENTER, Ljubljana 1000, Slovenia.
+   Univ Ljubljana, Ljubljana 61000, Slovenia.
+RP Sicherl, P (corresponding author), SICENTER, Brajnikova 19, Ljubljana 1000, Slovenia.
+EM Pavle.Sicherl@sicenter.si
+NR 27
+TC 3
+Z9 3
+U1 0
+U2 0
+PU ROUTLEDGE TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 1461-6696
+J9 EUR SOC
+JI Eur. Soc.
+PY 2004
+VL 6
+IS 2
+BP 181
+EP 203
+DI 10.1080/14616690410001690754
+PG 23
+WC Sociology
+SC Sociology
+GA 824NP
+UT WOS:000221693600007
+DA 2021-03-31
+ER
+
+PT J
+AU Dronkers, J
+   Robert, P
+AF Dronkers, J
+   Robert, P
+TI Has educational sector any impact on school effectiveness in Hungary? A
+   comparison of the public and the newly established religious grammar
+   schools
+SO EUROPEAN SOCIETIES
+LA English
+DT Article
+DE Catholic schools; Protestant schools; religious schools; parental
+   choice; school-effectiveness; scholastic achievement
+ID INEQUALITIES; ATTAINMENT; CHILDREN; DIVORCE
+AB The aim of the paper is to test whether the pupils of religious gymnasiums in Hungary have higher grades and a better opportunity to enter vocational college or university than comparable pupils of public gymnasiums have, For the first time the effectiveness of public and religious schools is compared in one of the former communist societies. Data are from a self-administered survey among 4th grade secondary school students in spring of 1998. Our results show clearly that pupils at religious gymnasiums in Hungary get higher grades and that they have more success in entering tertiary education and university. This is especially true for pupils at Catholic gymnasiums but there are clear indications that the Calvinist and Lutheran gymnasiums might catch up Catholic gymnasiums in the near future, if they get the time to develop themselves. A more selective social composition of these schools, higher earlier school achievements or a higher academic ambition of religious pupils cannot explain these better results of pupils in religious gymnasiums. We conclude from these results that the religious grammar schools in a post-communist country like Hungary are on average more effective than public grammar schools. This does not hold only for Catholic schools but also for Protestant schools, just as in other European societies.
+C1 European Univ Inst, Dept Polit & Social Sci, I-50016 Fiesole, FI, Italy.
+   ELTE Univ & Tarki, Budapest, Hungary.
+RP Dronkers, J (corresponding author), European Univ Inst, Dept Polit & Social Sci, Via Roccettini 9, I-50016 Fiesole, FI, Italy.
+EM jaap.dronkers@iue.it
+NR 55
+TC 11
+Z9 11
+U1 0
+U2 2
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1461-6696
+EI 1469-8307
+J9 EUR SOC
+JI Eur. Soc.
+PY 2004
+VL 6
+IS 2
+BP 205
+EP 236
+DI 10.1080/14616690410001690727
+PG 32
+WC Sociology
+SC Sociology
+GA 824NP
+UT WOS:000221693600008
+DA 2021-03-31
+ER
+
+PT J
+AU Dunkerley, D
+   Fudge, S
+AF Dunkerley, D
+   Fudge, S
+TI The role of civil society in European integration - A framework for
+   analysis
+SO EUROPEAN SOCIETIES
+LA English
+DT Article
+DE civil society; European integration; democracy; policy-making
+ID POLICY
+AB The article explores how civil society is being used as a mediating device in relation to European integration. The increasing use of civil society NGOs in a productive relationship in the policy-making process and as a way of reducing the alienation and 'democratic deficit' amongst EU citizens is discussed, The article acknowledges that, while the concept of civil society remains contested, there are certain implications that need to be drawn from its contemporary resurgence: namely the need for wider political dialogue and institutional frameworks that reflect greater political participation. The traditional dominance of economic interests remains negligible of this, however, in spite of pronouncements by the Parliament and, particularly the European Commission that 'third sector' organisations will have a greater say and influence on EU policy. The paper concludes that many of the social concerns expressed by NGOs remain largely unheard or unacknowledged by European policy-makers.
+C1 Univ Glamorgan, Sch Humanities & Social Sci, Pontypridd CF37 1DL, M Glam, Wales.
+RP Dunkerley, D (corresponding author), Univ Glamorgan, Sch Humanities & Social Sci, Pontypridd CF37 1DL, M Glam, Wales.
+EM ddunkerl@glam.ac.uk
+NR 44
+TC 15
+Z9 15
+U1 0
+U2 10
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1461-6696
+EI 1469-8307
+J9 EUR SOC
+JI Eur. Soc.
+PY 2004
+VL 6
+IS 2
+BP 237
+EP 254
+DI 10.1080/14616690410001690673
+PG 18
+WC Sociology
+SC Sociology
+GA 824NP
+UT WOS:000221693600009
+DA 2021-03-31
+ER
+
+PT J
+AU Koleva, S
+AF Koleva, S
+TI Eastern Europe in transformation. The impact on sociology.
+SO EUROPEAN SOCIETIES
+LA English
+DT Book Review
+C1 Bulgarian Acad Sci, Inst Sociol, Sofia, Bulgaria.
+RP Koleva, S (corresponding author), Bulgarian Acad Sci, Inst Sociol, Sofia, Bulgaria.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ROUTLEDGE TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 1461-6696
+J9 EUR SOC
+JI Eur. Soc.
+PY 2004
+VL 6
+IS 2
+BP 255
+EP 258
+DI 10.1080/14616690410001690763
+PG 4
+WC Sociology
+SC Sociology
+GA 824NP
+UT WOS:000221693600010
+DA 2021-03-31
+ER
+
+PT J
+AU Pribersky, A
+AF Pribersky, A
+TI Sociology in Central and Eastern Europe: Transformation at the dawn of a
+   new millennium.
+SO EUROPEAN SOCIETIES
+LA English
+DT Book Review
+C1 Univ Vienna, Inst Politikwissensch, A-1010 Vienna, Austria.
+RP Pribersky, A (corresponding author), Univ Vienna, Inst Politikwissensch, A-1010 Vienna, Austria.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ROUTLEDGE TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 1461-6696
+J9 EUR SOC
+JI Eur. Soc.
+PY 2004
+VL 6
+IS 2
+BP 258
+EP 260
+PG 3
+WC Sociology
+SC Sociology
+GA 824NP
+UT WOS:000221693600011
+DA 2021-03-31
+ER
+
+PT J
+AU Wallace, C
+AF Wallace, C
+TI Untitled
+SO EUROPEAN SOCIETIES
+LA English
+DT Editorial Material
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ROUTLEDGE TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 1461-6696
+J9 EUR SOC
+JI Eur. Soc.
+PY 2004
+VL 6
+IS 3
+BP 263
+EP 264
+DI 10.1080/1461669042000231410
+PG 2
+WC Sociology
+SC Sociology
+GA 845BE
+UT WOS:000223209800001
+DA 2021-03-31
+ER
+
+PT J
+AU Hytti, H
+AF Hytti, H
+TI Early exit from the labour market through the unemployment pathway in
+   Finland
+SO EUROPEAN SOCIETIES
+LA English
+DT Article
+DE early retirement; unemployment pathway; unemployment pension; aged
+   workers
+AB The focus of the study is on patterns of early exit from the labour market in Finland with a special emphasis on the unemployment pathway. The period under review extends from the early 1980s to the turn of the century. The data for the study were obtained from individual-level files formed by combining census data with statistical registries of social security. The study takes a comparative macro-level approach, with comparisons being made between different periods of time. The results are interpreted from the point of view of the connection between early exit, increasing economic openness and structural change in society. In the 1980s, utilization of the unemployment pathway in a given branch depended primarily on how open the branch was to international competition. In the deep economic recession of the 1990s rate of exit was highest in the branches with primarily a domestic focus, which were hardest hit by the recession. The exit rates were remarkably high also in the previously public-sector branches recently opened to competition. After the recession, in 1996-1998, adjustments to international competition seemed to explain a great deal of early exit behaviour. From a broader European perspective the Finnish unemployment pathway, combining economic competitiveness and social cohesion, can be seen as an example of the workability of the European social model. The capability of Finnish early exit policy for adjustment in the face of changing societal and international pressures was further proved in November 2001, when a broad-based agreement on changes in early exit and old age pension schemes was achieved by the labour market partners in line with general objectives put forward by the Government.
+C1 Social Insurance Inst, FIN-00101 Helsinki, Finland.
+   Univ Helsinki, FIN-00014 Helsinki, Finland.
+RP Hytti, H (corresponding author), Social Insurance Inst, POB 450, FIN-00101 Helsinki, Finland.
+EM helka.hytti@kela.fi
+NR 61
+TC 13
+Z9 13
+U1 0
+U2 5
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1461-6696
+EI 1469-8307
+J9 EUR SOC
+JI Eur. Soc.
+PY 2004
+VL 6
+IS 3
+BP 265
+EP 297
+DI 10.1080/1461669042000231429
+PG 33
+WC Sociology
+SC Sociology
+GA 845BE
+UT WOS:000223209800002
+DA 2021-03-31
+ER
+
+PT J
+AU Klement, C
+   Rudolph, B
+AF Klement, C
+   Rudolph, B
+TI Employment patterns and economic independence of women in intimate
+   relationships - A German-Finnish comparison
+SO EUROPEAN SOCIETIES
+LA English
+DT Article
+DE gender; economic independence; care work; welfare state policy,
+   individualization; reflexive modernization
+AB In European societies there are some differences in the way and extent of women's integration into the labour market due to different economic development, political ideas and cultural traditions. In this paper two countries are compared, namely Finland and Germany, which differ considerably concerning women's employment patterns, employment prospects and their life orientations. While most Finnish women are participants of the labour force in full-time jobs, the working pattern of German women is of rather discountinous nature, depending on their chosen intimate relationships in private life, implicating their role as unpaid carers. As there is no sufficient provision of public care services, many German women are dependent on a male breadwinner while leaving their jobs for family purposes. In contrast, Finnish mothers return to their full-time jobs after maternity leave as the welfare state provides enough public care services for children and the dependent elderly. Thus it appears that Finnish women have gained financial autonomy and economic independence, a prerequisite for living in democratic, individualized intimate relationships with equal decision power. Even if, during the last decades, empirical evidence has revealed the transformation of the well known breadwinner model to a modernized version, or partially a shift to an 'adult worker model', in Germany there is still no evidence for a general trend to a fully individualized life pattern of women with children.
+C1 Univ Armed Forces, Dept Social Sci, D-85577 Neubiberg, Germany.
+   Univ Munich, Dept Sociol, D-80801 Munich, Germany.
+RP Klement, C (corresponding author), Univ Armed Forces, Dept Social Sci, Werner Heisenberg Weg 39, D-85577 Neubiberg, Germany.
+EM carmen.klement@unibw-muenchen.de;
+   brigitte.rudolph@soziologie.uni-muenchen.de
+NR 60
+TC 6
+Z9 6
+U1 1
+U2 9
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1461-6696
+EI 1469-8307
+J9 EUR SOC
+JI Eur. Soc.
+PY 2004
+VL 6
+IS 3
+BP 299
+EP 318
+DI 10.1080/1461669042000231438
+PG 20
+WC Sociology
+SC Sociology
+GA 845BE
+UT WOS:000223209800003
+DA 2021-03-31
+ER
+
+PT J
+AU Oinonen, E
+AF Oinonen, E
+TI Starting the first family - Changes in patterns of family formation and
+   demographic trends in Finland and Spain
+SO EUROPEAN SOCIETIES
+LA English
+DT Article
+DE family formation; marriage; fertility; labour market; Finland; Spain
+AB In Finland and Spain, marriage rates are equally low, yet cohabitation is rare in Spain and common in Finland. The fertility rate has fallen sharply in Spain, whereas in Finland it is relatively high. Spaniards delay childbearing later than Finns. These characteristics of family formation are not attributed to modern contraceptives, cohabitation or to the female employment rate. Neither women's labour market position nor family policy is the key explanatory factor for the differences in patterns of first family formation and fertility. However, the employment and financial insecurity of young people seem to be an influential factor having negative effects on the first family formation in Finland and Spain.
+C1 Univ Tampere, Dept Sociol & Social Policy, Tampere 33014, Finland.
+RP Oinonen, E (corresponding author), Univ Tampere, Dept Sociol & Social Policy, Tampere 33014, Finland.
+EM eriikka.oinonen@uta.fi
+NR 59
+TC 8
+Z9 8
+U1 0
+U2 5
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1461-6696
+EI 1469-8307
+J9 EUR SOC
+JI Eur. Soc.
+PY 2004
+VL 6
+IS 3
+BP 319
+EP 346
+DI 10.1080/1461669042000231447
+PG 28
+WC Sociology
+SC Sociology
+GA 845BE
+UT WOS:000223209800004
+DA 2021-03-31
+ER
+
+PT J
+AU Giesecke, J
+   Gross, M
+AF Giesecke, J
+   Gross, M
+TI External labour market flexibility and social inequality - Temporary
+   employment in Germany and the UK
+SO EUROPEAN SOCIETIES
+LA English
+DT Article
+DE labour market flexibility; social inequality; Germany; UK; temporary
+   employment
+ID WORK
+AB In this paper we examine the impact of temporary work on two dimensions of social inequality: income and career mobility. Additionally, we are taking a comparative perspective on this subject by comparing Germany and the UK. To investigate the effects of temporary work we use data from the German Socio-Economic Panel and the British Household Panel Study on non-self-employed respondents. The results show that temporary work does influence the system of social inequality: we found wage penalties and an increased probability of severe negative effects on the working careers of temporarily employed persons in both countries (net of education, age, and a variety of other covariates). Thus we can conclude that temporary employment represents a substantial socio-economic risk for employees.
+   Most importantly, this holds true for both the German and the British case, two quite distinct labour market regimes.
+C1 Humboldt Univ, Inst Socialwissensch, D-10099 Berlin, Germany.
+RP Giesecke, J (corresponding author), Humboldt Univ, Inst Socialwissensch, Linden 6, D-10099 Berlin, Germany.
+EM johannes.giesecke@rz.hu-berlin.de
+NR 54
+TC 34
+Z9 34
+U1 0
+U2 18
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1461-6696
+EI 1469-8307
+J9 EUR SOC
+JI Eur. Soc.
+PY 2004
+VL 6
+IS 3
+BP 347
+EP 382
+DI 10.1080/1461669042000231456
+PG 36
+WC Sociology
+SC Sociology
+GA 845BE
+UT WOS:000223209800005
+DA 2021-03-31
+ER
+
+PT J
+AU McGinnity, F
+   Hillmert, S
+AF McGinnity, F
+   Hillmert, S
+TI Persisting class inequality? Comparing class-specific unemployment in
+   early working life in Britain and west Germany
+SO EUROPEAN SOCIETIES
+LA English
+DT Article
+DE social class; unemployment; comparative research; labour market
+   institutions; inequality
+AB In conditions of increasing economic uncertainty, a body of social stratification researchers claims that significant class inequality in life chances persists (Breen, 1997; Goldthorpe, 2000). Can we find evidence of this, and are developments similar across countries? Differences in education systems, welfare and labour market institutions may have implications for class risks and class theory. Britain and Germany differ significantly in these institutions. Selecting the risk of unemployment as an indicator of class inequality, we investigate how this risk varies by social class in different cohorts in the two countries. Using life course data, we find that in both countries class is a good predictor of the risk of unemployment, though there is less of a difference in class risks in Germany. We find evidence of persisting inequality in both Britain and Germany. We reflect on the interaction between social class and labour market institutions for labour market outcomes, and discuss the implications of our findings for the theory and measurement of class.
+C1 Max Planck Inst Human Dev & Educ, D-14195 Berlin, Germany.
+   Otto Friedrich Univ, Bamberg, Germany.
+RP McGinnity, F (corresponding author), Max Planck Inst Human Dev & Educ, Lentzeallee 94, D-14195 Berlin, Germany.
+EM mcginnity@mpib-berlin.mpg.de; hilimert@mpib-berlin.mpg.de
+OI McGinnity, Frances/0000-0002-2184-315X
+NR 46
+TC 5
+Z9 5
+U1 0
+U2 5
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1461-6696
+EI 1469-8307
+J9 EUR SOC
+JI Eur. Soc.
+PY 2004
+VL 6
+IS 3
+BP 383
+EP 408
+DI 10.1080/1461669042000231465
+PG 26
+WC Sociology
+SC Sociology
+GA 845BE
+UT WOS:000223209800006
+DA 2021-03-31
+ER
+
+PT J
+AU Jonas, M
+AF Jonas, M
+TI The institutions of local development
+SO EUROPEAN SOCIETIES
+LA English
+DT Book Review
+C1 Inst Adv Studies, Vienna, Austria.
+RP Jonas, M (corresponding author), Inst Adv Studies, Vienna, Austria.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ROUTLEDGE TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 1461-6696
+J9 EUR SOC
+JI Eur. Soc.
+PY 2004
+VL 6
+IS 3
+BP 409
+EP 412
+DI 10.1080/1461669042000231627
+PG 4
+WC Sociology
+SC Sociology
+GA 845BE
+UT WOS:000223209800007
+DA 2021-03-31
+ER
+
+PT J
+AU Wallace, C
+AF Wallace, C
+TI Untitled
+SO EUROPEAN SOCIETIES
+LA English
+DT Editorial Material
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ROUTLEDGE TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 1461-6696
+J9 EUR SOC
+JI Eur. Soc.
+PY 2004
+VL 6
+IS 4
+BP 421
+EP 421
+DI 10.1080/1461669042000295645
+PG 1
+WC Sociology
+SC Sociology
+GA 866AO
+UT WOS:000224745500001
+DA 2021-03-31
+ER
+
+PT J
+AU Barbier, JC
+   Ludwig-Mayerhofer, W
+AF Barbier, JC
+   Ludwig-Mayerhofer, W
+TI The many worlds of activation - Introduction
+SO EUROPEAN SOCIETIES
+LA English
+DT Editorial Material
+C1 Ctr Etud Emploi, CNRS, F-93166 Noisy Le Grand, France.
+   Univ Siegen, FB Soziol 1, D-57068 Siegen, Germany.
+RP Barbier, JC (corresponding author), Ctr Etud Emploi, CNRS, 29 Promenade Michel Simon, F-93166 Noisy Le Grand, France.
+EM Jean-Claude.Barbier@mail.enpc.fr;
+   ludwig-mayerhofer@soziologie.uni-siegen.de
+NR 21
+TC 69
+Z9 69
+U1 0
+U2 5
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1461-6696
+EI 1469-8307
+J9 EUR SOC
+JI Eur. Soc.
+PY 2004
+VL 6
+IS 4
+BP 423
+EP 436
+DI 10.1080/1461669042000275845
+PG 14
+WC Sociology
+SC Sociology
+GA 866AO
+UT WOS:000224745500002
+DA 2021-03-31
+ER
+
+PT J
+AU Barbier, JC
+   Fargion, V
+AF Barbier, JC
+   Fargion, V
+TI Continental inconsistencies on the path to activation - Consequences for
+   social citizenship in Italy and France
+SO EUROPEAN SOCIETIES
+LA English
+DT Article
+DE activation; social protection; restructuring welfare states; active
+   labour market policies
+AB A priori, Italy and France would appear as unfit for activation policies. Yet, when activation is seen as a diversified strategy of restructuring welfare states across Europe, and not only the 'activation' of individuals from assistance, then the empirical picture over the last 20 years is much more complex. One of the main differences between both countries is with regard to the role of the state, whilst at the same time they share many common features. However, French achievements in matters of activation seem to be important, whereas in Italy institutional features have consistently impaired the development of comprehensive strategies.
+C1 Ctr Etud Emploi, CNRS, F-93166 Noisy Le Grand, France.
+   Univ Florence, Fac Sci Polit, I-50125 Florence, Italy.
+RP Barbier, JC (corresponding author), Ctr Etud Emploi, CNRS, 29 Promenade Michel Simon, F-93166 Noisy Le Grand, France.
+EM Jean-Claude.Barbier@mail.enpc.fr; valeria.fargion@unifi.it
+NR 18
+TC 19
+Z9 19
+U1 0
+U2 4
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1461-6696
+EI 1469-8307
+J9 EUR SOC
+JI Eur. Soc.
+PY 2004
+VL 6
+IS 4
+BP 437
+EP 460
+DI 10.1080/1461669042000275854
+PG 24
+WC Sociology
+SC Sociology
+GA 866AO
+UT WOS:000224745500003
+DA 2021-03-31
+ER
+
+PT J
+AU Halvorsen, R
+   Jensen, PH
+AF Halvorsen, R
+   Jensen, PH
+TI Activation in Scandinavian welfare policy - Denmark and Norway in a
+   comparative perspective
+SO EUROPEAN SOCIETIES
+LA English
+DT Article
+DE activation; active society; citizenship; Denmark; Norway; welfare policy
+   reforms; workfare; work orientation
+AB The article discusses 'activation' in Denmark and Norway from an 'active society' perspective. The argument forwarded is that activation in the two Nordic countries shows continuity over the last 50 years, where Denmark and Norway have shared much of the same policy rationale or logic. At the same time there have been discrepancies in the activation opportunities, especially during the 1970s and 1980s. Such differences should be understood in terms of differences in the level and structure of unemployment in the two countries. All too often, changes in policy programmes and related 'discourses' have been evaluated without taking the changing labour-market conditions into account. On occasion this has led to too hasty or imbalanced conclusions. In part this has led to a misrepresentation of the relatively generous welfare benefit regime in Denmark during the 1980s, and in part to exaggeration of the alleged 'repressive' or unreasonable nature of the welfare-policy reforms in Denmark in the 1990s.
+C1 NTNU, Dept Sociol & Polit Sci, NO-7491 Trondheim, Norway.
+   Aalborg Univ, Ctr Comparat Welf Studies, DK-9220 Aalborg, Denmark.
+RP Halvorsen, R (corresponding author), NTNU, Dept Sociol & Polit Sci, NO-7491 Trondheim, Norway.
+EM runeh@svt.ntnu.no; perh@socsci.auc.dk
+OI Jensen, Per H./0000-0002-9588-3189
+NR 66
+TC 22
+Z9 22
+U1 0
+U2 12
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1461-6696
+EI 1469-8307
+J9 EUR SOC
+JI Eur. Soc.
+PY 2004
+VL 6
+IS 4
+BP 461
+EP 483
+DI 10.1080/1461669042000275863
+PG 23
+WC Sociology
+SC Sociology
+GA 866AO
+UT WOS:000224745500004
+DA 2021-03-31
+ER
+
+PT J
+AU Ludwig-Mayerhofer, W
+   Wroblewski, A
+AF Ludwig-Mayerhofer, W
+   Wroblewski, A
+TI Eppur Si Muove? Activation policies in Austria and Germany
+SO EUROPEAN SOCIETIES
+LA English
+DT Article
+DE welfare state change; unemployment; activation; citizenship; Austria;
+   Germany
+ID UNEMPLOYMENT
+AB Current debates about activation policies focus only to a very limited degree on continental or conservative welfare states, as countries like Austria and Germany are usually assumed to exhibit a low degree of activation. However, active labour market policies have a long tradition in both countries. This paper analyses the development of active labour market policy in Germany and Austria during the last two decades with special emphasis on recent reform attempts. Against this background, the potential outcome of the central reforms is discussed. In spite of claims to 'modernise' the welfare system and labour market policies, current developments work mainly in the direction of curtailing benefits and rights of the unemployed.
+C1 Univ Siegen, FB Soziol 1, D-57068 Siegen, Germany.
+   Inst Adv Studies, Dept Sociol, A-1060 Vienna, Austria.
+RP Ludwig-Mayerhofer, W (corresponding author), Univ Siegen, FB Soziol 1, D-57068 Siegen, Germany.
+EM ludwig-mayerhofer@soziologie.uni-siegen.de; wroblewski@ihs.ac.at
+NR 34
+TC 8
+Z9 8
+U1 0
+U2 6
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 1461-6696
+J9 EUR SOC
+JI Eur. Soc.
+PY 2004
+VL 6
+IS 4
+BP 485
+EP 509
+DI 10.1080/1461669042000275872
+PG 25
+WC Sociology
+SC Sociology
+GA 866AO
+UT WOS:000224745500005
+DA 2021-03-31
+ER
+
+PT J
+AU Wright, S
+   Kopac, A
+   Slater, G
+AF Wright, S
+   Kopac, A
+   Slater, G
+TI Continuities within paradigmatic change - Activation, social policies
+   and citizenship in the context of welfare reform in Slovenia and the UK
+SO EUROPEAN SOCIETIES
+LA English
+DT Article
+DE activation; unemployment; welfare system change; transition;
+   post-socialist economies
+ID BRITAIN
+AB In this paper, we examine the inception and development of activation in Slovenia and the UK in order to identify the rationales for its introduction, to plot the direction of reforms and to consider the outcomes of policy implementation for citizens. In this unconventional country comparison, we are interested in understanding third-order (Hall P. 1993, Comparative Politics 25 (3): 275-96) welfare state change as the context for the introduction of activation. The UK and, to a much greater extent, Slovenia, underwent paradigmatic changes in the goals of the economy, structure of the labour market and basis of social provisions in the late twentieth century. This provided the possibility for activation to develop a more distinct character and to be implemented to a greater extent than in other European countries. However, we argue that the nature of the activation strategies pursued in Slovenia and the UK have both retained strong flavours of their earlier policy traditions and point to the role of political institutions and arrangements in adjusting the demands of supranational organisations, particularly in the corporatist Slovenian case.
+C1 Univ Stirling, Dept Appl Social Sci, Stirling FK9 4LA, Scotland.
+   Univ Ljubljana, Fac Social Sci, SI-1000 Ljubljana, Slovenia.
+   Nottingham Trent Univ, Fac Econ & Social Sci, Nottingham NG1 4BU, England.
+RP Wright, S (corresponding author), Univ Stirling, Dept Appl Social Sci, Stirling FK9 4LA, Scotland.
+EM sharon.wright@stir.ac.uk; anja.kopac@guest.arnes.si;
+   gary.slater@ntu.ac.uk
+RI Slater, Gary/Y-4239-2019
+OI Slater, Gary/0000-0003-0895-7117
+NR 51
+TC 5
+Z9 5
+U1 0
+U2 4
+PU ROUTLEDGE TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 1461-6696
+J9 EUR SOC
+JI Eur. Soc.
+PY 2004
+VL 6
+IS 4
+BP 511
+EP 534
+DI 10.1080/1461669042000275881
+PG 24
+WC Sociology
+SC Sociology
+GA 866AO
+UT WOS:000224745500006
+DA 2021-03-31
+ER
+
+PT J
+AU Gallie, D
+   Paugam, S
+   Jacobs, S
+AF Gallie, D
+   Paugam, S
+   Jacobs, S
+TI Unemployment, poverty and social isolation - Is there a vicious circle
+   of social exclusion?
+SO EUROPEAN SOCIETIES
+LA English
+DT Article
+DE unemployment; social exclusion; poverty
+AB The concept of social exclusion implies that there is a downward spiral in which labour market marginality leads to poverty and social isolation, which in turn reinforce the risk of long-term unemployment. The evidence in favour of this view hitherto has been largely restricted to cross-sectional data that assess the degree of association between labour market position, poverty status and patterns of sociability. In this article we seek to test more rigorously the implied causal argument by exploring the relationship between these factors over time. The article first explores whether the transition from employment to unemployment heightens the risk of poverty and social isolation, and then turns to the issue of whether poverty and social isolation significantly affect the length of time it takes people to leave unemployment for a job. It draws on data from the European Community Household Panel, which provides longitudinal data for most of the EU member states, for the period 1994 to 1996. The article concludes that there is strong evidence that poverty contributes to a vicious circle of exclusion. Unemployment increases the risks of poverty and poverty in turn makes it more difficult for people to return to work. However, there is no clear support for the view that social isolation is directly caused by unemployment. Rather the risk of social isolation is contingent upon broader cultural patterns with respect to household structure and local sociability, which differ considerably between countries. Furthermore, there was no significant effect of any of the types of sociability studied on the time that it took people to re-enter employment. The article concludes that a concern for the implications of unemployment for social exclusion should focus primarily on the problem of poverty.
+C1 Univ Oxford, Oxford OX1 2JD, England.
+   Univ Oxford Nuffield Coll, Oxford OX1 1NF, England.
+   Ecole Hautes Etudes & Sci Sociales, Paris, France.
+RP Gallie, D (corresponding author), Univ Oxford, Oxford OX1 2JD, England.
+RI Gallie, Duncan/V-2470-2019; Sieben, Inge/D-8582-2013; de Graaf, Paul
+   M/D-7035-2013
+OI Sieben, Inge/0000-0003-4009-6775; 
+NR 47
+TC 132
+Z9 132
+U1 1
+U2 88
+PU ROUTLEDGE TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 1461-6696
+J9 EUR SOC
+JI Eur. Soc.
+PY 2003
+VL 5
+IS 1
+BP 1
+EP 32
+DI 10.1080/1461669032000057668
+PG 32
+WC Sociology
+SC Sociology
+GA 739XP
+UT WOS:000186372300001
+DA 2021-03-31
+ER
+
+PT J
+AU Sieben, I
+   De Graaf, PM
+AF Sieben, I
+   De Graaf, PM
+TI The total impact of the family on educational attainment - A comparative
+   sibling analysis
+SO EUROPEAN SOCIETIES
+LA English
+DT Article; Proceedings Paper
+CT 95th Annual Meeting of the American-Sociological-Association
+CY AUG 11-16, 2000
+CL Washington, DC
+SP Amer Sociol Assoc
+DE social stratification; educational attainment; family; sibling analysis;
+   cross-national research
+ID OCCUPATIONAL-STATUS; TRENDS; RESEMBLANCE
+AB We employ a three-level model - with siblings nested in families nested in societies - to estimate the variability in family effects on educational attainment across countries and cohorts. To perform this comparative sibling analysis, we use survey data from eleven countries and six time periods. The results first of all show that 34 per cent of the individual variance in educational attainment can be attributed to the family, leaving 37 per cent at the individual sibling level and 28 per cent at the level of the societies investigated. Furthermore, the comparative sibling analysis makes clear that there are significant differences in family effects on educational attainment between countries and cohorts. We find that indicators of modernization, individualization, and socialism negatively influence the measured effects of parents' socio-economic position on educational attainment. Total family impact does not vary with these societal characteristics in a systematic way, however. This seems to be in line with the reproduction hypothesis, which states that parents use compensating strategies to make up for the loss in effects of parents' socio-economic position on educational attainment.
+C1 Maastricht Univ, Res Ctr Educ & Labor Market, Maastricht, Netherlands.
+   Univ Nijmegen, Dept Sociol, Nijmegen, Netherlands.
+RP Sieben, I (corresponding author), Maastricht Univ, Res Ctr Educ & Labor Market, Maastricht, Netherlands.
+EM I.Sieben@roa.unimaas.nl
+NR 54
+TC 20
+Z9 20
+U1 0
+U2 13
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1461-6696
+EI 1469-8307
+J9 EUR SOC
+JI Eur. Soc.
+PY 2003
+VL 5
+IS 1
+BP 33
+EP 68
+DI 10.1080/1461669032000057668a
+PG 36
+WC Sociology
+SC Sociology
+GA 739XP
+UT WOS:000186372300002
+DA 2021-03-31
+ER
+
+PT J
+AU Nordlund, A
+AF Nordlund, A
+TI Persistence and change - Nordic social policy in the 1980s and 1990s
+SO EUROPEAN SOCIETIES
+LA English
+DT Article
+DE Nordic countries; welfare state; re-commodification; cost containment;
+   recalibration; rationalization
+ID WELFARE-STATE
+AB Many politicians, participants in the public debate and academic scholars have regarded comprehensive welfare states as incompatible with the policy environment of the late twentieth and early twenty-first century. Nordic welfare states are, due to their post-war history, suitable for testing predictions of the durability of comprehensive welfare states. The first purpose of this article is to examine previous research and official statistics on Nordic welfare state development in order to evaluate the proposition that comprehensive welfare states have been or soon will be forced to dismantle or radically reform social programs. The analysis finds weak support for propositions that comprehensive welfare states have been or soon will be subject to sharp downsizing or radical reconstruction. The second purpose is to explore Pierson's (2001) suggestion that cost containment and recalibration were salient dimensions of Nordic social policy-making in the 1980s and 1990s. The analysis finds support for Pierson's arguments. However, empirical evidence also suggests that Pierson's analysis does not sufficiently incorporate reorganization of services.
+C1 Lulea Univ Technol, Hedenbrovagen, Sweden.
+RP Nordlund, A (corresponding author), Lulea Univ Technol, Hedenbrovagen, Sweden.
+NR 64
+TC 3
+Z9 3
+U1 0
+U2 4
+PU ROUTLEDGE TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 1461-6696
+J9 EUR SOC
+JI Eur. Soc.
+PY 2003
+VL 5
+IS 1
+BP 69
+EP 90
+DI 10.1080/1461669032000057677
+PG 22
+WC Sociology
+SC Sociology
+GA 739XP
+UT WOS:000186372300003
+DA 2021-03-31
+ER
+
+PT J
+AU Delhey, J
+   Newton, K
+AF Delhey, J
+   Newton, K
+TI Who trusts? The origins of social trust in seven societies
+SO EUROPEAN SOCIETIES
+LA English
+DT Article
+DE social trust; social capital; cleavages; personality; cross-national
+   comparison; Euromodule survey
+ID DEMOCRACY
+AB This article identifies six main theories of the determinants of social trust, and tests them against survey data from seven societies, 1999-2001. Three of the six theories of trust fare rather poorly and three do better. First and foremost, social trust tends to be high among citizens who believe that there are few severe social conflicts and where the sense of public safety is high. Second, informal social networks are associated with trust. And third, those who are successful in life trust more, or are more inclined by their personal experience to do so. Individual theories seem to work best in societies with higher levels of trust, and societal ones in societies with lower levels of trust. This may have something to do with the fact that our two low trust societies, Hungary and Slovenia, happen to have experienced revolutionary change in the very recent past, so that societal events have overwhelmed individual circumstances.
+C1 Social Sci Res Ctr, Dept Social Struct & Social Reporting, Berlin, Germany.
+   Univ Southampton, Dept Polit Sci, Southampton SO9 5NH, Hants, England.
+RP Delhey, J (corresponding author), Social Sci Res Ctr, Dept Social Struct & Social Reporting, Berlin, Germany.
+EM delhey@wz-berlin.de
+NR 87
+TC 254
+Z9 260
+U1 1
+U2 52
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1461-6696
+EI 1469-8307
+J9 EUR SOC
+JI Eur. Soc.
+PY 2003
+VL 5
+IS 2
+BP 93
+EP 137
+DI 10.1080/1461669032000072256
+PG 45
+WC Sociology
+SC Sociology
+GA 739XQ
+UT WOS:000186372400001
+DA 2021-03-31
+ER
+
+PT J
+AU Nieuwbeerta, P
+   Geest, GB
+   Siegers, J
+AF Nieuwbeerta, P
+   Geest, GB
+   Siegers, J
+TI Street-level corruption in industrialized and developing countries
+SO EUROPEAN SOCIETIES
+LA English
+DT Article
+DE ICVS; cross-country analysis; corruption; victimization; economic
+   development; British legal culture; federalism
+ID ECONOMIC-GROWTH; LAW-ENFORCEMENT; CRIME
+AB This paper offers a cross-country analysis of street-level corruption. In line with earlier studies on general corruption (where data did not allow a distinction between street-level and high-level corruption, e.g. Treisman 2000 and La Porta et al. 1999), nine hypotheses based on general economic theories of law enforcement are tested using data from the International Crime Victims Survey (ICVS) held in forty countries (N = 27,456). The analyses employ multilevel logistic regression models. The results show that citizens living in countries with (a) high levels of economic development, (b) high levels of economic freedom, (c) long exposure to democracy, (d) a non-federal structure, (e) Protestant traditions, and (f) a British legal culture, experience less corruption. A relation between corruption levels and economic development, economic freedom, long democratic traditions, and a British legal culture, however, is found only when no distinction is made between industrialized and developing countries. As for individual characteristics, a higher risk of being victimized by corruption is correlated with a lower age and higher levels of education and income.
+C1 Netherlands Inst Study Crime & Law Enforcement, Leiden, Netherlands.
+   Univ Utrecht, Utrecht Sch Econ, NL-3508 TC Utrecht, Netherlands.
+RP Nieuwbeerta, P (corresponding author), Netherlands Inst Study Crime & Law Enforcement, Leiden, Netherlands.
+RI Nieuwbeerta, Paul/H-3060-2013
+OI Nieuwbeerta, Paul/0000-0001-5134-3175
+NR 49
+TC 9
+Z9 9
+U1 0
+U2 5
+PU ROUTLEDGE TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 1461-6696
+J9 EUR SOC
+JI Eur. Soc.
+PY 2003
+VL 5
+IS 2
+BP 139
+EP 165
+DI 10.1080/1461669032000072265
+PG 27
+WC Sociology
+SC Sociology
+GA 739XQ
+UT WOS:000186372400002
+DA 2021-03-31
+ER
+
+PT J
+AU Layte, R
+   Whelan, CT
+AF Layte, R
+   Whelan, CT
+TI Moving in and out of poverty - The impact of welfare regimes on poverty
+   dynamics in the EU
+SO EUROPEAN SOCIETIES
+LA English
+DT Article
+DE poverty; poverty dynamics; ECHP; welfare regimes
+ID UNITED-STATES; INCOME; DEPRIVATION; INEQUALITY
+AB Although many of the debates around social exclusion and cumulative disadvantage relate to processes that occur across time, there has been relatively little research into poverty dynamics except in a few notable countries such as Britain, the USA and Germany. This neglect is almost entirely because of the absence of comparative longitudinal data on income for other countries, but it is regrettable given the central importance of this area. By studying poverty dynamics we not only get a better insight into the processes leading to patterns of disadvantage and inequality, but we can also understand better the influence of different welfare state regimes on the social risks experienced by different types of individuals and households. The extent to which different national contexts protect their citizens from poverty persistence, or vary in the factors leading to poverty persistence, tells us a great deal about the workings of their socioeconomic systems and welfare regimes.
+   In this article we use the recent availability of five waves of the European Community Household Panel Survey to outline the nature of poverty persistence and poverty dynamics across a large number of countries. In doing so we ask three important questions. First, is poverty a more common experience when viewed longitudinally rather than cross-sectionally, and how is this affected by the income poverty line used? Second, can we identify a tendency toward poverty persistence, and does this vary in its extent across countries? Third and lastly, what types of events are more likely to lead to entry into and exit from poverty, and does the importance of these events differ between countries? The article shows that the experience of poverty is far wider than is appreciated from cross-sectional data, and also tends to be more concentrated on a particular population than would be expected from cross-sectional rates. Moreover, the pattern of poverty persistence is congruent with welfare regime theory. The importance of country institutions and welfare regimes is also underlined by the finding that social welfare and market incomes play different roles in poverty transitions across countries, and that Southern European, or residualist, welfare regimes focus poverty risks on the experience of the household's primary earner to a far greater extent than Northern European welfare states do.
+C1 Econ & Social Res Inst, Dublin, Ireland.
+RP Layte, R (corresponding author), Econ & Social Res Inst, Dublin, Ireland.
+NR 37
+TC 36
+Z9 36
+U1 0
+U2 24
+PU ROUTLEDGE TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 1461-6696
+J9 EUR SOC
+JI Eur. Soc.
+PY 2003
+VL 5
+IS 2
+BP 167
+EP 191
+DI 10.1080/1461669032000072274
+PG 25
+WC Sociology
+SC Sociology
+GA 739XQ
+UT WOS:000186372400003
+DA 2021-03-31
+ER
+
+PT J
+AU Gross, M
+AF Gross, M
+TI Educational systems and perceived social inequality - The institutional
+   base of class formation
+SO EUROPEAN SOCIETIES
+LA English
+DT Article
+DE educational systems; intra-generational mobility; social inequality
+ID ATTAINMENT PROCESS; MOBILITY; ENGLAND; FRANCE; SWEDEN
+AB This paper investigates the effect of intra-generational mobility patterns on collective social action. We start with the assumption that employees tend to collective action in pursuing their economic interests only if their social position is homogeneous, stable in time and characterized by privileges (or structural disadvantages). We believe that patterns of intra-generational mobility (and not only those of inter-generational mobility) are crucial for these preconditions of collective action. These conditions can come into effect only in systems of 'closed positions', where intra-generational mobility is restricted. In systems of open positions, a high degree of intra-generational mobility prevents the existence of homogeneous, stable and privileged social positions.
+   In addition, the institutional arrangements of a given society, especially the educational system, determine to a great extent whether occupational positions are closed or not. In societies with standardized, stratified and differentiated educational systems, intra-generational mobility is restricted by credentialist allocation regimes so that the three conditions are fulfilled and patterns of collective action have a high probability of arising.
+   This hypothesis is tested by an international comparison of effects on perceived social inequality using data from the International Social Justice Project (1991, 1996). It turns out that, as expected, in credentialist countries, educational titles and class position have stronger effects on perceived social inequality than in non-credentialist societies. But it was found that the economic system also plays an important role in the structuring of perceived inequality.
+C1 Humboldt Univ, Inst Social Sci, D-1086 Berlin, Germany.
+RP Gross, M (corresponding author), Humboldt Univ, Inst Social Sci, D-1086 Berlin, Germany.
+EM martin.gross@rz.hu-berlin.de
+NR 62
+TC 9
+Z9 10
+U1 0
+U2 12
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 1461-6696
+J9 EUR SOC
+JI Eur. Soc.
+PY 2003
+VL 5
+IS 2
+BP 193
+EP 225
+DI 10.1080/1461669032000076892
+PG 33
+WC Sociology
+SC Sociology
+GA 739XQ
+UT WOS:000186372400004
+DA 2021-03-31
+ER
+
+PT J
+AU Steinheimer, E
+AF Steinheimer, E
+TI Changing Europe: Identities, nations and citizens.
+SO EUROPEAN SOCIETIES
+LA English
+DT Book Review
+C1 Inst Adv Studies, Vienna, Austria.
+RP Steinheimer, E (corresponding author), Inst Adv Studies, Vienna, Austria.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 2
+PU ROUTLEDGE TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 1461-6696
+J9 EUR SOC
+JI Eur. Soc.
+PY 2003
+VL 5
+IS 2
+BP 227
+EP 228
+DI 10.1080/1461669032000076883
+PG 2
+WC Sociology
+SC Sociology
+GA 739XQ
+UT WOS:000186372400005
+DA 2021-03-31
+ER
+
+PT J
+AU Jagudina, Z
+AF Jagudina, Z
+TI Mothers and soldiers: Gender, citizenship, and civil society in
+   contemporary Russia.
+SO EUROPEAN SOCIETIES
+LA English
+DT Book Review
+C1 Gothenburg Univ, Dept Sociol, S-41124 Gothenburg, Sweden.
+RP Jagudina, Z (corresponding author), Gothenburg Univ, Dept Sociol, S-41124 Gothenburg, Sweden.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 1
+PU ROUTLEDGE TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 1461-6696
+J9 EUR SOC
+JI Eur. Soc.
+PY 2003
+VL 5
+IS 2
+BP 228
+EP 231
+PG 4
+WC Sociology
+SC Sociology
+GA 739XQ
+UT WOS:000186372400006
+DA 2021-03-31
+ER
+
+PT J
+AU Petersson, B
+   Hellstrom, A
+AF Petersson, B
+   Hellstrom, A
+TI The return of the kings - Temporality in the construction of EU identity
+SO EUROPEAN SOCIETIES
+LA English
+DT Article
+DE European identity; European Commission; identity construction;
+   temporality; founding fathers; enlargement
+ID LEGITIMACY
+AB The authors analyze how pro-federative representatives of the European Commission exploit the temporal dimension of identity construction within the EU. The paper shows, through the analysis of speeches and statements of Commission members, how efforts are made to construct a common past and visualize a common future to enhance common identities within the EU. The common past is invoked through recurrent claims that Europe is on the point of being reunified, and, most prominently, through references to the words and deeds of the Founding Fathers of the EU, notably Jean Monnet and Robert Schuman. This near past seems to make up the affective glue most counted upon to promote common identifications. Furthermore, the temporal dimension is used to invoke visions pertaining to the near future, here labelled the common near. Most often, these visions deal with the favourable and harmonious conditions to arise once the current enlargement is completed.
+C1 Lund Univ, Dept Polit Sci, S-22100 Lund, Sweden.
+RP Petersson, B (corresponding author), Lund Univ, Dept Polit Sci, POB 52, S-22100 Lund, Sweden.
+EM Bo.Petersson@svet.lu.se
+RI Petersson, Bo/B-1101-2014
+OI Petersson, Bo/0000-0001-7289-6318
+NR 59
+TC 8
+Z9 8
+U1 0
+U2 6
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1461-6696
+EI 1469-8307
+J9 EUR SOC
+JI Eur. Soc.
+PY 2003
+VL 5
+IS 3
+BP 235
+EP 252
+DI 10.1080/1461669032000111298
+PG 18
+WC Sociology
+SC Sociology
+GA 739XR
+UT WOS:000186372500001
+DA 2021-03-31
+ER
+
+PT J
+AU Merand, F
+AF Merand, F
+TI Dying for the union? Military officers and the creation of a European
+   defence force
+SO EUROPEAN SOCIETIES
+LA English
+DT Article
+DE European security; European defence policy; public opinion; political
+   identity; armed forces; officer corps
+ID ACADEMIES; BRITAIN
+AB In spite of the vagaries of the common foreign and security policy and the enduring domination of NATO, there now exist a fairly large number of West European military structures. Recently, European countries pledged substantial units towards the creation of a 60,000-strong EU Rapid Reaction Capability, due to be fully operational by the mid-2000s. What did military officers in France, the United Kingdom and Germany think of 'European defence' before recent political developments took place? This paper attempts to assess the level of support for military integration among officers as well as the reasons and causes underlying their opinion. In particular, I demonstrate that, beyond cross-national variation, speaking foreign languages, having few soldiers in one's family, belonging to a 'support' unit, being highly ranked and believing in the virtues of international missions are significant predictors of support for European armed forces.
+C1 Univ Calif Berkeley, Dept Sociol, Berkeley, CA 94720 USA.
+RP Merand, F (corresponding author), Univ Calif Berkeley, Dept Sociol, Berkeley, CA 94720 USA.
+EM fmerand@uclink.berkeley.edu
+NR 74
+TC 8
+Z9 8
+U1 0
+U2 15
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1461-6696
+EI 1469-8307
+J9 EUR SOC
+JI Eur. Soc.
+PY 2003
+VL 5
+IS 3
+BP 253
+EP 282
+DI 10.1080/1461669032000111306
+PG 30
+WC Sociology
+SC Sociology
+GA 739XR
+UT WOS:000186372500002
+DA 2021-03-31
+ER
+
+PT J
+AU Theriault, B
+AF Theriault, B
+TI The 'politics of institutionalization' - The inner discourse of German
+   churches after radical political change
+SO EUROPEAN SOCIETIES
+LA English
+DT Article
+DE churches; East Germany; political change; process of
+   institutionalization; rhetoric
+AB The Protestant and Catholic churches in Germany embodied continuity in a country marked by discontinuity. During the forty years of division, they were the only organizations in East Germany to retain strong ties and organizational structures with their West German counterparts. Yet, the continuity that characterized the churches as organizations does not corroborate the stability of their values and self-definitions. Drawing on conceptual tools such as guiding metaphors and organizing principles, this paper looks at the debates that accompanied the re-establishment of the churches' unity after radical political change in order to delineate the conflicting conceptions of the churches' public role. The focus is on the work carried out by religious agents in either maintaining or changing these conceptions, a process we refer to as the 'politics of institutionalization'. Hirschman's framework on rhetoric enables us to reconstruct the debates to identify and compare the strategies and patterns of argumentation advanced by the actors in this process. Special attention is paid to the 'East German metaphors', or what is generally termed the 'positive experiences of the GDR and the "Wende"', and their defenders following the remarkable events that paved the way for the collapse of the German Democratic Republic and for German unification.
+C1 Univ Montreal, Dept Sociol, Montreal, PQ H3C 3J7, Canada.
+RP Theriault, B (corresponding author), Univ Montreal, Dept Sociol, CP 6128,Succ Ctr Ville, Montreal, PQ H3C 3J7, Canada.
+EM barbara.theriault@umontreal.ca
+NR 62
+TC 1
+Z9 1
+U1 0
+U2 0
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1461-6696
+EI 1469-8307
+J9 EUR SOC
+JI Eur. Soc.
+PY 2003
+VL 5
+IS 3
+BP 283
+EP 301
+DI 10.1080/1461669032000111315
+PG 19
+WC Sociology
+SC Sociology
+GA 739XR
+UT WOS:000186372500003
+DA 2021-03-31
+ER
+
+PT J
+AU Cohen, O
+   Savaya, R
+AF Cohen, O
+   Savaya, R
+TI Reasons for divorce among Muslim Arabs in Israel - An exploratory study
+SO EUROPEAN SOCIETIES
+LA English
+DT Article
+DE reasons for divorce; causes of divorce; Muslims; Arabs; citizens of
+   Israel; society in transition
+ID PERCEIVED CAUSES; SOCIAL-CONTEXT; MARRIAGE; WOMEN; STRATEGIES; FAMILIES;
+   SOCIETY; MEN
+AB This is an exploratory, cross-cultural study(1) examining the reasons for divorce in a sample of 312 Muslim Arabs in Israel. Findings showed a combination of modern and traditional reasons, which reflect the transition that Arab society in Israel is undergoing. On the modern side, over two-thirds of both the men and women endorsed 'did not get along' and communications problems, common reasons in the West today. On the traditional side, large proportions of respondents cited physical violence and interference by relatives - reasons which are more common in traditional societies, where divorce is stigmatized and otherwise very difficult. In addition, a sizeable proportion of the men cited problems of conception.
+C1 Tel Aviv Univ, Bob Shapell Sch Social Work, IL-69978 Tel Aviv, Israel.
+RP Cohen, O (corresponding author), Tel Aviv Univ, Bob Shapell Sch Social Work, POB 39040, IL-69978 Tel Aviv, Israel.
+EM ornacoh@post.tau.ac.il
+NR 56
+TC 3
+Z9 3
+U1 0
+U2 5
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1461-6696
+EI 1469-8307
+J9 EUR SOC
+JI Eur. Soc.
+PY 2003
+VL 5
+IS 3
+BP 303
+EP 325
+DI 10.1080/1461669032000111324
+PG 23
+WC Sociology
+SC Sociology
+GA 739XR
+UT WOS:000186372500004
+DA 2021-03-31
+ER
+
+PT J
+AU Schnabl, E
+AF Schnabl, E
+TI Social assistance dynamics in Europe: National and local poverty
+   regimes.
+SO EUROPEAN SOCIETIES
+LA English
+DT Book Review
+C1 Univ Trent, Trent, Italy.
+RP Schnabl, E (corresponding author), Univ Trent, Trent, Italy.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 6
+PU ROUTLEDGE TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 1461-6696
+J9 EUR SOC
+JI Eur. Soc.
+PY 2003
+VL 5
+IS 3
+BP 327
+EP 330
+DI 10.1080/1461669032000111333
+PG 4
+WC Sociology
+SC Sociology
+GA 739XR
+UT WOS:000186372500005
+DA 2021-03-31
+ER
+
+PT J
+AU Latcheva, R
+AF Latcheva, R
+TI Ethnicity and globalization.
+SO EUROPEAN SOCIETIES
+LA English
+DT Book Review
+C1 Inst Adv Studies, Dept Sociol, Vienna, Austria.
+RP Latcheva, R (corresponding author), Inst Adv Studies, Dept Sociol, Vienna, Austria.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ROUTLEDGE TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 1461-6696
+J9 EUR SOC
+JI Eur. Soc.
+PY 2003
+VL 5
+IS 3
+BP 330
+EP 334
+PG 5
+WC Sociology
+SC Sociology
+GA 739XR
+UT WOS:000186372500006
+DA 2021-03-31
+ER
+
+PT J
+AU Wendt, T
+   Atzmuller, C
+AF Wendt, T
+   Atzmuller, C
+TI The disenchantment of the market economy: Ethnological investigations in
+   East German companies.
+SO EUROPEAN SOCIETIES
+LA English
+DT Book Review
+C1 Inst Adv Studies, Dept Sociol, Vienna, Austria.
+RP Wendt, T (corresponding author), Inst Adv Studies, Dept Sociol, Vienna, Austria.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ROUTLEDGE TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 1461-6696
+J9 EUR SOC
+JI Eur. Soc.
+PY 2003
+VL 5
+IS 3
+BP 335
+EP 339
+PG 5
+WC Sociology
+SC Sociology
+GA 739XR
+UT WOS:000186372500007
+DA 2021-03-31
+ER
+
+PT J
+AU Wroblewski, A
+AF Wroblewski, A
+TI Career-women-competition
+SO EUROPEAN SOCIETIES
+LA English
+DT Book Review
+C1 Inst Adv Studies, Vienna, Austria.
+RP Wroblewski, A (corresponding author), Inst Adv Studies, Vienna, Austria.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ROUTLEDGE TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 1461-6696
+J9 EUR SOC
+JI Eur. Soc.
+PY 2003
+VL 5
+IS 3
+BP 339
+EP 342
+PG 4
+WC Sociology
+SC Sociology
+GA 739XR
+UT WOS:000186372500008
+DA 2021-03-31
+ER
+
+PT J
+AU Merand, F
+AF Merand, F
+TI Handbook of the sociology of the military.
+SO EUROPEAN SOCIETIES
+LA English
+DT Book Review
+C1 Univ Calif Berkeley, Berkeley, CA 94720 USA.
+RP Merand, F (corresponding author), Univ Calif Berkeley, Berkeley, CA 94720 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ROUTLEDGE TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 1461-6696
+J9 EUR SOC
+JI Eur. Soc.
+PY 2003
+VL 5
+IS 3
+BP 342
+EP 345
+PG 4
+WC Sociology
+SC Sociology
+GA 739XR
+UT WOS:000186372500009
+DA 2021-03-31
+ER
+
+PT J
+AU Richter, R
+   Eriksen, J
+AF Richter, R
+   Eriksen, J
+TI Care through cash and public service
+SO EUROPEAN SOCIETIES
+LA English
+DT Editorial Material
+C1 Univ Vienna, Inst Sociol, Human & Social Sci Fac, A-1010 Vienna, Austria.
+   NOVA, Norwegian Social Res, N-0260 Oslo, Norway.
+RP Richter, R (corresponding author), Univ Vienna, Inst Sociol, Human & Social Sci Fac, Rooseveltpl 2, A-1010 Vienna, Austria.
+EM rudolf.richter@univie.ac.at; John.Eriksen@nova.no
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 1461-6696
+J9 EUR SOC
+JI Eur. Soc.
+PY 2003
+VL 5
+IS 4
+BP 349
+EP 351
+DI 10.1080/1461669032000127633
+PG 3
+WC Sociology
+SC Sociology
+GA 742UB
+UT WOS:000186535500001
+DA 2021-03-31
+ER
+
+PT J
+AU Leitner, S
+AF Leitner, S
+TI Varieties of familialism - The caring function of the family in
+   comparative perspective
+SO EUROPEAN SOCIETIES
+LA English
+DT Article
+DE family policy; child care; elderly care; gender; welfare state typology
+ID WELFARE STATES; POLITICS; CARE
+AB This article focuses on the caring function of the family in child care and elderly care and follows a comparative as well as a gender perspective. It aims at developing a gender-sensitive theoretical concept of familialism which allows to identify real world variations of familialism. Four ideal types of familialism are distinguished and care policies in the EU member states are classified according to them. It can be shown that countries cluster differently for different care policies. In addition, structural gender effects of the four ideal types of familialism are reflected upon. The empirical analysis of paid parental leave in nine EU member states gives an example of gendered and de-gendered variants of familialism.
+C1 Univ Gottingen, Dept Social Policy, D-37073 Gottingen, Germany.
+RP Leitner, S (corresponding author), Univ Gottingen, Dept Social Policy, Pl Goettinger Sieben 3, D-37073 Gottingen, Germany.
+NR 26
+TC 335
+Z9 341
+U1 5
+U2 59
+PU ROUTLEDGE TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 1461-6696
+J9 EUR SOC
+JI Eur. Soc.
+PY 2003
+VL 5
+IS 4
+BP 353
+EP 375
+DI 10.1080/1461669032000127642
+PG 23
+WC Sociology
+SC Sociology
+GA 742UB
+UT WOS:000186535500002
+DA 2021-03-31
+ER
+
+PT J
+AU Ungerson, C
+AF Ungerson, C
+TI Commodified care work in European labour markets
+SO EUROPEAN SOCIETIES
+LA English
+DT Article
+DE care; care work; migrant workers; direct payments; cash for care
+AB This paper considers the reasons why a form of commodified care work identified as 'routed wages' has developed in many European countries over the past decade. These systems, which are often argued for within an empowerment discourse for the care users, are not often considered in terms of their labour market impact. The paper uses empirical data generated in a cross-national qualitative study of care users and their care givers in five European countries (Austria, France, Italy, The Netherlands and the UK) to outline the different ways in which different types of commodified care schemes impact on the labour market. It is suggested that the schemes differ in their labour market impact, depending on whether or not the scheme is regulated, and on the geographic, social and economic contexts within which the scheme is implemented.
+C1 Univ Southampton, Sch Social Sci, Div Sociol & Social Policy, Southampton SO17 1BJ, Hants, England.
+RP Ungerson, C (corresponding author), Univ Southampton, Sch Social Sci, Div Sociol & Social Policy, Southampton SO17 1BJ, Hants, England.
+NR 18
+TC 58
+Z9 59
+U1 0
+U2 8
+PU ROUTLEDGE TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 1461-6696
+J9 EUR SOC
+JI Eur. Soc.
+PY 2003
+VL 5
+IS 4
+BP 377
+EP 396
+DI 10.1080/1461669032000127651
+PG 20
+WC Sociology
+SC Sociology
+GA 742UB
+UT WOS:000186535500003
+DA 2021-03-31
+ER
+
+PT J
+AU Jacobs, T
+AF Jacobs, T
+TI Paying for informal care: A contradictio in terminis?
+SO EUROPEAN SOCIETIES
+LA English
+DT Article
+DE care; care payments; solidarity; informal care; care insurance; social
+   policy
+ID CASH
+AB This paper deals with the congruency between care payments and family culture in Flanders (Belgium). Our main point is that the idea of getting the informal care paid for by the care receiver is not supported by a large part of the population, notwithstanding the fact that the system itself enjoys broad support. Therefore we propose to make a distinction between the attitudes of the population towards any state measure that transfers money to the household on the one hand and the concrete practices between care receivers and their informal carers on the other hand. Moreover we propose to make a distinction between co-residents and inter-household care situations because the mode of solidarity is not quite the same in the two different situations.
+C1 Univ Antwerp, B-2020 Antwerp, Belgium.
+RP Jacobs, T (corresponding author), CBGS, Populat & Family Study Ctr, Markiesstr 1, B-1000 Brussels, Belgium.
+EM therese.jacobs@wvc.vlaanderen.be
+NR 28
+TC 3
+Z9 3
+U1 0
+U2 3
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1461-6696
+EI 1469-8307
+J9 EUR SOC
+JI Eur. Soc.
+PY 2003
+VL 5
+IS 4
+BP 397
+EP 417
+DI 10.1080/1461669032000127660
+PG 21
+WC Sociology
+SC Sociology
+GA 742UB
+UT WOS:000186535500004
+DA 2021-03-31
+ER
+
+PT J
+AU Ellingsaeter, AL
+AF Ellingsaeter, AL
+TI The complexity of family policy reform - The case of Norway
+SO EUROPEAN SOCIETIES
+LA English
+DT Article
+DE family policy; policy complexity; cash-for-care; mothers' employment;
+   Norway
+ID WELFARE STATES; GENDER; CARE
+AB That 'politics matters' has become a central assumption in the booming welfare state literature in recent years. Sometimes policies do not matter much, however. A key argument in this paper is that family policies are becoming increasingly complex and diversified, and that the practical implications of policies have to be analysed in relation to the wider social, economic and political context. In the present case study of a cash-for-care reform introduced in Norway in 1998, the relationship between policy reform and mothers' employment practices is explored. Against expectations, and after a heated and polarised public debate, the reform turns out to have very modest effects. The analysis aims at identifying the constellation of factors that can explain the unexpected outcome, locating them in the interplay of the reform's intent and content, and divergences between policy assumptions and mothers' actual context of social action.
+C1 Inst Social Res, N-0208 Oslo, Norway.
+RP Ellingsaeter, AL (corresponding author), Inst Social Res, POB 3233 Elisenberg, N-0208 Oslo, Norway.
+EM anne.l.ellingsater@samfunnsforskning.no
+NR 49
+TC 56
+Z9 56
+U1 0
+U2 10
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1461-6696
+EI 1469-8307
+J9 EUR SOC
+JI Eur. Soc.
+PY 2003
+VL 5
+IS 4
+BP 419
+EP 443
+DI 10.1080/1461669032000127679
+PG 25
+WC Sociology
+SC Sociology
+GA 742UB
+UT WOS:000186535500005
+DA 2021-03-31
+ER
+
+PT J
+AU Eriksen, J
+AF Eriksen, J
+TI Public payment for informal care of disabled children - Some dilemmas of
+   the Norwegian welfare state
+SO EUROPEAN SOCIETIES
+LA English
+DT Article
+DE care wage; disabled children; welfare state; family policy; Norway
+AB In many societies, responsibility for care functions has been transferred from the family to the welfare state. If this care is extra burdensome, however, it may be compensated by the welfare state by cash payment. Such 'care wage' raises several questions regarding family and gender policies, as well as regarding other principles of the modern welfare state in a process of change. This article describes and discusses the Norwegian arrangement of care wage for parental care at home for own disabled children (under the age of 18). It is based on interviews with recipients of care wage (parents) and with social service officers administering care wage. Data show that care wage is associated with several dilemmas of the Norwegian - and Nordic - welfare states. Care wage represents commodification of care and it is most often paid to the mother. Still, it tends to support a traditional gender role pattern, both in regard to care duties at home and as waged labour. This is in contrast to Norwegian family policies intended to enhance gender quality. Although termed wage, care wage is not comparable to payment for work in the regular labour market. Difficulties in determining the proper care wage in each case point to value conflicts as to what are family responsibilities and what are societal responsibilities for care duties. Further, the arrangement of care wage in Norway seems to pay only lip-service self-governance, and questions the autonomy of local government.
+C1 Norwegian Social Res, NOVA, N-0260 Oslo, Norway.
+RP Eriksen, J (corresponding author), Norwegian Social Res, NOVA, Munthesgt 29, N-0260 Oslo, Norway.
+EM John.Eriksen@nova.no
+NR 40
+TC 3
+Z9 3
+U1 0
+U2 6
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1461-6696
+EI 1469-8307
+J9 EUR SOC
+JI Eur. Soc.
+PY 2003
+VL 5
+IS 4
+BP 445
+EP 463
+DI 10.1080/1461669032000127688
+PG 19
+WC Sociology
+SC Sociology
+GA 742UB
+UT WOS:000186535500006
+DA 2021-03-31
+ER
+
+EF

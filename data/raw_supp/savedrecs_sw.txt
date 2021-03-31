@@ -1,0 +1,3990 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Ludwig-Mayerhofer, W
+   Stawarz, N
+   Wicht, A
+AF Ludwig-Mayerhofer, Wolfgang
+   Stawarz, Nico
+   Wicht, Alexandra
+TI Family Structure and Children's Educational Outcomes The Role of
+   Economic, Cultural and Social Capital
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+DE Family Structure; Socio-economic Capital; Cultural Capital; Social
+   Capital; Educational Outcomes; Competencies; Mediation Analysis
+ID SINGLE-FATHER FAMILIES; PARENTAL INVOLVEMENT; SCHOOL; ACHIEVEMENT;
+   PERFORMANCE; ATTAINMENT; STRATEGIES; LIKELIHOOD; HOUSEHOLDS; SUCCESS
+AB The family structure in which children and adolescents grow up is related to their educational achievement. However, this relationship is mediated to a significant degree by the resource allocation of different family constellations. A detailed analysis of these relationships is still lacking, partly because the family structure is often not recorded in a sufficiently differentiated manner. Using data from the National Educational Panel Study (NEPS), this article examines how families with two biological parents, stepfamilies, and families with single mothers or fathers differ in terms of endowment with (socio-)economic, cultural, and social capital, and how this affects the reading and math skills of their children in the 9th grade. Our analyses show that mainly cultural capital, and to a lesser extent (socio-)economic and social capital, are responsible for the reading and math skills in the 9th grade. Families with both biological parents have the highest resources, whereas single-parent families command significantly fewer resources, with differences observed between single fathers and single mothers. Nevertheless, not all differences in educational achievement between children in different family structures can be attributed to resource differences: especially children who live together with single fathers perform significantly worse in the competence tests, even after controlling for resources.
+C1 [Ludwig-Mayerhofer, Wolfgang] Univ Siegen, Philosoph Fak, D-57068 Siegen, Germany.
+   [Stawarz, Nico] Bundesinst Bevolkerungsforsch BiB, Friedrich Ebert Allee 4, D-65185 Wiesbaden, Germany.
+   [Wicht, Alexandra] Univ Siegen, Fak 2, Dept Erziehungswissensch & Psychol, D-57068 Siegen, Germany.
+RP Ludwig-Mayerhofer, W (corresponding author), Univ Siegen, Philosoph Fak, D-57068 Siegen, Germany.
+EM ludwig-mayerhofer@soziologie.uni-siegen.de; nico.stawarz@bib.bund.de;
+   alexandra.wicht@uni-siegen.de
+NR 85
+TC 0
+Z9 0
+U1 4
+U2 4
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2020
+VL 71
+IS 3
+BP 235
+EP 267
+DI 10.5771/0038-6073-2020-3-235
+PG 33
+WC Sociology
+SC Sociology
+GA NY4GZ
+UT WOS:000576351400001
+DA 2021-03-31
+ER
+
+PT J
+AU Muller, N
+   Pforr, K
+   Hochman, O
+AF Mueller, Nora
+   Pforr, Klaus
+   Hochman, Oshrat
+TI The non-linear relationship between parental wealth and children's
+   post-secondary transitions in Germany
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA English
+DT Article
+DE Demotivation; Inactivity; Intergenerational Mobility; NEET; Parental
+   Background
+ID SCHOOL TRACK CHOICE; HIGHER-EDUCATION; SOCIAL-CLASS; INEQUALITY;
+   ACHIEVEMENT; MOBILITY; INCOME; DISPARITIES; ADVANTAGE; COUNTRIES
+AB Our paper addresses the relationship between parental wealth and children's post-secondary transitions. More specifically, we contrast the likelihood of children with an upper secondary degree to make a transition into further education or the labor market with their likelihood to stay inactive, i.e., to engage neither in further education nor in labor market activity (NEET) after leaving school for the first time. While previous research argues that there is a general positive association between parental wealth and children's educational and occupational transitions, we argue that for children of wealthy parents, this association might be weaker or even negative. Our study focuses on Germany, where wealth has a weak correlation with the traditional measures of parental socio-economic background. For our empirical analyses, we apply data from the German Socio-Economic Panel Study (SOEP) and use binary logistic regression models for discrete-time event history analyses. Although not statistically significant, our results show that the relationship between parental wealth and children's post-secondary transitions is not linear. Our study contributes to previous research by providing a detailed examination of the potential mechanisms underlying the relationship between parental wealth and children's post-secondary transitions.
+C1 [Mueller, Nora; Pforr, Klaus; Hochman, Oshrat] GESIS Leibniz Inst Sozialwissensch, B2,1, D-68159 Mannheim, Germany.
+RP Muller, N (corresponding author), GESIS Leibniz Inst Sozialwissensch, B2,1, D-68159 Mannheim, Germany.
+EM nora.mueller@gesis.org; klaus.pforr@gesis.org; oshrat.hochman@gesis.org
+RI Pforr, Klaus/AAR-8851-2020
+OI Pforr, Klaus/0000-0002-6300-8224
+NR 82
+TC 0
+Z9 0
+U1 5
+U2 5
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2020
+VL 71
+IS 3
+BP 268
+EP 307
+DI 10.5771/0038-6073-2020-3-268
+PG 40
+WC Sociology
+SC Sociology
+GA NY4GZ
+UT WOS:000576351400002
+DA 2021-03-31
+ER
+
+PT J
+AU Bachsleitner, A
+   Neumann, M
+   Becker, M
+   Maaz, K
+AF Bachsleitner, Anna
+   Neumann, Marko
+   Becker, Michael
+   Maaz, Kai
+TI Social inequality at the transitions to tertiary education and doctoral
+   studies A cumulative perspective on social background effects in higher
+   education
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+DE Social Inequality; Tertiary Education; Doctoral Studies; Effect
+   Decomposition; KHB
+ID CONTINUATION; SCHOOL; COEFFICIENTS; DISPARITIES; LIKELIHOOD; ORIGINS;
+   MODELS
+AB Transitions in the educational system are highly important for the emergence of social inequality. Research points at a decrease in social background effects from the transition to secondary education to the transition to tertiary studies as well as to a decrease in the relevance of primary effects (performance-based social background effects) across the two transitions. Based on the longitudinal study BIJU, this study examines the development of the effect of educational background over post-school educational pathways focusing on the transition to tertiary as well as to doctoral studies and investigates which proportion of the social background effect can be traced back to primary effects. By conducting an effect decomposition, the proportion of the social background effect traceable to performance differences is calculated. To analyse the cumulative effect of social background in higher education, the analysis for the transition to doctoral studies was performed using the whole sample of persons with a higher education entrance qualification next to only using the selective sample of graduates with a tertiary degree. The results indicate that an effect of educational background exists at both transition points. This effect is decreasing across the two transitions, however, the inequality is cumulative overall. The relevance of performance differences increases in a relative perspective, however, decreases in an absolute perspective.
+C1 [Bachsleitner, Anna] DIPF Leibniz Inst Bildungsforsch & Bildungsinfor, Warschauer Str 34-38, D-10243 Berlin, Germany.
+   [Neumann, Marko; Maaz, Kai] DIPF Leibniz Inst Bildungsforsch & Bildungsinfor, Rostocker Str 6, D-60323 Frankfurt, Germany.
+   [Becker, Michael] TU Dortmund, Inst Schulentwicklungsforsch IFS, Vogelpothsweg 78, D-44227 Dortmund, Germany.
+RP Bachsleitner, A (corresponding author), DIPF Leibniz Inst Bildungsforsch & Bildungsinfor, Warschauer Str 34-38, D-10243 Berlin, Germany.
+EM bachsleitner@dipf.de; marko.neumann@dipf.de; becker@dipf.de;
+   maaz@dipf.de
+RI Becker, Michael/B-2428-2012
+OI Becker, Michael/0000-0002-7983-6382
+NR 58
+TC 0
+Z9 0
+U1 1
+U2 1
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2020
+VL 71
+IS 3
+BP 308
+EP 340
+DI 10.5771/0038-6073-2020-3-308
+PG 33
+WC Sociology
+SC Sociology
+GA NY4GZ
+UT WOS:000576351400003
+DA 2021-03-31
+ER
+
+PT J
+AU Wahnschaffe-Waldhoff, K
+   Mutz, M
+AF Wahnschaffe-Waldhoff, Kathrin
+   Mutz, Michael
+TI "Rivals on weekdays, on weekends one team" The ambivalence of
+   competition and cooperation in professional football
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+DE Cooperation; Competition; Fairness; High-performance Sport; Social
+   Action
+ID SOCIAL DILEMMAS; FAIR PLAY; SPORT; FORMS
+AB Competition and rivalry are crucial dimensions of meaning and sense making in professional high-performance sport and they shape the logic of action for athletes in this field. In team sports however, the success of the collective also depends on effective interaction of individual players, hence their ability to cooperate. The present qualitative study explores how professional football players handle the interplay and concomitance of competition and cooperation. By analyzing the material, it can be illustrated that professional football players' rationality of action is predominantly oriented towards individual success and the own teammates are perceived as rivals. The extreme pressure of competition sensed in professional teams in combination with the economic incentive structure of professional football prompt players to prioritize their own career goals, often seek their advantage in unfair and unrighteous manners and to "take out" their club-intern competitors in training sessions. At the same time, the material demonstrates that the players themselves suffer from these context conditions. Using professional football as an example, the article can help to develop further insights how actors shift between norms of cooperation and competitive pressures in a professional context.
+C1 [Wahnschaffe-Waldhoff, Kathrin] Georg August Univ Gottingen, Arbeitsbereich Sport & Gesundheitssoziol, Sprangerweg 2, D-37075 Gottingen, Germany.
+   [Mutz, Michael] Justus Liebig Univ Giessen, Arbeitsbereich Sozialwissensch Sports, Kugelberg 62, D-35394 Giessen, Germany.
+RP Wahnschaffe-Waldhoff, K (corresponding author), Georg August Univ Gottingen, Arbeitsbereich Sport & Gesundheitssoziol, Sprangerweg 2, D-37075 Gottingen, Germany.
+EM kathrin.wahnschaffe@sport.uni-goettingen.de;
+   michael.mutz@sport.uni-giessen.de
+RI Mutz, Michael/O-5033-2019
+NR 52
+TC 0
+Z9 0
+U1 1
+U2 1
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2020
+VL 71
+IS 3
+BP 341
+EP 372
+DI 10.5771/0038-6073-2020-3-341
+PG 32
+WC Sociology
+SC Sociology
+GA NY4GZ
+UT WOS:000576351400004
+DA 2021-03-31
+ER
+
+PT J
+AU Kogan, I
+   Kalter, F
+AF Kogan, Irena
+   Kalter, Frank
+TI An empirical-analytical approach to the study of recent refugee migrants
+   in Germany
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA English
+DT Article
+DE Refugees; Theoretical Approach; Empirical-analytical Approach; Germany
+ID SOCIAL NETWORKS; IMMIGRANTS; ATTITUDES; INTEGRATION; LABOR;
+   ASSIMILATION; HUMANITARIAN; ADAPTATION; IDENTITY; POLITICS
+AB Given the recent surge in interest in refugee research, this editorial discusses whether the study of refugees' migration and integration requires entirely new theoretical and methodological approaches. We make the case that refugee migration is a special type of migration and that refugee integration is subject to similar laws and regularities as the integration of all kinds of immigrants. Therefore, it should be studied using conventional theoretical and analytical approaches to empirical-analytical migration and integration research. Obviously, special conditions of refugee migration apply, such as specific patterns of refugees' selectivity, health and resource endowment, settlement conditions, and reception or integration services. However, such peculiarities do not represent distinct mechanisms; they are simply background conditions for more general mechanisms. Contributions to this Special Issue, which all rely on new high-quality data from Germany, best highlight the universality of general mechanisms of immigrant integration, on the one hand, and the relevance of refugee migrants' specific characteristics and conditions, on the other hand.
+C1 [Kogan, Irena] Univ Mannheim, Mannheim Ctr European Social Res MZES, D-68131 Mannheim, Germany.
+   [Kogan, Irena; Kalter, Frank] Univ Mannheim, Sch Social Sci, D-68131 Mannheim, Germany.
+   [Kalter, Frank] Univ Mannheim, German Ctr Integrat & Migrat Res, DeZIM Inst, Mannheim Ctr European Social Res MZES, D-68131 Mannheim, Germany.
+RP Kogan, I (corresponding author), Univ Mannheim, Mannheim Ctr European Social Res MZES, D-68131 Mannheim, Germany.; Kogan, I (corresponding author), Univ Mannheim, Sch Social Sci, D-68131 Mannheim, Germany.
+EM irena.kogan@uni-mannheim.de; kalter@uni-mannheim.de
+NR 78
+TC 0
+Z9 0
+U1 1
+U2 1
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2020
+VL 71
+IS 1-2
+BP 3
+EP 23
+DI 10.5771/0038-6073-2020-1-2-3
+PG 21
+WC Sociology
+SC Sociology
+GA MV4CQ
+UT WOS:000556308200001
+DA 2021-03-31
+ER
+
+PT J
+AU Brucker, H
+   Kosyakova, Y
+   Vallizadeh, E
+AF Bruecker, Herbert
+   Kosyakova, Yuliya
+   Vallizadeh, Ehsan
+TI Has there been a "refugee crisis"? New insights on the recent refugee
+   arrivals in Germany and their integration prospects
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA English
+DT Article
+DE Refugees; Labour Market Integration; Social Inclusion; Asylum Procedure;
+   IAB-BAMF-SOEP Survey Of Refugees In Germany
+ID FORMER SOVIET-UNION; SOCIAL NETWORKS; IMMIGRANTS; LANGUAGE
+AB Approximately 1.2 million refugees arrived in Germany between 2015 and 2016. The national and international public discourse surrounding the arrival of these refugees covers the full spectrum of opinions. These opinions range from sceptical assessments regarding the 2015 influx as a "refugee crisis" to optimistic appraisals considering the immigration of refugees to be a solution to demographic change and labour shortages. These views are often driven by ideology and emotions rather than grounded in evidence. In this paper, we use data from a unique, nationally representative household survey of refugees who came to Germany between 2013 and 2016 to describe who these refugees are, focusing particularly on demographic and skill characteristics relevant for their successful and sustainable economic integration. We also discuss German public policies and institutional environments to promote refugees' integration. Our descriptive analysis shows that the processing of asylum applications and the overall provision of accommodations, safety-nets, and integration programs by German authorities have advanced the refugees' integration process, although the initial shortcomings have been widespread. Over the years, German institutions have generally been open to helping refugees and other immigrants gain ground in Germany. However, there are still challenges for policymakers. One such issue is the gender gap that is reflected in the support for female refugees with childcare obligations, which delays their language acquisition and slows their integration. Nevertheless, the empirical evidence has - contrary to the expectations - given no indications that the influx of refugees in 2015 led to a "refugee crisis" in Germany.
+C1 [Bruecker, Herbert] Humboldt Univ, Berlin Inst Integrat & Migrat Res BIM, Regensburger Str 104, D-90478 Nurnberg, Germany.
+   [Bruecker, Herbert; Kosyakova, Yuliya; Vallizadeh, Ehsan] Inst Employment Res IAB, Regensburger Str 104, D-90478 Nurnberg, Germany.
+   [Kosyakova, Yuliya] Univ Mannheim, Univ Bamberg, Regensburger Str 104, D-90478 Nurnberg, Germany.
+   [Vallizadeh, Ehsan] Univ Bamberg, Regensburger Str 104, D-90478 Nurnberg, Germany.
+RP Brucker, H (corresponding author), Humboldt Univ, Berlin Inst Integrat & Migrat Res BIM, Regensburger Str 104, D-90478 Nurnberg, Germany.; Brucker, H (corresponding author), Inst Employment Res IAB, Regensburger Str 104, D-90478 Nurnberg, Germany.
+EM Herbert.Bruecker@iab.de; Yuliya.Kosyakova@iab.de;
+   Ehsan.Vallizadeh@iab.de
+FU DFGGerman Research Foundation (DFG)European Commission [SPP 1764]
+FX We would like to thank Raji Jayaraman, Alexandra Spitz-Oener and Steffen
+   Sirries for their support and engaging in insightful discussions at
+   various stages of the research process. Herbert Brucker gratefully
+   acknowledges support of the DFG within the SPP 1764 project "The German
+   Labor Market in a Globalized World: Trade, Technology and
+   Demographics.".
+NR 60
+TC 0
+Z9 0
+U1 2
+U2 5
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2020
+VL 71
+IS 1-2
+BP 24
+EP 53
+DI 10.5771/0038-6073-2020-1-2-24
+PG 30
+WC Sociology
+SC Sociology
+GA MV4CQ
+UT WOS:000556308200002
+DA 2021-03-31
+ER
+
+PT J
+AU Sporlein, C
+   Kristen, C
+   Schmidt, R
+   Welker, J
+AF Spoerlein, Christoph
+   Kristen, Cornelia
+   Schmidt, Regine
+   Welker, Joerg
+TI Selectivity profiles of recently arrived refugees and labour migrants in
+   Germany
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA English
+DT Article
+DE Refugees; Labour Migrants; New Immigrants; Educational Selectivity; Age
+   Selectivity; Sex Selectivity; Germany
+ID EDUCATIONAL SELECTIVITY; OCCUPATIONAL-STATUS; INTERNAL MIGRATION;
+   IMMIGRANTS; WESTERN; HEALTH; DESTINATION; EARNINGS; ORIGIN
+AB Migrant selectivity refers to the idea that immigrants differ in certain characteristics from individuals who stay behind in their country of origin. In this article, we describe the selectivity profiles of recent migrants to Germany with respect to educational attainment, age and sex. We illustrate how refugees differ from labour migrants, and we compare the profiles of Syrian refugees who successfully completed the long journey to Europe to Syrian refugees who settled in neighbouring Lebanon or Jordan. We rely on destination-country data from the IAB-BAMF-GSOEP Survey of Refugees, the Arab Barometer, and the German Microcensus, as well as on a broad range of origin-country data sources. Regarding sex selectivity, males dominate among refugees in Germany, while among economic migrants, sex distributions are more balanced. Relative to their societies of origin, labour migrants are younger than refugees. At the same time, both types of migrants are drawn from the younger segments of their origin populations. In terms of educational attainment, many refugees compare rather poorly with average Germans' attainment, but well when compared to their origin populations. The educational profiles for labour migrants are mixed. Finally, Syrians who settle in Germany are younger, more likely to be male and relatively better educated than Syrians migrating to Jordan or Lebanon.
+C1 [Spoerlein, Christoph] Heinrich Heine Univ Dusseldorf, Dept Social Sci, Ulenbergstr 127, D-40225 Dusseldorf, Germany.
+   [Kristen, Cornelia; Schmidt, Regine] Univ Bamberg, Area Social Stratificat, Sociol, Feldkirchenstr 21, D-96052 Bamberg, Germany.
+   [Welker, Joerg] Leibniz Inst Educ Trajectories LIfBi, Wilhelmspl 3, D-96047 Bamberg, Germany.
+RP Sporlein, C (corresponding author), Heinrich Heine Univ Dusseldorf, Dept Social Sci, Ulenbergstr 127, D-40225 Dusseldorf, Germany.
+EM christoph.spoerlein@uni-duesseldorf.de; cornelia.kristen@uni-bamberg.de;
+   regine.schmidt@uni-bamberg.de; joerg.welker@lifbi.de
+OI Kristen, Cornelia/0000-0003-3426-9174
+NR 52
+TC 1
+Z9 1
+U1 1
+U2 1
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2020
+VL 71
+IS 1-2
+BP 54
+EP 89
+DI 10.5771/0038-6073-2020-1-2-54
+PG 36
+WC Sociology
+SC Sociology
+GA MV4CQ
+UT WOS:000556308200003
+DA 2021-03-31
+ER
+
+PT J
+AU Hunkler, C
+   Khourshed, M
+AF Hunkler, Christian
+   Khourshed, May
+TI The Role of Trauma for Integration The Case of Syrian Refugees
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA English
+DT Article
+DE Refugees; Traumatic Experiences; Integration; Germany
+ID POSTTRAUMATIC-STRESS-DISORDER; MENTAL-HEALTH OUTCOMES; IMMIGRATION;
+   MIGRANTS
+AB This paper examines the role of traumatic experiences in the short-term integration of Syrian refugees in Germany. Drawing from the literature, and using dose-response and stress process theory, we presume that there is a negative effect of experiencing traumatic events, pre- and during migration, on integration. We concentrate our analysis on a sub-population of asylum seekers and refugees from Syria that have arrived in the last refugee wave in 2014/2015, who have a high incidence level of potentially traumatizing events. We use the Qualifications, Potentials and Life Courses of Syrian Refugees (QPLC) survey which has a module on pre- and during-migration stressors and measures structural integration as well as German language acquisition. In contrast to the a priori assumptions in the literature, we find that there is actually a positive effect of traumatic experiences on cognitive-cultural integration, i.e., language acquisition, and close to zero effect on structural integration, i.e., employment and education enrolment. We posit that due to possible higher motivation to remain in the new country, in the short run, Syrian refugees and asylum seekers seem to be integrating despite the added burdens of having experienced traumatic events.
+C1 [Hunkler, Christian] Humboldt Univ, Berlin Inst Integrat & Migrat Res BIM, Unter Linden 6, D-10099 Berlin, Germany.
+   [Hunkler, Christian] Max Plank Inst Social Law & Social Policy, Munich Ctr Econ Aging MEA, Unter Linden 6, D-10099 Berlin, Germany.
+   [Khourshed, May] Max Plank Inst Social Law & Social Policy, Munich Ctr Econ Aging MEA, Amalienstr 33, D-80799 Munich, Germany.
+RP Hunkler, C (corresponding author), Humboldt Univ, Berlin Inst Integrat & Migrat Res BIM, Unter Linden 6, D-10099 Berlin, Germany.; Hunkler, C (corresponding author), Max Plank Inst Social Law & Social Policy, Munich Ctr Econ Aging MEA, Unter Linden 6, D-10099 Berlin, Germany.
+EM Christian.Hunkler@hu-berlin.de; khourshed@mea.mpisoc.mpg.de
+NR 48
+TC 0
+Z9 0
+U1 4
+U2 4
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2020
+VL 71
+IS 1-2
+BP 90
+EP 122
+DI 10.5771/0038-6073-2020-1-2-90
+PG 33
+WC Sociology
+SC Sociology
+GA MV4CQ
+UT WOS:000556308200004
+DA 2021-03-31
+ER
+
+PT J
+AU Kosyakova, Y
+   Brenzel, H
+AF Kosyakova, Yuliya
+   Brenzel, Hanna
+TI The role of length of asylum procedure and legal status in the labour
+   market integration of refugees in Germany
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA English
+DT Article
+DE Refugees; Asylum Procedure Length; Legal Status; IAB-BAMF-SOEP Survey Of
+   Refugees In Germany
+ID IMMIGRANTS; EMPLOYMENT; SEEKERS; IMPACT; DETERMINANTS; EXPERIENCES;
+   ADAPTATION
+AB This study examines the role of the length of the asylum procedure and legal status in the integration process among recently arrived refugees in Germany. In particular, we focus on the transition to the first German language course and the transition to first employment. For our empirical investigation, we rely on the newest data from the IAB-BAMF-SOEP-Refugee Sample and apply survival analyses techniques. The results show that both procedure length and legal status shape integration processes. First, lengthy asylum procedures impede investments in acquisition of the language of the host society and delay labour market entry. Second, having a decision on the asylum application (irrespective of the outcome) increases the transition rate to the first job and promotes entry into the first language course. Presumably, legal certainty and a corresponding residence permit (even with a shorter-term perspective) are more decisive for the take-up of employment or investment in host country language acquisition. Beyond the outcome and the length of the asylum procedure, the origin country matters: refugees arriving from countries whose citizens have rather high prospects of remaining are quicker to take up a language course, whereas refugees with poor staying prospects manage to enter the labour market promptly to eventually improve their prospects of staying in Germany. We conclude that policymakers should prioritize efficient asylum procedures to create timely legal certainty and to encourage refugees' integration process.
+C1 [Kosyakova, Yuliya] Univ Mannheim, Univ Bamberg, Regensburger Str 104, D-90478 Nurnberg, Germany.
+   [Kosyakova, Yuliya] Inst Employment Res IAB, Regensburger Str 104, D-90478 Nurnberg, Germany.
+   [Brenzel, Hanna] Stat Bundesamt, Fed Stat Off DESTATIS, D-65180 Wiesbaden, Germany.
+RP Kosyakova, Y (corresponding author), Univ Mannheim, Univ Bamberg, Regensburger Str 104, D-90478 Nurnberg, Germany.; Kosyakova, Y (corresponding author), Inst Employment Res IAB, Regensburger Str 104, D-90478 Nurnberg, Germany.
+EM Yuliya.Koyakova@iab.de; Hanna.Brenzel@destatis.de
+NR 44
+TC 0
+Z9 0
+U1 3
+U2 6
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2020
+VL 71
+IS 1-2
+BP 123
+EP 159
+DI 10.5771/0038-6073-2020-1-2-123
+PG 37
+WC Sociology
+SC Sociology
+GA MV4CQ
+UT WOS:000556308200005
+DA 2021-03-31
+ER
+
+PT J
+AU Will, G
+   Homuth, C
+AF Will, Gisela
+   Homuth, Christoph
+TI Education of Refugee Adolescents at the End of Secondary School: The
+   Role of Educational Policies, Individual and Family Resources
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA English
+DT Article
+DE Refugees; Education; School Placement; Achievement
+ID STUDENTS; GERMANY
+AB In the recent wave of refugee immigration to Germany, many children and adolescents were among the migrants. Their integration into the German educational system will be a major challenge for the years and decades to come. The paper's aim is to examine both general and refugee-specific mechanisms that likely explain ethnic and social inequality in education among refugee adolescents. The study is based on ReGES (Refugees in the German Educational System) data collected in five German federal states. Our results show that refugee adolescents attend lower grade levels and lower school types than the general pupil population in Germany. We further posit that established mechanisms to explain social and ethnic inequality are also applicable to refugee adolescents. Among refugee-specific aspects, we identify factors at the federal state level that influence the school placement of young refugees. Furthermore, at the individual level, post-traumatic stress disorder is associated with differences in educational achievement among refugee students.
+C1 [Will, Gisela; Homuth, Christoph] Leibniz Inst Educ Trajectories LIfBi, Wilhelmspl 3, D-96047 Bamberg, Germany.
+RP Will, G (corresponding author), Leibniz Inst Educ Trajectories LIfBi, Wilhelmspl 3, D-96047 Bamberg, Germany.
+EM gisela.will@lifbi.de; christoph.homuth@lifbi.de
+NR 54
+TC 1
+Z9 1
+U1 0
+U2 0
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2020
+VL 71
+IS 1-2
+BP 160
+EP 200
+DI 10.5771/0038-6073-2020-1-2-160
+PG 41
+WC Sociology
+SC Sociology
+GA MV4CQ
+UT WOS:000556308200006
+DA 2021-03-31
+ER
+
+PT J
+AU Schmidt-Catran, AW
+   Czymara, CS
+AF Schmidt-Catran, Alexander W.
+   Czymara, Christian S.
+TI "Did you read about Berlin?" Terrorist attacks, online media reporting
+   and support for refugees in Germany
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA English
+DT Article
+DE Refugees; Terror Attack; Media; Natural Experiment; Migration
+ID PERCEIVED GROUP THREAT; ANTI-IMMIGRANT; NEWS CONTENT; ATTITUDES;
+   PREJUDICE; CONTEXT; OPINION; EUROPE; IMPACT; SENSE
+AB We analyze whether the Islamist terror attack on the Christmas market in Berlin in 2016 had an impact on public opinion toward immigration in general and, since the attacker has entered Germany to apply for asylum, toward refugees in particular. An analysis of this natural experiment reveals a negative shift regarding the latter, while no differences are observed for the former. To shed more light on the driver of attitude change, we combine these findings with a quantitative content analysis of online media reporting about refugees before and after the attack. Mass media have long been considered to have an impact on exclusionary attitudes toward ethnic minorities. However, empirical evidence on this relationship remains largely anecdotal. We draw upon unsupervised machine learning to quantify the developments in reporting in three popular German online news websites. Results reveal that the attack had significant impact on media reporting on these websites. However, the strong focus on the attack was only short lived, quickly decreasing already in the second week after the attack. Linking media data to the public opinion data reveals no clear connection between reporting and attitudes. In contrast to theoretical expectations, descriptive evidence even shows that both follow almost opposite trends, since people changed their attitudes only weeks after the attack. We discuss potential explanations of these, at first sight, counterintuitive findings.
+C1 [Schmidt-Catran, Alexander W.; Czymara, Christian S.] Goethe Univ Frankfurt, Inst Sociol, Theodor W Adorno Pl 6, D-60323 Frankfurt, Germany.
+RP Schmidt-Catran, AW (corresponding author), Goethe Univ Frankfurt, Inst Sociol, Theodor W Adorno Pl 6, D-60323 Frankfurt, Germany.
+EM alex@alexanderwschmidt.de; christian@czymara.com
+RI Czymara, Christian S./S-8900-2019
+OI Czymara, Christian S./0000-0002-9535-3559
+NR 57
+TC 1
+Z9 1
+U1 0
+U2 1
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2020
+VL 71
+IS 1-2
+BP 201
+EP 232
+DI 10.5771/0038-6073-2020-1-2-201
+PG 32
+WC Sociology
+SC Sociology
+GA MV4CQ
+UT WOS:000556308200007
+DA 2021-03-31
+ER
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Dear Readers
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Editorial Material
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2019
+VL 70
+IS 1
+BP 3
+EP 4
+DI 10.5771/0038-6073-2019-1-3
+PG 2
+WC Sociology
+SC Sociology
+GA IX6UR
+UT WOS:000485820800001
+DA 2021-03-31
+ER
+
+PT J
+AU Kalthoff, H
+   Cress, T
+AF Kalthoff, Herbert
+   Cress, Torsten
+TI The practice of representation. The use of analogue and digital objects
+   in school
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+DE Knowledge; (Multiple) Representation; Analog / Digital Media; Science
+   Education; Teaching Practice
+AB In class, the employment of media in order to represent phenomena and ideas is common. In fact, many subjects are made available and processable only by means of the use of representations. To that end, schools have their own storing rooms, where a wide range of objects are reposited, maintained, and renewed. Under conditions of a progressing digitalization of education, classroom interaction today is often characterized by an intermingling of digital and analog media, which differ profoundly with respect to the possibilities they offer and the effects they bring about. Drawing on the example of science education, we analyze the media-based practice of teaching and ask for its requirements and implications. As opposed to the normative theory of subject didactics, which starts from the idea of a complementarity of representations, we focus on teachers' performances and their orientation towards selection and segmentation. The article discusses the combination of new and established media in modern settings of pilot schools and their involvement in the communication of knowledge in class.
+C1 [Kalthoff, Herbert; Cress, Torsten] Johannes Gutenberg Univ Mainz, Inst Soziol, Jakob Welder Weg 12, D-55128 Mainz, Germany.
+RP Kalthoff, H (corresponding author), Johannes Gutenberg Univ Mainz, Inst Soziol, Jakob Welder Weg 12, D-55128 Mainz, Germany.
+EM herbert.kalthoff@uni-mainz.de; cresst@uni-mainz.de
+NR 36
+TC 0
+Z9 0
+U1 0
+U2 0
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2019
+VL 70
+IS 4
+BP 375
+EP 402
+DI 10.5771/0038-6073-2019-4-375
+PG 28
+WC Sociology
+SC Sociology
+GA MQ1YJ
+UT WOS:000552693900001
+DA 2021-03-31
+ER
+
+PT J
+AU Mentges, H
+AF Mentges, Hanna
+TI Tertiary Education or Vocational Training? Migration-specific
+   educational decisions of school leavers with a higher education entrance
+   A critical replication and extension of the study by Kristen et al.
+   (2008)
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+DE Migration Background; Educational Transitions; Tertiary Education; DZHW
+   School Leaver Survey
+ID ETHNIC INEQUALITIES; ACHIEVEMENT; ASPIRATIONS; PERFORMANCE; TRANSITION;
+   OPTIMISM; CHOICES
+AB The aim of this article is to replicate the findings of Kristen, Reimer and Kogan (2008) who studied educational decisions of migrants on the transition to tertiary education while additionally taking the cases of Poland, Romania and the former Soviet Union into account. For this purpose, two separate analyzes were calculated. In the first step, the migration background was operationalized via citizenship. In the second step, an operationalization based on the country of birth of the respondents and their parents was chosen. The results show that the findings of Kristen et al. (2008) can be confirmed analyzing current data. Students with a migration background are more likely to choose tertiary education than those without a migration background. Separate from this, there is also a significant difference between those with roots in Poland or Romania as well as the former Soviet Union and compared to those with roots in Germany. Furthermore, migrational disparities differ by the type of operationalization as far as people with university or college entrance qualifications with roots in southern Europe and the former Yugoslavia are concerned.
+C1 [Mentges, Hanna] Deutsch Zentrum Hsch & Wissensch Forsch, Lange Laube 12, D-30159 Hannover, Germany.
+RP Mentges, H (corresponding author), Deutsch Zentrum Hsch & Wissensch Forsch, Lange Laube 12, D-30159 Hannover, Germany.
+EM mentges@dzhw.eu
+NR 44
+TC 0
+Z9 0
+U1 2
+U2 2
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2019
+VL 70
+IS 4
+BP 403
+EP 434
+DI 10.5771/0038-6073-2019-4-403
+PG 32
+WC Sociology
+SC Sociology
+GA MQ1YJ
+UT WOS:000552693900002
+DA 2021-03-31
+ER
+
+PT J
+AU Neumeyer, S
+   Pietrzyk, I
+AF Neumeyer, Sebastian
+   Pietrzyk, Irena
+TI Higher education graduates with migration background at the transition
+   to doctoral studies
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+DE Doctorate; Social Inequality; Educational Inequality; Immigrant
+   Background; Effect Decomposition
+ID HORIZONTAL INEQUALITIES; IMMIGRANT STUDENTS; SOCIAL ORIGIN;
+   LABOR-MARKET; GERMAN; COEFFICIENTS; ACHIEVEMENT; PERFORMANCE;
+   REGRESSION; EXPANSION
+AB So far, it has mainly been investigated how successful migrants and their descendants are on low and middle educational stages. Against the background of an increased socio-structural relevance of ethnic disparities within higher education, we examine for the first time whether and based on which mechanisms graduates with migration background show different transition rates to doctoral programs. The analyses utilize survey data (KOAB) of 54 578 graduates of the classes of 2011 to 2014 from German higher education institutions. Lower academic achievement (primary effects of migration background), the scientific integration and the choice of major and type of higher education institution are scrutinized as explanatory factors. Controlling for educational background, graduates with a background from Turkey, from other recruiting states, from states of the former Soviet Union, and from Poland enrol less frequently into doctoral studies than graduates without migration background. Decomposition analyses that control for educational background reveal that this lower transition rate can be explained above all by lower academic achievement. Furthermore, a lower scientific integration and differences in choice of major and type of institution contribute to the lower transition rates of specific migration groups. The results are discussed with reference to sociology of education.
+C1 [Neumeyer, Sebastian] Leibniz Inst Bildungsverlaufe LIfBi, Wilhelmspl 3, D-96047 Bamberg, Germany.
+   [Pietrzyk, Irena] Wissenschaftszentrum Berlin Sozialforsch WZB, Reichpietschufer 50, D-10785 Berlin, Germany.
+RP Neumeyer, S (corresponding author), Leibniz Inst Bildungsverlaufe LIfBi, Wilhelmspl 3, D-96047 Bamberg, Germany.
+EM sebastian.neumeyer@lifbi.de; irena.pietrzyk@wzb.eu
+OI Neumeyer, Sebastian/0000-0002-4861-2263
+NR 74
+TC 0
+Z9 0
+U1 1
+U2 1
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2019
+VL 70
+IS 4
+BP 435
+EP 473
+DI 10.5771/0038-6073-2019-4-435
+PG 39
+WC Sociology
+SC Sociology
+GA MQ1YJ
+UT WOS:000552693900003
+DA 2021-03-31
+ER
+
+PT J
+AU Wildfang, H
+AF Wildfang, Hinrich
+TI Comparison of ethnic segregation in Hamburg, Leipzig and Chemnitz A
+   multiscalar computation of ethnic segregation on a micro-scale basis
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+DE Segregation; Multiscalar; Georeferenced; Uneven Distribution
+ID INTERGENERATIONAL TRANSMISSION; RESIDENTIAL SEGREGATION; NEIGHBORHOOD;
+   PATTERNS; SCALE; EXPOSURE; CITIES; CITY
+AB If accompanied by social inequalities, ethnic segregation can have profound effects on the individual and the social cohesion of society as a whole. Determining the magnitude, the spatial extent and spatial distribution of residential ethnic segregation as precisely as possible is thus the essential foundation for any analysis. Well-known challenges to determine the extent of segregation will be addressed, using small scale georeferenced grid data from the 2011 census and a multiscalar segregation index based on egocentric contexts and the K-Nearest-Neighbour method. This new and innovative method for calculating ethnic segregation can be applied to many other cities and spatial contexts in Germany and Europe. Ethnic segregation in Hamburg, Leipzig and Chemnitz is shown to be a phenomenon that is not delineated by administrative districts or city boundaries. Viewing ethnic segregation as a concentration of people with and without a migration background in spatial contexts also captures the phenomenon more comprehensively and highlights its mutual conditionality. It highlights the relevance of the periphery in the analysis of segregation. By including further geo-referenced information, a correlation between the type of development and the proximity to green spaces can be shown, suggesting a superimposition of ethnic and social segregation.
+C1 [Wildfang, Hinrich] Univ Hamburg, Fak Wirtschafts & Sozialwissensch, Allende Pl 1, D-20146 Hamburg, Germany.
+RP Wildfang, H (corresponding author), Univ Hamburg, Fak Wirtschafts & Sozialwissensch, Allende Pl 1, D-20146 Hamburg, Germany.
+EM Hinrich.Wildfang@uni-hamburg.de
+NR 87
+TC 0
+Z9 0
+U1 2
+U2 2
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2019
+VL 70
+IS 4
+BP 474
+EP 508
+DI 10.5771/0038-6073-2019-4-474
+PG 35
+WC Sociology
+SC Sociology
+GA MQ1YJ
+UT WOS:000552693900004
+DA 2021-03-31
+ER
+
+PT J
+AU Nassehi, A
+   Saake, I
+   Tann, M
+AF Nassehi, Armin
+   Saake, Irmhild
+   Tann, Matthias
+TI Recognition and Eigensinn Conflicts of translation and the example of
+   the German Ethics Council debate on intersexuality
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+DE Intergender; Intersexuality; Recognition; Eigensinn; Profession;
+   Perspectivity; Translation Conflicts; Functional Differentiation;
+   Systems Theory
+AB Like other minorities, intersexual persons struggle for social recognition. This is both necessary and quite predictable. However, debates in the social sciences rarely look at the issue of recognition as a research subject, but take on a perspective of recognition themselves. Because they position themselves as part of the debate, approaches stemming from recognition theory can hardly contribute to a sociological elucidation of the difficult situation in which the struggle for the recognition of intersexual persons takes place. In contrast, this study tries to show how recognition fails in the face of the professional Eigensinn of participating experts (here: medicine, law), using the example of transcripts of a debate on intersexuality of the German Ethics Council. Furthermore, it also shows the kind of recognition which an until recently completely marginalized group receives in practice in a modern, functionally differentiated society. The fact that this does not happen without conflicts and irresolvable differences is read as an expression of the inevitable coding of system-specific forms of communication.
+C1 [Nassehi, Armin; Saake, Irmhild; Tann, Matthias] Ludwig Maximilians Univ Munchen, Inst Soziol, Konradstr 6, D-80801 Munich, Germany.
+RP Nassehi, A (corresponding author), Ludwig Maximilians Univ Munchen, Inst Soziol, Konradstr 6, D-80801 Munich, Germany.
+EM armin@nassehi.de; saake@soziologie.uni-muenchen.de;
+   matthias.tann@soziologie.uni-muenchen.de
+RI Saake, Irmhild/ABD-3617-2020
+NR 78
+TC 0
+Z9 0
+U1 0
+U2 0
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2019
+VL 70
+IS 3
+BP 233
+EP 267
+DI 10.5771/0038-6073-2019-3-233
+PG 35
+WC Sociology
+SC Sociology
+GA LD0WN
+UT WOS:000525754200001
+DA 2021-03-31
+ER
+
+PT J
+AU Heinze, T
+   Fehsel, I
+   Jappe, A
+AF Heinze, Thomas
+   Fehsel, Imke
+   Jappe, Arlette
+TI Initiating reforms via higher education policy advice? An empirical
+   analysis of the function and impact of the Science Council on the German
+   university system
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+DE Policy Advice; Higher Education Policy; University; Graduate School;
+   Staff Structure; German Science System; Science Council; Performance
+ID UNITED-STATES; COMPETITION; RANKINGS; CHINA
+AB This article discusses structural inertia in the German university system and the Science Council's recommendations for university and science policy reforms. Based on comprehensive archival and longitudinal administrative data, we examine the Science Council's function in Germany's cooperative federalism, its internal decision making, and the implementation of its policy advice. Our analysis shows that the Science Council is oriented towards reaching consensus between science and politics, and thus, is mostly conservative in its recommendations. Far-reaching reform proposals have been rare and were not (or insufficiently) implemented. Our results call for a politically independent advisory council with the mandate to provide research-based recommendations for institutional renewal of the German universities, but also the science and higher education systems more generally.
+C1 [Heinze, Thomas] Berg Univ Wuppertal, Inst Soziol, Gaussstr 20, D-42119 Wuppertal, Germany.
+   [Fehsel, Imke] Hsch Dusseldorf, Dezernat 7, Prof Neyses Pl 4, D-40476 Dusseldorf, Germany.
+   [Jappe, Arlette] Berg Univ Wuppertal, IZWT, Gaussstr 20, D-42119 Wuppertal, Germany.
+RP Heinze, T (corresponding author), Berg Univ Wuppertal, Inst Soziol, Gaussstr 20, D-42119 Wuppertal, Germany.
+EM theinze@uni-wuppertal.de; imke.fehsel@hs-duesseldorf.de;
+   jappe@uni-wuppertal.de
+NR 86
+TC 0
+Z9 0
+U1 1
+U2 2
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2019
+VL 70
+IS 3
+BP 268
+EP 303
+DI 10.5771/0038-6073-2019-3-268
+PG 36
+WC Sociology
+SC Sociology
+GA LD0WN
+UT WOS:000525754200002
+DA 2021-03-31
+ER
+
+PT J
+AU Gundert, S
+   Stegmaier, J
+AF Gundert, Stefanie
+   Stegmaier, Jens
+TI Standard and non-standard employment Different jobs, same rights?
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA English
+DT Article
+DE Non-Standard Employment; Employee Rights; Equal Treatment; Power;
+   Marginal Part-Time Jobs
+ID PART-TIME; TEMPORARY; CONTRACT; WORKERS
+AB The present study addresses the question of whether workers in standard and non-standard employment are treated equally with regard to basic employment rights such as paid vacation or paid sick leave. Workers in part-time, marginal part-time and fixed-term jobs are compared to workers in permanent full-time employment. Using data from a German employee survey, we examine whether employment rights are more often illegally withheld from non-standard workers. The results show that there is no clear-cut divide between workers in standard and nonstandard jobs. Rather, for workers in marginal part-time work (so-called mini-jobs), the risk of being deprived of legal entitlements is higher than for workers in any other type of employment.
+C1 [Gundert, Stefanie; Stegmaier, Jens] Inst Arbeitsmarkt & Berufsforsch, Regensburger Str 104, D-90478 Nurnberg, Germany.
+RP Gundert, S (corresponding author), Inst Arbeitsmarkt & Berufsforsch, Regensburger Str 104, D-90478 Nurnberg, Germany.
+EM stefanie.gundert@iab.de; jens.stegmaier@iab.de
+NR 32
+TC 0
+Z9 0
+U1 1
+U2 1
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2019
+VL 70
+IS 3
+BP 304
+EP 331
+DI 10.5771/0038-6073-2019-3-304
+PG 28
+WC Sociology
+SC Sociology
+GA LD0WN
+UT WOS:000525754200003
+DA 2021-03-31
+ER
+
+PT J
+AU Brandt, G
+AF Brandt, Gesche
+TI Changing career patterns of mothers and fathers with university degrees
+   Examination of the graduation cohorts 1997, 2001 and 2005
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+DE Fathers; Mothers; University Graduates; Employment Patterns; Parental
+   Leave; Sequence Analyses; DZHW Graduate Survey
+ID PARENTAL LEAVE BENEFIT; GENDER REVOLUTION; SEQUENCE-ANALYSIS; LIFE
+   COURSES; CHILD-CARE; FAMILY; WORK; DIVISION; LABOR; GERMANY
+AB This paper examines whether recent family policy reforms were accompanied by a convergence of employment patterns of fathers and mothers. For this purpose, I compare the employment patterns of university graduates from three graduation cohorts. Based on sequence analyses and regression analyses, I identify gender-specific and cohort-typical patterns and check whether gender-differentiated standardization or de-standardization processes have taken place over cohorts and to what these can be attributed. Results show that even among university graduates gender-specific employment patterns of mothers and fathers are the rule. Fathers usually have continuous full-time employment biographies whereas the employment biographies of mothers are much more diverse due to parental leaves and part-time work. Over the cohorts, full-time work biographies of mothers seem to become slightly more frequent. In contrast, the employment patterns of fathers remain unchanged.
+C1 [Brandt, Gesche] DZHW, Lange Laube 12, D-30159 Hannover, Germany.
+RP Brandt, G (corresponding author), DZHW, Lange Laube 12, D-30159 Hannover, Germany.
+EM g.brandt@dzhw.eu
+NR 97
+TC 0
+Z9 0
+U1 0
+U2 2
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2019
+VL 70
+IS 3
+BP 332
+EP 371
+DI 10.5771/0038-6073-2019-3-332
+PG 40
+WC Sociology
+SC Sociology
+GA LD0WN
+UT WOS:000525754200004
+DA 2021-03-31
+ER
+
+PT J
+AU Mohring, K
+   Teney, C
+   Buss, C
+AF Moehring, Katja
+   Teney, Celine
+   Buss, Christopher
+TI Who supports gender quotas for company leadership? An empirical analysis
+   of determinants of support and rejection among German citizens
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA English
+DT Article
+DE Attitudes; Boardroom Quota; Affirmative Action Policies; Political
+   Sociology; Gender Equality
+ID VOTING-BEHAVIOR; ATTITUDES; HUSBANDS; OPINION; WOMENS; WIVES
+AB After a long and controversial debate, a statutory gender boardroom quota was introduced in Germany in 2016. We examine the determinants of support for this quota among citizens aiming to identify the social groups that approve the most and those that resent the most the quota law. The approaches of self-interest, political orientation, and exposure are used to understand variation in support from a theoretical perspective. Based on data from the German Internet Panel (GIP) surveyed in March 2017 (N=2544), individual-level and workplace-related determinants of support for the boardroom quota are analysed. Our results show a general gender gap in support for a quota with greater support among women, but reveal differences within the target group of women and within the non-target group of men. These differences demonstrate that the interplay of gender and position on the labour market is pivotal for attitudes towards affirmative action in favour of women. The quota is most supported by single women in upper management positions, while most opposed by married women and young men. This leads to the conclusion that opposition to the gender quota is greatest among those who are disregarded by the regulation or might see their prospective labour market chances to be threatened.
+C1 [Moehring, Katja] Univ Mannheim, Fak Sozialwissensch, D-68131 Mannheim, Germany.
+   [Teney, Celine] Georg August Univ Gottingen, Inst Soziol, Pl Gottinger Sieben 3, D-37073 Gottingen, Germany.
+   [Buss, Christopher] Univ Mannheim, Sonderforschungsbereich Polit Okon Reformen 884, B6,30-32, D-68131 Mannheim, Germany.
+RP Mohring, K (corresponding author), Univ Mannheim, Fak Sozialwissensch, D-68131 Mannheim, Germany.
+EM moehring@uni-mannheim.de; celine.teney@sowi.uni-goettingen.de;
+   me@christopher-buss.de
+NR 32
+TC 0
+Z9 0
+U1 2
+U2 3
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2019
+VL 70
+IS 2
+BP 121
+EP 143
+DI 10.5771/0038-6073-2019-2-121
+PG 23
+WC Sociology
+SC Sociology
+GA KH7PT
+UT WOS:000510842800001
+DA 2021-03-31
+ER
+
+PT J
+AU Kalbermatter, J
+   Schief, S
+AF Kalbermatter, Jacqueline
+   Schief, Sebastian
+TI Dynamics between citizenship and employment relationships of refugees
+   with precarious residence status A study in gastronomic establishments
+   in Switzerland
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+DE Citizenship; Asylum System; Labor Market; Disciplinatory Actions;
+   Switzerland
+AB The article discusses to what extent the arrangement of migration policy, social policy and access to the labor market of Switzerland generates pronounced insecurities in the living and working reality of refugees. We analyze this by way of example of the situation of refugees with a precarious residence permit status working in the hotel and catering industry. We bring forward the argument that this group of migrants is confronted with the exclusion of rights because of the Swiss asylum policies. At the same time, the refugees face specific processes of inclusion and exclusion within the labor market because of their residence status. On account of this, we bring working conditions of refugees into the center of the analysis of citizenship policies as a constitutive element. Moreover, we analyze intracompany negotiations of citizenship as well as the according practices of refugees. The analysis of our research questions is based on a three-step data collection procedure. The combination of different methodological approaches - problem-centered interviews, participatory observation within the companies, and informal interviews - allows for an in-depth analysis of the relationship between citizenship policies and the working conditions of refugees with a precarious residence permit status. We show that refugee workers are confronted with specific forms of disciplinary actions because of a lack of rights and accompanied intra-company citizenship policies. The workers accept the disciplinary actions and working conditions in order to acquire permanent residence in Switzerland in their struggle for citizenship rights.
+C1 [Kalbermatter, Jacqueline] Univ Basel, Dept Gesellschaftswissensch, Fachbereich Soziol, Petersgraben 27, CH-4051 Basel, Switzerland.
+   [Schief, Sebastian] Univ Fribourg, Dept Sozialarbeit Sozialpolit & Globale Entwicklu, Rte Bonnesfontaines 11, CH-1700 Fribourg, Switzerland.
+RP Kalbermatter, J (corresponding author), Univ Basel, Dept Gesellschaftswissensch, Fachbereich Soziol, Petersgraben 27, CH-4051 Basel, Switzerland.
+EM jacqueline.kalbermatter@unibas.ch; sebastian.schief@unifr.ch
+NR 37
+TC 0
+Z9 0
+U1 0
+U2 2
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2019
+VL 70
+IS 2
+BP 144
+EP 171
+DI 10.5771/0038-6073-2019-2-144
+PG 28
+WC Sociology
+SC Sociology
+GA KH7PT
+UT WOS:000510842800002
+DA 2021-03-31
+ER
+
+PT J
+AU Lorz, M
+   Seipelt, B
+AF Loerz, Markus
+   Seipelt, Bjorn
+TI Social inequality in the Intent to pursue doctoral studies A result of
+   cultural reproduction, educational biography or individual decision?
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+DE Social Inequality; Doctorate; Educational Decision-Making; Higher
+   Education
+ID TRANSITION; COEFFICIENTS; REGRESSION; UNIVERSITY; EXPANSION; STUDENTS;
+   ORIGINS; MODELS; CHOICE; ACCESS
+AB In the course of educational expansion the ways to a doctoral degree have changed systematically. In addition, the opportunity to award doctoral degrees on the side of universities of applied sciences also reduces barriers to doctoral studies. Research on social inequality and social stratification has mainly focused on universities, leaving open questions about prior transitions and their role in explaining social inequality in transition to doctoral studies. Therefore, this article deals with the question why students from privileged families more often intend a doctoral degree and the impact of familial circumstances, previous educational decisions as well as individual characteristics. This question will be addressed using data from the third wave of the DZHW school leaver survey 2010. Based on logistic regression and non-linear decomposition, it is shown that particularly the choice of higher education institution as well as the choice of field of study can explain a vast proportion of social inequality in the intention to reach a doctoral degree. To a certain degree, these social differences originate from differences in cultural circumstances and parental expectations. Furthermore, diverging career ambitions lead to observable social differences in the intention to reach a doctorate.
+C1 [Loerz, Markus] Deutsch Zentrum Hochschul & Wissensch Forsch, Lange Laube 12, D-30159 Hannover, Germany.
+   [Seipelt, Bjorn] Friedrich Schiller Univ Jena, Carl Zeiss Str 3, D-07743 Jena, Germany.
+RP Lorz, M (corresponding author), Deutsch Zentrum Hochschul & Wissensch Forsch, Lange Laube 12, D-30159 Hannover, Germany.
+EM loerz@dzhw.eu; ern.seipelt@uni-jena.de
+NR 70
+TC 0
+Z9 0
+U1 1
+U2 3
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2019
+VL 70
+IS 2
+BP 172
+EP 199
+DI 10.5771/0038-6073-2019-2-172
+PG 28
+WC Sociology
+SC Sociology
+GA KH7PT
+UT WOS:000510842800003
+DA 2021-03-31
+ER
+
+PT J
+AU Schmidt, H
+   Krause, U
+AF Schmidt, Hannah
+   Krause, Ulrike
+TI Analysis of refugees' economic practices and social meanings in Uganda
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+DE Refugees; Agency; Economic practices; Social networks; Humanitarian
+   refugee protection
+ID GENDER EQUALITY; RESILIENCE; ASSISTANCE; CAMP
+AB This article explores economic strategies which refugees employ in restrictive environments in host countries in the Global South and focuses on the social meanings of these practices. As a result, it is not humanitarian refugee protection and assistance at the core, but instead refugees' own practices. Our analysis is based on qualitative empirical research with a multi-method approach in Uganda and an agency perspective following Emirbayer and Mische. The article demonstrates that although humanitarian measures aim to support refugees as economic actors, the resources refugees mobilize themselves are key for the people. Social networks are crucial for individuals to adopt economic practices as well as for other refugees to assume social and economic roles. Hence, we argue that economic practices in refugee situations have the character of relational agency by being constituted and reproduced through their social interdependence.
+C1 [Schmidt, Hannah] Univ Osnabruck, Inst Sozialwissensch, Seminarstr 33, D-49074 Osnabruck, Germany.
+   [Krause, Ulrike] Univ Osnabruck, Inst Migrat Forsch & Interkulturelle Studien, Seminarstr 19 A-B, D-49074 Osnabruck, Germany.
+RP Schmidt, H (corresponding author), Univ Osnabruck, Inst Sozialwissensch, Seminarstr 33, D-49074 Osnabruck, Germany.
+EM haschmidt@uni-osnabrueck.de; ulrike.krause@uni-osnabrueck.de
+NR 78
+TC 0
+Z9 0
+U1 1
+U2 2
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2019
+VL 70
+IS 2
+BP 200
+EP 230
+DI 10.5771/0038-6073-2019-2-200
+PG 31
+WC Sociology
+SC Sociology
+GA KH7PT
+UT WOS:000510842800004
+DA 2021-03-31
+ER
+
+PT J
+AU Dallinger, U
+AF Dallinger, Ursula
+TI Voter preferences - a solid rock of public policies? Experiments on
+   political demand for redistribution
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+DE Research on Public Opinion; Welfare Attitudes; Preference Formation;
+   Income Redistribution
+ID WELFARE-STATE; OPINION; RETRENCHMENT; ATTITUDES; SUPPORT; INCOME
+AB Research on social policy attitudes treats the preferences of citizens as the basis of government action since only policies that are directed by democratic demand are legitimate. This bottom-up model, however, abstracts from the influence which the media communication of political elites has on preference formation. The contribution argues that research on framing offers a more realistic model of preference formation which considers this media impact on attitudes. An own survey experiment including an item used to measure political demand for income redistribution tests framing effects. Three treatments reconstruct typical arguments of media communication on redistribution: a burden frame, activating considerations on additional cost for the individual household, a dual frame, additionally activating the aim of social balance, and an information-frame. The treatments (along with a control-group) were applied in an online survey experiment in 2017 (1000 participants). Different framing effects are visible: The burden frame reduces support for income redistribution to a highly significant degree. When social balance is brought into mind, the difference to the control group gets smaller. Information on growing wage discrepancy stays without any effect on political demand. Treatment effects are barely moderated by education; they rather act homogenously on various population groups. The results underline that experimental designs provide a deeper understanding of preference formation. They allow to gauge the influence of political elites on public opinion.
+C1 [Dallinger, Ursula] Univ Trier, D-54286 Trier, Germany.
+RP Dallinger, U (corresponding author), Univ Trier, D-54286 Trier, Germany.
+NR 72
+TC 0
+Z9 0
+U1 0
+U2 1
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2019
+VL 70
+IS 1
+BP 5
+EP 32
+DI 10.5771/0038-6073-2019-1-5
+PG 28
+WC Sociology
+SC Sociology
+GA IX6UR
+UT WOS:000485820800002
+DA 2021-03-31
+ER
+
+PT J
+AU Amling, S
+AF Amling, Steffen
+TI Logics of Practice in Parliaments Empirical Reconstructions of
+   Orientation Frames of Members of the Bundestag
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+DE Parliament; Representatives; Implicit Knowledge; Documentary Method
+AB Although parliaments are vital institutions of democratic politics, our knowledge of the processes of policy formation and political decision-making in parliaments and of the conditions or causes of such processes is still limited to certain aspects: There is for example research on career paths of delegates and on their interpretation of parliamentary roles; and there are of course attempts to either identify the formal structures of parliaments as their implicit regularities, namely the parliamentary culture. But so far, research hardly addressed the representatives' implicit knowledge structures that in a praxeological perspective can be considered highly relevant for explaining even rational action and decision-making. The article therefore applies a perspective that draws from Bourdieu's theory of practice and Mannheim's sociology of knowledge and puts forward the findings of an inquiry based on narrative interviews with representatives of the German Bundestag. The main result of this inquiry is the reconstruction of three types of professional orientation frames that represent three distinctive modi operandi of professional practice in parliament. This typology is being discussed either with respect to the sociogenesis of the orientation frames as with regard to their relevance for gaining a deeper understanding of how parliaments work.
+C1 [Amling, Steffen] Univ Bundeswehr, Helmut Schmidt Univ, Holstenhofweg 85, D-22043 Hamburg, Germany.
+RP Amling, S (corresponding author), Univ Bundeswehr, Helmut Schmidt Univ, Holstenhofweg 85, D-22043 Hamburg, Germany.
+EM amlings@hsu-hh.de
+NR 57
+TC 0
+Z9 0
+U1 0
+U2 2
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2019
+VL 70
+IS 1
+BP 33
+EP 59
+DI 10.5771/0038-6073-2019-1-33
+PG 27
+WC Sociology
+SC Sociology
+GA IX6UR
+UT WOS:000485820800003
+DA 2021-03-31
+ER
+
+PT J
+AU Mays, A
+   Rosebrock, A
+   Hambauer, V
+   Kuhner, S
+AF Mays, Anja
+   Rosebrock, Antje
+   Hambauer, Verena
+   Kuehner, Steffen
+TI Determinants of migrants' political commitment in Germany
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+DE Migration; Migrant Background; Political Engagement; German
+   Socio-Economic Panel Dual Identification
+ID COLLECTIVE IDENTITY; PARTICIPATION
+AB Several studies show that people with migration background (even such with German nationality) are less politically engaged than the autochthonous population. The differences between migrants and the autochthonous population do not disappear completely even after controlling for important variables such as socio-structural and demographic variables. The present article examines whether and to what extent the "migration"-gap can be closed if features of legal, cultural and social integration as well as emotional aspects (such as experiences of rejection and indicators of identification) and important resources and socio-demographic variables are added. Our results show, on one hand, that the "migration-gap" is reduced partially by the examined variables but cannot fully be explained. On the other hand, it turns out, that both, experiences of rejection and dual identification with the origin as well as host society, are associated with greater political engagement. Notably, there are some significant differences between the countries of origin.
+C1 [Mays, Anja] Tech Univ Darmstadt, Inst Soziol, Dolivostr 15, D-64293 Darmstadt, Germany.
+   [Rosebrock, Antje] MZES, A5,6, D-68159 Mannheim, Germany.
+   [Rosebrock, Antje] Univ Mannheim, A5,6, D-68159 Mannheim, Germany.
+   [Hambauer, Verena; Kuehner, Steffen] Georg August Univ Gottingen, Gosslerstr 19, D-37073 Gottingen, Germany.
+RP Mays, A (corresponding author), Tech Univ Darmstadt, Inst Soziol, Dolivostr 15, D-64293 Darmstadt, Germany.
+EM mays@ifs.tu-darmstadt.de; arosebro@mail.uni-mannheim.de;
+   verena.hambauer@sowi.uni-goettingen.de;
+   steffen.kuehnel@sowi.uni-goettingen.de
+NR 53
+TC 0
+Z9 0
+U1 0
+U2 2
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2019
+VL 70
+IS 1
+BP 60
+EP 92
+DI 10.5771/0038-6073-2019-1-60
+PG 33
+WC Sociology
+SC Sociology
+GA IX6UR
+UT WOS:000485820800004
+DA 2021-03-31
+ER
+
+PT J
+AU Prietl, B
+AF Prietl, Bianca
+TI Changing subject positions and implicit gendering The discursive
+   (re)production of hierarchical gender relations in engineering
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+DE Subject Position; Implicit Gendering; Engineering; Renewable Energies;
+   Qualitative Interviews
+ID WOMEN; CULTURE
+AB By looking at engineering in the area of renewable energies, this paper analyses how hierarchical gender relations are discursively (re)produced or challenged at the symbolic level within the context of the so-called energy transition. Drawing on qualitative interview data, I reconstruct how engineers in the area of renewable energies describe and position themselves in a gendered way by discursively associating engineering subject positions with cultural notions of masculinity or femininity. As this paper shows there is not one monolithic notion of 'the engineer' but changing interpretations of engineering work and its bearers. Whereas they appear to be neutral at first glance, they are implicitly linked with notions of gender. These androcentric constructions of engineering subject positions are interpreted as discursive mechanisms of (re)production of hierarchically gendered structures in the technical field as they offer men and women unequal chances of being recognized and valued as an engineer.
+C1 [Prietl, Bianca] Tech Univ Darmstadt, Dolivostr 15, D-64293 Darmstadt, Germany.
+RP Prietl, B (corresponding author), Tech Univ Darmstadt, Dolivostr 15, D-64293 Darmstadt, Germany.
+EM prietl@ifs.tu-darmstadt.de
+NR 75
+TC 0
+Z9 0
+U1 0
+U2 0
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2019
+VL 70
+IS 1
+BP 93
+EP 118
+DI 10.5771/0038-6073-2019-1-93
+PG 26
+WC Sociology
+SC Sociology
+GA IX6UR
+UT WOS:000485820800005
+DA 2021-03-31
+ER
+
+PT J
+AU Jungbauer-Gans, M
+   Kleinert, C
+   Schupp, J
+   Trappmann, M
+   Wolbring, T
+AF Jungbauer-Gans, Monika
+   Kleinert, Corinna
+   Schupp, Juergen
+   Trappmann, Mark
+   Wolbring, Tobias
+TI Announcement: Rules on the Archiving of Data and Analysis Files from
+   quantitative Studies
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+C1 [Jungbauer-Gans, Monika] Deutsch Zentrum Hsch & Wissensch Forsch DZHW, Hannover, Germany.
+   [Jungbauer-Gans, Monika] Leibniz Univ Hannover, Hannover, Germany.
+   [Kleinert, Corinna] Leibniz Inst Bildungsverlaufe LIfBi, Bamberg, Germany.
+   [Kleinert, Corinna; Trappmann, Mark] Otto Friedrich Univ Bamberg, Bamberg, Germany.
+   [Schupp, Juergen] DIW, Berlin, Germany.
+   [Schupp, Juergen] Free Univ Berlin, Berlin, Germany.
+   [Trappmann, Mark] IAB, Nurnberg, Germany.
+   [Wolbring, Tobias] Friedrich Alexander Univ Erlangen Nurnberg ViSdP, Erlangen, Germany.
+RP Jungbauer-Gans, M (corresponding author), Deutsch Zentrum Hsch & Wissensch Forsch DZHW, Hannover, Germany.; Jungbauer-Gans, M (corresponding author), Leibniz Univ Hannover, Hannover, Germany.
+RI Schupp, Juergen/D-2721-2011
+OI Schupp, Juergen/0000-0001-5273-643X
+NR 4
+TC 1
+Z9 1
+U1 0
+U2 0
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2018
+VL 69
+IS 4
+BP 351
+EP 354
+DI 10.5771/0038-6073-2018-4-351
+PG 4
+WC Sociology
+SC Sociology
+GA IM1DT
+UT WOS:000477729400001
+OA Other Gold
+DA 2021-03-31
+ER
+
+PT J
+AU Hess, M
+   von Scheve, C
+   Zittlau, S
+AF Hess, Moritz
+   von Scheve, Christian
+   Zittlau, Steffen
+TI Ethnic discrimination by Members of the German Parliament A field
+   experiment
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+DE Ethnic Discrimination; MP; Representation; Field Experiment;
+   Correspondence Test
+ID INTEGRATION; PREJUDICE; BEHAVIOR; RACISM
+AB Although ethnic discrimination is largely incompatible with various legal and social norms, it is frequently observed empirically. This study investigates whether ethnic discrimination can be found in a key social institution, the political arena. In particular, we are interested in ethnic discrimination in interactions between political representatives, who are expected to be moral role models, and the electorate. Moreover, we want to know whether ethnic discrimination can be differentiated along the lines of political parties. To this end, we have designed a correspondence-test field experiment on helping behavior of the offices of Members of the German Bundestag, the German Federal Parliament, in the weeks preceding the elections to the German Bundestag in 2013. We sent emails to all Members of Parliament, who were randomly assigned to emails signed either by a German or Turkish sounding name. Results show that emails with the Turkish sounding name received notably fewer responses than those with the German name, which we interpret as an indicator of ethnic discrimination. Moreover, we find differences in the frequency of discrimination across political factions, with members of the factions CDU/CSU showing low levels of discrimination and members of SPD, FDP and B90/Die Grunen and Die Linke showing virtually no discrimination. After controlling for Members' of Parliament age, the percentage of foreigners in their electoral district as well as its population density, and whether the electoral district is East or West German, we find no significant differences between factions anymore.
+C1 [Hess, Moritz] Univ Bremen, SOCIUM Forschungszentrum Ungleichheit & Sozialpol, Mary Somerville Str 5, D-28359 Bremen, Germany.
+   [von Scheve, Christian] Free Univ Berlin, Arbeitsbereich Soziol Schwerpunkt Soziol Emot, Garystr 55, D-14195 Berlin, Germany.
+   [Zittlau, Steffen] Univ Mannheim, Lehrstuhl Quantitat Sozialwissensch Methoden, A 5,6, D-68131 Mannheim, Germany.
+RP Hess, M (corresponding author), Univ Bremen, SOCIUM Forschungszentrum Ungleichheit & Sozialpol, Mary Somerville Str 5, D-28359 Bremen, Germany.
+EM mhess@uni-bremen.de; chris-tian.von.scheve@fu-berlin.de
+OI Hess, Moritz/0000-0003-4095-6448
+NR 51
+TC 1
+Z9 1
+U1 0
+U2 0
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2018
+VL 69
+IS 4
+BP 355
+EP 378
+DI 10.5771/0038-6073-2018-4-355
+PG 24
+WC Sociology
+SC Sociology
+GA IM1DT
+UT WOS:000477729400002
+DA 2021-03-31
+ER
+
+PT J
+AU Gerhards, J
+   Buchmayr, F
+AF Gerhards, Juergen
+   Buchmayr, Florian
+TI Social Contexts and Migrants' Experiences of Discrimination Results of a
+   Qualitative Study
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+DE Migrants; Symbolic Boundaries; Discrimination; First Names; Group
+   Discussion
+ID LABOR-MARKET; PERCEIVED DISCRIMINATION; FIELD EXPERIMENT; BOUNDARIES;
+   ASSIMILATION; IDENTITY; YOUTH; INTEGRATION; GERMANY
+AB A large number of studies have shown that migrants are discriminated against by members of the majority society. However, we know little about migrants' self-perception of discrimination and, above all, about the specific social contexts of perceived discrimination. Based on 17 group discussions with migrants living in Germany and using the example of first names, we analyse which specific social contexts promote experiences of categorisation and discrimination. The results show that schooling, contacts with official authorities and the labour market are particularly relevant. In some segments of the labour market, migrants experience even positive discrimination. In addition, experiences of discrimination are largely determined by the question of whether migrants are strongly or weakly represented in a given social context.
+C1 [Gerhards, Juergen] Free Univ Berlin, Inst Soziol, Garystr 55, D-14195 Berlin, Germany.
+   [Buchmayr, Florian] Univ Bremen, Forschungszentrum Ungleichheit & Sozialpolit Soci, Mary Somerville Str 9, D-28359 Bremen, Germany.
+RP Gerhards, J (corresponding author), Free Univ Berlin, Inst Soziol, Garystr 55, D-14195 Berlin, Germany.
+EM j.gerhards@fu-berlin.de; buchmayr@uni-bre-men.de
+NR 65
+TC 1
+Z9 1
+U1 0
+U2 1
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2018
+VL 69
+IS 4
+BP 379
+EP 405
+DI 10.5771/0038-6073-2018-4-379
+PG 27
+WC Sociology
+SC Sociology
+GA IM1DT
+UT WOS:000477729400003
+DA 2021-03-31
+ER
+
+PT J
+AU Damelang, A
+   Stops, M
+   Abraham, M
+AF Damelang, Andreas
+   Stops, Michael
+   Abraham, Martin
+TI Occupations as labour market institutions Occupational regulation and
+   its effects on job matching and occupational closure
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA English
+DT Article
+DE Occupational regulation; Matching; Occupational Mobility; Occupational
+   Closure
+ID SOCIAL CLOSURE; EMPLOYMENT; EMPLOYERS; EDUCATION; SPECIFICITY;
+   CREDENTIALS; MOBILITY; ENTRY
+AB We define occupations as labour market institutions that link the education system with the labour market and argue that occupations represent ideal-typical requirement profiles of job vacancies. On this theoretical basis, we elaborate distinct mechanisms how occupational institutions and their regulation define occupational qualifications and influence both access to occupations and mobility between occupations. We argue that the extent of occupational regulation varies considerably between occupations. Next, we analyse the labour market effects induced by occupational regulation. We illustrate that regulatory effects are twofold. First, occupational regulation enhances information for both employers and job seekers and thus reduces uncertainty in the matching process. Second, it creates 'closed shops' by restricting access to occupations. To date, studies that include both positive and negative effects of occupational regulation are scarce. We fill this gap by examining two central labour market processes: job matching and occupational closure. Empirically, we use an innovative indicator for occupational regulation and test our hypotheses with German data. The results show that the more pronounced the regulation of an occupation is the less effort the contracting parties must expend within the matching process. By contrast, transitioning into a new occupation become less likely the more an occupation is regulated.
+C1 [Damelang, Andreas; Abraham, Martin] Friedrich Alexander Univ Erlangen Nurnberg, Chair Sociol & Empir Res Methods, Findelgasse 7-9, D-90402 Nurnberg, Germany.
+   [Stops, Michael] German Fed Employment Agcy, Res Grp Occupat Lab Markets, Inst Employment Res, Regensburger Str 104, D-90478 Nurnberg, Germany.
+RP Damelang, A (corresponding author), Friedrich Alexander Univ Erlangen Nurnberg, Chair Sociol & Empir Res Methods, Findelgasse 7-9, D-90402 Nurnberg, Germany.
+EM andreas.damelang@fau.de; Michael.Stops@iab.de; martin.abraham@fau.de
+FU German Research FoundationGerman Research Foundation (DFG) [AB 111/11-1,
+   DA 1654/2-1]
+FX This work was supported by the German Research Foundation (grant number
+   AB 111/11-1 and DA 1654/2-1).
+NR 57
+TC 2
+Z9 2
+U1 0
+U2 1
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2018
+VL 69
+IS 4
+BP 406
+EP 426
+DI 10.5771/0038-6073-2018-4-406
+PG 21
+WC Sociology
+SC Sociology
+GA IM1DT
+UT WOS:000477729400004
+DA 2021-03-31
+ER
+
+PT J
+AU Velarde, KS
+   Holz, M
+   Schwarz, M
+AF Velarde, Kathia Serrano
+   Hoelz, Martin
+   Schwarz, Miriam
+TI Grant writing and the discursive positioning of applicants A historical
+   analysis of the application guidelines for project-based research
+   funding
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+DE Research funding; Grant application; Instructions; Competition;
+   Organizational communication; Coevolution; Competition
+ID SOCIOLOGY; INSTITUTIONALIZATION; COMMUNICATION; PERFORMANCE; GOVERNANCE;
+   SCIENCE; IMPACT; TEXTS
+AB What kind of expectations are scientists confronted with when applying for research funding? How have these expectations changed over time and why? In order to understand the changing nature of funding practices in Germany and retrace their origins to the introduction of the first application guideline for project-based research funding in 1959, we combined two data sources: Archival research and interviews with former practitioners in three of the oldest and most renowned German grant making institutions. In addition, we sampled and analyzed all the application guidelines published by the grant makers between 1959 and 2005. Doing so, we were able to identify changes in the way funding organizations relate to the applicant through written communication (or instructions). Building on the insights of Cooren's organizational communication theory and Harre's positioning theory, we observed a coevolution between the discursive positioning of the applicant and the rising competition for funds. We argue that the discursive changes we witness have a strong link to the way funding organizations modelled their selection process over time.
+C1 [Velarde, Kathia Serrano] Heidelberg Univ, Max Weber Inst Soziol, Bergheimer Str 58, D-69115 Heidelberg, Germany.
+   [Hoelz, Martin; Schwarz, Miriam] Heidelberg Univ, Ctr Soziale Investitionen & Innovat, Vossstr 2,Gebaude 4410, D-69115 Heidelberg, Germany.
+RP Velarde, KS (corresponding author), Heidelberg Univ, Max Weber Inst Soziol, Bergheimer Str 58, D-69115 Heidelberg, Germany.
+EM Kathia.serrano@mwi.uni-heidelberg.de; Martin.Hoelz@csi.uni-heidelberg.de
+NR 95
+TC 0
+Z9 0
+U1 1
+U2 5
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2018
+VL 69
+IS 4
+BP 427
+EP 461
+DI 10.5771/0038-6073-2018-4-427
+PG 35
+WC Sociology
+SC Sociology
+GA IM1DT
+UT WOS:000477729400005
+DA 2021-03-31
+ER
+
+PT J
+AU Sonntag, N
+   Lutter, M
+AF Sonntag, Nico
+   Lutter, Mark
+TI Cui bono? The reform of the German trade and craft code as a natural
+   experiment to test occupational closure theory
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+DE Inequality; Labor Markets; Skilled Trades; Occupational Closure;
+   Licensing; Deregulation; Natural Experiment
+ID INEQUALITY; MARKET
+AB The 2004 amendment of the German trade and craft code is a rare opportunity to study the causal effects of occupational closure via a natural experiment. Restrictions on self-employment were removed in about half of the occupations. By using multiple years of micro-level census data (the German "Mikrozensus") collected before and after the reform (2002-2007), we study the effects of occupational closure, or more precisely the sudden removal of such restrictions, on the income of employees and self-employed craftsmen. In contrast to similar studies, we do not find large differences in income between self-employed craftsmen in regulated and deregulated occupations that were likely caused by the reform. It seems that the reform affected the income of self-employed and employed craftsmen equally. The overall reform effects, however, are very small and hardly detectable. Some findings indicate small income gains for craftsmen without vocational training and income losses for highly skilled craftsmen, both caused by deregulation. However, these findings are very sensitive to changes in the sample composition. In the concluding section we discuss the theoretical and empirical conditions that will allow us to learn about the mechanisms of occupational closure from the trade and craft code reform.
+C1 [Sonntag, Nico] Max Planck Inst Gesell Forsch, Paulstr 3, D-50676 Cologne, Germany.
+   [Lutter, Mark] Berg Univ Wuppertal, Fak Human & Sozial Wissensch, Gaussstr 20, D-42119 Wuppertal, Germany.
+RP Sonntag, N (corresponding author), Max Planck Inst Gesell Forsch, Paulstr 3, D-50676 Cologne, Germany.
+EM sonntag@mpifg.de; lutter@uni-wuppertal.de
+NR 35
+TC 1
+Z9 1
+U1 0
+U2 0
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2018
+VL 69
+IS 3
+BP 213
+EP 251
+DI 10.5771/0038-6073-2018-3-213
+PG 39
+WC Sociology
+SC Sociology
+GA HX8QW
+UT WOS:000467671400001
+DA 2021-03-31
+ER
+
+PT J
+AU Gurr, T
+   Lang, S
+AF Gurr, Thomas
+   Lang, Sebastian
+TI Stigma consciousness among unemployed individuals An analysis using a
+   mixed method design
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+DE Stigma; Unemployment; Mixed Methods; Prejudices; Goffman
+ID PANEL
+AB This article addresses the question what factors have an impact on specific dimensions of being conscious of the stigma referring to being unemployed (awareness, denial, disaffiliation). We use a Mixed Methods Design which sequentially combines qualitative and quantitative methods. On a theoretical level, Goffman's stigma concept is used as a sensitizing concept to derive the hypotheses from the qualitative interview material. The hypotheses are tested using data from the German panel study 'Labour Market and Social Security'. The analyses show that receiving unemployment assistance (ALG II) correlates with a higher degree of awareness compared to receiving unemployment benefit (ALG I) or no benefits at all. Moreover, we find higher values of awareness, denial and disaffiliation if the unemployed ascribe additional value to being employed besides material worth. Greater material deprivation is also associated with a higher value on all three dimensions of being conscious of stigma.
+C1 [Gurr, Thomas] Leibniz Univ Hannover, Inst Soziol, Lange Laube 32, D-30159 Hannover, Germany.
+   [Lang, Sebastian] Leibniz Univ Hannover, Lange Laube 32, D-30159 Hannover, Germany.
+   [Lang, Sebastian] DZHW, Lange Laube 32, D-30159 Hannover, Germany.
+RP Gurr, T (corresponding author), Leibniz Univ Hannover, Inst Soziol, Lange Laube 32, D-30159 Hannover, Germany.
+EM t.gurr@ish.uni-hannover.de; s.lang@ish.uni-hannover.de
+OI Lang, Sebastian/0000-0002-2374-2133
+NR 86
+TC 1
+Z9 1
+U1 1
+U2 2
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2018
+VL 69
+IS 3
+BP 252
+EP 292
+DI 10.5771/0038-6073-2018-3-252
+PG 41
+WC Sociology
+SC Sociology
+GA HX8QW
+UT WOS:000467671400002
+DA 2021-03-31
+ER
+
+PT J
+AU Kaiser, N
+   Rudel, M
+AF Kaiser, Nicole
+   Rudel, Miriam
+TI Moving for a masters degree The influence of situational framework
+   conditions on spatial mobility of students after undergraduate programs
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+DE Spatial mobility; University studies; Bologna Process; Regional context;
+   Bachelor graduates
+ID REPEAT MIGRATION; COSTS; JOB
+AB Quite some time has passed since bachelor and master programs were introduced in the course of the Bologna Process. Changing the university when starting a master program can be seen as an opportunity to improve the situational framework conditions, especially in terms of prospective career goals. The spatial mobility of bachelor graduates can contribute to better matches concerning master programs and labor market entry implying higher wages. However, knowledge about the crossover between BA and MA programs and especially about the influence of situational framework conditions on mobility decisions of BA graduates is poor. Our research aims to address the question which individual characteristics and which regional circumstances can explain the decision of BA graduates to change their university between BA- and MA-programs. Data from the 2009 graduate study is used to analyze this crossover. The applied methods include multi-level logistic regression as data is hierarchically nested. Our results show that individual resources, like locally based business networks, as well as the size of local labor markets and related opportunity structures, can explain the probability of students changing university locations after their bachelor's degree.
+C1 [Kaiser, Nicole; Rudel, Miriam] Friedrich Alexander Univ Erlangen Nurnberg, Lehrstuhl Soziol & Empir Sozialforsch, Schwerpunkt Arbeitsmarktsoziol, Findelgasse 7-9, D-90403 Nurnberg, Germany.
+RP Kaiser, N (corresponding author), Friedrich Alexander Univ Erlangen Nurnberg, Lehrstuhl Soziol & Empir Sozialforsch, Schwerpunkt Arbeitsmarktsoziol, Findelgasse 7-9, D-90403 Nurnberg, Germany.
+EM nicole.kaiser@fau.de; miriam.rudel@fau.de
+NR 50
+TC 0
+Z9 0
+U1 2
+U2 2
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2018
+VL 69
+IS 3
+BP 293
+EP 318
+DI 10.5771/0038-6073-2018-3-293
+PG 26
+WC Sociology
+SC Sociology
+GA HX8QW
+UT WOS:000467671400003
+DA 2021-03-31
+ER
+
+PT J
+AU Lachmann, D
+   Martius, T
+   Landmann, M
+   Herzig, S
+AF Lachmann, Daniel
+   Martius, Thilo
+   Landmann, Mareike
+   Herzig, Stefan
+TI Social origin and structured doctoral education: Which influence do they
+   exert on performance during the doctoral phase?
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+DE Social inequality; Educational inequality; Primary effects; Cultural
+   capital; Higher education research
+ID INEQUALITY
+AB The paper addresses the impact of the parental socio-economic status (SES) on the performances during the conferral of a doctorate in life sciences (medicine and biology). Further, it investigates the question how structured doctoral programs affect this relation. A standardized survey of life science doctorates showed that SES solely had minor effects on the performances. However, occupations linked to the graduation, e.g. being a research assistant or having a scholarship, are very important for a better performance. The participation in a structured doctoral program neither affects the performance, nor has it a moderating effect on the relationship between SES and performance.
+C1 [Lachmann, Daniel; Martius, Thilo; Landmann, Mareike] Univ Cologne, Lehre & Studium, Zent Evaluat Studium & Lehre Hsch Forsch, Albertus Magnus Pl, D-50923 Cologne, Germany.
+   [Herzig, Stefan] Tech Hsch Koln, Claudiusstr 1, D-50678 Cologne, Germany.
+RP Lachmann, D (corresponding author), Univ Cologne, Lehre & Studium, Zent Evaluat Studium & Lehre Hsch Forsch, Albertus Magnus Pl, D-50923 Cologne, Germany.
+EM daniel.lachmann@uni-koeln.de; thilo.martius@uni-koeln.de;
+   mareike.landmann@uni-koeln.de; stefan.herzig@th-koeln.de
+NR 72
+TC 1
+Z9 1
+U1 0
+U2 1
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2018
+VL 69
+IS 3
+BP 319
+EP 348
+DI 10.5771/0038-6073-2018-3-319
+PG 30
+WC Sociology
+SC Sociology
+GA HX8QW
+UT WOS:000467671400004
+DA 2021-03-31
+ER
+
+PT J
+AU Motakef, M
+   Teschlade, J
+   Wimbauer, C
+AF Motakef, Mona
+   Teschlade, Julia
+   Wimbauer, Christine
+TI Precarisation and the loss of modern (gender) certainties Reflections on
+   discourses against gender equality policies and gender studies by
+   precarisation theory
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+DE Precarisation; Gender Studies; Social Inequality; Equal Opportunities;
+   Gainful Employment; Family; Sexuality; Welfare State; Doxa
+AB Our paper discusses current discourses against equality policies and gender studies. We argue that equality policies and gender studies are blamed for prevailing social transformations which are a result of ongoing processes of precarisation. Based on empirically informed theoretical-conceptual reflections, we analyse these discourses considering three different approaches to understand precarisation. First, we illustrate that the sociology of inequality and sociology of work (2.1) describes precarisation as socio-political forced process of growing employment insecurities. Second, we delineate approaches by gender studies (2.2), which analyse changing inequalities by focusing on the precarisation of the male breadwinner model and the sphere of reproduction. Third, we claim that these discourses gained popularity due to an irritation of the 'doxic' experience' (Bourdieu) (2.3). Gender studies are attacked because they operate with theories and empirical findings that promote these irritations, Forth, we develop an enhanced understanding of precarisation by integrating these three approaches. In doing so, we present a forth approach that recognizes inequalities resulting from the precarisation of the fordistic trial consisting of standard labour conditions, the male breadwinner model and social politics as well as symbolic orders (Doxa). We conclude (3) by discussing our results and sketching out demands for further research.
+C1 [Motakef, Mona; Teschlade, Julia; Wimbauer, Christine] Humboldt Univ, Inst Sozialwissensch, Unter Linden 6, D-10099 Berlin, Germany.
+RP Motakef, M (corresponding author), Humboldt Univ, Inst Sozialwissensch, Unter Linden 6, D-10099 Berlin, Germany.
+EM mona.motakef@sowi.hu-berlin.de; julia.teschlade@sowi.hu-berlin.de;
+   christine.wimbauer@sowi.hu-ber-lin.de
+NR 84
+TC 0
+Z9 0
+U1 0
+U2 3
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2018
+VL 69
+IS 2
+BP 112
+EP 138
+DI 10.5771/0038-6073-2018-2-112
+PG 27
+WC Sociology
+SC Sociology
+GA HB8SV
+UT WOS:000451361900002
+DA 2021-03-31
+ER
+
+PT J
+AU Marquardsen, K
+AF Marquardsen, Kai
+TI A question of justice The normative justification of activation policy
+   in regional contexts
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+DE Unemployment Policy; Activation; Hartz IV; Justice; Local Governance
+ID CAPABILITY; UNEMPLOYMENT
+AB Subject of this article is the reconstruction of normative justifications on which activation policy in Germany relies upon. The analysis is based on interviews with employees and executives of Jobcenters and Employment Agencies in four German regions over two enquiry periods. The article shows that the implementation of activation policy goes along with at least three different patterns of justification: personal achievement, equality and autonomy. In the first period of research these patterns are weighted differently in the four regions. However, in the second period a shift towards the perception of unemployment as a result of a lack of personal achievement can be found in all regions. The article draws the conclusion that activation policy implies a principal deficit in its understanding of justice: the call for personal responsibility first of all requires to strengthen people's ability to lead a self-determined life. To justify these conclusions the article refers to the work of Amartya Sen.
+C1 [Marquardsen, Kai] Fachhsch Kiel, Kiel, Germany.
+RP Marquardsen, K (corresponding author), Fachhsch Kiel, Kiel, Germany.
+EM kai.marquardsen@fh-kiel.de
+NR 47
+TC 0
+Z9 0
+U1 0
+U2 0
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2018
+VL 69
+IS 2
+BP 139
+EP 160
+DI 10.5771/0038-6073-2018-2-139
+PG 22
+WC Sociology
+SC Sociology
+GA HB8SV
+UT WOS:000451361900003
+DA 2021-03-31
+ER
+
+PT J
+AU Lenhart, J
+   Rebien, M
+AF Lenhart, Julia
+   Rebien, Martina
+TI The Importance of Job Profiles and the Course of Recruiting Processes on
+   Firms Willingness to Recruit Long-Term-Unemployed
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+DE Long-term Unemployment; Labour Shortage; Personnel Search; Job Profiles
+ID LABOR-MARKET; DURATION DEPENDENCE; STIGMA; SEARCH
+AB People who are long-term-unemployed are one of the groups on the labour market that face several difficulties to find a new job. Basing on the Human Capital Theory and on the Signalling Theory, we evaluate the conditions under which long-term unemployed people have increasing chances to be recruited compared to short-term unemployed individuals by using logistic regression models. The results show that in comparison with short-term unemployed people, the probability to be employed increases for those being long-term unemployed when firms are filling positions that do not require any professional qualification. In contrast to our theoretical assumptions, long-term unemployed individuals do not have higher chances to be recruited for temporary employment but they show a higher likelihood for being hired for a part-time job. Furthermore, only a part of our theoretical expectations is met concerning the increasing chances for those being long-term unemployed that we assumed when firms use their social contacts and employee referrals for recruitment. Third party recommendations do not show any positive correlation with increasing employment chances for long-term unemployed people. However, if a firm is looking for candidates in its internal labour market, the chance to be recruited increases significantly for long-term unemployed individuals compared to those being short-term unemployed. Last but not least, we can show that the recruitment chances for long-term unemployed people increases when firms face difficulties to fill their open positions. Our results indicate that, given firms willingness to compromise, there are possibilities for long-term unemployed individuals to find a new job. This is particularly the case when firms are confronted with labour shortage.
+C1 [Lenhart, Julia] Dezernat Familie & Soziales, Dr Pfleger Str 15, D-92637 Weiden, Germany.
+   [Rebien, Martina] Inst Arbeitsmarkt & Berufsforsch, Regensburger Str 104, D-90478 Nurnberg, Germany.
+RP Lenhart, J (corresponding author), Dezernat Familie & Soziales, Dr Pfleger Str 15, D-92637 Weiden, Germany.
+EM julia.lenhart@weiden.de; martina.rebien@iab.de
+NR 41
+TC 0
+Z9 0
+U1 0
+U2 4
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2018
+VL 69
+IS 2
+BP 161
+EP 181
+DI 10.5771/0038-6073-2018-2-161
+PG 21
+WC Sociology
+SC Sociology
+GA HB8SV
+UT WOS:000451361900004
+OA Other Gold
+DA 2021-03-31
+ER
+
+PT J
+AU Wimmer, C
+   Schneickert, C
+AF Wimmer, Christopher
+   Schneickert, Christian
+TI Conflict, Autonomy, and Orthodoxy Professors in the Social Field of
+   Sociology in Germany
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+DE Science Studies; Academic Field; Sociological Field; Sociology in
+   Germany; Scientific Capital; Pierre Bourdieu
+AB This article analyzes academic sociology in Germany as a social field by focusing on professors as its dominant actors. The article elaborates on the concept of scientific capital and presents indicators to determine those actors who have the highest stock of institutionalized and professional ('sociological') scientific capital. Empirically, we collected and analyzed information of all 370 professors of sociology in Germany in 2015 from their websites. Furthermore, evidence from nine in-depth guided interviews with professors is presented. On the structural level, a main finding is the heterogeneity of the professors regarding institutional power, forms and impact of publications, research interests and internationality. From the subjective perspective of the interviewees the autonomy of the sociological field as a multi-paradigmatic discipline is threatened by a lack of open discussions on latent conflicts.
+C1 [Schneickert, Christian] Univ Magdeburg, Inst Gesell Wissensch, Zschokkestr 32, D-39104 Magdeburg, Germany.
+RP Schneickert, C (corresponding author), Univ Magdeburg, Inst Gesell Wissensch, Zschokkestr 32, D-39104 Magdeburg, Germany.
+EM info@christopherwimmer.de; christian.schneickert@ovgu.de
+NR 48
+TC 0
+Z9 0
+U1 0
+U2 1
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2018
+VL 69
+IS 2
+BP 182
+EP 210
+DI 10.5771/0038-6073-2018-2-182
+PG 29
+WC Sociology
+SC Sociology
+GA HB8SV
+UT WOS:000451361900005
+DA 2021-03-31
+ER
+
+PT J
+AU Seidenschnur, T
+   Krucken, G
+   Galwa, J
+   Vogel, R
+AF Seidenschnur, Tim
+   Kruecken, Georg
+   Galwa, Julia
+   Vogel, Rick
+TI Legitimizing business consultants A comparative analysis in universities
+   and public administrations
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+DE Consulting; Professions; New Institutionalism; Legitimacy;
+   Organizational Fields
+ID MANAGEMENT; KNOWLEDGE; ORGANIZATIONS; SOCIOLOGY; BROKERS; LOGICS; FIELDS
+AB Business consulting has been very successful and has spread into almost every organizational field of society. Today, business consultants are very important for the diffusion of trends in management. However, in organizational fields outside the economic sector, consultants face institutional logics and settings that differ remarkably from economic ones. These logics shape the expectations of clients and thereby determine whether consultants are constructed as legitimate actors in consulting processes or not. This paper analyses how consultants are constructed as legitimate actors by referring to sociological research on professions. Based on that research, the categories knowledge, power, and image are central for our analysis. By making use of these categories, the paper analyses and discusses how consultants are legitimated in universities and public administrations. Empirically, the paper focusses on narratives in interviews with clients and consultants in the two fields at hand. The paper contributes to the understanding of how consulting processes are shaped by different institutional settings in which universities and public administrations are embedded. Furthermore, linkages between sociological research on professions and sociology's new institutionalism are explored.
+C1 [Seidenschnur, Tim; Kruecken, Georg] Univ Kassel, Int Ctr Higher Educ Res Kassel INCHER Kassel, Monchebergstr 17, D-34109 Kassel, Germany.
+   [Galwa, Julia; Vogel, Rick] Univ Hamburg, Fachbereich Sozialokonomie, Von Melle Pk 9, D-20146 Hamburg, Germany.
+RP Seidenschnur, T (corresponding author), Univ Kassel, Int Ctr Higher Educ Res Kassel INCHER Kassel, Monchebergstr 17, D-34109 Kassel, Germany.
+EM tim.seiden-schnur@uni-kassel.de; ecken@incher.uni-kassel.de;
+   Julia.Galwa@uni-hamburg.de; Rick.Vogel@uni-hamburg.de
+NR 74
+TC 0
+Z9 0
+U1 0
+U2 6
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2018
+VL 69
+IS 1
+BP 6
+EP 32
+DI 10.5771/0038-6073-2018-1-6
+PG 27
+WC Sociology
+SC Sociology
+GA GW9VC
+UT WOS:000447354300002
+DA 2021-03-31
+ER
+
+PT J
+AU Meulemann, H
+AF Meulemann, Heiner
+TI "Do you want a funeral by the church?" Church Services as Cultural
+   Residuum after the Secularization in Germany 1982-2002
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+DE Biographical Transitions; Christian Belief; Religious Skepticism;
+   Secularization; Cohort Analysis
+ID RELIGION; SWEDEN
+AB The wish to be buried ecclesiastically should depend positively upon the need to frame biographical experiences and on being Christian, and negatively upon religious skepticism - i.e. church criticism, religion criticism, naturalist world-view, and religious indifference. This is tested using the ALLBUS from 1982 to 2012. As the need to frame biographical transitions has not been directly measured by a specific question, its impact is derived from the effect of being Christian and religious skepticism in two regression analyses. First, the need should become visible by stronger effects of less demanding forms of being Christian. That is the case: Mere church membership has a stronger effect than church practices and Christian beliefs. Second, a predictor variable,church commitment' is constructed such that members motivated by their practice and their beliefs are distinguished from habitual membership. In addition, habitual non-members are distinguished from nonmembers motivated by their religious skepticism. Then, the wish to be buried ecclesiastically should be stronger among habitual non-members than motivated nonmembers, and stronger among habitual members than habitual non-members. In both comparisons the first group continues to share Christianity as a cultural residuum. These two predictions also come out true. In conclusion, the analysis makes clear to what extent the need to frame biographical transitions by church rituals is an indicator of cultural churchliness.
+C1 [Meulemann, Heiner] Univ Cologne, Inst Soziol & Sozialpsychol, Greinstr 2, D-50939 Cologne, Germany.
+RP Meulemann, H (corresponding author), Univ Cologne, Inst Soziol & Sozialpsychol, Greinstr 2, D-50939 Cologne, Germany.
+EM meulemann@wiso.uni-koeln.de
+RI Meulemann, Heiner/ABF-4287-2020
+NR 40
+TC 0
+Z9 0
+U1 0
+U2 1
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2018
+VL 69
+IS 1
+BP 33
+EP 63
+DI 10.5771/0038-6073-2018-1-33
+PG 31
+WC Sociology
+SC Sociology
+GA GW9VC
+UT WOS:000447354300003
+DA 2021-03-31
+ER
+
+PT J
+AU Wolbring, T
+AF Wolbring, Tobias
+TI Relaunch of the Social World with a new Editorial Team
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Editorial Material
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2018
+VL 69
+IS 1
+BP 3
+EP 5
+DI 10.5771/0038-6073-2018-1-3
+PG 3
+WC Sociology
+SC Sociology
+GA GW9VC
+UT WOS:000447354300001
+DA 2021-03-31
+ER
+
+PT J
+AU Lenger, A
+   Wolf, S
+AF Lenger, Alexander
+   Wolf, Stephan
+TI Experiments in Sociological Research? On Systematic Biases of
+   Experimental Findings Due to Strategic Behavior of Student Participants
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Editorial Material
+DE Empirical Social Research; Experiments; Interviews; Self-selection;
+   Internal and external validity
+ID ULTIMATUM GAME; SOCIAL PREFERENCES; FIELD EXPERIMENTS; EXPERIMENTAL
+   ECONOMICS; GENDER-DIFFERENCES; COMPETITION; FAIRNESS; MOTIVES; LAB;
+   INFORMATION
+AB An increasing number of sociologists suggest that laboratory and field experiments should play a larger role in sociological research. Until now, experiments do not form part of the methodological core of empirical social research but are rather met with a certain degree of scepticism. This article discusses social factors which systematically distort experimental laboratory results. Our analysis is based on findings from our own experiment on distributional preferences (n=213) combined with semi-structured interviews with participants (n=39). Initially, the interviews were realized to give insights into the reasoning of participants. Among other issues, we asked subjects about their previous experience with experiments and their motivation behind participating. The results of these qualitative interviews point towards a problem which so far is neglected in research: While the 'homo oeconomicus' type of participants - motivated mainly by monetary reward - is anticipated in the literature and also found in our study, our results show that (at least) two additional types of subjects can be identified. First, there is the 'interested researcher' who already gained some experience with experiments and whose desire to participate in experimental studies is driven by intellectual curiosity. Second, there is the 'critical expert' who uses experiments to critically reflect on her own behavior in specific situations. Given that experiments usually employ student participants recruited at universities, these results are relevant for experimental social research and need to be taken into consideration in future experiment-based research.
+C1 [Lenger, Alexander] Albert Ludwigs Univ Freiburg, Freiburg, Germany.
+   [Lenger, Alexander] Univ Siegen, Zentrum Okonom Bildung, Kohlbettstr 15, D-57068 Siegen, Germany.
+   [Wolf, Stephan] Univ Freiburg, Inst Umweltsozialforsch, Tennenbacher Str 4, D-79106 Freiburg, Germany.
+RP Lenger, A (corresponding author), Albert Ludwigs Univ Freiburg, Freiburg, Germany.; Lenger, A (corresponding author), Univ Siegen, Zentrum Okonom Bildung, Kohlbettstr 15, D-57068 Siegen, Germany.
+EM lenger@zlb.uni-siegen.de; stephan.wolf@ere.uni-freiburg.de
+NR 89
+TC 1
+Z9 1
+U1 0
+U2 2
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2018
+VL 69
+IS 1
+BP 64
+EP 94
+DI 10.5771/0038-6073-2018-1-64
+PG 31
+WC Sociology
+SC Sociology
+GA GW9VC
+UT WOS:000447354300004
+DA 2021-03-31
+ER
+
+PT J
+AU Diekmann, A
+AF Diekmann, Andreas
+TI Experimental Studies and Representativeness Clarify some Errors and
+   Misunderstandings
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Editorial Material
+ID BYSTANDER INTERVENTION; EMERGENCIES; SOCIETIES
+C1 [Diekmann, Andreas] Wissenschaftskolleg Berlin, Weinbergstr 109, CH-8092 Zurich, Switzerland.
+   [Diekmann, Andreas] Swiss Fed Inst Technol, Weinbergstr 109, CH-8092 Zurich, Switzerland.
+RP Diekmann, A (corresponding author), Wissenschaftskolleg Berlin, Weinbergstr 109, CH-8092 Zurich, Switzerland.; Diekmann, A (corresponding author), Swiss Fed Inst Technol, Weinbergstr 109, CH-8092 Zurich, Switzerland.
+EM andreas.diekmann@soz.gess.ethz.ch
+RI Diekmann, Andreas/E-3624-2014
+OI Diekmann, Andreas/0000-0002-7344-5591
+NR 9
+TC 1
+Z9 1
+U1 0
+U2 1
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2018
+VL 69
+IS 1
+BP 95
+EP 100
+DI 10.5771/0038-6073-2018-1-95
+PG 6
+WC Sociology
+SC Sociology
+GA GW9VC
+UT WOS:000447354300005
+DA 2021-03-31
+ER
+
+PT J
+AU Bader, F
+AF Bader, Felix
+TI Motivational Heterogeneity in Laboratory Experiments with Students
+   Problem Specification and Solutions
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Editorial Material
+C1 [Bader, Felix] Univ Mannheim, Fak Sozialwissensch, A5,6, D-68159 Mannheim, Germany.
+RP Bader, F (corresponding author), Univ Mannheim, Fak Sozialwissensch, A5,6, D-68159 Mannheim, Germany.
+EM bader@uni-mannheim.de
+RI Bader, Felix/AAS-8940-2020
+OI Bader, Felix/0000-0002-8265-7289
+NR 18
+TC 1
+Z9 1
+U1 0
+U2 0
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2018
+VL 69
+IS 1
+BP 101
+EP 107
+DI 10.5771/0038-6073-2018-1-101
+PG 7
+WC Sociology
+SC Sociology
+GA GW9VC
+UT WOS:000447354300006
+DA 2021-03-31
+ER
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI New Section in the Social World Social Science Research Data
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Editorial Material
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2018
+VL 69
+IS 2
+BP 111
+EP 111
+DI 10.5771/0038-6073-2018-2-111
+PG 1
+WC Sociology
+SC Sociology
+GA HB8SV
+UT WOS:000451361900001
+DA 2021-03-31
+ER
+
+PT J
+AU Stock, M
+AF Stock, Manfred
+TI The Expansion of Higher Education and the Academisation of Employment
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+AB The paper addresses the relationship between the expansion of higher education and the employment of graduates in Germany. Since World War II the numbers of higher education graduates have dramatically increased. In spite of ambitions to deduce and channel these numbers according to the various qualification demands of the labor market, the expansion is not the result of political steering. Rather, the employment system absorbs higher education graduates to a large extend independent of concrete qualification demands. In general, these graduates obtain placements appropriate to their education level. By discussing the historical developments and by applying an explanation from organizational sociology the paper argues that employment positions are created in adaptation to the expansion of higher education.
+C1 [Stock, Manfred] Martin Luther Univ Halle Wittenberg, Inst Soziol, Emil Abderhalden Str 26-27, D-06108 Halle, Saale, Germany.
+RP Stock, M (corresponding author), Martin Luther Univ Halle Wittenberg, Inst Soziol, Emil Abderhalden Str 26-27, D-06108 Halle, Saale, Germany.
+EM manfred.stock@soziologie.uni-halle.de
+NR 88
+TC 0
+Z9 0
+U1 0
+U2 6
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2017
+VL 68
+IS 4
+BP 347
+EP +
+DI 10.5771/0038-6073-2017-4-347
+PG 19
+WC Sociology
+SC Sociology
+GA GE0LT
+UT WOS:000430906000001
+DA 2021-03-31
+ER
+
+PT J
+AU Folkers, A
+AF Folkers, Andreas
+TI Politics of life beyond itself. Towards an ecological biosociology with
+   Deleuze and Guattari
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+AB The article contributes to current attempts in the social sciences to (re)establish life as a model for and an object of inquiry. It discusses the ecological thought in the works of Gilles Deleuze and Felix Guattari to arrive at a concept of life that allows describing social processes in vital terms but avoids the essentialist and reductionist pitfalls of older biosociological approaches. For Deleuze and Guattari life is not encapsulated in a single living entity and not reducible to "life itself', but is a fleeting process enveloped in a complex environment and distributed among territorial assemblages. Such a theory of life is well equipped to recognize the hybridization of biological and technological, social and natural entities and processes. The article reconstructs this theory of life and discusses its purchase for current debates in the social sciences. An ecological concept of life provides critical conceptual resources to address the analytical and ethical shortcomings of current debates on biopolitics that all too often merely focus on the "politics of life itself'. Instead, an ecological understanding of life challenges researchers to pay more attention to the politics of life beyond itself, phenomena of environmentality and symbiopolitics. Additionally, the peculiar notion of ecology discussed in this paper as complexly folded relations of habitats aligns network theories with theories of worldliness.
+C1 [Folkers, Andreas] Goethe Univ Frankfurt, Inst Soziol, Theodor W Adomo Pl 6, D-60323 Frankfurt, Germany.
+RP Folkers, A (corresponding author), Goethe Univ Frankfurt, Inst Soziol, Theodor W Adomo Pl 6, D-60323 Frankfurt, Germany.
+EM folkers@em.uni-frankfurt.de
+NR 97
+TC 3
+Z9 3
+U1 1
+U2 4
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2017
+VL 68
+IS 4
+BP 365
+EP +
+DI 10.5771/0038-6073-2017-4-365
+PG 21
+WC Sociology
+SC Sociology
+GA GE0LT
+UT WOS:000430906000002
+DA 2021-03-31
+ER
+
+PT J
+AU Bar, S
+   Starystach, S
+AF Baer, Stefan
+   Starystach, Sebastian
+TI An Institutional Analysis Approach to Working Conditions in Hospital
+   Nursing
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+ID COUNTRIES; CARE
+AB In the context of an increasing orientation on performance and competition within the health care system, the worsening working conditions of the hospital staff are regularly explained as an effect of a proceeding economization. In contrast, this article presents an institutional approach, according to which the hospital is not only (1) a service provider, and therefore governed by economical imperatives, but also (2) a total institution, (3) a bureaucracy, and furthermore (4) shaped by the profession of medicine. The heuristic value of this approach is presented on the basis of a cross-sectional survey on working conditions of nurses at a major hospital. The data-analysis shows that economical orientations within the hospital shape the working conditions of nurses by increasing already institutionalized pathologic forms of work. The influence of the economy on the hospital can be specified empirically if its relation to other institutionalized logics is theorized.
+C1 [Baer, Stefan; Starystach, Sebastian] Max Weber Inst Soziol, Bergheimer Str 58, D-69120 Heidelberg, Germany.
+RP Bar, S (corresponding author), Max Weber Inst Soziol, Bergheimer Str 58, D-69120 Heidelberg, Germany.
+EM stefan.baer@soziologie.uni-heidelberg.de;
+   sebastian.starystach@soziologie.uni-heidelberg.de
+NR 80
+TC 1
+Z9 1
+U1 0
+U2 0
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2017
+VL 68
+IS 4
+BP 385
+EP +
+DI 10.5771/0038-6073-2017-4-385
+PG 21
+WC Sociology
+SC Sociology
+GA GE0LT
+UT WOS:000430906000003
+DA 2021-03-31
+ER
+
+PT J
+AU Horstermann, K
+AF Hoerstermann, Katharina
+TI What is the social consensus regarding the financial support of
+   unemployed? A focus group-based reconstruction of the social discussion
+   about a minimum income level
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+ID POVERTY; PERCEPTIONS
+AB Based on focus group discussions this study analyses the extent of financial support that members of society are willing to grant unemployed people. The participants of the discussions defined a minimum income by specifying basic goods and services and thus calculated the costs of covering a minimum of acceptable standard of living. The comparison of the estimated minimum income with the level of the security benefit for unemployed people in Germany (Regelbedarfe des Arbeitslosengeld II) suggests the support of an increase in public transfers. The estimated needs of a single person exceed the public benefits by almost 30%, that of children of different ages by 24% up to 52%. In particular, the discussants criticised the reduction of the spendings on alcohol and tobacco, recreation activities, education and cars.
+C1 [Hoerstermann, Katharina] Anton Esser Str 30, D-51789 Lindlar, Germany.
+RP Horstermann, K (corresponding author), Anton Esser Str 30, D-51789 Lindlar, Germany.
+EM katharina.hoerstermann@web.de
+NR 58
+TC 0
+Z9 0
+U1 0
+U2 1
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2017
+VL 68
+IS 4
+BP 405
+EP +
+DI 10.5771/0038-6073-2017-4-405
+PG 26
+WC Sociology
+SC Sociology
+GA GE0LT
+UT WOS:000430906000004
+DA 2021-03-31
+ER
+
+PT J
+AU Berli, O
+AF Berli, Oliver
+TI Disciplined interpretations. A praxeology of joint data analysis in
+   qualitative research
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+ID SOCIOLOGY; VALUATION
+AB The joint analysis of data in interpretation groups is well established in qualitative research. Many researchers argue that it allows for securing as well as improving the quality of empirical results. Moreover, interpretation groups are regarded as being useful for introducing young researchers to the practices of data analysis. The article begins with a discussion of current literature on this work arrangement and analyses how interpretation groups jointly work on the quality of interpretations. More specifically, I will focus on negotiating readings as well as methodological questions. Against this background, interpretation groups can be regarded as productive settings which allow opening up data, preparing empirically grounded interpretations and also help to immunise these interpretations against possible criticism.
+C1 [Berli, Oliver] Univ Cologne, Humanwissensch Fak, Gronewaldstr 2, D-50931 Cologne, Germany.
+RP Berli, O (corresponding author), Univ Cologne, Humanwissensch Fak, Gronewaldstr 2, D-50931 Cologne, Germany.
+EM oberli@uni-koeln.de
+NR 53
+TC 0
+Z9 0
+U1 0
+U2 0
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2017
+VL 68
+IS 4
+BP 431
+EP +
+DI 10.5771/0038-6073-2017-4-431
+PG 19
+WC Sociology
+SC Sociology
+GA GE0LT
+UT WOS:000430906000005
+DA 2021-03-31
+ER
+
+PT J
+AU Henkel, A
+   Lindemann, G
+AF Henkel, Anna
+   Lindemann, Gesa
+TI Structure - Institution - Regularity: What are the Implications of
+   including Materiality in the Study "of the Social"?
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+C1 [Henkel, Anna] Leuphana Univ Luneburg, Inst Soziol & Kulturorg ISKO, Univ Allee 1, D-21335 Luneburg, Germany.
+   [Lindemann, Gesa] Carl von Ossietzky Univ Oldenburg, Inst Sozialwissensch, Ammerlander Heerstr 114-118, D-26129 Oldenburg, Germany.
+RP Henkel, A (corresponding author), Leuphana Univ Luneburg, Inst Soziol & Kulturorg ISKO, Univ Allee 1, D-21335 Luneburg, Germany.
+EM anna.henkel@leuphana.de; gesa.lindemann@uni-oldenburg.de
+RI Lindemann, Gesa/AAS-5295-2020
+NR 16
+TC 0
+Z9 0
+U1 0
+U2 2
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2017
+VL 68
+IS 2-3
+BP 131
+EP 138
+DI 10.5771/0038-6073-2017-2-3-131
+PG 8
+WC Sociology
+SC Sociology
+GA FS8YZ
+UT WOS:000422701900001
+DA 2021-03-31
+ER
+
+PT J
+AU Schnabel, A
+AF Schnabel, Annette
+TI Materiality and the definition of the situation - emphasising an
+   underrated distinction within the rational choice-framework
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+ID CONSTRUCTION; GENDER
+AB Theories of rational choice (RC-theories) are by now integral part of canonical pool of sociological theories. This gives raise to the question of whether these theories are able to include social phenomena high-lightened by the so called "material turn" of the social sciences. The research programme of RC-theories is comprehensive enough to incorporate diverse forms of social phenomena but material and materiality may cause a different kind of challenges. They evoke questions concerning the two sides of materiality of how people do something with and about things and how things "fabricate" people in return. In order to sound out the possibilities of RC-theories to cope with materiality the article starts with a brief summary of important RC-components (mainly drawing on the most popular SEU-theory as one of many RC-theories) and continues by analysing possible explanations of ideas and queries raised by the material turn. The article aims at the abilities of RC-theories to meet these challenges and at showing which topics are hard to include into the particular RC-focus. It will be argued that the latter mainly comprises of social sense-making processes that involve the fabrication of "objective realities". These will require an enlargement of the theory-related assumptions.
+C1 [Schnabel, Annette] Heinrich Heine Univ Dusseldorf, Inst Sozialwissensch, Univ Str 1, D-40225 Dusseldorf, Germany.
+RP Schnabel, A (corresponding author), Heinrich Heine Univ Dusseldorf, Inst Sozialwissensch, Univ Str 1, D-40225 Dusseldorf, Germany.
+EM schnabel@hhu.de
+NR 67
+TC 0
+Z9 0
+U1 0
+U2 1
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2017
+VL 68
+IS 2-3
+BP 139
+EP +
+DI 10.5771/0038-6073-2017-2-3-139
+PG 19
+WC Sociology
+SC Sociology
+GA FS8YZ
+UT WOS:000422701900002
+DA 2021-03-31
+ER
+
+PT J
+AU Bongaerts, G
+AF Bongaerts, Gregor
+TI Action as a Procedural Reality
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+AB Traditional sociological theories of action understand action and acting usually as symptoms of conscious intentions or rules, norms and stocks of knowledge. Those theories do not capture action as a procedural reality within which action is focused as a temporal and material process. Thus, the article argues that traditional theories of action miss the phenomenon of action. As a thesis, it is assumed that traditional as well as contemporary theories of action have not made fruitful the descriptions of the procedural reality of action for building up the theoretical concepts. Referring to the rather marginal theoretical approaches of Bubner and Frese, an alternative vocabulary of action which focuses on procedural reality is suggested.
+C1 [Bongaerts, Gregor] Univ Duisburg Essen, Inst Soziol, Lotharstr 65, D-47057 Duisburg, Germany.
+RP Bongaerts, G (corresponding author), Univ Duisburg Essen, Inst Soziol, Lotharstr 65, D-47057 Duisburg, Germany.
+EM gregor.bongaerts@uni-due.de
+NR 35
+TC 0
+Z9 0
+U1 0
+U2 0
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2017
+VL 68
+IS 2-3
+BP 157
+EP +
+DI 10.5771/0038-6073-2017-2-3-157
+PG 18
+WC Sociology
+SC Sociology
+GA FS8YZ
+UT WOS:000422701900003
+DA 2021-03-31
+ER
+
+PT J
+AU Laux, H
+AF Laux, Henning
+TI The materiality of the social: Four solutions for a sociological problem
+   in the work of Bruno Latour
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+ID ANTI-LATOUR
+AB The problem of materiality is the pivot of Bruno Latour's sociology. There are four different solution strategies in his work: the erosion of a symbolically halved society in the early science and technology studies ("materialization"), the time-diagnostic identification of risky contradictions at the nature-culture divide of modern societies ("hybridization"), the balancing out of sociological concepts by actor network theory ("symmetrization") and finally the theoretical foundation of different modes of existence in the multiversum of modernity with an operational concept of meaning ("ontologization"). The systematic reconstruction of Latour's thinking shows four divergent answers to the question of materiality. It could be productive for sociology to reflect upon these opportunities because the discipline is apparently very interested in the materiality of the social in view of anthropogenic climate change and the digitalization of society.
+C1 [Laux, Henning] Univ Hamburg, Lehrstuhl Allgemeine Soziol, Allende Pl 1, D-20146 Hamburg, Germany.
+RP Laux, H (corresponding author), Univ Hamburg, Lehrstuhl Allgemeine Soziol, Allende Pl 1, D-20146 Hamburg, Germany.
+EM Henning.Laux@uni-hamburg.de
+NR 89
+TC 0
+Z9 0
+U1 0
+U2 4
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2017
+VL 68
+IS 2-3
+BP 175
+EP +
+DI 10.5771/0038-6073-2017-2-3-175
+PG 25
+WC Sociology
+SC Sociology
+GA FS8YZ
+UT WOS:000422701900004
+DA 2021-03-31
+ER
+
+PT J
+AU Fritz-Hoffmann, C
+AF Fritz-Hoffmann, Christian
+TI Basic elements for an alternative concept of touch. On the Materiality
+   of physical contact and beyond.
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+ID SENSES
+AB This article explores the concept of touch as a tool in analyzing materiality. A critical discussion of the interdisciplinary research field about touch shows that an array of very different entities is being treated as the materiality of touch. If touch is commonly assumed to be the same entity within this research field, then this points to a consensus that stems from a cultural history. If this cultural-historical consensus is disregarded, an opportunity emerges, to understand touch as a diverse and convertible element of social practices. Instead of limiting touch to simply the physical contact between bodies, there are now many different types of touch. These include touch by gods, through curse words, gestures, gazes and personal fates, technologies as well as electromagnetically charged fields. The article shows that the concept of touch can be modified following Helmuth Plessner's principle of mediated immediacy. This principle suggests a way in which the experiences within the space of social practices can be analyzed: How do experiences of touch affect the course of a social practice? How do they unfold urgency? How are actions, communications, and knowledge related to these experiences? These questions will be discussed and illustrated through the example of feeling shamefully touched by stares and gazes in an official space of resonance.
+C1 [Fritz-Hoffmann, Christian] Carl von Ossietzky Univ Oldenburg, AST, Ammerlander Heerstr 114-118, D-26129 Oldenburg, Germany.
+RP Fritz-Hoffmann, C (corresponding author), Carl von Ossietzky Univ Oldenburg, AST, Ammerlander Heerstr 114-118, D-26129 Oldenburg, Germany.
+EM christian.fritz-hoffmann@uni-oldenburg.de
+NR 128
+TC 1
+Z9 1
+U1 0
+U2 3
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2017
+VL 68
+IS 2-3
+BP 199
+EP +
+DI 10.5771/0038-6073-2017-2-3-199
+PG 26
+WC Sociology
+SC Sociology
+GA FS8YZ
+UT WOS:000422701900005
+DA 2021-03-31
+ER
+
+PT J
+AU Pfadenhauer, M
+   Grenz, T
+AF Pfadenhauer, Michaela
+   Grenz, Tilo
+TI From Objects to Objectivation. Locating technological Materiality within
+   Communicative Constructivism
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+ID 3RD ACTOR; EMERGENCE
+AB Recent developments in social theory which indicate a shift from social to communicative constructivism (ref. Keller et al. 2012; Knoblauch 2017) brought questions about the significance of materiality for the constitution of sociality to the fore which shall be the focus of this article. That is, the present article explicitly is located within social theory. Since social constructivism has been repeatedly accused of being blind for the material dimension of sociality, it is exactly this theoretical position that serves as a point of reference in order to bring out the implication of materiality for social theory. Because of its emphasis on the communicative character of the social construction of reality sociology-of-knowledge's theory promises a certain sensitivity for materiality, claiming that body and materiality are both recognized as substantial dimensions of sociality. As a consequence, an understanding of sociality is taken that rests on a spatiotemporal coordination of communicatively performed actions between subjects which are always conceived as being embodied and rely on immaterial as well as material objectivations. However, if such a perspective lives up to its claim, it also has to take an adequate theorization of the dynamics of materiality into account. The ever-changing, unfinished state of digital technology, for example, challenges those social theories in which object permanence and structural stability is taken for granted. The article follows a long-standing tradition within the sociology-of-knowledge in its relationship with social theory. Scrutinizing the concept of materiality within a social constructivist framework which is modified by insights of communicative constructivism further modifications of social constructivism are encouraged by taking empirical phenomena into account: technology as it is developed in so called Social Robotics will be used as an example. The technological visions behind the development of Social Robotics raise questions about the specific relation of materiality and sociality.
+C1 [Pfadenhauer, Michaela; Grenz, Tilo] Univ Wien, Inst Soziol, Rooseveltpl 2, A-1090 Vienna, Austria.
+RP Pfadenhauer, M (corresponding author), Univ Wien, Inst Soziol, Rooseveltpl 2, A-1090 Vienna, Austria.
+EM michaela.pfadenhauer@univie.ac.at; tilo.grenz@univie.ac.at
+OI Pfadenhauer, Michaela/0000-0002-6082-0364; Grenz,
+   Tilo/0000-0002-6255-3060
+NR 82
+TC 0
+Z9 0
+U1 0
+U2 4
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2017
+VL 68
+IS 2-3
+BP 225
+EP +
+DI 10.5771/0038-6073-2017-2-3-225
+PG 20
+WC Sociology
+SC Sociology
+GA FS8YZ
+UT WOS:000422701900006
+DA 2021-03-31
+ER
+
+PT J
+AU Traue, B
+AF Traue, Boris
+TI Relational social theory and the materiality of the social. "Contact
+   media" as an instance between infrastructure and lifeworld
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+AB Relational social theory can contribute the contemporary debate on materialities, by providing an understanding of the stratifications and structures they afford in contemporary societies. However, relationality must be linked to materiality more clearly. In the paper, shortcomings of the new materialisms in sociology such as actor network theory will be discussed prior to presenting the alternative frame of reference of relational social theory: the interweaving of infrastructure and lifeworld. On the backdrop of this theoretical framework, a concept of "contact media" will be proposed to grasp the relation between infrastructure and lifeworld analytically. In the discussion, I specify the value of this proposition for social theory and sketch a research field it opens up.
+C1 [Traue, Boris] Tech Univ Berlin, Inst Soziol, Fraunhoferstr 33-36, D-10587 Berlin, Germany.
+RP Traue, B (corresponding author), Tech Univ Berlin, Inst Soziol, Fraunhoferstr 33-36, D-10587 Berlin, Germany.
+RI Traue, Boris/AAO-8007-2020
+NR 87
+TC 0
+Z9 0
+U1 0
+U2 6
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2017
+VL 68
+IS 2-3
+BP 243
+EP +
+DI 10.5771/0038-6073-2017-2-3-243
+PG 19
+WC Sociology
+SC Sociology
+GA FS8YZ
+UT WOS:000422701900007
+DA 2021-03-31
+ER
+
+PT J
+AU Lindemann, G
+AF Lindemann, Gesa
+TI The recursive automation of communicative steering
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+AB Technology is usually understood as a means to substitute the body or even to outperform it. Contrary to that, I propose that technology is not only an ersatz-body, but also functions as a substitute of communication. Within this framework even tools are described not only as a substitute of the body, but also as an institutionalized communicative symbol of how it ought to be used. Development of technology is understood in two ways: it is a way to more and more substitute the body and it is a way to automatize communicative forms of steering technology. This leads to a theory of a recursive development of technology, which displays important advantages compared to actor-network-theory and the theory of distributed agency. Both of them take into account the subjective aspect of embodied action, respectively the aspect of ersatz-body, but both fail to analyze the specifics of digital steering technologies, which function mainly as a substitute of communication. The theory of recursive development of technology has the advantage to take both aspects into account. It analyzes the subjective aspect of embodied action, including technology as ersatz-body, and it includes also the aspect of automatizing communicative forms of steering.
+C1 [Lindemann, Gesa] Carl von Ossietzky Univ Oldenburg, Inst Sozialwissensch, Ammerlander Heerstr 114-118, D-26129 Oldenburg, Germany.
+RP Lindemann, G (corresponding author), Carl von Ossietzky Univ Oldenburg, Inst Sozialwissensch, Ammerlander Heerstr 114-118, D-26129 Oldenburg, Germany.
+EM gesa.lindemann@uni-oldenburg.de
+RI Lindemann, Gesa/AAS-5295-2020
+NR 28
+TC 2
+Z9 2
+U1 0
+U2 0
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2017
+VL 68
+IS 2-3
+BP 261
+EP +
+DI 10.5771/0038-6073-2017-2-3-261
+PG 18
+WC Sociology
+SC Sociology
+GA FS8YZ
+UT WOS:000422701900008
+DA 2021-03-31
+ER
+
+PT J
+AU Henkel, A
+AF Henkel, Anna
+TI The materiality of society. Development of a social theory perspective
+   towards materiality based on Luhmann's systems theory
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+AB Modern society is characterized by individualization, bureaucratization and functional differentiation. This contribution is based on the assumption that modern society is additionally characterized by a specific, namely, reified, access to materiality. While social science analyses mainly take materiality into account on the level of interaction, this paper suggests focusing on materiality from a sociological perspective. This approach will be developed in four steps: Systems theory has so far mainly focused on linguistic communication. Against the background of the key concept of meaning, however, the theoretical framework can be extended by distinguishing analytically between a symbolic-linguistic and a physical meaning and assuming their mutual constitution. By using two empirical cases, the pharmaceutical and terra, it will be shown how the evolution of society can be observed when taking into account a changing access to materiality. Finally, it will be discussed how such a social theory perspective towards materiality can contribute to the sociological debate on materiality.
+C1 [Henkel, Anna] Leuphana Univ Luneburg, Inst Soziol & Kulturorg ISKO, Univ Allee 1, D-21335 Luneburg, Germany.
+RP Henkel, A (corresponding author), Leuphana Univ Luneburg, Inst Soziol & Kulturorg ISKO, Univ Allee 1, D-21335 Luneburg, Germany.
+EM anna.henkel@leuphana.de
+NR 73
+TC 0
+Z9 0
+U1 0
+U2 5
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2017
+VL 68
+IS 2-3
+BP 279
+EP +
+DI 10.5771/0038-6073-2017-2-3-279
+PG 22
+WC Sociology
+SC Sociology
+GA FS8YZ
+UT WOS:000422701900009
+DA 2021-03-31
+ER
+
+PT J
+AU Kusche, I
+AF Kusche, Isabel
+TI Structure as Generalization - Systems Theory and Conventions of
+   Justification in Relation to Digital File Sharing
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+AB Using an illustrative example, the article discusses parallels and conjunctions between Luhmann's understanding of social expectations as structures and Boltanski's and Thevenot's concept of conventions of justification. Both approaches share the notion of social structures as generalizations. The article does not come to this conclusion by way of a comprehensive comparison of the two theoretical perspectives. It focuses instead on the theoretical description of consequences that arise from the violation of copyrights for digital cultural products, which has become a mass phenomenon on the interne since the turn of the millennium. The argument points out weaknesses that Luhmann's focus on symbolically generalized media of communication and other mechanisms generating acceptance for communications has. They are revealed when it comes to analyzing a case in which established structures of expectation, specialized towards specific function systems, are suddenly undermined by new technological options. As a consequence, the article proposes to understand conventions of justification as societal structures of expectations that cut across different function systems. They become especially relevant as premises for action or communication once function systems and their generalizing effects encounter frequent problems of acceptance.
+C1 [Kusche, Isabel] Univ Aarhus, Aarhus Inst Adv Studies, Hoegh Guldbergs Gade 6B, DK-8000 Aarhus, Denmark.
+RP Kusche, I (corresponding author), Univ Aarhus, Aarhus Inst Adv Studies, Hoegh Guldbergs Gade 6B, DK-8000 Aarhus, Denmark.
+EM isabelkusche@aias.au.dk
+NR 52
+TC 0
+Z9 0
+U1 0
+U2 4
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2017
+VL 68
+IS 2-3
+BP 301
+EP +
+DI 10.5771/0038-6073-2017-2-3-301
+PG 18
+WC Sociology
+SC Sociology
+GA FS8YZ
+UT WOS:000422701900010
+DA 2021-03-31
+ER
+
+PT J
+AU Beyer, H
+AF Beyer, Heiko
+TI On the Reification of the Social and the Animation of Things. Dimensions
+   of Materiality in Marx
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+AB In the recent sociological debate about the theoretical integration of the dimension of materiality surprisingly little attention is paid to the works of Karl Marx. The present paper addresses this problem and shows solutions by distilling a theory of materiality from the Marxian writings. It is not the historical materialism of the early work I focus on as could be expected but the commodity form analysis of the later works. The article argues that those by definition external objects such as matter, nature, and the individual can be social-theoretically integrated via the category of commodity and its double character to function both as use value and value. This analysis is embedded by a preceding chronology of the Marxian concept of materialism as well as cursory concluding remarks on present social developments.
+C1 [Beyer, Heiko] Heinrich Heine Univ, Inst Sozialwissensch, Univ Str 1,Gebaude 23-31,Ebene U1, D-40225 Dusseldorf, Germany.
+RP Beyer, H (corresponding author), Heinrich Heine Univ, Inst Sozialwissensch, Univ Str 1,Gebaude 23-31,Ebene U1, D-40225 Dusseldorf, Germany.
+EM heiko.beyer@uni-duesseldorf.de
+NR 85
+TC 0
+Z9 0
+U1 0
+U2 5
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2017
+VL 68
+IS 2-3
+BP 319
+EP +
+DI 10.5771/0038-6073-2017-2-3-319
+PG 21
+WC Sociology
+SC Sociology
+GA FS8YZ
+UT WOS:000422701900011
+DA 2021-03-31
+ER
+
+PT J
+AU Luhmann, N
+AF Luhmann, Niklas
+TI The inner differentiation of society: stratification and functional
+   differentiation
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+ID MAKERS
+AB The theory of societal differentiation allows to distinguish between two forms how societal subsystems develop: One of these forms is stratification as defined by an institutionalized precedence of equal or unequal families including the particular contact opportunities between members of equal status resulting from this structure as well as including those social systems which evolve by forming and continuing these contact opportunities, especially in the upper class. The other form pertains to the functional differentiation of society comprising several socially inclusive subsystems, each of whom claims a primacy of one societal function. Thereby the subsystems learn to differentiate themselves from one another and from the society as a whole. As both forms of differentiation are on the one hand older than the modem society and on the other hand are produced inside this society, it seems evident to study the transition to modernity by analyzing the transformation of their relationship. The author tries to do this in two respects: First, he discusses how the upper class interaction changed functionally, for which can be demonstrated why this type of communication can integrate a society with a comparably low level of functional differentiation. Second, he deals with the effects on the remaining structure of stratification, once it has come to the modem promotion of the functional differentiation. The weakening of the stratified structures is demonstrated by the decreasing dependence of modem families on class affiliation.
+NR 47
+TC 0
+Z9 0
+U1 1
+U2 3
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2017
+VL 68
+IS 1
+BP 5
+EP +
+DI 10.5771/0038-6073-2017-1-5
+PG 20
+WC Sociology
+SC Sociology
+GA FJ4NO
+UT WOS:000412717400001
+DA 2021-03-31
+ER
+
+PT J
+AU Gerhards, J
+   Hans, S
+   Carlson, S
+   Drewski, D
+AF Gerhards, Juergen
+   Hans, Silke
+   Carlson, Soeren
+   Drewski, Daniel
+TI The Globalisation of Labour Markets: A Content Analysis of the Demand
+   for Transnational Human Capital in Job Advertisements
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA English
+DT Article
+ID FOREIGN-LANGUAGE SKILLS; INTERNATIONAL-TRADE; EDUCATION;
+   COSMOPOLITANISM; RETURNS; GERMANY; ECONOMY; WORLD
+AB This article analyses how globalisation has affected the demand for transnational human capital (foreign language skills, cross-cultural competence, knowledge about other countries and international experiences) over time, across levels of qualification, professional fields and countries. A content analysis of job advertisements in German and Dutch newspapers, as well as Eurobarometer survey data, shows that the demand for transnational human capital, especially in the form of foreign language skills, has increased in recent decades, with that demand being most pronounced among high-skilled jobs in the service sector. Moreover, there are significant national differences in the importance of transnational human capital, determined by a country's level of globalisation and the global diffusion of its official language. Our study shows, however, that there are methodological limits to the content analysis of job postings for determining labour market demand, especially when specific skills and qualifications, e.g. English language skills, are increasingly taken for granted.
+C1 [Gerhards, Juergen; Drewski, Daniel] Free Univ Berlin, Inst Soziol, Garystr 55, D-14195 Berlin, Germany.
+   [Hans, Silke] Georg August Univ Gottingen, Inst Soziol, Pl Gottinger Sieben 3, D-37073 Gottingen, Germany.
+   [Carlson, Soeren] Europa Univ Flensburg, Seminar Soziol, Campus 1, D-24943 Flensburg, Germany.
+RP Gerhards, J (corresponding author), Free Univ Berlin, Inst Soziol, Garystr 55, D-14195 Berlin, Germany.
+EM j.gerhards@fu-berlin.de; silke.hans@sowi.uni-goettingen.de;
+   soeren.carlson@uni-flensburg.de; daniel.drewski@fu-berlin.de
+FU German Research Foundation DFGGerman Research Foundation (DFG) [GE
+   991/13-1, GE 991/13-2]
+FX This article was written in the context of the project 'Transnational
+   Human Capital and Social Inequality', funded by the German Research
+   Foundation DFG (Project numbers GE 991/13-1 and GE 991/13-2). We thank
+   Laura Einhorn, Philipp Eisnecker, Kristina Herbst, Mira Mailer and
+   Svenja Kaiser for supporting us with the coding.
+NR 65
+TC 1
+Z9 1
+U1 0
+U2 12
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2017
+VL 68
+IS 1
+BP 25
+EP 44
+DI 10.5771/0038-6073-2017-1-25
+PG 20
+WC Sociology
+SC Sociology
+GA FJ4NO
+UT WOS:000412717400002
+DA 2021-03-31
+ER
+
+PT J
+AU Schropfer, A
+AF Schroepfer, Anton
+TI Fictionalizing & Speculation: Innovating between Science and Policy The
+   Case of Nanomedicine
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+AB Scientific actors are faced with one central problem of translation: there are different requirements on innovating, namely those of science and science policy, which scientific actors have to reconcile in a plausible way. Taking Nanomedicine as example this article shows how scientists mediate the political tension of Nanomedicine being both, a key technology and a potential risk for society at large. At the same time scientists have to fulfill the scientific deed of producing relevant knowledge for specific epistemic cultures. By means of ethnographic data about an EU funded project in the field of tissue engineering this article shows how the convergence of requirements of science and science policy on innovating is realized in research practice. Ethnographic observations draw on three research phases, which are defined as media of translation. In each of these media specific translational practices are necessary: addressing & re-formulation (proposal), hybridization & re-configuration (experiment), staging & reconstruction (publication). The article's methodological argument is that these practices are media-specific practices of fictionalizing and speculation. In today's regimes of innovating, becoming an actor of innovation with societal relevance seems to be possible, only if the conflictual balancing act between fictionalizing and speculation succeeds.
+C1 [Schroepfer, Anton] Tech Univ Munich, Friedrich Schiedel Lehrstuhl Wissensch Soziol, Marsstr 20-22, D-80335 Munich, Germany.
+RP Schropfer, A (corresponding author), Tech Univ Munich, Friedrich Schiedel Lehrstuhl Wissensch Soziol, Marsstr 20-22, D-80335 Munich, Germany.
+EM anton.schroepfer@tum.de
+NR 59
+TC 0
+Z9 0
+U1 0
+U2 5
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2017
+VL 68
+IS 1
+BP 45
+EP +
+DI 10.5771/0038-6073-2017-1-45
+PG 19
+WC Sociology
+SC Sociology
+GA FJ4NO
+UT WOS:000412717400003
+DA 2021-03-31
+ER
+
+PT J
+AU Wobbe, T
+   Renard, L
+   Muller, K
+AF Wobbe, Theresa
+   Renard, Lea
+   Mueller, Katja
+TI National and global concepts of gender in statistical and legal
+   classifications of work: A contribution from a comparability perspective
+   of 1882-1992
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+ID UNITED-STATES CENSUS; OCCUPATIONAL CLASSIFICATION; 19TH-CENTURY;
+   PATTERNS
+AB This contribution discusses the relevance of statistical and legal classification for shifting concepts of gender from the 1880 s to 1992. From a comparability perspective, the establishing of the modern meaning of "gainful employment", around 1900 within the national context, and its global transformation represent a distinctive procedure of ordering. The contribution is based on two micro studies exploring the classification and re-classification of family workers and of the "ban on women's night work". Within this context, the global emergence of "gainful employment" is discussed as a scheme of observation, while the transformation of gender takes place through transnational procedures of comparability. We argue that comparability forms a mechanism of globalization because it connects phenomena, which previously have been unconnected.
+C1 [Wobbe, Theresa; Renard, Lea] Univ Potsdam, Wirtsch & Sozialwissensch Fak, Lehrstuhl Geschlechtersoziol, August Bebel Str 89, D-14482 Potsdam, Germany.
+   [Renard, Lea] Univ Grenoble Alpes, PACTE, UMR 5194, F-38000 Grenoble, France.
+   [Mueller, Katja] Humboldt Univ, Inst Sozialwissensch, Arbeitsbereich Soziol Arbeit & Geschlechterverhal, Univ Str 3b,Raum 326, Berlin, Germany.
+RP Wobbe, T (corresponding author), Univ Potsdam, Wirtsch & Sozialwissensch Fak, Lehrstuhl Geschlechtersoziol, August Bebel Str 89, D-14482 Potsdam, Germany.
+EM theresa.wobbe@uni-potsdam.de; lea.renard@uni-potsdam.de;
+   Katja.mueller.8@hu-berlin.de
+NR 107
+TC 4
+Z9 4
+U1 0
+U2 1
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2017
+VL 68
+IS 1
+BP 63
+EP +
+DI 10.5771/0038-6073-2017-1-63
+PG 24
+WC Sociology
+SC Sociology
+GA FJ4NO
+UT WOS:000412717400004
+DA 2021-03-31
+ER
+
+PT J
+AU Neun, O
+AF Neun, Oliver
+TI The "duality" of science: Robert K. Merton and the uses of sociology
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+AB Robert K. Merton is regarded as the founder of the institutionalistic approach of sociology of science, in which he emphasizes the autonomy of academic research. This point of view, however, takes into account only part of his work. He also worked together with Paul L. Lazarsfeld in the Bureau of Applied Social Research" for a long time and published several applied studies during this time, the main topic being the effects of the mass media. In this connection he takes a close look at the uses of sociological knowledge, which in his opinion helps to solve important social problems. He also speaks of the "duality" of science, which in his eyes has a theoretical and a practical rationale. In the beginning of the 1970 s, however, this one-sided view of Merton developed and it hasn't changed until now.
+C1 [Neun, Oliver] Univ Kassel, Fachgrp Soziol, Fachbereich Gesellschaftswissensch 05, Nora Platiel Str 5, D-34127 Kassel, Germany.
+RP Neun, O (corresponding author), Univ Kassel, Fachgrp Soziol, Fachbereich Gesellschaftswissensch 05, Nora Platiel Str 5, D-34127 Kassel, Germany.
+EM Oliver.Neun@uni-kassel.de
+NR 137
+TC 2
+Z9 2
+U1 0
+U2 3
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2017
+VL 68
+IS 1
+BP 87
+EP +
+DI 10.5771/0038-6073-2017-1-87
+PG 23
+WC Sociology
+SC Sociology
+GA FJ4NO
+UT WOS:000412717400005
+DA 2021-03-31
+ER
+
+PT J
+AU Henkel, A
+AF Henkel, Anna
+TI Professional and/or design oriented?
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Editorial Material
+C1 [Henkel, Anna] Leuphana Univ Luneburg, Inst Soziol & Kulturorg, Kultur & Mediensoziol, Scharnhorststr 1, D-21335 Luneburg, Germany.
+RP Henkel, A (corresponding author), Leuphana Univ Luneburg, Inst Soziol & Kulturorg, Kultur & Mediensoziol, Scharnhorststr 1, D-21335 Luneburg, Germany.
+EM anna.henkel@leuphana.de
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2017
+VL 68
+IS 1
+BP 109
+EP 112
+DI 10.5771/0038-6073-2017-1-109
+PG 4
+WC Sociology
+SC Sociology
+GA FJ4NO
+UT WOS:000412717400006
+DA 2021-03-31
+ER
+
+PT J
+AU Staab, P
+   Sahr, A
+AF Staab, Philipp
+   Sahr, Aaron
+TI Society of Guests
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Editorial Material
+C1 [Staab, Philipp] Inst Geschichte & Zukunft Arbeit, Jakobstr 149, D-10969 Berlin, Germany.
+   [Sahr, Aaron] Hamburger Inst Sozialforsch, Mittelweg 36, D-20148 Hamburg, Germany.
+RP Staab, P (corresponding author), Inst Geschichte & Zukunft Arbeit, Jakobstr 149, D-10969 Berlin, Germany.
+EM staab@igza.org; aaron.sahr@his-online.de
+NR 4
+TC 0
+Z9 0
+U1 0
+U2 0
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2017
+VL 68
+IS 1
+BP 113
+EP 117
+DI 10.5771/0038-6073-2017-1-113
+PG 5
+WC Sociology
+SC Sociology
+GA FJ4NO
+UT WOS:000412717400007
+DA 2021-03-31
+ER
+
+PT J
+AU Fritsche, J
+AF Fritsche, Jana
+TI Officially, please?! Positions and Reflections of a Sociology between
+   General Public and Closed Society
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Editorial Material
+C1 [Fritsche, Jana] Ludwig Maximilians Univ Munchen, Inst Soziol, Konradstr 6, D-80801 Munich, Germany.
+RP Fritsche, J (corresponding author), Ludwig Maximilians Univ Munchen, Inst Soziol, Konradstr 6, D-80801 Munich, Germany.
+EM jana.fritsche@soziologie.uni-muenchen.de
+NR 6
+TC 0
+Z9 0
+U1 0
+U2 0
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2017
+VL 68
+IS 1
+BP 119
+EP 123
+DI 10.5771/0038-6073-2017-1-119
+PG 5
+WC Sociology
+SC Sociology
+GA FJ4NO
+UT WOS:000412717400008
+DA 2021-03-31
+ER
+
+PT J
+AU Vogt, V
+   Bandtel, M
+AF Vogt, Von Ludgera
+   Bandtel, Matthias
+TI New Potentials - New Contingencies. Political Actors' Presentation of
+   Self in Comedy Shows on German Television
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+AB In recent years, the media landscape in Germany has yielded a new genre that makes an impact on common forms of political communication: television programs which combine elements of traditional talkshows, satire, comedy, and gameshows. During the national election campaigns in 2013, programs like heute-show (ZDF), Pelzig halt sich (ZDF), Stuckrad-Barre (Tele 5), Absolute Mehrheit (Pro7), Circus Halligalli (Pro7), and tv total (Pro7) gained significantly in importance. This article presents the key findings of a qualitative research project. Problem Centered Interviews with politicians, the presenters, authors, and producers of popular satire programs serve to reconstruct political and media actors' different and partly conflicting logics of action. Hence, the heterogeneous forms of satire on German television are systemized from the perspective of the field. Additionally, the results indicate how political actors perceive the potentials and risks of appearances in political comedy shows. Different strategies of impression management are identified which politicians hold to be successful in dealing with contingent interactions.
+C1 [Vogt, Von Ludgera; Bandtel, Matthias] Berg Univ Wuppertal, Inst Soziol, Gausstr 20, D-42119 Wuppertal, Germany.
+RP Vogt, V (corresponding author), Berg Univ Wuppertal, Inst Soziol, Gausstr 20, D-42119 Wuppertal, Germany.
+EM lvogt@uni-wuppertal.de; bandtel@sowi.biz
+NR 29
+TC 0
+Z9 0
+U1 0
+U2 6
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2016
+VL 67
+IS 4
+BP 369
+EP +
+DI 10.5771/0038-6073-2016-4-369
+PG 20
+WC Sociology
+SC Sociology
+GA FA0YO
+UT WOS:000405162900001
+DA 2021-03-31
+ER
+
+PT J
+AU Heyen, VB
+AF Heyen, Von Nils B.
+TI Towards a technocratic biomedicine? Empirical insights into a medical
+   genetic practice
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+ID DISCRIMINATION; GERMANY
+AB It is a widespread assumption also within German-speaking social sciences that the geneticization of medicine directly leads to a biomedicine which is completely ruled by technology and has lost sight of the individual human being. For instance, it is argued that the patient would be more and more reduced to his "biomass" and the doctor's role would come closer and closer to the role of a "health engineer" or "biocrat". This paper deals with those observations or concerns and aims to show on the basis of a comprehensive qualitative study on the predictive genetic diagnostics and counseling practice in Germany that the image of a technocratic biomedicine rather distorts reality because the medical genetic doctors act not at all in a technocratic manner. Following an approach of sociology of professions, technocratic action here means (in terms of general action structures) the opposite of professional medical action. However, the analysis of recorded genetic counseling sessions and interviews with professionals also uncovers the existing entry points of technocratization. It becomes obvious that a technocratic medical practice would not be an immediate effect of genetic knowledge or biomedical technologies but the expression of a (always possible) technocratic handling of the new technologies by the medical genetic doctors. Whether the geneticization of medicine leads to a technocratic biomedicine or conversely to a sort of professionalized consulting medicine therefore remains to be seen
+C1 [Heyen, Von Nils B.] Fraunhofer Inst Syst & Innovat Forsch ISI, Breslauer Str 48, D-76139 Karlsruhe, Germany.
+RP Heyen, VB (corresponding author), Fraunhofer Inst Syst & Innovat Forsch ISI, Breslauer Str 48, D-76139 Karlsruhe, Germany.
+EM nils.heyen@isi.fraunhofer.de
+OI Heyen, Nils B./0000-0002-9354-1388
+NR 59
+TC 0
+Z9 0
+U1 0
+U2 2
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2016
+VL 67
+IS 4
+BP 389
+EP +
+DI 10.5771/0038-6073-2016-4-389
+PG 19
+WC Sociology
+SC Sociology
+GA FA0YO
+UT WOS:000405162900002
+DA 2021-03-31
+ER
+
+PT J
+AU Fick, V
+AF Fick, Von Patrick
+TI Why do the second and third migrant generation refrain from becoming
+   naturalized? The impact of transnational ties within the context of the
+   German nationality
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+ID SOCIAL-RELATIONS; IMMIGRANTS; IDENTITY; RIGHTS; ASSIMILATION; MIGRATION;
+   STATES; CROSS
+AB As a result of the formerly restrictive German nationality law, the second and third migrant generation is often not naturalized in spite of the existing liberal naturalization regime. The paper explores the relationship between various transnational ties (travel, remittances, identification, real estate property) with the country of origin and the absence from naturalization. The analyses are based on a survey of the most important migrant groups in Baden-Wuerttemberg, where also members of the third generation were interviewed followed by an elaborate screening process. One of the results show that not only does a significant proportion of the second and third generation continue to maintain various transnational ties but there is evidence that the quality of such relationships hardly decrease. In the analysis of the relationship between the absence from naturalization and transnational ties it is shown that each of these ties are related to a different extent to non-naturalization while group-specific differences in the effects occur. Therefore it is argued, that a more nuanced perspective of transnationalism is necessary, which questions the mechanisms of transnational ties for integration.
+C1 [Fick, Von Patrick] Univ Konstanz, Fachbereich Geschichte & Soziol, Univ Str 10, D-78457 Constance, Germany.
+RP Fick, V (corresponding author), Univ Konstanz, Fachbereich Geschichte & Soziol, Univ Str 10, D-78457 Constance, Germany.
+EM patrick.fick@uni-konstanz.de
+NR 69
+TC 0
+Z9 0
+U1 1
+U2 8
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2016
+VL 67
+IS 4
+BP 407
+EP +
+DI 10.5771/0038-6073-2016-4-407
+PG 25
+WC Sociology
+SC Sociology
+GA FA0YO
+UT WOS:000405162900003
+DA 2021-03-31
+ER
+
+PT J
+AU Beck, VTK
+AF Beck, Von Teresa Koloma
+TI Violence vertical bar Space. Recent debates and their contribution
+   towards spatialising the sociology of violence
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+AB This article discusses the relevance of space for the sociology of violence. The interest in the relation between violence and social spaces has been growing in recent years. But although being based on the conceptual and methodological innovations in violence sociology since the 1990 s, these discussions have taken place mainly in other disciplines. Employing notions such as spaces of violence (Gewaltraume) or ungoverned spaces history and human geography in particular have turned to the topic, which in the sociology of violence and conflict does not yet play a prominent role. The process of globalisation, however, leads to a multiplication of spatial references of (political) violence, raising the questions how these dynamics can be methodologically and theoretically captured. This contribution reviews researches analysing the relation between violence and space or place, identifying three main strands of discussion and reconstructing the different conceptualisations of (social) space within them. In a second step the implications and perspectives for violence sociology will be discussed. It will be argued that the latter would profit most by taking up works in which space is conceptualised not as a arrangement or order, but as an object of bodily and sensory experience.
+C1 [Beck, Von Teresa Koloma] Univ Bundeswehr Munchen, Inst Soziol & Volkswirtschaftslehre, Werner Heisenberg Weg 39, D-85577 Neubiberg, Germany.
+RP Beck, VTK (corresponding author), Univ Bundeswehr Munchen, Inst Soziol & Volkswirtschaftslehre, Werner Heisenberg Weg 39, D-85577 Neubiberg, Germany.
+EM tkb@unibw.de
+NR 77
+TC 0
+Z9 0
+U1 1
+U2 2
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2016
+VL 67
+IS 4
+BP 431
+EP +
+DI 10.5771/0038-6073-2016-4-431
+PG 20
+WC Sociology
+SC Sociology
+GA FA0YO
+UT WOS:000405162900004
+DA 2021-03-31
+ER
+
+PT J
+AU Gertenbach, L
+   Opitz, S
+   Tellmann, U
+AF Gertenbach, Lars
+   Opitz, Sven
+   Tellmann, Ute
+TI Bruno Latour's new political Sociology - On the Desideratum of a Debate
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+ID NATIONALISM
+C1 [Gertenbach, Lars] Univ Kassel, Fachbere Gesellsch Wissensch, Fachgebiet Soziol Theorie, Nora Platiel Str 5, D-34109 Kassel, Germany.
+   [Opitz, Sven] Philipps Univ Marburg, Inst Soziol, Ketzerbach 11, D-35032 Marburg, Germany.
+   [Tellmann, Ute] Univ Hamburg, Fak Wirtschafts & Sozialwissensch, Fachbere Sozialwissensch, Programmbere Soziol, Allende Pl 1, D-20146 Hamburg, Germany.
+RP Gertenbach, L (corresponding author), Univ Kassel, Fachbere Gesellsch Wissensch, Fachgebiet Soziol Theorie, Nora Platiel Str 5, D-34109 Kassel, Germany.
+EM lars.gertenbach@uni-kassel.de; sven.opitz@staff.uni-marburg.de;
+   ute.tellmann@wiso.uni-hamburg.de
+NR 48
+TC 0
+Z9 0
+U1 0
+U2 2
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2016
+VL 67
+IS 3
+BP 237
+EP 248
+DI 10.5771/0038-6073-2016-3-237
+PG 12
+WC Sociology
+SC Sociology
+GA EB1FU
+UT WOS:000387095800001
+DA 2021-03-31
+ER
+
+PT J
+AU Opitz, S
+AF Opitz, Sven
+TI New Collectivities: The Cosmopolitical in Bruno Latour and Ulrich Beck
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+ID RISK; CATASTROPHE; INSURANCE; SOCIETY
+AB Bruno Latour and Ulrich Beck draw on the notion of cosmopolitics for conceptualizing new forms of collectivity. This articles analyses how, in doing so, both authors conceive of the social and the political as co-constitutive. It shows that their approaches minor each other: According to Latour the fabrication of planetary collectivity in the context of Gaia hinges on the distinction between friend and enemy. He thus emphasizes a cosmopolitical constitution of the social. For Beck, new collectives emerge under the universalizing influence of world risks. As opposed to Latour, he states a social constitution of the cosmopolitical. At the same time, a reversal of this contrast can be observed sporadically: While Beck takes into account the possibility of antagonistic risk conflicts, Latour ponders over feedback mechanisms designed to redirect ecological effects back at those who have caused them. Such technoaesthetic procedures would generate the experience of collective connectedness in an earthly milieu. The paper shows that in each approach moral considerations play an important role in calibrating the oscillatory movement between a weak and a strong concept of the political.
+C1 [Opitz, Sven] Philipps Univ Marburg, Inst Soziol, Ketzerbach 11, D-35032 Marburg, Germany.
+RP Opitz, S (corresponding author), Philipps Univ Marburg, Inst Soziol, Ketzerbach 11, D-35032 Marburg, Germany.
+EM sven.opitz@staff.uni-marburg.de
+NR 51
+TC 1
+Z9 1
+U1 0
+U2 7
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2016
+VL 67
+IS 3
+BP 249
+EP +
+DI 10.5771/0038-6073-2016-3-249
+PG 19
+WC Sociology
+SC Sociology
+GA EB1FU
+UT WOS:000387095800002
+DA 2021-03-31
+ER
+
+PT J
+AU Werber, N
+AF Werber, Niels
+TI The Last K alpha tau epsilon chi omega nu or: The Evil of
+   Differentiation. Latour, Luhmann, Schmitt
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+AB Twenty years ago, Bruno Latour launched a fundamental polemic against the sociology of Niklas Luhmann. No contrast seemed to be greater than the discrepancy between laboratory studies and system-theory. However, my article not only demonstrates that Latour has increasingly adapted basic tenets of the sociological theory of differentiation, but that they are in fact indispensible for his political theology of nature. In spite of the ANT-rhetoric of interconnectedness, Latour develops a model of differentiated societal trajectories just in order to surmount these differentiations spectacularly in his speculations on Gaia. At crucial points, his dialectic of differentiation and dedifferentiation resorts to concepts of Carl Schmitt. The result is a political theology of the Anthropocene, which inherits Schmitt's decisionism and bellicism.
+C1 [Werber, Niels] Univ Siegen, Germanist Neuere Deutsch Literaturwissensch, Adolf Reichweinstr 2, D-57068 Siegen, Germany.
+RP Werber, N (corresponding author), Univ Siegen, Germanist Neuere Deutsch Literaturwissensch, Adolf Reichweinstr 2, D-57068 Siegen, Germany.
+EM werber@germanistik.uni-siegen.de
+NR 26
+TC 1
+Z9 1
+U1 2
+U2 4
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2016
+VL 67
+IS 3
+BP 267
+EP +
+DI 10.5771/0038-6073-2016-3-267
+PG 14
+WC Sociology
+SC Sociology
+GA EB1FU
+UT WOS:000387095800003
+DA 2021-03-31
+ER
+
+PT J
+AU Gertenbach, L
+AF Gertenbach, Lars
+TI Politics - Diplomacy - Decisionism. On the Political in the Recent Works
+   of Bruno Latour
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+ID ACTOR-NETWORK THEORY
+AB This article discusses the concept of the political in Bruno Latour's work. Given the numerous ambiguities and divergent interpretations regarding the significance of his political theory, the paper systematizes the various arguments of his more recent writings. The paper argues that Latour's argumentation revolves around three particular forms of the political: politics as a mode of existence, diplomacy and decisionism. At first the article deals with the Inquiry into Modes of Existence since it lays the groundwork for the identification of politics as a specific mode of existence. Subsequently, the second part discusses the relationship between diplomacy and politics as a mode of existence, whereas the third part concentrates on the relationship between diplomacy and decisionism. Although these three forms of the political are linked to different tasks, they are fundamentally intertwined. Hence, special attention is given to the tension between the cautious and considerate art of diplomacy and a more militant, bellicose decisionism associated with Carl Schmitt. The last part of the article discusses the ambiguities regarding the role of sociology and the distinction between politics and the political in Latour's recent works.
+C1 [Gertenbach, Lars] Univ Kassel, Fachbereich Gesellschaftswissensch, Fachgebiet Soziol Theorie, Nora Platiel Str 5, D-34109 Kassel, Germany.
+RP Gertenbach, L (corresponding author), Univ Kassel, Fachbereich Gesellschaftswissensch, Fachgebiet Soziol Theorie, Nora Platiel Str 5, D-34109 Kassel, Germany.
+EM lars.gertenbach@uni-kassel.de
+NR 65
+TC 1
+Z9 1
+U1 0
+U2 3
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2016
+VL 67
+IS 3
+BP 281
+EP +
+DI 10.5771/0038-6073-2016-3-281
+PG 19
+WC Sociology
+SC Sociology
+GA EB1FU
+UT WOS:000387095800004
+DA 2021-03-31
+ER
+
+PT J
+AU Staheli, U
+AF Staeheli, Urs
+TI The Right to Silence: From a Politics of Connectivity to a Politics of
+   Disconnectivity?
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+AB This article discusses the role of connectivity and disconnectivity in Latours political thought. The presupposition of Latours understanding of politics is the theoretical, political and normative valorization of connectivity. This article problematizes this valorization of connectivity by using acts of silence as a template to elucidate the political and theoretical problems that Latours' envisioning of the universal inclusion of new actants and their assembly into new collectivity has. The article argues that a non-representational notion of politics has to take seriously such political forms that seek to break with the imperative of connectivity and with the ideal to become a visible part of a network, assembly or collectivity. ANT's slogan "follow the actor" is not sufficient to trace such forms of politics that consists in fading away, hiding or falling silent.
+C1 [Staeheli, Urs] Univ Hamburg, Fak Wirtschafts & Sozialwissensch, Fachbereich Sozialwissensch, Programmbereich Soziol, Allende Pl 1, D-20146 Hamburg, Germany.
+RP Staheli, U (corresponding author), Univ Hamburg, Fak Wirtschafts & Sozialwissensch, Fachbereich Sozialwissensch, Programmbereich Soziol, Allende Pl 1, D-20146 Hamburg, Germany.
+EM urs.staeheli@wiso.uni-hamburg.de
+NR 31
+TC 3
+Z9 3
+U1 0
+U2 1
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2016
+VL 67
+IS 3
+BP 299
+EP +
+DI 10.5771/0038-6073-2016-3-299
+PG 14
+WC Sociology
+SC Sociology
+GA EB1FU
+UT WOS:000387095800005
+DA 2021-03-31
+ER
+
+PT J
+AU Laux, H
+AF Laux, Henning
+TI Hybrid Organisations. Political Challenges at the Interface between
+   Science and Biophysical Nature
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+AB This paper reconstructs for the first time Bruno Latour's multiple contributions in the area of political sociology with an integrative process model and an ecological guiding principle. On this basis, the crossing between politics, science and biophysical nature is specified through the concept of hybrid organisation. Finally, the empirical evidence is analysed by means of two case studies: The German Ethics Council and Climate Change Conference. The discussion makes apparent that the democratization of nature has already begun.
+C1 [Laux, Henning] Tech Univ Chemnitz, Schwerpunkt Soziol Theorien, Lehrstuhl Allgemeine Soziol, Thuringer Weg 9, D-09126 Chemnitz, Germany.
+RP Laux, H (corresponding author), Tech Univ Chemnitz, Schwerpunkt Soziol Theorien, Lehrstuhl Allgemeine Soziol, Thuringer Weg 9, D-09126 Chemnitz, Germany.
+EM Henning.Laux@soziologie.tu-chemnitz.de
+NR 35
+TC 2
+Z9 2
+U1 0
+U2 3
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2016
+VL 67
+IS 3
+BP 313
+EP +
+DI 10.5771/0038-6073-2016-3-313
+PG 20
+WC Sociology
+SC Sociology
+GA EB1FU
+UT WOS:000387095800006
+DA 2021-03-31
+ER
+
+PT J
+AU Tellmann, U
+AF Tellmann, Ute
+TI Political Ecology, Calculation and the De-Materialisation of
+   Thing-Politics
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+AB This article discusses the relation between political ecology and economy in Latour's writings. Its vantage point is the observation that Latour grants a prominent role to calculation, measuring and valuing for explicating what the matter of (cosmo-)politics is about. I argue that the prominence of calculation is an effect of a bad amalgamation between political ecology and economy. It produces theoretical effects that undermine Latours' own aims, notably the aim to think a material politics and a political materiality. The article reconstructs the conceptualization of political ecology in Bruno Latour's and Isabelle Stengers' works and traces how it gets connected to a notion of economization developed by ANT with problematic outcomes. It calls for a broader interpretation of the notion of the milieu in order to save Latours' thing-politics from the effects of dematerialization.
+C1 [Tellmann, Ute] Univ Hamburg, Fak Wirtschafts & Sozialwissensch, Fachbereich Sozialwissensch, Programmbereich Soziol, Allende Pl 1, D-20146 Hamburg, Germany.
+RP Tellmann, U (corresponding author), Univ Hamburg, Fak Wirtschafts & Sozialwissensch, Fachbereich Sozialwissensch, Programmbereich Soziol, Allende Pl 1, D-20146 Hamburg, Germany.
+EM ute.tellmann@wiso.uni-hamburg.de
+NR 44
+TC 0
+Z9 0
+U1 0
+U2 5
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2016
+VL 67
+IS 3
+BP 333
+EP +
+DI 10.5771/0038-6073-2016-3-333
+PG 20
+WC Sociology
+SC Sociology
+GA EB1FU
+UT WOS:000387095800007
+DA 2021-03-31
+ER
+
+PT J
+AU Hirschauer, S
+AF Hirschauer, Stefan
+TI The discrimination discourse and the gallantry model of female promotion
+   in academia
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+ID WOMEN
+AB The article examines the goals and premises as well as the measures and effects of universities' gender equality policies. In the light of numerous empirical studies which locate the main reasons for career disadvantages of women within the sphere of private life, the focus of gender equality policies on discrimination at an organisational level seems misplaced. This does not only explain the policies' lack of efficacy, it also increases the damage. The gallantry model of female promotion victimises and stigmatises women, puts men at a disadvantage and places appointment procedures under suspicion, questioning the professional neutrality and endangering the social acceptance of such procedures. As with other social technologies, academic gender equality policy has become part of the very problem it is trying to solve. This problem can only be alleviated by replacing the paternalistic discourse of discrimination with a compensatory balancing of unequally distributed burdens within families.
+C1 [Hirschauer, Stefan] Johannes Gutenberg Univ Mainz, Inst Soziol, Campus Johannes Gutenberg Univ Mainz, D-55128 Mainz, Germany.
+RP Hirschauer, S (corresponding author), Johannes Gutenberg Univ Mainz, Inst Soziol, Campus Johannes Gutenberg Univ Mainz, D-55128 Mainz, Germany.
+EM hirschau@uni-mainz.de
+NR 42
+TC 3
+Z9 3
+U1 0
+U2 11
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2016
+VL 67
+IS 2
+BP 119
+EP +
+DI 10.5771/0038-6073-2016-2-119
+PG 18
+WC Sociology
+SC Sociology
+GA DY2WM
+UT WOS:000384952800001
+DA 2021-03-31
+ER
+
+PT J
+AU Vietze, F
+AF Vietze, Florian
+TI Party Media Agenda-Setting: The Parties' Influence on the Media
+   Discourse about Social Justice in Zeit and Spiegel since 1946
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+AB This paper examines the impact political parties have on the media coverage about social justice. First, it shows that parties are cited and named more often in articles about social justice if they also focus on social justice in their election programs. Secondly, it shows that by addressing the issue parties influence the understanding of social justice in the media. These findings allow the conclusion that media discourses about social justice are heavily influenced by political parties. Thus, the perception and legitimation of social inequality depends largely on whether the parties concentrate on social justice and which interpretations of social justice the parties place in the media. This paper uses qualitative content analysis of election programs of the Party Manifesto Project and a quantitative analysis of all articles the German newspapers Die Zeit and Der Spiegel have published since 1946. The media coverage is analysed by co-occurrence analysis.
+C1 [Vietze, Florian] Univ Marburg, Inst Soziol, Ketzerbach 11, D-35037 Marburg, Germany.
+RP Vietze, F (corresponding author), Univ Marburg, Inst Soziol, Ketzerbach 11, D-35037 Marburg, Germany.
+EM florian.vietze@staff.uni-marburg.de
+NR 58
+TC 0
+Z9 0
+U1 2
+U2 6
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2016
+VL 67
+IS 2
+BP 137
+EP +
+DI 10.5771/0038-6073-2016-2-137
+PG 23
+WC Sociology
+SC Sociology
+GA DY2WM
+UT WOS:000384952800002
+DA 2021-03-31
+ER
+
+PT J
+AU Weinbach, C
+AF Weinbach, Christine
+TI Limited Inclusion as the General Case: Ascriptive Person Categories in
+   the Political System of the Functional Differentiated Society
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+ID WELFARE-STATE; REGULATIONS; EXCLUSION; FRANCE
+AB The present article asks from the perspective of differentiation theory for the function of ascriptive person categories within the political system of the functionally differentiated society. For this purpose it takes the Federal German as a case study. The article starts with the fact of money dependence of organisations and that this leads to the generally limited inclusion of the individuals into the functional systems, which are life course relevant. The national welfare state refers to the limited inclusion and regulates excess to the labour market via the ascriptive person categories national affiliation and gender, and by this it produces own modes of limited inclusion. The Europeanised welfare state expands the excess to the labour market. Simultaneously it replaces the national person categories by the person category of the rational actor with individual agency who puts his or her own willingness into the contract logics of labour marked and activating welfare state. Despite all differences between the national and the Europeanised welfare state the article conceives ascriptive person categories as normative structures of a secondary order formation which is slot between the levels of functional and organisational systems. On this secondary order level categories of social inequality are reproduced.
+C1 [Weinbach, Christine] Univ Potsdam, Wirtschafts & Sozialwissensch Fak, August Bebel Str 89, D-14482 Potsdam, Germany.
+   [Weinbach, Christine] Univ Potsdam, Allgemeine Soziol, August Bebel Str 89, D-14482 Potsdam, Germany.
+RP Weinbach, C (corresponding author), Univ Potsdam, Wirtschafts & Sozialwissensch Fak, August Bebel Str 89, D-14482 Potsdam, Germany.; Weinbach, C (corresponding author), Univ Potsdam, Allgemeine Soziol, August Bebel Str 89, D-14482 Potsdam, Germany.
+EM weinbach@uni-potsdam.de
+NR 69
+TC 0
+Z9 0
+U1 0
+U2 5
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2016
+VL 67
+IS 2
+BP 159
+EP +
+DI 10.5771/0038-6073-2016-2-159
+PG 20
+WC Sociology
+SC Sociology
+GA DY2WM
+UT WOS:000384952800003
+DA 2021-03-31
+ER
+
+PT J
+AU Kracke, N
+AF Kracke, Nancy
+TI Overeducation of University Graduates in Germany. The effect of Gender,
+   Migration Status and Family Background and their Interactions
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+ID EDUCATION; LABOR; WORK; INEQUALITY; MISMATCH; PROBIT; LOGIT; WOMEN
+AB The present paper explores the risk of academics in Germany to be overeducated. The focus is on the impact of the characteristics of gender, migration status and family background and their interdependencies. Overeducation exists if the formal educational level of a person is higher than that required for the occupation held on the labour market. Based on data from the survey among adults of the National Educational Panel Study (NEPS) it can be argued that women, migrants and persons with an educationally disadvantaged family background have a higher risk of being overeducated than the respective comparison groups. Taking into account the interactions of these three factors, there is no particular disadvantage for female migrants compared to male migrants. Also the family background does not increase (or decrease) significantly the risk of being overeducated for migrants. However, the impact of the family background does vary with gender: The risk of being overeducated increases multiplicatively for women who have an educationally disadvantaged family background. The most privileged group are men with academically educated parents, regardless of whether or not a migration background exists.
+C1 [Kracke, Nancy] Forsch Bere Bldg & Erwerbsverlaufe, IAB, Weddigenstr 20-22, D-90478 Nurnberg, Germany.
+RP Kracke, N (corresponding author), Forsch Bere Bldg & Erwerbsverlaufe, IAB, Weddigenstr 20-22, D-90478 Nurnberg, Germany.
+EM Nancy.Kracke@iab.de
+NR 96
+TC 1
+Z9 1
+U1 0
+U2 16
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2016
+VL 67
+IS 2
+BP 177
+EP +
+DI 10.5771/0038-6073-2016-2-177
+PG 29
+WC Sociology
+SC Sociology
+GA DY2WM
+UT WOS:000384952800004
+DA 2021-03-31
+ER
+
+PT J
+AU Barthe, Y
+   de Blic, D
+   Heurtin, JP
+   Lagneau, E
+   Lemieux, C
+   Linhardt, D
+   de Bellaing, CM
+   Remy, C
+   Trom, D
+AF Barthe, Yannick
+   de Blic, Damien
+   Heurtin, Jean-Philippe
+   Lagneau, Eric
+   Lemieux, Cyril
+   Linhardt, Dominique
+   de Bellaing, Cedric Moreau
+   Remy, Catherine
+   Trom, Danny
+TI Pragmatic Sociology: A User's Guide
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+AB During the last thirty years, "pragmatic sociology" has produced a considerable amount of empirical investigations relating to all areas of social life. In accordance with the theoretical and methodological assumptions pragmatic sociology intended to defend, it has developed significantly new ways to conduct inquiries, collect data, explore their fields, think through the cases and controversies it used as entry points to explore the social order and its always problematic reproduction. The aim of this paper is to characterize the pragmatic style in sociology by highlighting its methodological requisites and practical implications in the conduct of research.
+C1 [Barthe, Yannick; Linhardt, Dominique; Remy, Catherine] CNRS, Inst Marcel Mauss, Lab Interdisciplinaire Etud Reflexivites, 10 Rue Monsieur Le Prince, F-75006 Paris, France.
+   [de Blic, Damien] Univ Paris 08, Ctr Rech Sociol & Polit Paris, Lab Theories Polit, 59-61 Rue Pouchet, F-75849 Paris 17, France.
+   [Heurtin, Jean-Philippe] Univ Strasbourg, Govt Europe, Societes, Acteurs,CS 50008, 5 Allee Gen Rouvillois, F-67083 Strasbourg, France.
+   [Lagneau, Eric] Inst Marcel Mauss, Lab Interdisciplinaire Etud Reflexivites, 10 Rue Monsieur Le Prince, F-75006 Paris, France.
+   [Lemieux, Cyril] Ecole Hautes Etud Sci Soci, Inst Marcel Mauss, Lab Interdisciplinaire Etudes Reflexivites, 10 Rue Monsieur Le Prince, F-75006 Paris, France.
+   [de Bellaing, Cedric Moreau] Ecole Normale Super, Inst Marcel Mauss, Lab Interdisciplinaire Etudes Reflexivites, 10 Rue Monsieur Le Prince, F-75006 Paris, France.
+   [Trom, Danny] CNRS, Ctr Rech Francais Jerusalem, BP 547 3,Rue Shimshon, IL-9100401 Jerusalem, Israel.
+RP Barthe, Y (corresponding author), CNRS, Inst Marcel Mauss, Lab Interdisciplinaire Etud Reflexivites, 10 Rue Monsieur Le Prince, F-75006 Paris, France.
+EM yannick.barthe@ehess.fr; damien.deblic@gmail.com; jpheurtin@unistra.fr;
+   eric.lagneau@afp.com; cyril.lemieux@ehess.fr;
+   dominique.linhardt@ehess.fr; cedric.moreau.de.bellaing@ens.fr;
+   catherine.remy@ehess.fr; danny.trom@ehess.fr
+NR 144
+TC 0
+Z9 0
+U1 0
+U2 0
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2016
+VL 67
+IS 2
+BP 205
+EP +
+DI 10.5771/0038-6073-2016-2-205
+PG 28
+WC Sociology
+SC Sociology
+GA DY2WM
+UT WOS:000384952800005
+DA 2021-03-31
+ER
+
+PT J
+AU Philipps, A
+AF Philipps, Axel
+TI The problem of the meaning and the diverse forms of pictures in
+   sociology. The relevance of material and media-specific formation
+   aspects in reconstructive picture interpretation
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+ID STREET ART
+AB In the field of German sociology, a number of reconstructive procedures for picture interpretation have been established. These methods primarily focus on photographs. Hereby, though, the socially produced diversity as well as differences in material and alternative media-specific formation have only been partially taken into account. Thus, the paper introduces a concept of pictures as crafted forms and shows how to systematically incorporate material and media-specific formation aspects in reconstructive picture interpretation. Empirically, advertisement and prehistoric hand stencils will be discussed.
+C1 [Philipps, Axel] Leibniz Univ Hannover, Schneiderberg 50, D-30167 Hannover, Germany.
+RP Philipps, A (corresponding author), Leibniz Univ Hannover, Schneiderberg 50, D-30167 Hannover, Germany.
+EM a.philipps@ish.uni-hannover.de
+RI Philipps, Axel/D-4673-2011
+OI Philipps, Axel/0000-0003-0834-6025
+NR 66
+TC 1
+Z9 1
+U1 0
+U2 3
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2016
+VL 67
+IS 1
+BP 5
+EP +
+DI 10.5771/0038-6073-2016-1-5
+PG 19
+WC Sociology
+SC Sociology
+GA DS1TK
+UT WOS:000380383400001
+DA 2021-03-31
+ER
+
+PT J
+AU Graf, A
+AF Graf, Angela
+TI Elites in the academic Field in Germany - Social Profile and Histories
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+ID SITUATION; SCIENCE; REASON
+C1 [Graf, Angela] Tech Univ Munich, Arcisstr 21, D-80333 Munich, Germany.
+RP Graf, A (corresponding author), Tech Univ Munich, Arcisstr 21, D-80333 Munich, Germany.
+EM angela.graf@tum.de
+NR 55
+TC 1
+Z9 1
+U1 1
+U2 6
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2016
+VL 67
+IS 1
+BP 23
+EP +
+DI 10.5771/0038-6073-2016-1-23
+PG 21
+WC Sociology
+SC Sociology
+GA DS1TK
+UT WOS:000380383400002
+DA 2021-03-31
+ER
+
+PT J
+AU Hirschle, J
+   Kleiner, TM
+AF Hirschle, Jochen
+   Kleiner, Tuuli-Marja
+TI Handed down and commodified Forms of social Participation
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+ID SECULARIZATION
+C1 [Hirschle, Jochen] Goethe Univ Frankfurt, Inst Soziol, Theodor W Adorno Pl 6, D-60629 Frankfurt, Germany.
+   [Kleiner, Tuuli-Marja] Fernuniv, Inst Polit Wissensch, Univ Str 33, D-58084 Hagen, Germany.
+RP Hirschle, J (corresponding author), Goethe Univ Frankfurt, Inst Soziol, Theodor W Adorno Pl 6, D-60629 Frankfurt, Germany.
+EM hirschle@soz.uni-frankfurt.de; tuuli-marja.kleiner@fernuni-hagen.de
+NR 49
+TC 0
+Z9 0
+U1 0
+U2 2
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2016
+VL 67
+IS 1
+BP 43
+EP +
+DI 10.5771/0038-6073-2016-1-43
+PG 24
+WC Sociology
+SC Sociology
+GA DS1TK
+UT WOS:000380383400003
+DA 2021-03-31
+ER
+
+PT J
+AU Gruttner, M
+   Moczall, A
+   Wolff, J
+AF Gruettner, Michael
+   Moczall, Andreas
+   Wolff, Joachim
+TI Sanctions in activating Labor Market Regimes and social Exclusion: A
+   quantitative Analysis
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+ID GERMANY; INTEGRATION; SENSE
+C1 [Gruettner, Michael] Deutsch Zentrum Hsch & Wissensch Forsch, Lange Laube 12, D-30159 Hannover, Germany.
+   [Moczall, Andreas; Wolff, Joachim] IAB, Regensburger Str 104, D-90478 Nurnberg, Germany.
+RP Gruttner, M (corresponding author), Deutsch Zentrum Hsch & Wissensch Forsch, Lange Laube 12, D-30159 Hannover, Germany.
+EM gruettner@dzhw.eu; Andreas.Moczall@iab.de; Joachim.Wolff@iab.de
+NR 60
+TC 3
+Z9 3
+U1 0
+U2 2
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2016
+VL 67
+IS 1
+BP 67
+EP +
+DI 10.5771/0038-6073-2016-1-67
+PG 25
+WC Sociology
+SC Sociology
+GA DS1TK
+UT WOS:000380383400004
+DA 2021-03-31
+ER
+
+PT J
+AU Brichzin, J
+AF Brichzin, Jenni
+TI Parliamentary Practice - The State of Research in the central
+   Institution of Democracy
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA German
+DT Article
+C1 [Brichzin, Jenni] Univ Wurzburg, Inst Polit Wissensch & Soziol, Wittelsbacherpl 1, D-97074 Wurzburg, Germany.
+RP Brichzin, J (corresponding author), Univ Wurzburg, Inst Polit Wissensch & Soziol, Wittelsbacherpl 1, D-97074 Wurzburg, Germany.
+EM Jennifer.brichzin@uni-wuerzburg.de
+NR 107
+TC 3
+Z9 3
+U1 0
+U2 0
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2016
+VL 67
+IS 1
+BP 91
+EP +
+DI 10.5771/0038-6073-2016-1-91
+PG 24
+WC Sociology
+SC Sociology
+GA DS1TK
+UT WOS:000380383400005
+DA 2021-03-31
+ER
+
+PT J
+AU Latour, B
+   Gertenbach, L
+   Opitz, S
+   Tellmann, U
+AF Latour, Bruno
+   Gertenbach, Lars
+   Opitz, Sven
+   Tellmann, Ute
+TI There is no Earth corresponding to the Globe
+SO SOZIALE WELT-ZEITSCHRIFT FUR SOZIALWISSENSCHAFTLICHE FORSCHUNG UND
+   PRAXIS
+LA English
+DT Editorial Material
+NR 18
+TC 0
+Z9 0
+U1 0
+U2 6
+PU NOMOS VERLAGSGESELLSCHAFT MBH & CO KG
+PI BADEN-BADEN
+PA WALDSEESTR 3 5, BADEN-BADEN, 76530, GERMANY
+SN 0038-6073
+J9 SOZ WELT
+JI Sozial Welt-Zeit. Sozialwiss. Forsch. Praxis
+PY 2016
+VL 67
+IS 3
+BP 353
+EP 363
+DI 10.5771/0038-6073-2016-3-353
+PG 11
+WC Sociology
+SC Sociology
+GA EB1FU
+UT WOS:000387095800008
+DA 2021-03-31
+ER
+
+EF
