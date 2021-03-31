@@ -2,6 +2,7 @@ library(tidyverse)
 library(bibliometrix)
 library(tidytext)
 library(ggthemes)
+library(cowplot)
 
 ################
 load("data/analysis/bib_records_supp.RData")
@@ -37,7 +38,7 @@ yr_term_counts <- term_counts %>%
             year_total= min(year_total)) %>%
   na.omit()
 
-ggplot(yr_term_counts, aes(year, sum_out / year_total, group=1)) +
+mobouts <- ggplot(yr_term_counts, aes(year, sum_out / year_total, group=1)) +
   geom_line() +
   xlab("Year") +
   ylab("% outcome-related words") +
@@ -45,6 +46,7 @@ ggplot(yr_term_counts, aes(year, sum_out / year_total, group=1)) +
                      expand = c(0, 0), limits = c(0, NA)) +
   theme_tufte(base_family = "Helvetica")
 
+ggsave("figures/mobout.png", width=400, height = 300, dpi=300, units="mm")
 
 # International soc.
 
@@ -110,7 +112,7 @@ yr_term_counts <- term_counts %>%
                    year_total= min(year_total)) %>%
   na.omit()
 
-yr_term_counts %>%
+g3all <- yr_term_counts %>%
   filter(year <= 2020) %>%
   ggplot(aes(year, (sum_p / year_total) * 100)) +
   geom_point(alpha = 0.8) +
@@ -127,3 +129,53 @@ yr_term_counts %>%
   theme_tufte(base_family = "Helvetica") +
   theme(axis.text = element_text(size = 15),
         axis.title = element_text(size = 15))
+
+
+
+MALL <- M_all_supp %>%
+  filter(!is.na(AB),!is.na(PY), 
+         SO %in% npjournals)
+
+MALL$pword <- as.integer(grepl(pwords, 
+                               x = MALL$AB, ignore.case = T))
+
+MALLsums <- MALL %>%
+  dplyr::mutate(article = 1) %>%
+  dplyr::group_by(PY) %>%
+  dplyr::summarise(sum_particles = sum(pword),
+                   pct_particles = (sum(pword) / sum(article)) * 100)
+
+g3allsums <- MALLsums %>%
+  filter(PY <= 2020) %>%
+  ggplot() +
+  geom_bar(aes(PY, pct_particles), stat = "identity") +
+  xlab("Year") +
+  ylab("% protest articles") +
+  ggtitle("") +
+  theme_tufte(base_family = "Helvetica") +
+  theme(axis.text = element_text(size = 15),
+        axis.title = element_text(size = 15))
+
+
+g <- plot_grid(g3all,
+               g3allsums,
+               nrow = 2, labels = "AUTO")
+g <-
+  add_sub(
+    g,
+    "International sociology journals",
+    x = 0.5,
+    hjust = 0.5,
+    size = 20,
+    fontface = "bold"
+  )
+
+png(
+  "figures/isjplot.png",
+  width = 400,
+  height = 300,
+  units = 'mm',
+  res = 300
+)
+plot_grid(g, nrow = 1, labels = "")
+dev.off()

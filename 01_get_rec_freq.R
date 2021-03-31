@@ -145,7 +145,6 @@ g1 <-
     size = 20,
     fontface = "bold"
   )
-plot_grid(g, g1, labels = "AUTO", nrow = 2)
 
 png(
   "figures/absplot.png",
