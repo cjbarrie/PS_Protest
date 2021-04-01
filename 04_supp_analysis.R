@@ -10,13 +10,20 @@ load("data/analysis/bib_records_supp.RData")
 journals <- unique(M_all_supp$SO)
 pjournals <- journals[c(5, 9)]
 npjournals <- setdiff(journals, pjournals)
+mpjournals <- journals[c(5)] #only Moby
+
+outmob <- M_all_supp %>% 
+  filter(SO %in% mpjournals) %>%
+  select(AU, AB, TI, SO, PY, ID) %>%
+  mutate(kwd = tolower(ID)) %>%
+  filter(str_detect(kwd, "\\battitudes\\b|\\bconsequences\\b|\\boutcomes\\b|\\bpublic-opinion\\b|\\bimpact\\b"))
 
 
-# Moby and SMS
+# Moby
 
 tidy_kwds <- M_all_supp %>% 
   select(AU, TI, SO, PY, ID) %>%
-  filter(SO %in% pjournals) %>%
+  filter(SO %in% mpjournals) %>%
   mutate(kwd = tolower(ID)) %>%
   unnest_tokens(word, kwd, token = stringr::str_split, pattern = "; ")
 
