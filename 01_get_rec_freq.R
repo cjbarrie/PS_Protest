@@ -69,7 +69,7 @@ for (i in seq_along(journals_list)) {
       color = "red",
       alpha = .15
     ) +
-    ylim(0, .25) +
+    ylim(-.05, .25) +
     xlab("Year") +
     ylab("% protest words in journal abstracts") +
     ggtitle("") +

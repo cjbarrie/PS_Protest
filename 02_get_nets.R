@@ -51,7 +51,7 @@ g1
 #get graphml file for Gephi
 write.graph(g1, "data/output/prot.graphml", format = "graphml")
 
-#another look at keyword frequency
+#look at keyword frequency
 #here i take all keywords in polisci then soc., I filter by lowest frequency of outcome word (3 inPS; 7 in soc.),
 #then denominate by total remaining keywords in dataframe to get meaasure of frequency that can compare between soc. and PS.
 
@@ -147,7 +147,7 @@ cmat <-
     binary = TRUE
   )
 topSOC <-
-  as.data.frame(sort(Matrix::colSums(cmat), decreasing = TRUE)[1:20])
+  as.data.frame(sort(Matrix::colSums(cmat), decreasing = TRUE)[1:2])
 write.csv(topSOC, "data/output/topSOC.csv", row.names = T)
 
 
@@ -164,3 +164,28 @@ topb <- cbind(topSOC, topPS)
 print(xtable(topb, type = "latex", digits = 0), file = "data/output/topb.tex")
 print(xtable(topSOC, type = "latex", digits = 0), file = "data/output/topsoc.tex")
 print(xtable(topPS, type = "latex", digits = 0), file = "data/output/topps.tex")
+
+
+
+tidy_kwds <- M_all_supp %>% 
+  select(AU, TI, SO, PY, ID) %>%
+  filter(SO %in% pjournals) %>%
+  mutate(kwd = tolower(ID)) %>%
+  unnest_tokens(word, kwd, token = stringr::str_split, pattern = "; ")
+
+term_counts <- tidy_kwds %>%
+  dplyr::group_by(PY) %>%
+  dplyr::count(word, sort = TRUE)
+
+term_counts$outword <- as.integer(grepl("\\battitudes\\b|\\bconsequences\\b|\\boutcomes\\b|\\bpublic-opinion\\b|\\bimpact\\b", 
+                                        x = term_counts$word))
+
+outsoc <- MsocALL %>% 
+  select(AU, TI, SO, PY, ID) %>%
+  mutate(kwd = tolower(ID)) %>%
+  filter(str_detect(kwd, "\\battitudes\\b|\\bconsequences\\b|\\boutcomes\\b|\\bpublic-opinion\\b|\\bimpact\\b"))
+ 
+outps <- MpsALL %>% 
+  select(AU, TI, SO, PY, ID) %>%
+  mutate(kwd = tolower(ID)) %>%
+  filter(str_detect(kwd, "\\battitudes\\b|\\bconsequences\\b|\\boutcomes\\b|\\bpublic-opinion\\b|\\bimpact\\b"))
