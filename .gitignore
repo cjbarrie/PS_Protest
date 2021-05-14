@@ -7,4 +7,4 @@
 99_cuttings.R
 other
 data/tseries/*
-.DS_Store
+*.DS_Store
