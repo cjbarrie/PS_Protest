@@ -1,2 +1,2 @@
 # PS_Protest
-Repo for bibliometric analyses of protest research
+Repo for "Political Sociology in a Time of Protest." *Current Sociology*.

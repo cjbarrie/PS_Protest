@@ -6,3 +6,4 @@
 .Rproj.user
 99_cuttings.R
 other
+data/tseries/*
