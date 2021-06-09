@@ -86,9 +86,10 @@ allkeyws$Category[rownames(allkeyws) %in% c("ATTITUDES",
                                             "OUTCOMES",
                                             "PUBLIC-OPINION",
                                             "IMPACT")] <- "Outcomes"
-cbbPalette <- c(Outcomes = "red", `Non-outcomes` = "grey80")
 
-alpha <- ifelse(allkeyws$Category == "Outcomes", 0.9, 0.65)
+cbbPalette <- c(Outcomes = "red", `Non-outcomes` = "grey20")
+
+alpha <- ifelse(allkeyws$Category == "Outcomes", 0.9, 0.6)
 
 g2 <- ggplot(allkeyws, aes(freqps, freqsoc)) +
   geom_point(aes(color = Category), data = allkeyws[allkeyws$Category == "Outcomes",]) +
@@ -99,7 +100,7 @@ g2 <- ggplot(allkeyws, aes(freqps, freqsoc)) +
   geom_abline(intercept = 0) +
   geom_label_repel(
     label = rownames(allkeyws),
-    color = ifelse(allkeyws$Category == "Outcomes", "red", "grey80"),
+    color = ifelse(allkeyws$Category == "Outcomes", "red", "grey20"),
     force = 10,
     alpha = alpha
   ) +
